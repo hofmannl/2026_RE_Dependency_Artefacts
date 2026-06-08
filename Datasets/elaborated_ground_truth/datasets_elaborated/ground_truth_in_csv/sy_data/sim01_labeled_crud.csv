@@ -1,0 +1,161 @@
+﻿story|action|classified_action
+As a user, I want to sign up for a new account|sign up|c
+As a project manager, I want to establish a new project|establish|c 
+As an administrator, I want to provision a new user profile|provision|c 
+As a customer, I want to file a support ticket|file|c 
+As a user, I want to generate a report|generate|c 
+As an editor, I want to compose a new article|compose|c 
+As a developer, I want to instantiate a new service|instantiate|c 
+As a team leader, I want to form a new group|form|c 
+As a user, I want to register an account|register|c 
+As a customer, I want to place an order|place|c 
+As an administrator, I want to issue a new access token|issue|c
+As a user, I want to add a new address|add|c 
+As a moderator, I want to originate a new discussion thread|originate|c 
+As a teacher, I want to set up a new course|set up|c  
+As a user, I want to upload a file|upload|c 
+As a developer, I want to spawn a new instance|spawn|c 
+As a manager, I want to launch a new campaign|launch|c 
+As a user, I want to submit a form|submit|c 
+As a system, I want to produce a daily summary|produce|c 
+As an administrator, I want to allocate a new workspace|allocate|c 
+As a user, I want to book a calendar event|book|c 
+As a designer, I want to craft a new template|craft|c  
+As a developer, I want to initialize a database|initialize|c 
+As a user, I want to post a message|post|c 
+As an administrator, I want to enroll a new user|enroll|c 
+As a user, I want to record a new expense|record|c  
+As a project manager, I want to schedule a new task|schedule|c 
+As a user, I want to curate a playlist|curate|c 
+As a system, I want to log a new event|log|c  
+As an administrator, I want to deploy a new environment|deploy|c 
+As a user, I want to start a new conversation|start|c 
+As a developer, I want to construct a new object|construct|c 
+As a user, I want to enter a new contact|enter|c 
+As an administrator, I want to assign a new role|assign|c 
+As a user, I want to draft a new message|draft|c 
+As a team leader, I want to organize a new meeting|organize|c 
+As a user, I want to create a bookmark|create|c 
+As a developer, I want to compile a new build|compile|c 
+As a customer, I want to initiate a return request|initiate|c 
+As an administrator, I want to enact a new policy|enact|c 
+As a user, I want to peruse my profile|peruse|r
+As a customer, I want to see my order history|see|r
+As an administrator, I want to scrutinize system logs|scrutinize|r
+As a project manager, I want to survey the project timeline|survey|r
+As a user, I want to glance at my notifications|glance at|r
+As a support agent, I want to assess a ticket|assess|r
+As a user, I want to look through messages|look through|r
+As a manager, I want to analyze performance reports|analyze|r
+As a user, I want to check out available products|check out|r
+As an administrator, I want to oversee user activities|oversee|r
+As a user, I want to access a document|access|r
+As a team member, I want to consult the project notes|consult|r
+As a user, I want to display my saved items|display|r
+As a developer, I want to trace application logs|trace|r
+As a user, I want to preview an image|preview|r
+As a moderator, I want to screen reported posts|screen|r
+As a user, I want to look up a contact|look up|r
+As an administrator, I want to monitor system status|monitor|r
+As a customer, I want to track my shipment|track|r
+As a user, I want to explore categories|explore|r
+As a manager, I want to evaluate sales data|evaluate|r
+As a user, I want to verify my account balance|verify|r
+As a support agent, I want to read through a conversation history|read through|r
+As a user, I want to reference my calendar|reference|r
+As an administrator, I want to check configuration settings against the security baseline|check|r
+As a user, I want to browse through my photo gallery|browse through|r
+As a developer, I want to observe system metrics|observe|r
+As a user, I want to open my saved draft|open|r
+As a moderator, I want to probe flagged content|probe|r
+As a technician, I want to ascertain the current system status|ascertain|r
+As an administrator, I want to examine access records|examine|r
+As a user, I want to scan my inbox|scan|r
+As a manager, I want to study team performance charts|study|r
+As a user, I want to look over my recent activity|look over|r
+As a developer, I want to inspect API responses|inspect|r
+As a user, I want to review my saved preferences|review|r
+As a support agent, I want to check a user profile|check|r
+As a user, I want to view my loyalty points|view|r
+As an administrator, I want to audit permission assignments|audit|r
+As a user, I want to read the terms of service|read|r
+As a user, I want to polish my profile information|polish|u
+As a customer, I want to alter my delivery address|alter|u
+As an administrator, I want to realign user permissions|realign|u
+As a project manager, I want to reschedule the project deadline|reschedule|u
+As a user, I want to revamp my saved draft|revamp|u
+As a user, I want to correct my phone number|correct|u
+As a manager, I want to reforecast the sales forecast|reforecast|u
+As a user, I want to retitle a file|retitle|u
+As an administrator, I want to reconfigure system settings|reconfigure|u
+As a user, I want to replace my profile picture|replace|u
+As a team member, I want to redefine task details|redefine|u
+As a user, I want to renew my password|renew|u
+As a developer, I want to refactor a module|refactor|u
+As a user, I want to toggle my notification preferences|toggle|u
+As a moderator, I want to alter post visibility settings|alter|u
+As a user, I want to rectify my contact information|rectify|u
+As an administrator, I want to restructure role definitions|restructure|u
+As a customer, I want to amend my order details|amend|u
+As a support agent, I want to recalibrate ticket details|recalibrate|u
+As a user,I want to customize my dashboard layout|customize|u
+As a manager, I want to reframe team goals|reframe|u
+As a user, I want to switch my subscription plan|switch|u
+As a support agent, I want to reprioritize ticket priority|reprioritize|u
+As a user, I want to rearrange my calendar event|rearrange|u
+As an administrator, I want to reassign a role|reassign|u
+As a user, I want to refine privacy settings|refine|u
+As a developer, I want to optimize configuration parameters|optimize|u
+As a user, I want to overhaul a saved template|overhaul|u
+As a moderator, I want to retouch a post title|retouch|u
+As a user, I want to refresh my payment details|refresh|u
+As an administrator, I want to modify system thresholds|modify|u
+As a user, I want to rename a folder|rename|u
+As a manager, I want to reallocate budget allocations|reallocate|u
+As a user, I want to correct a typo in my message|correct|u
+As a developer, I want to tune application settings|tune|u
+As a user, I want to edit my saved address|edit|u
+As a support agent, I want to revise customer notes|revise|u
+As a user, I want to change my username|change|u
+As an administrator, I want to update security policies|update|u
+As a user, I want to adjust reminder times|adjust|u
+As an administrator, I want to expunge a user account permanently|expunge|d
+As a user, I want to close my account|close|d
+As a moderator, I want to remove an inappropriate comment|remove|d
+As a project manager, I want to decommission an unused project|decommission|d
+As a support agent, I want to nullify a duplicate ticket|nullify|d
+As a team leader, I want to oust an inactive member from my team|oust|d
+As an administrator, I want to invalidate an expired API key|invalidate|d
+As a user, I want to eradicate a saved payment method|eradicate|d
+As an editor, I want to retract an incorrect article|retract|d
+As an administrator, I want to truncate old logs after the retention period|truncate|d
+As a user, I want to obliterate an uploaded file|obliterate|d
+As an administrator, I want to cull unconfirmed registrations|cull|d
+As a moderator, I want to take down a reported post|take down|d
+As a project member, I want to scrap an outdated task|scrap|d
+As a user, I want to delete permanently a saved draft|delete permanently|d
+As an administrator, I want to wipe a deactivated account|wipe|d
+As a team leader, I want to exclude a former member from the team|exclude|d
+As a user, I want to delete a saved address|delete|d
+As an administrator, I want to deprecate obsolete configurations|deprecate|d
+As a moderator, I want to exterminate spam messages|exterminate|d
+As a user, I want to exterminate a bookmarked item|exterminate|d
+As an administrator, I want to dismantle unused roles|dismantle|d
+As a support agent, I want to discard resolved tickets after closure|discard|d
+As a user, I want to disconnect a linked device|disconnect|d
+As a moderator, I want to strip offensive usernames|strip|d
+As an administrator, I want to terminate expired sessions|terminate|d
+As a user, I want to dismiss a notification|dismiss|d
+As a project manager, I want to extirpate an archived milestone|extirpate|d
+As an administrator, I want to excise invalid data entries|excise|d
+As a user, I want to revoke a shared link|revoke|d
+As a moderator, I want to purge permanently duplicate posts|purge permanently|d
+As a team leader, I want to dissolve an empty group|dissolve|d
+As a user, I want to clear a saved search|clear|d
+As an administrator, I want to retire outdated templates|retire|d
+As a user, I want to erase a profile picture|erase|d
+As a moderator, I want to withdraw policy-violating content|withdraw|d
+As an administrator, I want to purge orphaned records|purge|d
+As a user, I want to unlink a connected social account|unlink|d
+As a support agent, I want to eliminate test tickets|eliminate|d
+As an administrator, I want to abolish obsolete user groups|abolish|d

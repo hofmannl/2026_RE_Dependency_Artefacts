@@ -1,0 +1,23 @@
+=== Ergebnis: sim02_order_dependencies gegen gt_sim02_order_dependencies ===
+Anzahl potentielle Abhängigkeiten für sim02_order_dependencies: 506
+sim02_order_dependencies gesamt:           10
+sim02_order_dependencies in gt_sim02_order_dependencies:         9
+sim02_order_dependencies nicht in gt_sim02_order_dependencies:   1
+
+=== Ergebnis: gt_sim02_order_dependencies gegen sim02_order_dependencies ===
+Anzahl potentielle Abhängigkeiten für gt_sim02_order_dependencies: 506
+gt_sim02_order_dependencies gesamt:           9
+gt_sim02_order_dependencies in sim02_order_dependencies:         9
+gt_sim02_order_dependencies nicht in sim02_order_dependencies:   0
+
+
+
+=== Total Results ===
+Anzahl potentielle Abhängigkeiten: 
+Real Dependencies: 506
+No Depenendcies: 
+
+Correctly Detected Dependencies: 9
+Incorrect Detected Dependencies: 1
+Missed Dependencies: 0
+Correct non-dependency: 496 

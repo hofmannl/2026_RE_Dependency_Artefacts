@@ -1,0 +1,11 @@
+Persona 1 | Persona 2 | Result | Score 
+administrator|administrator|True|1.0
+administrator|project manager|False|0.8708640336990356
+administrator|project developer|False|0.8527665734291077
+administrator|end user|False|0.8091869354248047
+project manager|project manager|True|1.0
+project manager|project developer|True|0.917664110660553
+project manager|end user|False|0.7822632193565369
+project developer|project developer|True|1.0
+project developer|end user|False|0.8066163659095764
+end user|end user|True|1.0

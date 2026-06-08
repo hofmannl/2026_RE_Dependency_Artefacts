@@ -1,0 +1,24 @@
+story|action|classified_action
+As an administrator I want to change the role of another user.|chance|u
+As an administrator, I want to delete another user|delete|d
+As a manager of a project, I want to change the roles of another user in this project|change|u
+As a manager of a project, I want to create an appointment|create|c
+As a manager, I want to change appointments in my projects|change|u
+As a developer of a project, I want to insert a new appointment in the project.|insert|c
+As a manager of a project, I want to modify time and place of meetings.|modify|u
+As a manager, I want to modify my projects|modify|u
+As a manager, I want to change the status of a project|change|u
+As an end user, I want to change the type of an appointment|change|u
+As an administrator, I want to modify projects|modify|u
+As an end user, I want to edit appointments|edit|u
+As a project manager, I would like to add users to the project|add|c
+As a project manager, I want to remove users from projects|remove|d
+As an administrator, I want to remove users from projects|remove|d
+As a project manager, I want to drop developers from the project|drop|d
+As a project manager, I want to set a new deadline to the project|set|c
+As a project manager, I want to change the deadline of a project|change|u
+As an end user, I want to upload new files to my projects|upload|c
+As an end user, I want to modify data that I have uploaded before|modify|u
+As a user, I want to delete files from projects|delete|d
+As a project manager I want to see the users of my projects|see|r
+As a project manager I want to inspect the developers of my projects|inspect|r

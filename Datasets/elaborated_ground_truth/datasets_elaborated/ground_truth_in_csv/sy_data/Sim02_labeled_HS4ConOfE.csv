@@ -1,0 +1,111 @@
+Entity 1|Entity 2|Mapping
+appointment|role of another user|0
+appointment|user|1
+appointment|meeting|1
+appointment|project|0
+appointment|status of project|0
+appointment|type of appointment|1
+appointment|developer|1
+appointment|deadline|1
+appointment|files|1
+appointment|data|1
+data|role of another user|1
+data|user|0
+data|appointment|0
+data|meeting|0
+data|project|0
+data|status of project|0
+data|type of appointment|0
+data|developer|0
+data|deadline|0
+data|files|1
+deadline|role of another user|0
+deadline|user|0
+deadline|appointment|0
+deadline|meeting|0
+deadline|project|0
+deadline|status of project|0
+deadline|type of appointment|0
+deadline|developer|0
+deadline|files|0
+deadline|data|0
+developer|role of another user|1
+developer|user|0
+developer|appointment|1
+developer|meeting|1
+developer|project|1
+developer|status of project|0
+developer|type of appointment|0
+developer|deadline|0
+developer|files|1
+developer|data|1
+files|role of another user|1
+files|user|1
+files|appointment|1
+files|meeting|1
+files|project|1
+files|status of project|1
+files|type of appointment|1
+files|developer|0
+files|deadline|0
+files|data|1
+meeting|role of another user|0
+meeting|user|1
+meeting|appointment|1
+meeting|project|0
+meeting|status of project|0
+meeting|type of appointment|1
+meeting|developer|0
+meeting|deadline|0
+meeting|files|1
+meeting|data|1
+project|role of another user|1
+project|user|1
+project|appointment|1
+project|meeting|1
+project|status of project|1
+project|type of appointment|1
+project|developer|1
+project|deadline|1
+project|files|1
+project|data|1
+role of another user|user|0
+role of another user|appointment|0
+role of another user|meeting|0
+role of another user|project|0
+role of another user|status of project|0
+role of another user|type of appointment|0
+role of another user|developer|0
+role of another user|deadline|0
+role of another user|files|0
+role of another user|data|0
+status of project|role of another user|0
+status of project|user|0
+status of project|appointment|0
+status of project|meeting|0
+status of project|project|0
+status of project|type of appointment|0
+status of project|developer|0
+status of project|deadline|0
+status of project|files|0
+status of project|data|0
+type of appointment|role of another user|0
+type of appointment|user|0
+type of appointment|appointment|0
+type of appointment|meeting|0
+type of appointment|project|0
+type of appointment|status of project|0
+type of appointment|developer|0
+type of appointment|deadline|1
+type of appointment|files|0
+type of appointment|data|0
+user|role of another user|1
+user|appointment|1
+user|meeting|1
+user|project|1
+user|status of project|0
+user|type of appointment|0
+user|developer|0
+user|deadline|1
+user|files|1
+user|data|1

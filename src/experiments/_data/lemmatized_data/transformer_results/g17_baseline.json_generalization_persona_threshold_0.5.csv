@@ -1,0 +1,79 @@
+Persona 1 | Persona 2 | Result | Score 
+developer|user|True|0.5319520235061646
+plugin developer|user|False|0.287603497505188
+plugin developer|dataset developer|False|0.3518604338169098
+pipeline developer|plugin developer|False|0.2346898317337036
+developer|dataset developer|False|0.4751961827278137
+dataset developer|datum scientist|False|0.37621673941612244
+pipeline designer|pipeline developer|False|0.3990020453929901
+hydrator user|pipeline developer|False|0.12776407599449158
+pipeline designer|hydrator user|False|0.325029581785202
+hydrator user|hydrator user|False|0.0
+user|developer|True|0.5218495726585388
+pipeline developer|user|False|0.3414866626262665
+pipeline developer|dataset developer|False|0.3717637062072754
+plugin developer|pipeline developer|False|0.3333238661289215
+plugin developer|hydrator user|False|0.24975202977657318
+pipeline designer|user|False|0.3947305977344513
+dataset developer|plugin developer|False|0.22056668996810913
+app developer|app developer|False|0.0
+user|datum scientist|True|0.6233808398246765
+datum scientist|app developer|False|0.11134401708841324
+pipeline developer|hydrator user|False|0.24962441623210907
+pipeline designer|developer|False|0.28142112493515015
+dataset developer|pipeline designer|False|0.23160365223884583
+hydrator user|developer|False|0.1570531725883484
+dataset developer|app developer|False|0.21442529559135437
+app developer|plugin developer|False|0.21880537271499634
+plugin developer|developer|False|0.2754524052143097
+datum scientist|plugin developer|False|0.14515838027000427
+pipeline designer|datum scientist|False|0.2645869255065918
+hydrator user|datum scientist|False|0.2570379674434662
+app developer|pipeline designer|False|0.20647670328617096
+datum scientist|pipeline designer|False|0.23628628253936768
+app developer|user|False|0.23087824881076813
+app developer|dataset developer|False|0.3022450804710388
+dataset developer|hydrator user|False|0.3504335582256317
+user|pipeline designer|True|0.5157225728034973
+pipeline developer|developer|False|0.41071492433547974
+datum scientist|dataset developer|False|0.30496323108673096
+developer|datum scientist|False|0.4552120268344879
+plugin developer|datum scientist|False|0.30869805812835693
+user|app developer|False|0.3679751753807068
+dataset developer|user|True|0.5602689385414124
+dataset developer|dataset developer|False|0.0
+app developer|pipeline developer|False|0.24863886833190918
+pipeline developer|datum scientist|False|0.22644543647766113
+app developer|hydrator user|False|0.22626979649066925
+datum scientist|pipeline developer|False|0.20772425830364227
+datum scientist|hydrator user|False|0.22217020392417908
+user|hydrator user|True|0.7470263242721558
+hydrator user|pipeline designer|False|0.14598843455314636
+developer|plugin developer|False|0.44942182302474976
+user|plugin developer|False|0.36798661947250366
+pipeline designer|app developer|False|0.1308821737766266
+hydrator user|app developer|False|0.08504485338926315
+dataset developer|pipeline developer|False|0.3167973458766937
+developer|pipeline designer|False|0.3483177721500397
+plugin developer|pipeline designer|False|0.2658109962940216
+datum scientist|user|False|0.4409855008125305
+user|user|False|0.0
+user|dataset developer|True|0.5516003370285034
+developer|app developer|False|0.3574870228767395
+plugin developer|app developer|False|0.24119681119918823
+app developer|developer|False|0.3373503088951111
+datum scientist|developer|False|0.19279006123542786
+pipeline developer|pipeline designer|False|0.4462917447090149
+pipeline designer|plugin developer|False|0.16619396209716797
+hydrator user|plugin developer|False|0.12853065133094788
+pipeline developer|app developer|False|0.19648317992687225
+developer|pipeline developer|True|0.5212380290031433
+user|pipeline developer|False|0.4644685387611389
+developer|hydrator user|False|0.4298822283744812
+plugin developer|plugin developer|False|0.0
+dataset developer|developer|False|0.4142666459083557
+pipeline designer|dataset developer|False|0.24530817568302155
+app developer|datum scientist|False|0.23148103058338165
+hydrator user|user|True|0.5957527756690979
+hydrator user|dataset developer|False|0.16364097595214844
+datum scientist|datum scientist|False|0.0

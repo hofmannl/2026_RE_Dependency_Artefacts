@@ -1,0 +1,68 @@
+story|action|classified_action|similarity
+As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County services, processes and other general information|search|read|0.23600955307483673
+As a ProspectiveApplicant, I want to research requirements, so that I can find the relevant service and/or application type to initiate via the online portal|research|update|0.08898863941431046
+As a ProspectiveApplicant, I want to select a service, so that I can find the relevant service and/or application type to initiate via the online portal|select|read|0.1012348085641861
+As an Applicant, I want to Request PreApplication Assistance, so that I can receive a response to a request for a meeting or information that is a result of the preapplication assistance|request|read|0.22398868203163147
+As a Customer, I want to Create a Customer Portal User Account, so that I can log on to the Customer Portal and perform transactions that first require user authentication|create|read|0.24631959199905396
+As an Applicant, I want to Submit Application, so that I can provide my information, plans and/or documents to initiate a transaction with the County|submit|read|0.1794143170118332
+As an Applicant, I want to Submit Supporting Documentation, so that I can satisfy documentation requirements for my application|submit|read|0.36031344532966614
+As an Applicant, I want to Pay Fee, so that I can satisfy outstanding charge associated with the service requested or received from the County|pay|read|0.14919590950012207
+As an Applicant, I want to Check the Status of a transaction, so that I can understand where the provisioning of my service is in the process, such as information related to service levels, fees, plan review, permit, or inspection results|check|read|0.09566016495227814
+As an Applicant, I want to Modify my Application, so that I can successfully change information on an application|modify|read|0.23061957955360413
+As a Staff member, I want to Perform a Completeness Review, so that I can validate when an application is complete and eligible for further technical review|perform|read|0.24544210731983185
+As a Staff member, I want to Record an Internal Note, so that I can share information with other Staff collaborating on the record|record|read|0.2287093847990036
+As a Staff member, I want to Assign an Application for Detailed Review, so that I can review the for compliance and subsequently approved or denied|assign|read|0.28264549374580383
+As a Staff member, I want to Apply a Hold, so that I can prevent progression through the workflow or other actions in the system until the issue is resolved|apply|read|0.3469724655151367
+As a Staff member, I want to Remove a Hold, so that I can allow progression through the workflow or other actions in the system now that the issue has been resolved|remove|read|0.3198162913322449
+As a Staff member, I want to Send a Formal Response to Applicant, so that I can satisfy communication and records responsibilities|send|read|0.29544663429260254
+As a Staff member, I want to Track  the Draft Proffers, so that I can preserve the history of draft proffer statements submitted by the Applicant|track|read|0.29629984498023987
+As a Staff member, I want to Manage Approved Proffers, so that I can ensure compliance with and satisfaction of the proffer in the future|manage|update|0.24497100710868835
+As a Staff member, I want to Manage Ordinances, so that I can maintain accurate ordinance information in the System|manage|update|0.2425401359796524
+As a Staff member, I want to Schedule a Meeting, so that I can bring the required parties together at a specific date/time to address an issue|schedule|read|0.275497704744339
+As a staff member, I want to denote an application with a Final Action status. So that I can finish it|denote|update|0.23990210890769958
+As a Planning Staff member, I want to Conduct Plan Amendments, so that I can record work in process, outcome, and location-based information related to the Plan(s)|conduct|update|0.22920994460582733
+As a Planning Staff member, I want to track Plan Amendments, so that I can record work in process, outcome, and location-based information related to the Plan(s)|track|read|0.236446812748909
+As a Planning Staff member, I want to Conduct Planning Studies, so that I can record work in process, outcome, and location-based information related to the Plan(s)|conduct|read|0.21010522544384003
+As a Planning Staff member, I want to Track Planning Studies, so that I can record work in process, outcome, and location-based information related to the Plan(s)|track|read|0.22420479357242584
+As a Planning Staff member, I want to Generate Planning-related Reports, so that I can access, analyze and/or export the needed information in the format I requested|generate|read|0.25127312541007996
+As a Planning Staff member, I want to Evaluate Consistency with the Comprehensive Plan, so that I can complete my required review of a plan set and/or application|evaluate|read|0.24909135699272156
+As a Staff member, I want to Perform a Staff Review, so that I can validate compliance of an application with the Zoning Ordinance and impact approval/denial of the application accordingly|perform|read|0.2689434885978699
+As a Zoning Staff member, I want to Process the Requests for Zoning Information, so that I can capture my response to the request in the system and also send a communication from the system to the Applicant|process|read|0.2668202519416809
+As a Zoning Staff member, I want to Issue the Zoning-Related Permits, so that I can satisfy an Applicant's request for service that has proven to be eligible and in compliance with the Zoning Ordinance|issue|update|0.2593327462673187
+As a Staff member, I want to Develop a Staff Report, so that I can publish and distribute the report according to business rules|develop|read|0.2037734091281891
+As a Staff member, I want to Manage Hearing Calendars, so that I can track hearing-related activities and due dates|manage|create|0.2834196090698242
+As a Staff member, I want to Assign a Hearing Date, so that I can present the application to the appropriate governing body within the timelines dictated by the relevant County rules and procedures|assign|read|0.3087742030620575
+As a Staff member, I want to Manage Affidavits, so that I can ensure compliance with the requirements prior to the hearing|manage|read|0.2735156714916229
+As an Applicant, I want to Satisfy Hearing Requirements, so that I can ensure all pre-hearing requirements are satisfied in time for the hearing|satisfy|read|0.2291487604379654
+As a Staff member, I want to Prepare for Hearing Execution, so that I can ensure all pre-hearing requirements are satisfied and staff and Applicant are ready for the hearing|prepare|read|0.3419683575630188
+As a Staff member, I want to Support Hearing Execution, so that I can ensure all pre-hearing requirements are satisfied and staff and Applicant are ready for the hearing|prepare|read|0.3276713490486145
+As a Staff member, I want to Capture a Hearing Decision, so that I can enforce the system|capture|read|0.3757692873477936
+As a Staff member, I want to Process the Appeals, so that I can track the outcome and record the impact on the relevant records|process|read|0.2511986196041107
+As a Plan Review Staff member, I want to Assign Plans for Review, so that I can ensure plans have been assigned to the appropriate Plan Reviewer|assign|read|0.2680586278438568
+As a Plan Review Staff Supervisor, I want to Manage Plan Reviewer Workload, so that I can monitor and effectively adjust workload as necessary and ensure service levels are met|manage|update|0.3434988856315613
+As an Applicant, I want to Request a Plan Review Meeting, so that I can meet with the Plan Review Staff regarding the plan review|request|read|0.2545587122440338
+As a Plan Review Staff member, I want to successfully Conduct a Plan Review Meeting with the Applicant, so that I can listen to it again|successfully conduct|update|0.326675683259964
+As a Plan Review Staff member, I want to record the outcome, so that I can listen to it again|record|read|0.24862608313560486
+As a Plan Review Staff member, I want to Review Plans, so that I can review them for compliance and either approve, or fail or deny the plans and record any conditions, clearances, or corrections needed from the Applicant|review|read|0.2879897356033325
+As an Applicant, I want to Resubmit Plans, so that I can review revised plans|resubmit|update|0.06288333237171173
+As a Plan Review Staff Member, I want to Review the Code Modifications submitted by the Applicant, so that I can review the request and if approved, associate it with the appropriate project|review|read|0.40101000666618347
+As a Plan Review Staff member, I want to Track the Completion of Required Plan Reviews, so that I can ensure all plan review tasks are completed, results have been sent to the Applicant and any downstream steps are initiated such has a final review or payment for permit issuance|track|update|0.3159819543361664
+As a Development Staff member, I want to Issue a Development-related Permit, so that I can grant the request to the Applicant to begin work|issue|read|0.2595282793045044
+As a Staff member, I want to Manage Bonds, so that I can track and manage bonds throughout the lifecycle of the project until release|manage|read|0.28146907687187195
+As an Applicant, I want to Complete Building Development Project, so that I can receive any posted bond and/or obtain occupancy|complete|read|0.1898995041847229
+As a Customer, I want to Request Inspection, so that a County inspector is assigned to perform an inspection of my project|request|read|0.33584555983543396
+As an Inspection Staff member, I want to Create an Inspection, so that I can schedule and assign the inspection|create|read|0.3488544821739197
+As an Inspection Staff Supervisor, I want to Assign Inspections, so that I can make sure the appropriate Inspector receives the work|assign|read|0.3484988510608673
+As an Inspection Supervisor, I want to Manage Inspector Workload, so that I can meet service level and quality requirements|manage|read|0.4006892144680023
+As an Inspector, I want to Conduct Inspections, so that I can validate Customer compliance with code and regulations and provide results of the inspection to the Customer|conduct|read|0.2974871098995209
+As an Inspector, I want to Conduct Inspections, so that I can validate Customer compliance with code and regulations and provide results of the inspection to the Customer|conduct|read|0.2974871098995209
+As an Enforcement Staff member, I want to Issue a Notice of Violation, so that I can provide formal communication to the responsible party|issue|update|0.2734517753124237
+As a l Staff member, I want to search for Property information, so that I can obtain all associated current and historic owners, permits, and applications|search|read|0.2519289553165436
+As a Staff member, I need to be notified when Geospatial attributes change, so that I can ensure that I am reviewing the permit/application to the most current data and appropriate standards|be notify|update|0.2616231441497803
+As a County Staff Member, I want to create a custom query/report outside of the common querying/reporting functionality, so that I can fulfill a request|create|read|0.28307047486305237
+As a Staff member, I want to create each condo unit, so that I can associate it to the child parcel and address after the condominiums are recorded in the system|create|create|0.28979626297950745
+As a Technical Staff member, I want to update the GIS Property Management, so that I can successfully update the transactional Parcel Pin to reference the GIS layer where the Split or Merged Parcel Pin exists|update|read|0.25988346338272095
+As a Staff member, I want to Send Citations, so that I can successfully send the Notice Of Violation document to the property owner and log information about the action|send|read|0.3352528512477875
+As a Staff member, I want to Send Fines, so that I can successfully send the Notice Of Violation document to the property owner and log information about the action|send|update|0.30511704087257385
+As a Staff member, I want to Post Citations, so that I can successfully send the Notice Of Violation document to the property owner and log information about the action|post|read|0.2911260724067688
+As a Staff member, I want to Post Fines, so that I can successfully send the Notice Of Violation document to the property owner and log information about the action|post|update|0.2214803844690323

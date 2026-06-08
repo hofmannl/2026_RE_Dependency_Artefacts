@@ -1,0 +1,82 @@
+Persona 1 | Persona 2 | Result | Score 
+app developer|app developer|False|0.0
+app developer|data scientist|False|0.1582029014825821
+app developer|dataset developer|False|0.3022450804710388
+app developer|developer|False|0.3373503088951111
+app developer|hydrator user|False|0.22626979649066925
+app developer|pipeline designer|False|0.20647670328617096
+app developer|pipeline developer|False|0.24863886833190918
+app developer|plugin developer|False|0.21880537271499634
+app developer|user|False|0.23087824881076813
+data scientist|app developer|False|0.11201940476894379
+data scientist|data scientist|False|0.0
+data scientist|dataset developer|False|0.28311559557914734
+data scientist|developer|False|0.23541191220283508
+data scientist|hydrator user|False|0.15476538240909576
+data scientist|pipeline designer|False|0.22628693282604218
+data scientist|pipeline developer|False|0.2020403891801834
+data scientist|plugin developer|False|0.14553146064281464
+data scientist|user|False|0.25199249386787415
+dataset developer|app developer|False|0.21442529559135437
+dataset developer|data scientist|False|0.33929115533828735
+dataset developer|dataset developer|False|0.0
+dataset developer|developer|False|0.4142666459083557
+dataset developer|hydrator user|False|0.3504335582256317
+dataset developer|pipeline designer|False|0.23160365223884583
+dataset developer|pipeline developer|False|0.3167973458766937
+dataset developer|plugin developer|False|0.22056668996810913
+dataset developer|user|False|0.5602689385414124
+developer|app developer|False|0.3574870228767395
+developer|data scientist|False|0.3834635615348816
+developer|dataset developer|False|0.4751961827278137
+developer|developer|False|0.0
+developer|hydrator user|False|0.4298822283744812
+developer|pipeline designer|False|0.3483177721500397
+developer|pipeline developer|False|0.5212380290031433
+developer|plugin developer|False|0.44942182302474976
+developer|user|False|0.5319520235061646
+hydrator user|app developer|False|0.08504485338926315
+hydrator user|data scientist|False|0.12848752737045288
+hydrator user|dataset developer|False|0.16364097595214844
+hydrator user|developer|False|0.1570531725883484
+hydrator user|hydrator user|False|0.0
+hydrator user|pipeline designer|False|0.14598843455314636
+hydrator user|pipeline developer|False|0.12776407599449158
+hydrator user|plugin developer|False|0.12853065133094788
+hydrator user|user|False|0.5957527756690979
+pipeline designer|app developer|False|0.1308821737766266
+pipeline designer|data scientist|False|0.17386557161808014
+pipeline designer|dataset developer|False|0.24530817568302155
+pipeline designer|developer|False|0.28142112493515015
+pipeline designer|hydrator user|False|0.325029581785202
+pipeline designer|pipeline designer|False|0.0
+pipeline designer|pipeline developer|False|0.3990020453929901
+pipeline designer|plugin developer|False|0.16619396209716797
+pipeline designer|user|False|0.3947305977344513
+pipeline developer|app developer|False|0.19648317992687225
+pipeline developer|data scientist|False|0.187897190451622
+pipeline developer|dataset developer|False|0.3717637062072754
+pipeline developer|developer|False|0.41071492433547974
+pipeline developer|hydrator user|False|0.24962441623210907
+pipeline developer|pipeline designer|False|0.4462917447090149
+pipeline developer|pipeline developer|False|0.0
+pipeline developer|plugin developer|False|0.2346898317337036
+pipeline developer|user|False|0.3414866626262665
+plugin developer|app developer|False|0.24119681119918823
+plugin developer|data scientist|False|0.2332458645105362
+plugin developer|dataset developer|False|0.3518604338169098
+plugin developer|developer|False|0.2754524052143097
+plugin developer|hydrator user|False|0.24975202977657318
+plugin developer|pipeline designer|False|0.2658109962940216
+plugin developer|pipeline developer|False|0.3333238661289215
+plugin developer|plugin developer|False|0.0
+plugin developer|user|False|0.287603497505188
+user|app developer|False|0.3679751753807068
+user|data scientist|False|0.4701593816280365
+user|dataset developer|False|0.5516003370285034
+user|developer|False|0.5218495726585388
+user|hydrator user|False|0.7470263242721558
+user|pipeline designer|False|0.5157225728034973
+user|pipeline developer|False|0.4644685387611389
+user|plugin developer|False|0.36798661947250366
+user|user|False|0.0

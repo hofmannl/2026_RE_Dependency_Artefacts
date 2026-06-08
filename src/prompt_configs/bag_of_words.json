@@ -1,0 +1,33 @@
+{
+  "create": [
+    "create", "add", "insert", "new", "build", "make", "generate",
+    "establish", "construct", "form", "produce", "initialize",
+    "setup", "set up", "register", "save", "post", "submit", "instantiate",
+    "recreate", "reproduce", "restore", "put", "set", "sign in", "sign up", "clone",
+    "upload", "reserve"
+  ],
+  "read": [
+    "read", "get", "fetch", "retrieve", "view", "show", "display",
+    "list", "find", "search", "query", "select", "load", "access",
+    "obtain", "browse", "check", "examine", "lookup", 
+    "filter", "share", "inspect", "see", "revise",
+    "scan", "monitor", "watch", "preview", "consult"
+  ],
+  "update": [
+    "update", "edit", "modify", "change", "alter",
+    "adjust", "correct", "fix", "improve", "refresh", "renew",
+    "transform", "patch", "replace", "amend",
+    "enhance", "upgrade", "undo", "reorder", "rework",
+    "remap", "change over", "reconfigure", "reorganize", 
+    "reestimate", "align", "clarify", "refine", "adjustment",
+    "tweak"
+  ],
+  "delete": [
+    "delete", "remove", "destroy", "erase", "clear", "purge",
+    "drop", "eliminate", "uninstall", "cancel", "terminate",
+    "dispose", "discard", "clean", "wipe", "reset", "abolish",
+    "annul", "nullify", "revoke", "wipe out", "exclude",
+    "archive", "deactivate", "disable", "detach", "expunge", 
+    "prune", "trash", "unset"
+  ]
+}

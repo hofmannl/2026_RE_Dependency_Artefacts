@@ -1,0 +1,21 @@
+story|action|classified_action
+user_auth|create user account|create
+user_auth|display user profile|read
+user_auth|modify password|update
+user_auth|remove account|delete
+product_mgmt|add new product|create
+product_mgmt|list all products|read
+product_mgmt|edit product details|update
+product_mgmt|delete product|delete
+order_system|place new order|create
+order_system|view order history|read
+order_system|change order status|update
+order_system|cancel order|delete
+inventory|add stock items|create
+inventory|check inventory levels|read
+inventory|update stock quantity|update
+inventory|remove obsolete items|delete
+customer|register customer|create
+customer|retrieve customer info|read
+customer|update customer data|update
+customer|deactivate customer|delete

@@ -1,0 +1,16 @@
+Model | Dataset | Mode | Time Consumption
+FastText | g03_baseline_lemmatized.json | Mode 1 words with action | 0.0015020370483398438 seconds
+FastText | g03_baseline_lemmatized.json | Mode 1 words with sentences | 0.0030052661895751953 seconds
+FastText | g03_baseline_lemmatized.json | Mode 30 words with action | 0.0020105838775634766 seconds
+FastText | g03_baseline_lemmatized.json | Mode 30 words with sentences | 0.003017902374267578 seconds
+FastText | g08_baseline_lemmatized.json | Mode 1 words with action | 0.0020062923431396484 seconds
+FastText | g08_baseline_lemmatized.json | Mode 1 words with sentences | 0.0030426979064941406 seconds
+FastText | g08_baseline_lemmatized.json | Mode 30 words with action | 0.0014104843139648438 seconds
+FastText | g08_baseline_lemmatized.json | Mode 30 words with sentences | 0.0030488967895507812 seconds
+FastText | g22_baseline_lemmatized.json | Mode 1 words with action | 0.001999378204345703 seconds
+FastText | g22_baseline_lemmatized.json | Mode 1 words with sentences | 0.004998445510864258 seconds
+FastText | g22_baseline_lemmatized.json | Mode 30 words with action | 0.003000497817993164 seconds
+FastText | g22_baseline_lemmatized.json | Mode 30 words with sentences | 0.00657200813293457 seconds
+
+FastText | Sin01_baseline_lemmatized.json | Mode 30 words with action | 0.0021016597747802734 seconds
+FastText | Sin01_baseline_lemmatized.json | Mode 30 words with sentences | 0.012013912200927734 seconds

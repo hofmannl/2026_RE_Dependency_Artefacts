@@ -1,0 +1,577 @@
+Action 1 | Action 2 | Result | Score 
+add|add|False|0.0
+add|check|False|0.2840808629989624
+add|create|False|0.3062823712825775
+add|customize|False|0.4866572618484497
+add|do|False|0.297841340303421
+add|embed|False|0.3084878921508789
+add|get|False|0.2664509415626526
+add|know|False|0.4315435588359833
+add|make it easy to assess|True|0.9226169586181641
+add|map|False|0.4893202483654022
+add|operationalize|False|0.44003626704216003
+add|package|False|0.4104596972465515
+add|provide|False|0.3651968538761139
+add|publish|False|0.1801084280014038
+add|reference|False|0.5932365655899048
+add|save|False|0.25938740372657776
+add|specify|False|0.6266668438911438
+add|store|False|0.17213723063468933
+add|translate|False|0.2907055616378784
+add|understand|False|0.5631680488586426
+add|use|False|0.342324823141098
+add|validate|False|0.29951512813568115
+add|want|False|0.3453283905982971
+add|would like|False|0.4650411307811737
+check|add|False|0.29673144221305847
+check|check|False|0.0
+check|create|False|0.3861803412437439
+check|customize|False|0.49354180693626404
+check|do|False|0.4135356843471527
+check|embed|False|0.3246578872203827
+check|get|False|0.3648289740085602
+check|know|False|0.4003305733203888
+check|make it easy to assess|True|0.9558272957801819
+check|map|False|0.4153119921684265
+check|operationalize|False|0.49369317293167114
+check|package|False|0.4684693217277527
+check|provide|False|0.3555816411972046
+check|publish|False|0.24288006126880646
+check|reference|False|0.5517986416816711
+check|save|False|0.33023935556411743
+check|specify|False|0.5799261331558228
+check|store|False|0.24602295458316803
+check|translate|False|0.35553690791130066
+check|understand|False|0.6161091327667236
+check|use|False|0.4446350336074829
+check|validate|False|0.44258913397789
+check|want|False|0.4174976348876953
+check|would like|False|0.47306451201438904
+create|add|False|0.30240240693092346
+create|check|False|0.3254101276397705
+create|create|False|0.0
+create|customize|False|0.44204944372177124
+create|do|False|0.30913007259368896
+create|embed|False|0.3159317672252655
+create|get|False|0.25732889771461487
+create|know|False|0.40361082553863525
+create|make it easy to assess|True|0.9604418873786926
+create|map|False|0.5581498146057129
+create|operationalize|False|0.4066619575023651
+create|package|False|0.27226129174232483
+create|provide|False|0.2909336984157562
+create|publish|False|0.19455978274345398
+create|reference|False|0.5832334160804749
+create|save|False|0.26168665289878845
+create|specify|False|0.5271639823913574
+create|store|False|0.18490654230117798
+create|translate|False|0.42283108830451965
+create|understand|False|0.6164328455924988
+create|use|False|0.327589750289917
+create|validate|False|0.35516706109046936
+create|want|False|0.39995089173316956
+create|would like|False|0.4764519929885864
+customize|add|False|0.5368434190750122
+customize|check|False|0.41577768325805664
+customize|create|False|0.4881186783313751
+customize|customize|False|0.0
+customize|do|False|0.5785853266716003
+customize|embed|False|0.37719646096229553
+customize|get|False|0.4082196056842804
+customize|know|False|0.5254958868026733
+customize|make it easy to assess|True|0.9712148308753967
+customize|map|False|0.4257134795188904
+customize|operationalize|False|0.5073273777961731
+customize|package|False|0.4107072055339813
+customize|provide|False|0.6041433811187744
+customize|publish|False|0.30622217059135437
+customize|reference|False|0.6450093984603882
+customize|save|False|0.4136843979358673
+customize|specify|True|0.8412083983421326
+customize|store|False|0.3315192461013794
+customize|translate|False|0.471723735332489
+customize|understand|True|0.7688388228416443
+customize|use|False|0.636295735836029
+customize|validate|False|0.38997456431388855
+customize|want|False|0.5749317407608032
+customize|would like|True|0.7060920596122742
+do|add|False|0.3295442461967468
+do|check|False|0.3626336455345154
+do|create|False|0.3053123950958252
+do|customize|False|0.49903321266174316
+do|do|False|0.0
+do|embed|False|0.39243611693382263
+do|get|False|0.3037206530570984
+do|know|False|0.3391032814979553
+do|make it easy to assess|True|0.8825913071632385
+do|map|False|0.40978971123695374
+do|operationalize|False|0.45414799451828003
+do|package|False|0.24234935641288757
+do|provide|False|0.3307676613330841
+do|publish|False|0.23797082901000977
+do|reference|False|0.5942069292068481
+do|save|False|0.28183409571647644
+do|specify|False|0.49257564544677734
+do|store|False|0.21845613420009613
+do|translate|False|0.33555904030799866
+do|understand|False|0.4841946065425873
+do|use|False|0.3692237436771393
+do|validate|False|0.32465967535972595
+do|want|False|0.3325531780719757
+do|would like|False|0.38851436972618103
+embed|add|False|0.45878925919532776
+embed|check|False|0.3990725874900818
+embed|create|False|0.4887905418872833
+embed|customize|False|0.6448992490768433
+embed|do|False|0.4375760555267334
+embed|embed|False|0.0
+embed|get|False|0.3967587947845459
+embed|know|False|0.5252635478973389
+embed|make it easy to assess|True|0.9548596143722534
+embed|map|False|0.35676470398902893
+embed|operationalize|False|0.5858644247055054
+embed|package|False|0.3634342849254608
+embed|provide|False|0.5025963187217712
+embed|publish|False|0.37402763962745667
+embed|reference|True|0.7356919050216675
+embed|save|False|0.42668333649635315
+embed|specify|True|0.7594926953315735
+embed|store|False|0.2873513698577881
+embed|translate|False|0.3934943974018097
+embed|understand|False|0.6919894218444824
+embed|use|False|0.57016921043396
+embed|validate|False|0.46781471371650696
+embed|want|False|0.5075351595878601
+embed|would like|False|0.6940458416938782
+get|add|False|0.23236514627933502
+get|check|False|0.25087785720825195
+get|create|False|0.26094919443130493
+get|customize|False|0.32210901379585266
+get|do|False|0.2656502425670624
+get|embed|False|0.2874043881893158
+get|get|False|0.0
+get|know|False|0.3216543197631836
+get|make it easy to assess|True|0.8567689657211304
+get|map|False|0.2296813577413559
+get|operationalize|False|0.34407222270965576
+get|package|False|0.2237878441810608
+get|provide|False|0.2652563750743866
+get|publish|False|0.17780020833015442
+get|reference|False|0.409782350063324
+get|save|False|0.26398012042045593
+get|specify|False|0.3957900404930115
+get|store|False|0.18313126266002655
+get|translate|False|0.25799238681793213
+get|understand|False|0.42934349179267883
+get|use|False|0.2559162974357605
+get|validate|False|0.27855512499809265
+get|want|False|0.37991073727607727
+get|would like|False|0.33614563941955566
+know|add|False|0.425520122051239
+know|check|False|0.35289692878723145
+know|create|False|0.5029969215393066
+know|customize|False|0.6332765221595764
+know|do|False|0.5247337818145752
+know|embed|False|0.4228852689266205
+know|get|False|0.30718421936035156
+know|know|False|0.0
+know|make it easy to assess|True|0.956821858882904
+know|map|False|0.5055391788482666
+know|operationalize|False|0.6860123872756958
+know|package|False|0.34057193994522095
+know|provide|False|0.5439006090164185
+know|publish|False|0.25054502487182617
+know|reference|True|0.7028036713600159
+know|save|False|0.3613254427909851
+know|specify|True|0.7669222354888916
+know|store|False|0.2396935671567917
+know|translate|False|0.4733563959598541
+know|understand|False|0.6402687430381775
+know|use|False|0.6261616945266724
+know|validate|False|0.4424154460430145
+know|want|False|0.5349986553192139
+know|would like|False|0.5293791890144348
+make it easy to assess|add|True|0.7843154668807983
+make it easy to assess|check|True|0.8633589148521423
+make it easy to assess|create|True|0.8736769556999207
+make it easy to assess|customize|True|0.9016420841217041
+make it easy to assess|do|True|0.8084611892700195
+make it easy to assess|embed|True|0.7126063108444214
+make it easy to assess|get|True|0.7479400038719177
+make it easy to assess|know|True|0.8197041749954224
+make it easy to assess|make it easy to assess|False|0.0
+make it easy to assess|map|True|0.7762648463249207
+make it easy to assess|operationalize|True|0.8552321195602417
+make it easy to assess|package|True|0.7028372883796692
+make it easy to assess|provide|True|0.8704186677932739
+make it easy to assess|publish|False|0.6157645583152771
+make it easy to assess|reference|True|0.8108913898468018
+make it easy to assess|save|False|0.6064808368682861
+make it easy to assess|specify|True|0.9034980535507202
+make it easy to assess|store|False|0.6077740788459778
+make it easy to assess|translate|True|0.8063740134239197
+make it easy to assess|understand|True|0.8711895942687988
+make it easy to assess|use|True|0.759014904499054
+make it easy to assess|validate|True|0.7604251503944397
+make it easy to assess|want|True|0.7186205983161926
+make it easy to assess|would like|True|0.8106074929237366
+map|add|False|0.4330752193927765
+map|check|False|0.3798299729824066
+map|create|False|0.497503399848938
+map|customize|False|0.5668720006942749
+map|do|False|0.37360280752182007
+map|embed|False|0.3694126009941101
+map|get|False|0.3357779383659363
+map|know|False|0.5148188471794128
+map|make it easy to assess|True|0.9403919577598572
+map|map|False|0.0
+map|operationalize|False|0.5454972982406616
+map|package|False|0.36811646819114685
+map|provide|False|0.5193355083465576
+map|publish|False|0.32352414727211
+map|reference|False|0.6277484893798828
+map|save|False|0.36603817343711853
+map|specify|True|0.7250491976737976
+map|store|False|0.29096683859825134
+map|translate|False|0.3553963303565979
+map|understand|True|0.746886670589447
+map|use|False|0.6385243535041809
+map|validate|False|0.40715083479881287
+map|want|False|0.560748815536499
+map|would like|False|0.6395999193191528
+operationalize|add|False|0.4119807779788971
+operationalize|check|False|0.3867743909358978
+operationalize|create|False|0.40590548515319824
+operationalize|customize|False|0.6873363256454468
+operationalize|do|False|0.42505788803100586
+operationalize|embed|False|0.34788796305656433
+operationalize|get|False|0.32845833897590637
+operationalize|know|False|0.4991285800933838
+operationalize|make it easy to assess|True|0.9355489611625671
+operationalize|map|False|0.323388934135437
+operationalize|operationalize|False|0.0
+operationalize|package|False|0.35499173402786255
+operationalize|provide|False|0.4748035967350006
+operationalize|publish|False|0.2819887697696686
+operationalize|reference|False|0.6087935566902161
+operationalize|save|False|0.3502538502216339
+operationalize|specify|True|0.7395042777061462
+operationalize|store|False|0.2670917510986328
+operationalize|translate|False|0.3553326725959778
+operationalize|understand|True|0.7211856842041016
+operationalize|use|False|0.5367662310600281
+operationalize|validate|False|0.3904968202114105
+operationalize|want|False|0.48389124870300293
+operationalize|would like|False|0.5269866585731506
+package|add|False|0.3631497323513031
+package|check|False|0.3066782057285309
+package|create|False|0.29185014963150024
+package|customize|False|0.442983478307724
+package|do|False|0.28807613253593445
+package|embed|False|0.4782373309135437
+package|get|False|0.27617961168289185
+package|know|False|0.3902393877506256
+package|make it easy to assess|True|0.8892693519592285
+package|map|False|0.48671773076057434
+package|operationalize|False|0.4437619149684906
+package|package|False|0.0
+package|provide|False|0.3395858407020569
+package|publish|False|0.20864912867546082
+package|reference|False|0.38876238465309143
+package|save|False|0.30122023820877075
+package|specify|False|0.49116942286491394
+package|store|False|0.23797307908535004
+package|translate|False|0.43212589621543884
+package|understand|False|0.46065616607666016
+package|use|False|0.36214056611061096
+package|validate|False|0.46573784947395325
+package|want|False|0.47923406958580017
+package|would like|False|0.36119043827056885
+provide|add|False|0.3815019726753235
+provide|check|False|0.4633997678756714
+provide|create|False|0.33873435854911804
+provide|customize|False|0.618389368057251
+provide|do|False|0.34499815106391907
+provide|embed|False|0.33881381154060364
+provide|get|False|0.2669226825237274
+provide|know|False|0.6100354194641113
+provide|make it easy to assess|True|0.9566563963890076
+provide|map|False|0.5061809420585632
+provide|operationalize|False|0.5854104161262512
+provide|package|False|0.35998019576072693
+provide|provide|False|0.0
+provide|publish|False|0.2607693374156952
+provide|reference|True|0.7637161612510681
+provide|save|False|0.39753755927085876
+provide|specify|True|0.7210627794265747
+provide|store|False|0.2798334062099457
+provide|translate|False|0.48926031589508057
+provide|understand|True|0.7388163208961487
+provide|use|False|0.5398163199424744
+provide|validate|False|0.43248501420021057
+provide|want|False|0.4467683434486389
+provide|would like|False|0.5768890380859375
+publish|add|False|0.2814044654369354
+publish|check|False|0.26381269097328186
+publish|create|False|0.27101436257362366
+publish|customize|False|0.34784531593322754
+publish|do|False|0.2948697805404663
+publish|embed|False|0.23944251239299774
+publish|get|False|0.24554163217544556
+publish|know|False|0.319382905960083
+publish|make it easy to assess|True|0.860072672367096
+publish|map|False|0.27206215262413025
+publish|operationalize|False|0.43262162804603577
+publish|package|False|0.2251943200826645
+publish|provide|False|0.27423614263534546
+publish|publish|False|0.0
+publish|reference|False|0.4450748860836029
+publish|save|False|0.2586359977722168
+publish|specify|False|0.3757282793521881
+publish|store|False|0.16939455270767212
+publish|translate|False|0.24584762752056122
+publish|understand|False|0.3582306504249573
+publish|use|False|0.3286292552947998
+publish|validate|False|0.29343995451927185
+publish|want|False|0.3350040316581726
+publish|would like|False|0.3368687033653259
+reference|add|False|0.45723170042037964
+reference|check|False|0.5802503228187561
+reference|create|False|0.5424752235412598
+reference|customize|False|0.678165853023529
+reference|do|False|0.537540078163147
+reference|embed|False|0.47157716751098633
+reference|get|False|0.49410855770111084
+reference|know|False|0.6352384090423584
+reference|make it easy to assess|True|0.9428897500038147
+reference|map|False|0.5127440690994263
+reference|operationalize|False|0.640102207660675
+reference|package|False|0.4428461194038391
+reference|provide|False|0.6468308568000793
+reference|publish|False|0.3016054034233093
+reference|reference|False|0.0
+reference|save|False|0.46873465180397034
+reference|specify|True|0.7896001935005188
+reference|store|False|0.3698314428329468
+reference|translate|False|0.4331957697868347
+reference|understand|True|0.8098288774490356
+reference|use|False|0.6955966353416443
+reference|validate|False|0.4581542909145355
+reference|want|False|0.5163484811782837
+reference|would like|False|0.5620280504226685
+save|add|False|0.2867544889450073
+save|check|False|0.29228049516677856
+save|create|False|0.31321027874946594
+save|customize|False|0.49137598276138306
+save|do|False|0.28744715452194214
+save|embed|False|0.40950697660446167
+save|get|False|0.23193548619747162
+save|know|False|0.4307118356227875
+save|make it easy to assess|True|0.920616626739502
+save|map|False|0.3315148651599884
+save|operationalize|False|0.49155956506729126
+save|package|False|0.25595933198928833
+save|provide|False|0.4131130576133728
+save|publish|False|0.20176401734352112
+save|reference|False|0.6165333986282349
+save|save|False|0.0
+save|specify|False|0.5462382435798645
+save|store|False|0.23465584218502045
+save|translate|False|0.3210430443286896
+save|understand|False|0.5336821675300598
+save|use|False|0.391531378030777
+save|validate|False|0.36794108152389526
+save|want|False|0.40410029888153076
+save|would like|False|0.4819757044315338
+specify|add|False|0.5110086798667908
+specify|check|False|0.5728795528411865
+specify|create|False|0.5502960085868835
+specify|customize|True|0.7329319715499878
+specify|do|False|0.6059052348136902
+specify|embed|False|0.5378170609474182
+specify|get|False|0.445523202419281
+specify|know|False|0.6850754618644714
+specify|make it easy to assess|True|0.9752421975135803
+specify|map|True|0.750835120677948
+specify|operationalize|False|0.6861076354980469
+specify|package|False|0.42305198311805725
+specify|provide|False|0.6527210474014282
+specify|publish|False|0.43985748291015625
+specify|reference|True|0.7312872409820557
+specify|save|False|0.47972026467323303
+specify|specify|False|0.0
+specify|store|False|0.3203792870044708
+specify|translate|True|0.7152124047279358
+specify|understand|True|0.7958171367645264
+specify|use|False|0.6715898513793945
+specify|validate|True|0.7313905358314514
+specify|want|False|0.6314743161201477
+specify|would like|False|0.5873922109603882
+store|add|False|0.2667568325996399
+store|check|False|0.2294369786977768
+store|create|False|0.23336796462535858
+store|customize|False|0.33405205607414246
+store|do|False|0.2334119826555252
+store|embed|False|0.21658167243003845
+store|get|False|0.18419481813907623
+store|know|False|0.2880473732948303
+store|make it easy to assess|True|0.7539158463478088
+store|map|False|0.20851711928844452
+store|operationalize|False|0.30657094717025757
+store|package|False|0.1785161793231964
+store|provide|False|0.28829461336135864
+store|publish|False|0.16347986459732056
+store|reference|False|0.4170302450656891
+store|save|False|0.2826248109340668
+store|specify|False|0.3413943648338318
+store|store|False|0.0
+store|translate|False|0.22245502471923828
+store|understand|False|0.35496315360069275
+store|use|False|0.26379069685935974
+store|validate|False|0.26015010476112366
+store|want|False|0.28690364956855774
+store|would like|False|0.29467785358428955
+translate|add|False|0.42908596992492676
+translate|check|False|0.37469398975372314
+translate|create|False|0.46220895648002625
+translate|customize|False|0.5669781565666199
+translate|do|False|0.4370397925376892
+translate|embed|False|0.3378100097179413
+translate|get|False|0.3829067051410675
+translate|know|False|0.5336952209472656
+translate|make it easy to assess|True|0.9574886560440063
+translate|map|False|0.35016658902168274
+translate|operationalize|False|0.519524872303009
+translate|package|False|0.35071393847465515
+translate|provide|False|0.4378170371055603
+translate|publish|False|0.2900821268558502
+translate|reference|False|0.637302041053772
+translate|save|False|0.35329917073249817
+translate|specify|True|0.7037122249603271
+translate|store|False|0.28206002712249756
+translate|translate|False|0.0
+translate|understand|False|0.6457342505455017
+translate|use|False|0.6612568497657776
+translate|validate|False|0.3983451724052429
+translate|want|False|0.5766986608505249
+translate|would like|False|0.5886136293411255
+understand|add|False|0.44724199175834656
+understand|check|False|0.5389378666877747
+understand|create|False|0.616695761680603
+understand|customize|True|0.7122368812561035
+understand|do|False|0.4787467122077942
+understand|embed|False|0.48211294412612915
+understand|get|False|0.4893104135990143
+understand|know|False|0.5707876682281494
+understand|make it easy to assess|True|0.9668729305267334
+understand|map|False|0.6666766405105591
+understand|operationalize|False|0.5969195365905762
+understand|package|False|0.3344344198703766
+understand|provide|False|0.6316897869110107
+understand|publish|False|0.34494245052337646
+understand|reference|True|0.7385509610176086
+understand|save|False|0.4020743668079376
+understand|specify|True|0.8726710677146912
+understand|store|False|0.23206816613674164
+understand|translate|False|0.6273916363716125
+understand|understand|False|0.0
+understand|use|False|0.6072432398796082
+understand|validate|False|0.6074703335762024
+understand|want|False|0.4994162321090698
+understand|would like|True|0.7310532331466675
+use|add|False|0.5637488961219788
+use|check|False|0.45045140385627747
+use|create|False|0.418998658657074
+use|customize|False|0.6198208332061768
+use|do|False|0.5283004641532898
+use|embed|True|0.7180374264717102
+use|get|False|0.3554781377315521
+use|know|False|0.6189334988594055
+use|make it easy to assess|True|0.9697625637054443
+use|map|True|0.7040401697158813
+use|operationalize|False|0.630448043346405
+use|package|False|0.38909438252449036
+use|provide|False|0.6141462326049805
+use|publish|False|0.4225821793079376
+use|reference|True|0.7325384616851807
+use|save|False|0.43437984585762024
+use|specify|True|0.7707715630531311
+use|store|False|0.3138161897659302
+use|translate|True|0.7216850519180298
+use|understand|False|0.694542646408081
+use|use|False|0.0
+use|validate|False|0.6475510001182556
+use|want|True|0.7130895256996155
+use|would like|False|0.5466195940971375
+validate|add|False|0.42079052329063416
+validate|check|False|0.4505654275417328
+validate|create|False|0.46315905451774597
+validate|customize|False|0.5048822164535522
+validate|do|False|0.5065832138061523
+validate|embed|False|0.3599805533885956
+validate|get|False|0.4273116886615753
+validate|know|False|0.512786865234375
+validate|make it easy to assess|True|0.9697622656822205
+validate|map|False|0.40646299719810486
+validate|operationalize|False|0.525696337223053
+validate|package|False|0.4379101097583771
+validate|provide|False|0.4452706277370453
+validate|publish|False|0.2772866189479828
+validate|reference|False|0.5533285737037659
+validate|save|False|0.4468599557876587
+validate|specify|False|0.6382628083229065
+validate|store|False|0.29743242263793945
+validate|translate|False|0.37944790720939636
+validate|understand|False|0.6461870074272156
+validate|use|False|0.519734799861908
+validate|validate|False|0.0
+validate|want|False|0.5172738432884216
+validate|would like|False|0.6253126859664917
+want|add|False|0.5509728193283081
+want|check|False|0.4538514316082001
+want|create|False|0.48251280188560486
+want|customize|False|0.5972958207130432
+want|do|False|0.6159586310386658
+want|embed|False|0.43319106101989746
+want|get|False|0.47797998785972595
+want|know|False|0.5298295617103577
+want|make it easy to assess|True|0.8870659470558167
+want|map|False|0.48281049728393555
+want|operationalize|False|0.6809999346733093
+want|package|False|0.3821362853050232
+want|provide|False|0.6171483993530273
+want|publish|False|0.29940304160118103
+want|reference|False|0.681678295135498
+want|save|False|0.44142380356788635
+want|specify|False|0.682838499546051
+want|store|False|0.29963648319244385
+want|translate|False|0.4489530026912689
+want|understand|False|0.6419190764427185
+want|use|False|0.6303613781929016
+want|validate|False|0.4609466791152954
+want|want|False|0.0
+want|would like|False|0.6755330562591553
+would like|add|False|0.4875299632549286
+would like|check|False|0.41057488322257996
+would like|create|False|0.4746498465538025
+would like|customize|False|0.5532118082046509
+would like|do|False|0.4602617919445038
+would like|embed|False|0.567069947719574
+would like|get|False|0.45817771553993225
+would like|know|False|0.644294023513794
+would like|make it easy to assess|True|0.8018409013748169
+would like|map|False|0.5211492776870728
+would like|operationalize|False|0.5449976325035095
+would like|package|False|0.3710024356842041
+would like|provide|False|0.5751329660415649
+would like|publish|False|0.34402331709861755
+would like|reference|False|0.6046376824378967
+would like|save|False|0.5198666453361511
+would like|specify|False|0.6177329421043396
+would like|store|False|0.2918323874473572
+would like|translate|False|0.4896607995033264
+would like|understand|True|0.7583609223365784
+would like|use|False|0.5756303668022156
+would like|validate|False|0.4943147599697113
+would like|want|False|0.48705071210861206
+would like|would like|False|0.0

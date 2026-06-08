@@ -1,0 +1,197 @@
+Persona 1 | Persona 2 | Result | Score 
+civic tech activist|civic tech activist|False|0.0
+civic tech activist|developer|False|0.15940245985984802
+civic tech activist|developerdatawrangler|False|0.21270228922367096
+civic tech activist|developerpublisher|False|0.20688170194625854
+civic tech activist|developerwrangler|False|0.27878430485725403
+civic tech activist|government publisher|False|0.06660890579223633
+civic tech activist|machine learning expert|False|0.16173581779003143
+civic tech activist|publisher|False|0.11697016656398773
+civic tech activist|repository manager|False|0.1419639140367508
+civic tech activist|repositorymanagerresearcher|False|0.1494772732257843
+civic tech activist|researcher|False|0.22519059479236603
+civic tech activist|researcherdeveloper|False|0.2165309190750122
+civic tech activist|researchergovernment publisher|False|0.05483797937631607
+civic tech activist|researcherpublisher|False|0.2343568205833435
+developer|civic tech activist|False|0.34046053886413574
+developer|developer|False|0.0
+developer|developerdatawrangler|False|0.39080560207366943
+developer|developerpublisher|False|0.3339536786079407
+developer|developerwrangler|False|0.43114009499549866
+developer|government publisher|False|0.25187283754348755
+developer|machine learning expert|False|0.37522220611572266
+developer|publisher|False|0.2505083382129669
+developer|repository manager|False|0.37154850363731384
+developer|repositorymanagerresearcher|False|0.4172143340110779
+developer|researcher|False|0.3947312831878662
+developer|researcherdeveloper|False|0.5693331360816956
+developer|researchergovernment publisher|False|0.03659602627158165
+developer|researcherpublisher|False|0.37242308259010315
+developerdatawrangler|civic tech activist|False|0.28851404786109924
+developerdatawrangler|developer|False|0.40708011388778687
+developerdatawrangler|developerdatawrangler|False|0.0
+developerdatawrangler|developerpublisher|False|0.3383488357067108
+developerdatawrangler|developerwrangler|False|0.45182299613952637
+developerdatawrangler|government publisher|False|0.07375290989875793
+developerdatawrangler|machine learning expert|False|0.23098474740982056
+developerdatawrangler|publisher|False|0.09762635827064514
+developerdatawrangler|repository manager|False|0.23666267096996307
+developerdatawrangler|repositorymanagerresearcher|False|0.397055059671402
+developerdatawrangler|researcher|False|0.21589027345180511
+developerdatawrangler|researcherdeveloper|False|0.27013787627220154
+developerdatawrangler|researchergovernment publisher|False|0.12381722778081894
+developerdatawrangler|researcherpublisher|False|0.1552782654762268
+developerpublisher|civic tech activist|False|0.1788395792245865
+developerpublisher|developer|False|0.18529602885246277
+developerpublisher|developerdatawrangler|False|0.3263164460659027
+developerpublisher|developerpublisher|False|0.0
+developerpublisher|developerwrangler|False|0.2941051125526428
+developerpublisher|government publisher|False|0.20284050703048706
+developerpublisher|machine learning expert|False|0.19070090353488922
+developerpublisher|publisher|False|0.4701808989048004
+developerpublisher|repository manager|False|0.1449725329875946
+developerpublisher|repositorymanagerresearcher|False|0.19329281151294708
+developerpublisher|researcher|False|0.13458152115345
+developerpublisher|researcherdeveloper|False|0.20566149055957794
+developerpublisher|researchergovernment publisher|False|0.07710625231266022
+developerpublisher|researcherpublisher|False|0.4528330862522125
+developerwrangler|civic tech activist|False|0.3553634285926819
+developerwrangler|developer|False|0.321906715631485
+developerwrangler|developerdatawrangler|False|0.48020943999290466
+developerwrangler|developerpublisher|False|0.3540806174278259
+developerwrangler|developerwrangler|False|0.0
+developerwrangler|government publisher|False|0.16965040564537048
+developerwrangler|machine learning expert|False|0.3794693946838379
+developerwrangler|publisher|False|0.19627928733825684
+developerwrangler|repository manager|False|0.3039403259754181
+developerwrangler|repositorymanagerresearcher|False|0.3865768313407898
+developerwrangler|researcher|False|0.4193563461303711
+developerwrangler|researcherdeveloper|False|0.47428858280181885
+developerwrangler|researchergovernment publisher|False|0.06707152724266052
+developerwrangler|researcherpublisher|False|0.3729230463504791
+government publisher|civic tech activist|False|0.10422129929065704
+government publisher|developer|False|0.0802786722779274
+government publisher|developerdatawrangler|False|0.13093554973602295
+government publisher|developerpublisher|False|0.1676672250032425
+government publisher|developerwrangler|False|0.19592592120170593
+government publisher|government publisher|False|0.0
+government publisher|machine learning expert|False|0.15339624881744385
+government publisher|publisher|False|0.2824350595474243
+government publisher|repository manager|False|0.18291515111923218
+government publisher|repositorymanagerresearcher|False|0.1461118757724762
+government publisher|researcher|False|0.16952908039093018
+government publisher|researcherdeveloper|False|0.13022810220718384
+government publisher|researchergovernment publisher|False|0.8793857097625732
+government publisher|researcherpublisher|False|0.2535986304283142
+machine learning expert|civic tech activist|False|0.19397975504398346
+machine learning expert|developer|False|0.19981734454631805
+machine learning expert|developerdatawrangler|False|0.2669985890388489
+machine learning expert|developerpublisher|False|0.22390566766262054
+machine learning expert|developerwrangler|False|0.32247745990753174
+machine learning expert|government publisher|False|0.1071404442191124
+machine learning expert|machine learning expert|False|0.0
+machine learning expert|publisher|False|0.13933758437633514
+machine learning expert|repository manager|False|0.20683416724205017
+machine learning expert|repositorymanagerresearcher|False|0.2723637819290161
+machine learning expert|researcher|False|0.3713461756706238
+machine learning expert|researcherdeveloper|False|0.37338224053382874
+machine learning expert|researchergovernment publisher|False|0.06698418408632278
+machine learning expert|researcherpublisher|False|0.2679363787174225
+publisher|civic tech activist|False|0.2789568305015564
+publisher|developer|False|0.2348473221063614
+publisher|developerdatawrangler|False|0.28782176971435547
+publisher|developerpublisher|False|0.4318290650844574
+publisher|developerwrangler|False|0.35443049669265747
+publisher|government publisher|False|0.3684247136116028
+publisher|machine learning expert|False|0.33002081513404846
+publisher|publisher|False|0.0
+publisher|repository manager|False|0.25150084495544434
+publisher|repositorymanagerresearcher|False|0.2338089495897293
+publisher|researcher|False|0.24610000848770142
+publisher|researcherdeveloper|False|0.2198481261730194
+publisher|researchergovernment publisher|False|0.29297178983688354
+publisher|researcherpublisher|False|0.4383460581302643
+repository manager|civic tech activist|False|0.17216718196868896
+repository manager|developer|False|0.21161700785160065
+repository manager|developerdatawrangler|False|0.3001623749732971
+repository manager|developerpublisher|False|0.21055328845977783
+repository manager|developerwrangler|False|0.270746648311615
+repository manager|government publisher|False|0.13296830654144287
+repository manager|machine learning expert|False|0.2087107002735138
+repository manager|publisher|False|0.18137596547603607
+repository manager|repository manager|False|0.0
+repository manager|repositorymanagerresearcher|False|0.698093831539154
+repository manager|researcher|False|0.22787818312644958
+repository manager|researcherdeveloper|False|0.16933147609233856
+repository manager|researchergovernment publisher|False|0.036579739302396774
+repository manager|researcherpublisher|False|0.2354576140642166
+repositorymanagerresearcher|civic tech activist|False|0.22558817267417908
+repositorymanagerresearcher|developer|False|0.21566948294639587
+repositorymanagerresearcher|developerdatawrangler|False|0.465724915266037
+repositorymanagerresearcher|developerpublisher|False|0.3362521827220917
+repositorymanagerresearcher|developerwrangler|False|0.3659956455230713
+repositorymanagerresearcher|government publisher|False|0.19888019561767578
+repositorymanagerresearcher|machine learning expert|False|0.25898176431655884
+repositorymanagerresearcher|publisher|False|0.17553792893886566
+repositorymanagerresearcher|repository manager|False|0.6887083649635315
+repositorymanagerresearcher|repositorymanagerresearcher|False|0.0
+repositorymanagerresearcher|researcher|False|0.46782344579696655
+repositorymanagerresearcher|researcherdeveloper|False|0.41224318742752075
+repositorymanagerresearcher|researchergovernment publisher|False|0.07662511616945267
+repositorymanagerresearcher|researcherpublisher|False|0.453212171792984
+researcher|civic tech activist|False|0.35383141040802
+researcher|developer|False|0.27868974208831787
+researcher|developerdatawrangler|False|0.30465397238731384
+researcher|developerpublisher|False|0.30774277448654175
+researcher|developerwrangler|False|0.3743179440498352
+researcher|government publisher|False|0.2343338578939438
+researcher|machine learning expert|False|0.3673388361930847
+researcher|publisher|False|0.2576509118080139
+researcher|repository manager|False|0.30209243297576904
+researcher|repositorymanagerresearcher|False|0.4798426032066345
+researcher|researcher|False|0.0
+researcher|researcherdeveloper|False|0.533557653427124
+researcher|researchergovernment publisher|False|0.26082050800323486
+researcher|researcherpublisher|False|0.6624270677566528
+researcherdeveloper|civic tech activist|False|0.1734175831079483
+researcherdeveloper|developer|False|0.33345142006874084
+researcherdeveloper|developerdatawrangler|False|0.3589785397052765
+researcherdeveloper|developerpublisher|False|0.11868730932474136
+researcherdeveloper|developerwrangler|False|0.35933351516723633
+researcherdeveloper|government publisher|False|0.07052495330572128
+researcherdeveloper|machine learning expert|False|0.2262255996465683
+researcherdeveloper|publisher|False|0.09957049787044525
+researcherdeveloper|repository manager|False|0.11157840490341187
+researcherdeveloper|repositorymanagerresearcher|False|0.5426575541496277
+researcherdeveloper|researcher|False|0.43061619997024536
+researcherdeveloper|researcherdeveloper|False|0.0
+researcherdeveloper|researchergovernment publisher|False|0.03472988307476044
+researcherdeveloper|researcherpublisher|False|0.16191278398036957
+researchergovernment publisher|civic tech activist|False|0.08989927917718887
+researchergovernment publisher|developer|False|0.025882059708237648
+researchergovernment publisher|developerdatawrangler|False|0.08014244586229324
+researchergovernment publisher|developerpublisher|False|0.06449642777442932
+researchergovernment publisher|developerwrangler|False|0.05785878375172615
+researchergovernment publisher|government publisher|False|0.7749452590942383
+researchergovernment publisher|machine learning expert|False|0.12546373903751373
+researchergovernment publisher|publisher|False|0.11673900485038757
+researchergovernment publisher|repository manager|False|0.04031503200531006
+researchergovernment publisher|repositorymanagerresearcher|False|0.16415593028068542
+researchergovernment publisher|researcher|False|0.15944892168045044
+researchergovernment publisher|researcherdeveloper|False|0.0860588327050209
+researchergovernment publisher|researchergovernment publisher|False|0.0
+researchergovernment publisher|researcherpublisher|False|0.1683078110218048
+researcherpublisher|civic tech activist|False|0.14458420872688293
+researcherpublisher|developer|False|0.08469387143850327
+researcherpublisher|developerdatawrangler|False|0.13665318489074707
+researcherpublisher|developerpublisher|False|0.4108316898345947
+researcherpublisher|developerwrangler|False|0.2188759297132492
+researcherpublisher|government publisher|False|0.2641635537147522
+researcherpublisher|machine learning expert|False|0.16628877818584442
+researcherpublisher|publisher|False|0.25511154532432556
+researcherpublisher|repository manager|False|0.13964830338954926
+researcherpublisher|repositorymanagerresearcher|False|0.320840984582901
+researcherpublisher|researcher|False|0.4331170916557312
+researcherpublisher|researcherdeveloper|False|0.3676213324069977
+researcherpublisher|researchergovernment publisher|False|0.19572240114212036
+researcherpublisher|researcherpublisher|False|0.0

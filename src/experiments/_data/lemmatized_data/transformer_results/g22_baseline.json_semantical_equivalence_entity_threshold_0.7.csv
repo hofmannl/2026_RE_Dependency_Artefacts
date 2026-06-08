@@ -1,0 +1,1788 @@
+Entity 1 | Entity 2 | Result | Score 
+who be responsible|kind of datum I want to store|True|0.7899400591850281
+legal statu|agreement|False|0.622671902179718
+research publication|compliance|False|0.666428804397583
+metadata|intention|True|0.8190140128135681
+kind of datum I want to store|security requirement|False|0.5905052423477173
+legal statu|time plan|False|0.5515602827072144
+all datum|necessary right|True|0.7820161581039429
+short description|kind of datum|True|0.7958012819290161
+time plan|kind of datum|True|0.78713059425354
+pointer|how long|False|0.5406028628349304
+when|dmp|True|0.9052078127861023
+description|creation proces|False|0.503012478351593
+pointer|datum set|True|0.7711071372032166
+time plan|format|True|0.7037236094474792
+datum|anonymization of datum|True|0.8393253684043884
+persistent identifier|short description|True|0.8870906233787537
+how secure|compliance|True|0.710395097732544
+description|administrative information|True|0.7131955027580261
+my datum|datum sensitivity|True|0.8264690041542053
+legal statu|report|False|0.5720762610435486
+all resource|research publication|True|0.7093815803527832
+legal statu|section|True|0.7384722232818604
+when|how|True|0.8894829750061035
+conservation period|detail|True|0.879989504814148
+detail|compliance|True|0.7303990125656128
+topic|technology|False|0.644236147403717
+cost|metadata|True|0.7799564599990845
+when|information|True|0.9031281471252441
+metadata|agreement|True|0.7096887826919556
+kind of datum I want to store|necessary right|True|0.7121472954750061
+estimate|detail|True|0.7764604091644287
+topic|repository mention|True|0.9337023496627808
+description|kind of datum type|True|0.8916003108024597
+how long|creation proces|False|0.5692698359489441
+metadata|time plan|False|0.5823896527290344
+persistent identifier|who be responsible|True|0.9189996719360352
+content|content|True|1.0
+all resource|reference|True|0.7895256876945496
+cost|kind of datum|True|0.8922068476676941
+short description|technology|False|0.48027703166007996
+content|kind of datum I want to store|True|0.8979942798614502
+all right|cost|True|0.7359867095947266
+privacy|intention|True|0.8093299865722656
+short description|repository mention|True|0.8137161731719971
+time plan|anonymization of datum|True|0.7686299681663513
+how|it resource requirement|True|0.7378390431404114
+agreement|kind of datum I want to store|True|0.8082566857337952
+information|time plan|True|0.733103334903717
+time plan|repository mention|True|0.8031017780303955
+dmp|report|True|0.7456774711608887
+all resource|description|True|0.779263436794281
+administrative information|how many|False|0.6146677136421204
+pointer|short description|True|0.7050418853759766
+repository mention|reference|True|0.9143639802932739
+how long|kind of datum type|True|0.8480000495910645
+it resource requirement|pointer|False|0.6898044347763062
+persistent identifier|compliance|True|0.8522178530693054
+report|intention|True|0.7517756819725037
+all resource|all datum|True|0.8795861005783081
+administrative information|datum set|True|0.8296663761138916
+metadata|section|True|0.8221121430397034
+compliance|reference|True|0.8362825512886047
+creation proces|kind of datum type|True|0.7842949628829956
+when|kind of datum|True|0.9100030064582825
+who be responsible|information|True|0.8231478929519653
+kind of datum I want to record|when|True|0.8065876960754395
+when|format|True|0.851569414138794
+kind of datum I want to record|estimate|False|0.6496891975402832
+pointer|who be responsible|True|0.8013293743133545
+cost|technology|True|0.7203871607780457
+who|time plan|False|0.5595800280570984
+compliance|all datum|True|0.8165984749794006
+kind of datum I want to record|creation proces|False|0.46971404552459717
+datum sensitivity|time plan|True|0.8037397265434265
+kind of datum type|research publication|True|0.7313492298126221
+it resource requirement|administrative information|True|0.7238229513168335
+description|intention|True|0.9378594756126404
+how many|research publication|False|0.6219391822814941
+pointer|compliance|False|0.6840294599533081
+kind of datum type|reference|True|0.8570648431777954
+when|technology|False|0.6321637630462646
+when|repository mention|True|0.8910756707191467
+privacy|section|True|0.7758266925811768
+plan provenance|dmp|True|0.9130024313926697
+kind of datum I want to record|kind of datum type|True|0.9400766491889954
+who be responsible|format|True|0.7983520030975342
+how many|reference|True|0.8751739859580994
+how|creation proces|False|0.6172919869422913
+legal statu|how many|False|0.5856893658638
+kind of datum|who|True|0.8692919015884399
+my datum|research publication|False|0.5522234439849854
+conservation period|datum|True|0.8827601075172424
+content|information|True|0.9390813708305359
+reference|creation proces|True|0.7136791348457336
+how long|intention|True|0.8848055601119995
+research publication|security requirement|False|0.5934728980064392
+agreement|how|True|0.7679603099822998
+estimate|datum|True|0.8041269183158875
+agreement|information|True|0.7769032716751099
+report|section|True|0.7485829591751099
+reference|administrative information|True|0.8356822729110718
+all metadata|security requirement|False|0.6572545170783997
+description|agreement|True|0.7174393534660339
+all right|dmp|True|0.7765606045722961
+creation proces|intention|True|0.7871518135070801
+my datum|reference|True|0.7620100378990173
+how many|all datum|True|0.861353874206543
+description|time plan|False|0.56558758020401
+all resource|detail|True|0.7473127841949463
+format|intention|True|0.8906330466270447
+how|kind of datum type|True|0.9134063720703125
+topic|when|True|0.8957172632217407
+topic|description|True|0.9118598699569702
+dmp|how many|True|0.7955171465873718
+how secure|security requirement|True|0.899559736251831
+all metadata|legal statu|False|0.6394102573394775
+reference|kind of datum type|True|0.9331103563308716
+security requirement|security requirement|True|1.0
+datum|creation proces|False|0.5158833265304565
+who be responsible|anonymization of datum|True|0.7976385354995728
+dmp|datum set|True|0.8786370754241943
+topic|estimate|True|0.739051342010498
+who be responsible|repository mention|True|0.871545672416687
+plan provenance|security requirement|True|0.7554174065589905
+research publication|necessary right|True|0.7764723896980286
+short description|description|True|0.9154858589172363
+kind of datum|how secure|True|0.7228672504425049
+plan provenance|metadata|True|0.8419303894042969
+all metadata|necessary right|True|0.7689135670661926
+kind of datum I want to store|reference|True|0.8194820880889893
+description|report|False|0.6996240019798279
+technology|dmp|True|0.7503389716148376
+security requirement|legal statu|True|0.7406870126724243
+description|section|True|0.8091403841972351
+kind of datum|how long|True|0.7761785984039307
+metadata|kind of datum I want to record|True|0.9062223434448242
+content|format|True|0.8549635410308838
+my datum|pointer|False|0.6936062574386597
+plan provenance|legal statu|True|0.8765467405319214
+kind of datum type|administrative information|True|0.8205766677856445
+regular summary report|kind of datum I want to store|False|0.6861933469772339
+agreement|format|True|0.7412052154541016
+datum|kind of datum type|True|0.9515949487686157
+it resource requirement|intention|True|0.8146923780441284
+kind of datum|regular summary report|True|0.7961451411247253
+all metadata|datum sensitivity|True|0.864224374294281
+security requirement|necessary right|True|0.8395466208457947
+all right|metadata|False|0.5656206011772156
+time plan|creation proces|False|0.6922324299812317
+administrative information|cost|True|0.7324173450469971
+plan provenance|necessary right|True|0.8966225385665894
+kind of datum I want to store|all datum|True|0.8593843579292297
+persistent identifier|security requirement|True|0.8226215243339539
+how long|section|True|0.7825899124145508
+conservation period|who|True|0.8642107844352722
+information|how secure|True|0.7968302369117737
+cost|when|True|0.8816667795181274
+cost|description|True|0.8880376219749451
+estimate|who|True|0.7921315431594849
+security requirement|datum sensitivity|True|0.8314404487609863
+metadata|all resource|False|0.6806115508079529
+my datum|administrative information|False|0.6823326349258423
+creation proces|section|True|0.7435911893844604
+plan provenance|datum sensitivity|True|0.8867443203926086
+content|anonymization of datum|True|0.8763102293014526
+time plan|kind of datum type|True|0.7954615950584412
+all right|necessary right|True|0.8884946703910828
+content|repository mention|True|0.9120839834213257
+agreement|anonymization of datum|True|0.8105345368385315
+detail|format|True|0.7907748222351074
+cost|all datum|True|0.8538724780082703
+information|all resource|True|0.8081949353218079
+it resource requirement|agreement|False|0.6775432229042053
+information|regular summary report|True|0.779887318611145
+agreement|repository mention|True|0.8634217381477356
+format|section|True|0.8601314425468445
+technology|metadata|False|0.6489271521568298
+administrative information|kind of datum I want to store|True|0.8075904846191406
+reference|intention|True|0.9624619483947754
+how many|detail|True|0.8157801628112793
+kind of datum I want to record|time plan|False|0.6214444637298584
+necessary right|anonymization of datum|True|0.8323588371276855
+who|how secure|False|0.6798240542411804
+all right|technology|False|0.4781307578086853
+conservation period|how secure|True|0.842240571975708
+all resource|software|False|0.581771969795227
+all resource|datum|True|0.7378684878349304
+datum sensitivity|how secure|True|0.8622356057167053
+estimate|how secure|True|0.7135594487190247
+datum|intention|True|0.8902745842933655
+conservation period|how long|True|0.8437153100967407
+it resource requirement|report|False|0.621663510799408
+how|agreement|True|0.7876063585281372
+who|all resource|False|0.634147584438324
+who|regular summary report|False|0.4617690145969391
+estimate|how long|False|0.6793939471244812
+detail|anonymization of datum|True|0.8648779988288879
+it resource requirement|section|True|0.7338205575942993
+legal statu|cost|True|0.7074345350265503
+reference|agreement|True|0.8750154972076416
+regular summary report|how|False|0.6155116558074951
+how|time plan|True|0.7416064143180847
+conservation period|regular summary report|True|0.8263785243034363
+software|security requirement|True|0.7828891277313232
+regular summary report|information|False|0.6793037056922913
+datum sensitivity|all resource|True|0.771182119846344
+datum sensitivity|regular summary report|True|0.8070650696754456
+estimate|regular summary report|False|0.6739689111709595
+reference|time plan|True|0.7785316705703735
+description|how many|False|0.6817950010299683
+compliance|software|False|0.6593621373176575
+compliance|datum|True|0.7794699668884277
+technology|technology|True|1.0
+time plan|intention|True|0.7889494895935059
+repository mention|report|True|0.7654406428337097
+legal statu|content|True|0.7578566074371338
+dmp|cost|True|0.8085112571716309
+research publication|research publication|True|1.0
+how|section|True|0.8344630002975464
+legal statu|conservation period|True|0.7051960229873657
+reference|report|True|0.7665920257568359
+all metadata|research publication|False|0.5491862297058105
+reference|section|True|0.9102314114570618
+software|necessary right|True|0.7233799695968628
+metadata|cost|False|0.6641260385513306
+who be responsible|creation proces|True|0.7078635096549988
+cost|detail|True|0.824751079082489
+research publication|reference|True|0.8227700591087341
+administrative information|how|False|0.671761691570282
+administrative information|information|True|0.8231008648872375
+all metadata|reference|True|0.7418782711029053
+regular summary report|format|False|0.6737363934516907
+security requirement|research publication|False|0.6272058486938477
+all resource|privacy|False|0.5920776724815369
+dmp|kind of datum I want to store|True|0.914003849029541
+kind of datum type|software|False|0.6899647116661072
+kind of datum type|datum|True|0.9640791416168213
+plan provenance|research publication|True|0.7819960713386536
+time plan|agreement|False|0.6495221853256226
+datum|report|False|0.6679505705833435
+kind of datum type|persistent identifier|True|0.9025789499282837
+all resource|who|True|0.7451730966567993
+datum|section|True|0.8322045803070068
+who be responsible|kind of datum type|True|0.8676151633262634
+how many|software|False|0.6155338287353516
+how many|datum|True|0.8240998387336731
+conservation period|who be responsible|True|0.9133415222167969
+security requirement|reference|True|0.7719932794570923
+metadata|conservation period|True|0.7037725448608398
+estimate|who be responsible|True|0.8625113368034363
+repository mention|privacy|True|0.7130639553070068
+all metadata|all datum|True|0.908194363117218
+plan provenance|reference|True|0.8961179852485657
+pointer|anonymization of datum|True|0.8126732707023621
+all right|research publication|False|0.4751502573490143
+security requirement|description|True|0.7334378957748413
+compliance|privacy|True|0.7215034365653992
+information|conservation period|True|0.7741647958755493
+all metadata|pointer|False|0.6278603672981262
+plan provenance|description|True|0.8787731528282166
+administrative information|kind of datum|True|0.8162615299224854
+regular summary report|repository mention|False|0.6715190410614014
+my datum|persistent identifier|True|0.7797359824180603
+legal statu|dmp|True|0.7275769710540771
+time plan|report|False|0.663862943649292
+conservation period|compliance|True|0.8678178191184998
+security requirement|all datum|True|0.7282894849777222
+it resource requirement|how many|True|0.7249957919120789
+administrative information|format|True|0.7701999545097351
+all right|reference|True|0.7587823271751404
+time plan|section|True|0.7700865268707275
+content|creation proces|True|0.746648907661438
+estimate|compliance|True|0.7224584817886353
+plan provenance|all datum|True|0.8632481694221497
+agreement|creation proces|False|0.6654579043388367
+it resource requirement|kind of datum I want to record|True|0.729591965675354
+all right|when|True|0.7959219813346863
+my datum|report|False|0.5723630785942078
+all right|description|True|0.7493250370025635
+legal statu|how|False|0.6572543978691101
+all resource|how long|False|0.6956594586372375
+all resource|datum set|True|0.8097129464149475
+kind of datum I want to store|software|False|0.6540616154670715
+kind of datum I want to store|datum|True|0.9589352607727051
+all right|all datum|True|0.7424493432044983
+content|kind of datum type|True|0.9071660041809082
+kind of datum type|privacy|True|0.7027068138122559
+legal statu|all right|False|0.629144549369812
+kind of datum I want to record|how secure|False|0.6309669613838196
+agreement|kind of datum type|True|0.8209734559059143
+administrative information|anonymization of datum|True|0.8444190621376038
+metadata|dmp|True|0.865581214427948
+how many|privacy|False|0.6024035811424255
+repository mention|datum set|True|0.8510680198669434
+reference|how many|True|0.8496769070625305
+when|time plan|True|0.861129105091095
+who be responsible|intention|True|0.8765430450439453
+administrative information|repository mention|True|0.8335963487625122
+dmp|how|True|0.7849380970001221
+how|kind of datum I want to record|True|0.8715072870254517
+detail|creation proces|False|0.631602942943573
+dmp|information|True|0.8537456393241882
+cost|datum|True|0.8338580131530762
+compliance|datum set|True|0.8125208616256714
+kind of datum I want to record|all resource|False|0.6240617632865906
+kind of datum I want to record|regular summary report|True|0.7620589733123779
+information|dmp|True|0.9073286056518555
+legal statu|metadata|False|0.6382738947868347
+description|cost|True|0.7190683484077454
+kind of datum|security requirement|False|0.6832306981086731
+technology|all datum|True|0.7060149312019348
+my datum|privacy|False|0.4424668848514557
+how|how secure|True|0.8244805335998535
+all metadata|detail|True|0.7020193934440613
+legal statu|kind of datum|True|0.7495933175086975
+topic|who|True|0.8870535492897034
+detail|kind of datum type|True|0.8677138090133667
+who be responsible|agreement|True|0.84926837682724
+how|all resource|True|0.7257155179977417
+how|regular summary report|False|0.6841179728507996
+description|content|True|0.9353316426277161
+security requirement|detail|True|0.7440589070320129
+short description|who|True|0.7455607056617737
+who|dmp|True|0.8661552667617798
+description|conservation period|False|0.6140647530555725
+who be responsible|time plan|True|0.7010265588760376
+plan provenance|detail|True|0.8576786518096924
+persistent identifier|administrative information|True|0.8888259530067444
+kind of datum I want to store|privacy|False|0.5832546949386597
+privacy|dmp|True|0.7866590023040771
+metadata|metadata|True|1.0
+dmp|kind of datum|True|0.9219602942466736
+kind of datum type|datum set|True|0.9514032602310181
+kind of datum|necessary right|True|0.8402449488639832
+dmp|format|True|0.8630637526512146
+content|intention|True|0.9799259305000305
+how many|datum set|True|0.8386846780776978
+information|metadata|True|0.8241121172904968
+agreement|intention|True|0.8855479955673218
+legal statu|technology|False|0.485844224691391
+legal statu|repository mention|True|0.8092255592346191
+all right|detail|True|0.7495455741882324
+who be responsible|report|True|0.7734044790267944
+topic|how secure|True|0.7254997491836548
+information|legal statu|True|0.7018340229988098
+who be responsible|section|True|0.8363237977027893
+my datum|how many|False|0.6932765245437622
+metadata|necessary right|True|0.780497670173645
+all resource|compliance|True|0.7367621660232544
+necessary right|intention|True|0.881763219833374
+my datum|datum set|True|0.8769508600234985
+cost|who|True|0.8604477643966675
+pointer|creation proces|False|0.5483161211013794
+short description|how secure|True|0.7187204360961914
+report|how|False|0.6503314971923828
+topic|all resource|True|0.7655888795852661
+topic|regular summary report|False|0.6820912957191467
+information|necessary right|True|0.8457416296005249
+how secure|intention|True|0.8548479676246643
+report|information|True|0.792229175567627
+who|security requirement|False|0.6345380544662476
+pointer|administrative information|False|0.6912211775779724
+dmp|anonymization of datum|True|0.9328887462615967
+content|agreement|True|0.8476442098617554
+dmp|repository mention|True|0.9080598950386047
+it resource requirement|cost|True|0.8074248433113098
+conservation period|security requirement|True|0.8024125099182129
+who|metadata|False|0.6454857587814331
+my datum|plan provenance|True|0.8003865480422974
+regular summary report|creation proces|False|0.2651873826980591
+datum sensitivity|security requirement|True|0.8002004623413086
+estimate|security requirement|False|0.6221024990081787
+detail|intention|True|0.9095317721366882
+kind of datum type|short description|True|0.8898012638092041
+content|time plan|True|0.7331099510192871
+privacy|metadata|True|0.7352982759475708
+short description|all resource|False|0.6130435466766357
+short description|regular summary report|False|0.6980398297309875
+metadata|technology|False|0.6088831424713135
+information|datum sensitivity|True|0.8668969869613647
+time plan|all resource|False|0.6818042993545532
+datum sensitivity|metadata|True|0.8623551726341248
+who|legal statu|False|0.6293164491653442
+description|dmp|True|0.855696976184845
+kind of datum I want to store|datum set|True|0.9130033254623413
+all metadata|my datum|True|0.8500969409942627
+information|technology|True|0.7668099999427795
+research publication|software|False|0.6098040342330933
+datum sensitivity|legal statu|True|0.8318355679512024
+estimate|legal statu|True|0.7508451342582703
+it resource requirement|content|True|0.8179519772529602
+all metadata|software|False|0.49415192008018494
+who|necessary right|True|0.8307488560676575
+all metadata|datum|True|0.8042274117469788
+regular summary report|kind of datum type|True|0.7489396929740906
+cost|how secure|True|0.7850956320762634
+all metadata|persistent identifier|True|0.8535371422767639
+description|how|True|0.7707399725914001
+content|report|True|0.7339832186698914
+it resource requirement|kind of datum I want to store|True|0.7373207211494446
+content|section|True|0.882484495639801
+conservation period|necessary right|True|0.9262908697128296
+agreement|report|False|0.6166979670524597
+kind of datum I want to record|conservation period|False|0.6912274956703186
+cost|how long|True|0.7771764993667603
+my datum|short description|True|0.7433105111122131
+datum sensitivity|necessary right|True|0.8733435869216919
+estimate|necessary right|True|0.7912312746047974
+agreement|section|True|0.8094256520271301
+persistent identifier|intention|True|0.8947305083274841
+reference|cost|True|0.8432390689849854
+report|format|True|0.7141367197036743
+description|all right|False|0.6303251385688782
+security requirement|software|True|0.7310723066329956
+administrative information|creation proces|False|0.5657857656478882
+security requirement|datum|False|0.6906245946884155
+cost|regular summary report|True|0.7484734654426575
+creation proces|dmp|True|0.78294438123703
+security requirement|persistent identifier|True|0.8477154970169067
+plan provenance|software|True|0.7219215631484985
+plan provenance|datum|True|0.8683986663818359
+kind of datum type|compliance|True|0.7534260749816895
+plan provenance|persistent identifier|True|0.9015728831291199
+how long|how|True|0.9313920140266418
+format|dmp|True|0.855012059211731
+when|how secure|True|0.7640767693519592
+how secure|report|False|0.5906289219856262
+how long|information|True|0.8058925867080688
+repository mention|kind of datum I want to store|True|0.911843478679657
+description|metadata|True|0.7663789987564087
+how many|compliance|False|0.6977765560150146
+how|conservation period|True|0.728070080280304
+datum|cost|True|0.7570992112159729
+creation proces|how|True|0.7478476166725159
+compliance|kind of datum I want to store|True|0.8245859742164612
+administrative information|kind of datum type|True|0.8482018709182739
+all right|software|False|0.4823302626609802
+detail|report|False|0.679521918296814
+all right|datum|False|0.5797212719917297
+who be responsible|how many|True|0.8458781242370605
+description|kind of datum|True|0.8764013051986694
+when|all resource|True|0.7783840894699097
+when|regular summary report|False|0.6949305534362793
+detail|section|True|0.855194091796875
+pointer|intention|True|0.792342483997345
+research publication|privacy|False|0.6826119422912598
+legal statu|when|True|0.7039653658866882
+legal statu|description|False|0.5916455388069153
+all metadata|privacy|False|0.5252130031585693
+kind of datum|reference|True|0.8939919471740723
+kind of datum I want to record|dmp|True|0.8723312616348267
+datum|kind of datum I want to store|True|0.9495786428451538
+time plan|cost|True|0.7906662225723267
+creation proces|metadata|False|0.6319273710250854
+technology|datum|True|0.7063456177711487
+how long|format|True|0.7494279146194458
+persistent identifier|report|True|0.8038839101791382
+how secure|privacy|True|0.8497507572174072
+kind of datum type|content|True|0.8892483115196228
+format|metadata|True|0.7939695119857788
+it resource requirement|how|False|0.698964536190033
+security requirement|privacy|True|0.8570340275764465
+cost|who be responsible|True|0.9283159375190735
+kind of datum type|kind of datum I want to store|True|0.9554017782211304
+it resource requirement|information|True|0.7372345328330994
+information|research publication|True|0.7511352896690369
+description|topic|True|0.8466242551803589
+description|technology|False|0.5043451189994812
+plan provenance|privacy|True|0.7671100497245789
+pointer|agreement|False|0.6299682855606079
+all resource|security requirement|False|0.6300578713417053
+description|repository mention|True|0.8661787509918213
+who be responsible|all resource|True|0.7650426626205444
+security requirement|who|True|0.7349218726158142
+how many|kind of datum I want to store|True|0.7927699685096741
+it resource requirement|all right|False|0.6718696355819702
+how|dmp|True|0.8874466419219971
+plan provenance|who|True|0.8587378263473511
+information|reference|True|0.9054181575775146
+content|how many|True|0.8152620196342468
+metadata|description|True|0.8145795464515686
+metadata|when|True|0.8260180950164795
+reference|dmp|True|0.926712691783905
+cost|compliance|True|0.8222988247871399
+dmp|creation proces|False|0.6750451326370239
+my datum|content|True|0.8521454930305481
+metadata|estimate|False|0.6664233803749084
+information|when|True|0.8774188756942749
+information|description|True|0.9199399352073669
+repository mention|how|True|0.8021981716156006
+how long|technology|False|0.5575198531150818
+my datum|kind of datum I want to store|True|0.9091123938560486
+metadata|all datum|True|0.8488890528678894
+repository mention|information|True|0.876363217830658
+research publication|datum set|True|0.7524994611740112
+all right|who|True|0.7120710015296936
+kind of datum I want to record|metadata|True|0.8444370031356812
+who|research publication|False|0.5585459470748901
+reference|how|True|0.88593590259552
+pointer|report|False|0.6125456094741821
+software|software|True|1.0
+software|datum|True|0.7358745336532593
+creation proces|technology|False|0.6440288424491882
+all metadata|datum set|True|0.8837876915931702
+compliance|information|True|0.8035221099853516
+pointer|section|True|0.7676278352737427
+information|all datum|True|0.9091920256614685
+conservation period|research publication|True|0.7963078618049622
+it resource requirement|kind of datum|True|0.7789165377616882
+kind of datum I want to record|legal statu|False|0.614733099937439
+datum sensitivity|research publication|True|0.7661881446838379
+datum|dmp|True|0.8836475014686584
+estimate|research publication|False|0.6753333210945129
+it resource requirement|format|False|0.6952301859855652
+format|technology|False|0.6883723139762878
+dmp|kind of datum type|True|0.9422370791435242
+who|reference|True|0.8679280877113342
+how secure|datum set|True|0.7306528687477112
+all metadata|plan provenance|True|0.8079697489738464
+security requirement|how long|False|0.6462612152099609
+security requirement|datum set|True|0.7416207790374756
+conservation period|reference|True|0.9079352021217346
+kind of datum I want to record|necessary right|True|0.7706927061080933
+plan provenance|how long|True|0.7717092037200928
+content|all resource|True|0.7858666181564331
+datum sensitivity|reference|True|0.8738054037094116
+administrative information|agreement|False|0.6656104922294617
+estimate|reference|True|0.808723509311676
+who|description|True|0.878128707408905
+how|metadata|True|0.7392745614051819
+plan provenance|datum set|True|0.8785788416862488
+datum|how|True|0.7411377429962158
+datum|information|True|0.8524841070175171
+reference|metadata|True|0.8623902797698975
+datum sensitivity|description|True|0.8400543332099915
+how|legal statu|True|0.7161663770675659
+who|all datum|True|0.817450761795044
+all right|how secure|True|0.7480897307395935
+kind of datum I want to record|datum sensitivity|True|0.8988290429115295
+time plan|dmp|True|0.8374208211898804
+repository mention|format|True|0.8379932641983032
+all right|how long|False|0.6723600029945374
+kind of datum type|information|True|0.8546950221061707
+reference|kind of datum|True|0.9350873827934265
+it resource requirement|topic|True|0.7066333889961243
+datum sensitivity|all datum|True|0.9155336022377014
+compliance|format|True|0.7375342845916748
+it resource requirement|repository mention|True|0.8355574011802673
+kind of datum I want to record|technology|False|0.5645878314971924
+all metadata|short description|True|0.7807537913322449
+how|necessary right|True|0.8594855070114136
+how many|information|True|0.8552355170249939
+persistent identifier|how many|True|0.8384850025177002
+who be responsible|cost|True|0.8957149386405945
+all resource|anonymization of datum|True|0.8355745077133179
+administrative information|section|True|0.7904391288757324
+persistent identifier|datum set|True|0.9152382016181946
+all datum|security requirement|False|0.5767835974693298
+topic|security requirement|True|0.7230291962623596
+software|privacy|False|0.596238911151886
+report|creation proces|False|0.4772542417049408
+how|datum sensitivity|True|0.8234190344810486
+security requirement|short description|True|0.7534566521644592
+datum|kind of datum|True|0.9385328888893127
+my datum|how|False|0.6972630620002747
+metadata|detail|True|0.746654748916626
+all metadata|who be responsible|True|0.8470107913017273
+plan provenance|short description|True|0.8459784984588623
+datum|format|True|0.8590331673622131
+my datum|information|True|0.7476665377616882
+repository mention|anonymization of datum|True|0.8904317021369934
+how|technology|False|0.6365736126899719
+short description|security requirement|False|0.5949142575263977
+topic|legal statu|True|0.7438497543334961
+information|detail|True|0.8424972891807556
+reference|technology|True|0.7052528858184814
+compliance|anonymization of datum|True|0.8417825698852539
+description|when|True|0.8013279438018799
+description|description|True|1.0
+my datum|all right|False|0.6251789331436157
+conservation period|administrative information|True|0.8674108386039734
+reference|repository mention|True|0.9482983350753784
+time plan|metadata|False|0.6869615912437439
+kind of datum type|format|True|0.9168739318847656
+estimate|administrative information|True|0.7188870310783386
+report|kind of datum type|True|0.7789590358734131
+security requirement|who be responsible|True|0.8603822588920593
+description|estimate|False|0.6406760811805725
+topic|necessary right|True|0.8797227740287781
+all metadata|compliance|False|0.6402469277381897
+plan provenance|who be responsible|True|0.8968881368637085
+section|anonymization of datum|True|0.8665952682495117
+pointer|how many|False|0.6534043550491333
+how many|format|True|0.8356209993362427
+kind of datum I want to store|information|True|0.8549408316612244
+datum|technology|False|0.5528242588043213
+content|cost|True|0.8182201385498047
+short description|necessary right|True|0.7279674410820007
+datum|repository mention|True|0.8526854515075684
+dmp|agreement|True|0.7718546390533447
+topic|datum sensitivity|True|0.8225175142288208
+agreement|cost|True|0.7498454451560974
+security requirement|compliance|True|0.7950621247291565
+my datum|kind of datum|True|0.8298575282096863
+who|detail|True|0.7752608060836792
+all right|who be responsible|True|0.8655140399932861
+cost|security requirement|True|0.7772951126098633
+my datum|format|True|0.7465994954109192
+plan provenance|compliance|True|0.8014406561851501
+dmp|time plan|True|0.8149205446243286
+software|datum set|True|0.7674511671066284
+kind of datum type|anonymization of datum|True|0.9255913496017456
+datum sensitivity|detail|True|0.8528043031692505
+kind of datum type|repository mention|True|0.9083734154701233
+creation proces|all datum|True|0.7481465935707092
+how many|anonymization of datum|True|0.8572866916656494
+regular summary report|how secure|False|0.5276341438293457
+kind of datum I want to record|research publication|False|0.5558591485023499
+content|conservation period|True|0.7888603806495667
+all right|compliance|True|0.739788830280304
+time plan|technology|False|0.5336346626281738
+anonymization of datum|dmp|True|0.8639892339706421
+kind of datum|software|True|0.7031368017196655
+kind of datum|datum|True|0.9625164270401001
+when|security requirement|True|0.779774010181427
+who be responsible|dmp|True|0.8946822285652161
+kind of datum I want to store|format|True|0.8526924848556519
+dmp|section|True|0.8537281155586243
+research publication|kind of datum I want to store|True|0.7045872807502747
+cost|necessary right|True|0.9063429832458496
+when|metadata|True|0.7411115765571594
+regular summary report|regular summary report|True|1.0
+all metadata|kind of datum I want to store|True|0.8656218647956848
+my datum|topic|True|0.7293412685394287
+my datum|anonymization of datum|True|0.7611979842185974
+kind of datum I want to record|reference|True|0.8631648421287537
+my datum|repository mention|True|0.831656813621521
+it resource requirement|when|True|0.7665637731552124
+who be responsible|how|True|0.8641515970230103
+kind of datum I want to record|description|True|0.8762871623039246
+how secure|kind of datum I want to store|True|0.7965297102928162
+metadata|datum|True|0.9191727638244629
+how|research publication|False|0.6249760985374451
+it resource requirement|estimate|False|0.6167423129081726
+security requirement|kind of datum I want to store|True|0.7815364599227905
+information|software|True|0.7845284938812256
+when|necessary right|True|0.8957073092460632
+information|datum|True|0.8864967823028564
+administrative information|how secure|False|0.6704140901565552
+kind of datum I want to record|all datum|True|0.8792853355407715
+detail|kind of datum I want to store|True|0.845125138759613
+information|persistent identifier|True|0.8932655453681946
+kind of datum I want to store|anonymization of datum|True|0.8156061768531799
+it resource requirement|creation proces|False|0.48674798011779785
+persistent identifier|cost|True|0.8418541550636292
+how|reference|True|0.910319447517395
+anonymization of datum|metadata|True|0.768500030040741
+who be responsible|metadata|True|0.7541285157203674
+how|description|True|0.8864247798919678
+how|when|True|0.9196982979774475
+administrative information|all resource|False|0.6773940920829773
+administrative information|regular summary report|True|0.7825869917869568
+content|dmp|True|0.8918958902359009
+reference|description|True|0.9227802753448486
+legal statu|who|False|0.6506343483924866
+agreement|dmp|True|0.8472679257392883
+how|estimate|True|0.7519462704658508
+it resource requirement|kind of datum type|True|0.8099087476730347
+how|all datum|True|0.8619503974914551
+who be responsible|kind of datum|True|0.8549509048461914
+kind of datum|privacy|False|0.6714900135993958
+who|software|False|0.5993990898132324
+who|datum|True|0.7577694654464722
+repository mention|creation proces|False|0.6579241156578064
+persistent identifier|kind of datum I want to store|True|0.9382880330085754
+who|persistent identifier|True|0.815978467464447
+topic|research publication|True|0.7294943332672119
+content|how|True|0.8793222904205322
+conservation period|software|True|0.7602778673171997
+my datum|it resource requirement|False|0.6150758266448975
+necessary right|dmp|True|0.8674071431159973
+compliance|creation proces|True|0.7395178079605103
+datum sensitivity|software|True|0.7891600728034973
+conservation period|persistent identifier|True|0.9034173488616943
+estimate|software|False|0.5893556475639343
+datum sensitivity|datum|True|0.9514280557632446
+datum sensitivity|persistent identifier|True|0.8920972943305969
+estimate|persistent identifier|True|0.7808839678764343
+research publication|how|True|0.7562625408172607
+pointer|cost|False|0.6956170201301575
+research publication|information|True|0.8088210225105286
+short description|research publication|False|0.5658425092697144
+topic|reference|True|0.9123159050941467
+content|all right|True|0.8241723775863647
+all metadata|information|True|0.7206720113754272
+repository mention|kind of datum type|True|0.8875939249992371
+detail|dmp|True|0.8770970106124878
+metadata|who|True|0.7435019016265869
+information|privacy|True|0.7538937926292419
+legal statu|how secure|False|0.645419180393219
+short description|reference|True|0.7840126752853394
+compliance|kind of datum type|True|0.8447151780128479
+how secure|how|True|0.8678489327430725
+who be responsible|technology|False|0.6506284475326538
+legal statu|how long|False|0.5287473201751709
+content|metadata|True|0.7528386116027832
+how secure|information|True|0.7880263328552246
+information|who|True|0.8731687664985657
+pointer|content|True|0.8479378819465637
+agreement|metadata|False|0.6920302510261536
+topic|all datum|True|0.8660998344421387
+pointer|kind of datum I want to store|True|0.8946593403816223
+kind of datum I want to record|detail|True|0.7886403203010559
+legal statu|all resource|False|0.5268492102622986
+legal statu|regular summary report|False|0.611678957939148
+time plan|description|True|0.7132271528244019
+detail|how|True|0.8008545637130737
+detail|information|True|0.8584010601043701
+content|kind of datum|True|0.9151614904403687
+kind of datum type|creation proces|False|0.6588176488876343
+agreement|kind of datum|True|0.8120617270469666
+kind of datum|datum set|True|0.9459006786346436
+cost|research publication|True|0.7100169062614441
+short description|all datum|True|0.7800692915916443
+dmp|how secure|True|0.7846816182136536
+necessary right|metadata|True|0.7208102345466614
+research publication|kind of datum|True|0.8108336925506592
+time plan|all datum|True|0.743248462677002
+how many|creation proces|False|0.5750813484191895
+all right|security requirement|False|0.6251518130302429
+research publication|format|True|0.8012378811836243
+who|privacy|False|0.6050754189491272
+how many|administrative information|True|0.7909836769104004
+all metadata|format|True|0.7240037322044373
+metadata|how secure|True|0.734175980091095
+conservation period|privacy|True|0.8399028778076172
+cost|reference|True|0.8932388424873352
+who|who|True|1.0
+dmp|all resource|True|0.7344983816146851
+dmp|regular summary report|True|0.8408576846122742
+all resource|intention|True|0.7625402212142944
+datum sensitivity|privacy|True|0.7979028224945068
+estimate|privacy|False|0.6605764031410217
+how|detail|True|0.8156172037124634
+kind of datum type|kind of datum type|True|1.0
+metadata|how long|False|0.609332799911499
+persistent identifier|how|True|0.8662501573562622
+my datum|creation proces|False|0.48335808515548706
+how secure|format|True|0.722561240196228
+datum sensitivity|who|True|0.8511596322059631
+persistent identifier|information|True|0.9132496118545532
+how many|kind of datum type|True|0.8830515146255493
+when|research publication|False|0.6735078692436218
+metadata|regular summary report|False|0.664997935295105
+information|how long|True|0.7096563577651978
+security requirement|format|False|0.6848446726799011
+information|datum set|True|0.8848575353622437
+content|technology|True|0.7076849341392517
+technology|security requirement|True|0.7598140835762024
+repository mention|intention|True|0.8812737464904785
+agreement|technology|False|0.5578223466873169
+research publication|anonymization of datum|True|0.8266118168830872
+compliance|intention|True|0.9095667600631714
+when|reference|True|0.9060851335525513
+research publication|repository mention|True|0.8610548377037048
+all metadata|topic|False|0.639971137046814
+it resource requirement|time plan|False|0.6347135901451111
+all metadata|anonymization of datum|True|0.8814536929130554
+my datum|kind of datum type|True|0.8743454217910767
+kind of datum I want to store|creation proces|False|0.40799006819725037
+datum set|dmp|True|0.8972461819648743
+when|description|True|0.8967098593711853
+section|intention|True|0.8522863388061523
+regular summary report|dmp|True|0.7520069479942322
+how secure|anonymization of datum|True|0.8575485944747925
+who|how long|True|0.7413292527198792
+topic|detail|True|0.8472610116004944
+how secure|repository mention|True|0.8300786018371582
+conservation period|how many|True|0.8657599091529846
+who|datum set|True|0.7591338753700256
+security requirement|anonymization of datum|True|0.8163715600967407
+pointer|how|False|0.6904214024543762
+when|all datum|True|0.8760569095611572
+technology|necessary right|True|0.7659961581230164
+persistent identifier|kind of datum|True|0.9269232749938965
+pointer|information|True|0.7555271983146667
+estimate|how many|True|0.7396577000617981
+plan provenance|anonymization of datum|True|0.8859139084815979
+persistent identifier|format|True|0.9029784798622131
+conservation period|datum set|True|0.8904850482940674
+datum sensitivity|how long|True|0.8023051023483276
+detail|technology|False|0.5692974328994751
+datum sensitivity|datum set|True|0.9401283264160156
+kind of datum I want to store|kind of datum type|True|0.9419019222259521
+description|who|True|0.8535963296890259
+estimate|datum set|True|0.8157431483268738
+detail|repository mention|True|0.8917785882949829
+short description|detail|True|0.780427873134613
+information|short description|True|0.8796886205673218
+pointer|all right|False|0.5899056792259216
+cost|administrative information|True|0.8471683859825134
+time plan|detail|True|0.729735791683197
+all resource|report|False|0.5781073570251465
+kind of datum type|intention|True|0.8051167726516724
+kind of datum I want to record|software|False|0.645828902721405
+all resource|section|True|0.8010045289993286
+kind of datum I want to record|datum|True|0.9623666405677795
+software|information|True|0.796907901763916
+kind of datum I want to record|persistent identifier|True|0.8646658658981323
+kind of datum|compliance|True|0.735859215259552
+metadata|who be responsible|True|0.834854781627655
+datum set|security requirement|False|0.680405855178833
+how many|intention|True|0.9118316769599915
+who be responsible|description|True|0.886845588684082
+datum set|metadata|True|0.8664507269859314
+information|who be responsible|True|0.8935596346855164
+administrative information|dmp|True|0.8275408744812012
+regular summary report|security requirement|False|0.45933955907821655
+repository mention|section|True|0.8874134421348572
+persistent identifier|anonymization of datum|True|0.9379507303237915
+compliance|report|False|0.6823166608810425
+who be responsible|all datum|True|0.8394836783409119
+regular summary report|metadata|False|0.5675686597824097
+pointer|kind of datum|True|0.8424628973007202
+persistent identifier|repository mention|True|0.9273748993873596
+all datum|intention|True|0.8165230751037598
+compliance|section|True|0.8072081208229065
+all metadata|it resource requirement|True|0.7543527483940125
+who|short description|True|0.801251232624054
+how|software|False|0.6829459071159363
+pointer|format|True|0.749835729598999
+how|datum|True|0.8094324469566345
+my datum|intention|True|0.8231817483901978
+metadata|compliance|False|0.6869518756866455
+description|how secure|False|0.6347293853759766
+how|persistent identifier|True|0.8396869897842407
+kind of datum type|agreement|True|0.7563159465789795
+conservation period|short description|True|0.915436863899231
+datum sensitivity|short description|True|0.8689205646514893
+estimate|short description|True|0.7927751541137695
+datum set|necessary right|True|0.7816834449768066
+section|section|True|1.0
+information|compliance|True|0.7688261270523071
+kind of datum type|time plan|True|0.7535091042518616
+how many|agreement|True|0.7589660882949829
+software|format|True|0.7840814590454102
+description|all resource|False|0.6559127569198608
+description|regular summary report|False|0.6210963129997253
+regular summary report|necessary right|False|0.5983118414878845
+how many|time plan|False|0.6962298154830933
+plan provenance|it resource requirement|True|0.8084743022918701
+who|who be responsible|True|0.8893380761146545
+kind of datum I want to store|intention|True|0.8624649047851562
+when|detail|True|0.8497018814086914
+datum sensitivity|who be responsible|True|0.9090050458908081
+my datum|agreement|False|0.6200451850891113
+kind of datum I want to record|privacy|False|0.6181679964065552
+pointer|technology|False|0.5615038275718689
+kind of datum|kind of datum I want to store|True|0.9432559609413147
+kind of datum type|report|False|0.6546587944030762
+content|when|True|0.9007224440574646
+content|description|True|0.9288042187690735
+administrative information|metadata|True|0.7526695728302002
+pointer|repository mention|True|0.8025166988372803
+kind of datum type|section|True|0.8446261882781982
+my datum|time plan|False|0.5165393352508545
+kind of datum I want to record|who|True|0.7698478102684021
+content|estimate|True|0.7579220533370972
+topic|software|False|0.664352297782898
+who|compliance|False|0.6210903525352478
+how many|report|False|0.6750379204750061
+topic|datum|True|0.8512483239173889
+how many|section|True|0.8280096054077148
+topic|persistent identifier|True|0.8916919827461243
+content|all datum|True|0.8847793340682983
+regular summary report|technology|False|0.28668758273124695
+agreement|all datum|True|0.8025133609771729
+software|anonymization of datum|True|0.7985300421714783
+datum sensitivity|compliance|True|0.8356418013572693
+short description|software|False|0.48131462931632996
+short description|datum|False|0.673063337802887
+security requirement|pointer|True|0.7565049529075623
+administrative information|necessary right|True|0.7770559191703796
+time plan|datum|True|0.7899007201194763
+how|privacy|False|0.6207051277160645
+research publication|creation proces|False|0.5518990755081177
+all resource|how many|True|0.8074426054954529
+plan provenance|pointer|True|0.8537005186080933
+my datum|section|True|0.7286701202392578
+all metadata|creation proces|False|0.5158621668815613
+how|who|True|0.9103809595108032
+who be responsible|detail|True|0.8309217095375061
+all metadata|administrative information|True|0.7864603996276855
+dmp|dmp|True|1.0
+reference|who|True|0.8989892601966858
+it resource requirement|how secure|True|0.7176913022994995
+how secure|creation proces|False|0.5815836787223816
+security requirement|creation proces|False|0.5667725801467896
+research publication|kind of datum type|True|0.8270038366317749
+administrative information|technology|False|0.6137545704841614
+kind of datum I want to record|how long|False|0.553733229637146
+kind of datum I want to store|report|False|0.6028631329536438
+kind of datum I want to record|datum set|True|0.9091013073921204
+legal statu|security requirement|False|0.6200907230377197
+plan provenance|creation proces|True|0.7869214415550232
+all metadata|kind of datum type|True|0.8887202143669128
+security requirement|administrative information|True|0.785335898399353
+kind of datum I want to store|section|True|0.7695788145065308
+it resource requirement|all resource|True|0.8483855724334717
+it resource requirement|regular summary report|False|0.5859299302101135
+cost|software|True|0.746035635471344
+plan provenance|administrative information|True|0.8606388568878174
+conservation period|content|True|0.9173489809036255
+estimate|content|True|0.8312726020812988
+how secure|kind of datum type|True|0.8637725710868835
+all datum|privacy|False|0.5279669165611267
+topic|privacy|False|0.6811701655387878
+conservation period|kind of datum I want to store|True|0.8734835982322693
+security requirement|kind of datum type|True|0.7538052201271057
+estimate|kind of datum I want to store|True|0.7746887803077698
+kind of datum|information|True|0.8910462260246277
+plan provenance|kind of datum type|True|0.9103767275810242
+reference|how secure|True|0.7858830094337463
+how|how long|True|0.8681262135505676
+all right|administrative information|False|0.5813546180725098
+short description|privacy|False|0.6138347387313843
+reference|how long|True|0.8244706392288208
+legal statu|necessary right|True|0.8409668207168579
+when|software|True|0.7277227640151978
+dmp|metadata|True|0.8452596664428711
+content|detail|True|0.867909848690033
+when|datum|True|0.8422600626945496
+persistent identifier|creation proces|True|0.7888433933258057
+agreement|detail|True|0.8010573983192444
+metadata|security requirement|True|0.7636178135871887
+kind of datum type|how many|True|0.8052368760108948
+reference|all resource|True|0.8269358277320862
+reference|regular summary report|True|0.7398426532745361
+time plan|who|False|0.6260084509849548
+kind of datum I want to record|short description|True|0.8534250855445862
+how many|how many|True|1.0
+information|security requirement|True|0.769859254360199
+datum|how secure|False|0.6276769638061523
+metadata|legal statu|True|0.7218982577323914
+dmp|necessary right|True|0.8580290675163269
+pointer|when|True|0.7681908011436462
+persistent identifier|kind of datum type|True|0.9434016346931458
+research publication|intention|True|0.8210358023643494
+regular summary report|reference|False|0.6126324534416199
+report|dmp|True|0.7314445376396179
+datum|regular summary report|False|0.6915241479873657
+all metadata|intention|False|0.683599054813385
+kind of datum|format|True|0.8945128321647644
+pointer|estimate|False|0.6295770406723022
+cost|privacy|True|0.7432267665863037
+kind of datum I want to record|who be responsible|True|0.7830725908279419
+topic|how long|True|0.7322248816490173
+all datum|datum set|True|0.929015040397644
+topic|datum set|True|0.8334085941314697
+how|short description|True|0.8527259826660156
+my datum|kind of datum I want to record|True|0.9064119458198547
+kind of datum type|all resource|True|0.751145601272583
+time plan|how secure|False|0.64190673828125
+regular summary report|all datum|False|0.6534711718559265
+dmp|technology|False|0.673747718334198
+security requirement|intention|True|0.745079755783081
+short description|how long|False|0.6930248737335205
+administrative information|research publication|True|0.7388660907745361
+short description|datum set|True|0.7190759181976318
+metadata|datum sensitivity|True|0.899725615978241
+privacy|security requirement|True|0.8231241106987
+time plan|how long|False|0.6810901165008545
+plan provenance|intention|True|0.9095338582992554
+how many|all resource|True|0.7005351781845093
+kind of datum I want to record|compliance|True|0.7534279227256775
+conservation period|how|True|0.8737454414367676
+research publication|agreement|True|0.7132110595703125
+conservation period|information|True|0.8757816553115845
+when|privacy|False|0.6416376829147339
+estimate|how|True|0.8007743954658508
+time plan|regular summary report|True|0.7356777787208557
+how|who be responsible|True|0.8625180125236511
+estimate|information|True|0.7663291096687317
+all resource|cost|True|0.7819437980651855
+all metadata|agreement|False|0.6037502288818359
+administrative information|reference|True|0.7728893160820007
+pointer|kind of datum type|True|0.8638395667076111
+kind of datum|anonymization of datum|True|0.8447542190551758
+when|who|True|0.9159048795700073
+kind of datum|repository mention|True|0.9149134159088135
+conservation period|all right|True|0.85892653465271
+all metadata|time plan|False|0.5410454273223877
+report|metadata|True|0.7023698091506958
+estimate|all right|True|0.7497528791427612
+my datum|all resource|False|0.6014280319213867
+administrative information|description|True|0.7177377939224243
+it resource requirement|conservation period|True|0.7296106815338135
+security requirement|agreement|True|0.7605461478233337
+privacy|necessary right|True|0.8535742163658142
+topic|short description|True|0.853911817073822
+how|compliance|True|0.7047080397605896
+plan provenance|agreement|True|0.8195262551307678
+administrative information|all datum|True|0.7794406414031982
+cost|datum set|True|0.8488925099372864
+research publication|report|True|0.8515332341194153
+how long|dmp|True|0.8183369040489197
+security requirement|time plan|True|0.7683940529823303
+research publication|section|True|0.8391965627670288
+all resource|kind of datum I want to store|True|0.7895154356956482
+all metadata|report|False|0.5055495500564575
+agreement|datum|True|0.743780255317688
+all metadata|section|True|0.7663876414299011
+report|necessary right|False|0.6726004481315613
+information|anonymization of datum|True|0.8979794979095459
+conservation period|kind of datum|True|0.9077453017234802
+estimate|kind of datum|True|0.8226090669631958
+conservation period|format|True|0.8677726984024048
+description|security requirement|False|0.6562225818634033
+topic|who be responsible|True|0.9032103419303894
+estimate|format|True|0.727057933807373
+who be responsible|who|True|0.9660807251930237
+how secure|section|False|0.6930204629898071
+legal statu|research publication|False|0.5973897576332092
+security requirement|report|True|0.7352140545845032
+when|how long|True|0.7917208075523376
+security requirement|section|True|0.7372718453407288
+when|datum set|True|0.8529021143913269
+plan provenance|report|True|0.8043027520179749
+description|legal statu|False|0.6300011277198792
+plan provenance|section|True|0.9024521708488464
+persistent identifier|agreement|True|0.8409395813941956
+all right|persistent identifier|True|0.7207066416740417
+report|technology|False|0.44002851843833923
+legal statu|reference|True|0.7394598722457886
+topic|compliance|True|0.7780060172080994
+kind of datum type|cost|True|0.7731977701187134
+how long|security requirement|False|0.6721612215042114
+persistent identifier|time plan|True|0.7934342622756958
+who|anonymization of datum|True|0.8109686374664307
+cost|short description|True|0.8722937703132629
+description|necessary right|True|0.7747178673744202
+how long|metadata|True|0.7375890016555786
+all right|report|False|0.5213757157325745
+dmp|research publication|False|0.6836673617362976
+how many|cost|True|0.8197252154350281
+conservation period|anonymization of datum|True|0.9079638123512268
+creation proces|security requirement|False|0.5788144469261169
+it resource requirement|dmp|True|0.7987433075904846
+conservation period|repository mention|True|0.9254148602485657
+datum sensitivity|anonymization of datum|True|0.895487904548645
+estimate|anonymization of datum|True|0.8460705280303955
+short description|compliance|False|0.6631885766983032
+estimate|repository mention|True|0.8550626039505005
+time plan|compliance|False|0.6708424091339111
+format|security requirement|True|0.7883883714675903
+software|intention|True|0.7280667424201965
+who be responsible|how secure|True|0.841015636920929
+metadata|research publication|False|0.6723644733428955
+legal statu|all datum|True|0.7092322707176208
+technology|software|True|0.8008348941802979
+description|datum sensitivity|True|0.7993685007095337
+dmp|reference|True|0.8856983184814453
+who be responsible|how long|True|0.7999221086502075
+persistent identifier|section|True|0.8998854160308838
+my datum|cost|False|0.606142520904541
+kind of datum type|conservation period|True|0.8258492946624756
+how long|necessary right|True|0.8485479950904846
+content|who|True|0.9129618406295776
+dmp|when|True|0.8648715019226074
+dmp|description|True|0.8634160161018372
+when|short description|True|0.8803220391273499
+administrative information|detail|True|0.7235655784606934
+metadata|reference|True|0.8513965606689453
+who be responsible|regular summary report|True|0.7294483184814453
+agreement|who|True|0.8084984421730042
+all resource|how|True|0.8050300478935242
+repository mention|dmp|True|0.8572186231613159
+creation proces|necessary right|True|0.8193879127502441
+all resource|information|True|0.7532505989074707
+pointer|time plan|False|0.6416552662849426
+dmp|all datum|True|0.8789392113685608
+compliance|dmp|True|0.832655668258667
+format|necessary right|True|0.814608633518219
+it resource requirement|security requirement|False|0.6238133907318115
+all right|privacy|False|0.5484210252761841
+kind of datum I want to record|security requirement|False|0.6199198961257935
+topic|kind of datum I want to store|True|0.8954184651374817
+when|who be responsible|True|0.9106018543243408
+it resource requirement|metadata|False|0.623508095741272
+my datum|conservation period|False|0.5903750658035278
+all metadata|how many|True|0.7432795763015747
+section|dmp|True|0.8447991609573364
+compliance|how|True|0.7911730408668518
+metadata|pointer|True|0.7544890642166138
+it resource requirement|legal statu|False|0.6905447840690613
+short description|kind of datum I want to store|True|0.7867161631584167
+all metadata|kind of datum I want to record|True|0.8873844742774963
+kind of datum|creation proces|False|0.6572922468185425
+my datum|legal statu|False|0.6384444832801819
+content|how secure|True|0.7872324585914612
+agreement|how secure|True|0.7055532932281494
+information|pointer|True|0.8178476691246033
+security requirement|how many|False|0.6773156523704529
+content|how long|True|0.8017137050628662
+when|compliance|True|0.7350843548774719
+all resource|kind of datum|True|0.8047381639480591
+agreement|how long|False|0.6185280084609985
+how|security requirement|True|0.7142883539199829
+it resource requirement|necessary right|True|0.8180068731307983
+plan provenance|how many|True|0.826597273349762
+technology|privacy|False|0.6025247573852539
+all resource|format|True|0.7528295516967773
+software|section|True|0.7682786583900452
+intention|anonymization of datum|True|0.8704477548599243
+kind of datum type|dmp|True|0.9193605184555054
+regular summary report|software|False|0.4046874940395355
+content|regular summary report|False|0.6582382321357727
+reference|security requirement|True|0.7418766021728516
+regular summary report|datum|False|0.65162193775177
+repository mention|metadata|True|0.8133067488670349
+agreement|regular summary report|False|0.657075047492981
+plan provenance|kind of datum I want to record|True|0.8420116901397705
+kind of datum|kind of datum type|True|0.9673377275466919
+compliance|metadata|True|0.7123432159423828
+how many|dmp|True|0.8736751079559326
+legal statu|detail|False|0.6989003419876099
+it resource requirement|datum sensitivity|True|0.7588491439819336
+report|reference|True|0.7514851689338684
+metadata|administrative information|True|0.8390566110610962
+how secure|how secure|True|1.0
+all metadata|all resource|True|0.8049106597900391
+all right|how many|True|0.730381429195404
+kind of datum type|how|True|0.8169386982917786
+cost|kind of datum I want to store|True|0.8334293365478516
+section|metadata|True|0.7587900161743164
+it resource requirement|technology|False|0.5807068943977356
+information|administrative information|True|0.8795427083969116
+all right|datum set|False|0.6457728743553162
+detail|how secure|True|0.7149723768234253
+repository mention|necessary right|True|0.8631790280342102
+datum|security requirement|True|0.7017569541931152
+how many|how|True|0.9686413407325745
+how secure|regular summary report|False|0.6402705907821655
+my datum|dmp|True|0.8108006715774536
+kind of datum type|all right|True|0.7208455801010132
+datum sensitivity|pointer|True|0.8836742639541626
+reference|necessary right|True|0.8908581137657166
+datum|metadata|True|0.8539127707481384
+description|research publication|False|0.5613583922386169
+report|all datum|False|0.6847434639930725
+dmp|detail|True|0.8415290713310242
+all resource|repository mention|True|0.8915374279022217
+detail|regular summary report|False|0.6779868006706238
+administrative information|software|False|0.6934776902198792
+administrative information|datum|True|0.7844520211219788
+kind of datum type|metadata|True|0.8529064059257507
+who|creation proces|False|0.45631903409957886
+description|reference|True|0.8758814930915833
+repository mention|technology|False|0.616877555847168
+technology|datum set|True|0.7308829426765442
+kind of datum I want to record|anonymization of datum|True|0.8470752239227295
+datum set|privacy|False|0.5804243087768555
+who|administrative information|False|0.6433668732643127
+conservation period|creation proces|True|0.8413662314414978
+kind of datum I want to store|dmp|True|0.8552206158638
+how many|metadata|True|0.7586286067962646
+time plan|security requirement|True|0.7552632093429565
+persistent identifier|how secure|True|0.8515990972518921
+datum|necessary right|True|0.7720314860343933
+datum sensitivity|creation proces|True|0.7474592328071594
+compliance|technology|False|0.6420663595199585
+estimate|creation proces|False|0.6593737602233887
+kind of datum type|kind of datum|True|0.9845516085624695
+compliance|repository mention|True|0.8825201988220215
+content|who be responsible|True|0.9066057205200195
+regular summary report|privacy|False|0.37547698616981506
+datum sensitivity|administrative information|True|0.8526524901390076
+all right|short description|True|0.7815048098564148
+how many|kind of datum|True|0.8716109991073608
+kind of datum|intention|True|0.86127108335495
+regular summary report|who|False|0.5459387898445129
+description|all datum|True|0.8208304643630981
+who|kind of datum type|True|0.8722105622291565
+persistent identifier|all resource|True|0.8337586522102356
+persistent identifier|regular summary report|True|0.8534342050552368
+kind of datum I want to store|how|True|0.7290465235710144
+how long|reference|True|0.8454096913337708
+my datum|metadata|True|0.7522410750389099
+conservation period|kind of datum type|True|0.9215498566627502
+datum sensitivity|kind of datum type|True|0.9522133469581604
+estimate|kind of datum type|True|0.839963436126709
+time plan|necessary right|True|0.8178366422653198
+agreement|compliance|True|0.7529677748680115
+topic|format|True|0.8452357649803162
+research publication|cost|True|0.7260652184486389
+cost|how|True|0.8509649634361267
+how long|all datum|True|0.8182150721549988
+cost|information|True|0.8569206595420837
+all metadata|cost|False|0.6382420063018799
+pointer|how secure|False|0.6780145764350891
+kind of datum type|technology|False|0.608431339263916
+my datum|necessary right|True|0.7294226884841919
+legal statu|software|False|0.47477245330810547
+legal statu|datum|True|0.7498767375946045
+administrative information|privacy|False|0.6788206100463867
+kind of datum I want to store|metadata|True|0.8007464408874512
+information|intention|True|0.9460254907608032
+short description|format|True|0.7397537231445312
+legal statu|persistent identifier|True|0.7255197167396545
+how many|technology|False|0.5379536151885986
+it resource requirement|research publication|False|0.5912567377090454
+how many|repository mention|True|0.8571616411209106
+administrative information|who|True|0.7144355773925781
+pointer|all resource|False|0.5736422538757324
+pointer|regular summary report|False|0.5975590944290161
+format|all datum|True|0.8591950535774231
+security requirement|cost|True|0.8419991135597229
+regular summary report|how long|False|0.4837082028388977
+regular summary report|datum set|True|0.7088845372200012
+plan provenance|cost|True|0.8631981015205383
+all metadata|content|True|0.7386825084686279
+all datum|anonymization of datum|True|0.8480361104011536
+it resource requirement|reference|True|0.7731793522834778
+topic|anonymization of datum|True|0.9028723835945129
+dmp|software|True|0.7540041208267212
+all metadata|conservation period|False|0.6555092334747314
+my datum|technology|False|0.423799604177475
+dmp|datum|True|0.8841356635093689
+kind of datum|report|True|0.7203489542007446
+it resource requirement|description|True|0.7529221773147583
+who|intention|True|0.9439337849617004
+information|agreement|True|0.816981315612793
+kind of datum|section|True|0.8816121220588684
+short description|anonymization of datum|True|0.8451913595199585
+metadata|software|False|0.6377750635147095
+security requirement|content|True|0.8080078959465027
+cost|format|True|0.8119865655899048
+metadata|persistent identifier|True|0.8861083984375
+conservation period|intention|True|0.9133725166320801
+plan provenance|content|True|0.9142236113548279
+security requirement|conservation period|True|0.7843591570854187
+datum sensitivity|intention|True|0.9063032269477844
+estimate|intention|True|0.8109570145606995
+reference|research publication|True|0.790950357913971
+it resource requirement|all datum|True|0.7545371055603027
+description|detail|True|0.8200506567955017
+plan provenance|kind of datum I want to store|True|0.8491367101669312
+plan provenance|conservation period|True|0.8440568447113037
+kind of datum I want to store|technology|False|0.5813770294189453
+metadata|report|False|0.6867750287055969
+administrative information|how long|False|0.5405735969543457
+kind of datum I want to record|pointer|True|0.8027951121330261
+who be responsible|security requirement|True|0.7965666055679321
+reference|reference|True|1.0
+legal statu|privacy|False|0.5598862767219543
+all right|content|True|0.8366245627403259
+all resource|creation proces|True|0.7010841369628906
+information|report|True|0.7984601855278015
+all right|kind of datum I want to store|True|0.7474603652954102
+who|agreement|True|0.7516113519668579
+information|section|True|0.8738279938697815
+conservation period|agreement|True|0.8719368577003479
+cost|anonymization of datum|True|0.8900230526924133
+repository mention|all datum|True|0.8208382725715637
+datum sensitivity|agreement|True|0.8276247978210449
+cost|repository mention|True|0.8975330591201782
+research publication|dmp|True|0.8296771049499512
+estimate|agreement|True|0.7169371247291565
+conservation period|time plan|True|0.8671097755432129
+reference|all datum|True|0.9108567833900452
+all metadata|dmp|True|0.7996042966842651
+estimate|time plan|True|0.747062087059021
+datum|reference|True|0.8593041300773621
+how|pointer|True|0.7868511080741882
+dmp|privacy|False|0.6150797605514526
+all resource|kind of datum type|True|0.8472194671630859
+who be responsible|necessary right|True|0.9153755307197571
+kind of datum I want to record|administrative information|True|0.8086978197097778
+dmp|who|True|0.8416544198989868
+how secure|dmp|True|0.788668155670166
+who|report|False|0.567107617855072
+metadata|privacy|False|0.6195613145828247
+all metadata|how|True|0.7281461358070374
+who|section|True|0.7874478697776794
+security requirement|dmp|True|0.7904278635978699
+time plan|research publication|False|0.6067014932632446
+report|software|False|0.5258499383926392
+report|datum|True|0.7247838973999023
+when|anonymization of datum|True|0.8715234398841858
+conservation period|report|True|0.7673144340515137
+datum sensitivity|report|True|0.770668089389801
+conservation period|section|True|0.9083259701728821
+datum|all datum|True|0.9437298774719238
+estimate|report|False|0.6844486594200134
+regular summary report|compliance|False|0.523013710975647
+content|security requirement|True|0.7478450536727905
+datum sensitivity|section|True|0.8759493231773376
+kind of datum type|when|True|0.8227934837341309
+kind of datum type|description|True|0.8620884418487549
+estimate|section|True|0.7878183722496033
+agreement|security requirement|True|0.7330610752105713
+all metadata|all right|False|0.6679744124412537
+time plan|reference|True|0.7411965727806091
+how|administrative information|True|0.7664511203765869
+security requirement|how|True|0.7362165451049805
+legal statu|datum set|True|0.7557597756385803
+how many|description|True|0.8881518244743347
+security requirement|information|True|0.7931627631187439
+it resource requirement|detail|True|0.7275003790855408
+kind of datum type|all datum|True|0.9314135313034058
+plan provenance|how|True|0.8618164658546448
+research publication|metadata|True|0.716525137424469
+pointer|conservation period|False|0.6448966264724731
+plan provenance|information|True|0.8611922860145569
+content|legal statu|True|0.7399437427520752
+topic|pointer|True|0.8114761710166931
+all metadata|metadata|True|0.9264116287231445
+security requirement|all right|False|0.6956357955932617
+plan provenance|all right|True|0.8065330386161804
+description|software|False|0.5805435180664062
+description|datum|True|0.7718389630317688
+my datum|description|True|0.7152693867683411
+my datum|when|True|0.7433738112449646
+content|necessary right|True|0.869817852973938
+description|persistent identifier|True|0.8211596012115479
+persistent identifier|dmp|True|0.9333203434944153
+dmp|how long|True|0.7261845469474792
+all right|how|True|0.7710893154144287
+all metadata|kind of datum|True|0.8418764472007751
+how secure|metadata|False|0.6963679790496826
+agreement|necessary right|True|0.8408774137496948
+all right|information|False|0.6377633810043335
+my datum|estimate|False|0.5673144459724426
+security requirement|metadata|False|0.6731085777282715
+administrative information|compliance|False|0.6865514516830444
+detail|security requirement|False|0.6426730751991272
+metadata|how many|True|0.7111309170722961
+my datum|all datum|True|0.864916205406189
+topic|creation proces|False|0.6359307765960693
+detail|metadata|True|0.7785990238189697
+metadata|datum set|True|0.9193015098571777
+content|datum sensitivity|True|0.8223951458930969
+reference|detail|True|0.8939713835716248
+information|how many|True|0.771073043346405
+security requirement|kind of datum|True|0.7487500309944153
+topic|administrative information|True|0.7922096252441406
+report|privacy|False|0.4483298361301422
+how long|software|False|0.5707105994224548
+how long|datum|True|0.7468331456184387
+legal statu|short description|False|0.6333590149879456
+plan provenance|kind of datum|True|0.8975709676742554
+how secure|necessary right|True|0.8196999430656433
+plan provenance|format|True|0.8481389880180359
+short description|creation proces|False|0.5504472255706787
+metadata|plan provenance|True|0.8361303806304932
+report|who|False|0.6280141472816467
+kind of datum I want to record|intention|True|0.8813106417655945
+creation proces|software|False|0.6536318063735962
+creation proces|datum|False|0.6980513334274292
+research publication|technology|False|0.5500805974006653
+short description|administrative information|True|0.7002319693565369
+technology|information|True|0.7597756385803223
+time plan|administrative information|True|0.7920418381690979
+topic|kind of datum type|True|0.9080637097358704
+detail|necessary right|True|0.8352266550064087
+format|software|True|0.739078164100647
+all metadata|technology|False|0.48152631521224976
+format|datum|True|0.8744583129882812
+pointer|dmp|True|0.8718050122261047
+datum|detail|True|0.7697716355323792
+all metadata|repository mention|True|0.8488450646400452
+all resource|agreement|False|0.6908853054046631
+all right|kind of datum|True|0.7192881107330322
+legal statu|who be responsible|True|0.8074542880058289
+persistent identifier|metadata|True|0.9054340124130249
+all right|format|True|0.7015371918678284
+dmp|short description|True|0.8721058964729309
+who|how many|True|0.779787540435791
+short description|kind of datum type|True|0.8585273623466492
+how secure|technology|False|0.6849380731582642
+security requirement|topic|False|0.6971707940101624
+kind of datum type|detail|True|0.8117932081222534
+security requirement|technology|True|0.7064844965934753
+how|intention|True|0.9521985650062561
+software|dmp|True|0.8133063912391663
+description|privacy|False|0.5729610919952393
+datum sensitivity|how many|True|0.8599965572357178
+security requirement|repository mention|True|0.7741473317146301
+metadata|short description|True|0.8051748275756836
+plan provenance|topic|True|0.8647348284721375
+who be responsible|research publication|True|0.7394378781318665
+plan provenance|technology|True|0.7270051836967468
+kind of datum I want to record|agreement|True|0.7391827702522278
+plan provenance|repository mention|True|0.9174972176551819
+cost|creation proces|True|0.7366698384284973
+legal statu|compliance|False|0.6946510076522827
+dmp|who be responsible|True|0.8843744397163391
+persistent identifier|necessary right|True|0.8666541576385498
+it resource requirement|software|False|0.5862341523170471
+it resource requirement|datum|False|0.6971274018287659
+report|how long|False|0.5046821236610413
+it resource requirement|persistent identifier|True|0.7573304176330566
+who be responsible|reference|True|0.8834176063537598
+report|datum set|False|0.6894611120223999
+technology|format|True|0.7427448034286499
+pointer|security requirement|True|0.7081078886985779
+all right|anonymization of datum|True|0.7860319018363953
+how long|privacy|False|0.6011955142021179
+all right|repository mention|True|0.8200899362564087
+my datum|detail|False|0.6889411211013794
+pointer|metadata|False|0.5954511761665344
+cost|kind of datum type|True|0.8910840749740601
+how long|who|True|0.870733916759491
+creation proces|privacy|False|0.6164783239364624
+when|creation proces|False|0.6558526158332825
+kind of datum I want to record|report|True|0.7045979499816895
+dmp|compliance|True|0.7546895146369934
+kind of datum I want to record|section|True|0.7977264523506165
+pointer|legal statu|False|0.5753900408744812
+persistent identifier|technology|True|0.7772936224937439
+conservation period|all resource|True|0.843425452709198
+when|administrative information|True|0.7816733121871948
+format|privacy|False|0.604191780090332
+repository mention|software|False|0.6596839427947998
+estimate|all resource|False|0.6482647657394409
+topic|intention|True|0.9747786521911621
+repository mention|datum|True|0.8229166865348816
+software|metadata|False|0.662494421005249
+reference|software|True|0.7669726014137268
+kind of datum|cost|True|0.8122121095657349
+reference|datum|True|0.8889045119285583
+pointer|necessary right|True|0.7602685689926147
+description|how long|False|0.6353786587715149
+technology|anonymization of datum|True|0.7831315994262695
+content|research publication|True|0.7161689400672913
+description|datum set|True|0.7795209884643555
+short description|intention|True|0.7907123565673828
+when|kind of datum type|True|0.9181036949157715
+how|report|False|0.6789712905883789
+legal statu|kind of datum I want to store|False|0.6544738411903381
+content|reference|True|0.918453574180603
+agreement|reference|True|0.8677570223808289
+administrative information|security requirement|False|0.6694074869155884
+datum|software|False|0.6427626609802246
+it resource requirement|privacy|False|0.5317769050598145
+topic|agreement|True|0.8261552453041077
+datum|datum|True|1.0
+how long|datum set|True|0.753191351890564
+who be responsible|administrative information|True|0.8044774532318115
+topic|time plan|True|0.7040427923202515
+information|cost|True|0.809032142162323
+it resource requirement|who|True|0.7005974650382996
+short description|agreement|False|0.6278111934661865
+creation proces|datum set|True|0.739617109298706
+cost|intention|True|0.9359142184257507
+all metadata|description|False|0.6796541213989258
+all metadata|when|True|0.7642884254455566
+short description|time plan|False|0.5886431336402893
+how secure|reference|True|0.8245480060577393
+software|technology|True|0.7686634659767151
+metadata|content|True|0.8632575869560242
+format|datum set|True|0.8616557121276855
+research publication|all datum|True|0.7420346140861511
+content|pointer|True|0.8079982995986938
+description|short description|True|0.8864326477050781
+metadata|kind of datum I want to store|True|0.9058773517608643
+all metadata|estimate|False|0.5528172254562378
+time plan|software|False|0.6169860363006592
+topic|report|False|0.6971909403800964
+information|content|True|0.9539491534233093
+all datum|section|True|0.7789806127548218
+detail|reference|True|0.8652482032775879
+topic|section|True|0.8860576748847961
+datum set|anonymization of datum|True|0.8856462836265564
+security requirement|when|True|0.7563900947570801
+information|kind of datum I want to store|True|0.9436569809913635
+reference|privacy|True|0.7298343777656555
+repository mention|who|True|0.8313474059104919
+who|cost|True|0.7642596364021301
+plan provenance|when|True|0.8668778538703918
+my datum|software|False|0.4784316122531891
+how secure|all datum|True|0.8240260481834412
+short description|report|False|0.5845611095428467
+regular summary report|anonymization of datum|True|0.735289454460144
+my datum|datum|True|0.9332188367843628
+security requirement|estimate|True|0.7223682403564453
+compliance|who|True|0.8017972707748413
+when|intention|True|0.9641072750091553
+conservation period|cost|True|0.8978276252746582
+short description|section|True|0.7869463562965393
+description|who be responsible|True|0.8542439937591553
+plan provenance|estimate|True|0.7965108752250671
+datum sensitivity|cost|True|0.8492922782897949
+estimate|cost|True|0.8063674569129944
+persistent identifier|research publication|True|0.8250732421875
+cost|agreement|True|0.7986668348312378
+kind of datum I want to record|how many|False|0.6518258452415466
+it resource requirement|how long|False|0.6564176082611084
+detail|all datum|True|0.8460307717323303
+it resource requirement|datum set|True|0.7264378666877747
+content|administrative information|True|0.8038931488990784
+cost|time plan|True|0.789146900177002
+all resource|how secure|True|0.7468446493148804
+datum|privacy|False|0.5388724207878113
+kind of datum|dmp|True|0.9294606447219849
+who|content|True|0.9385400414466858
+persistent identifier|reference|True|0.9200311303138733
+legal statu|information|False|0.607295036315918
+who|kind of datum I want to store|True|0.8126621842384338
+who|conservation period|False|0.6008548140525818
+datum|who|True|0.7751607894897461
+description|compliance|True|0.7703897953033447
+datum sensitivity|content|True|0.8834807276725769
+all resource|regular summary report|False|0.6957128047943115
+persistent identifier|when|True|0.8791529536247253
+persistent identifier|description|True|0.8951852917671204
+repository mention|how secure|True|0.77461177110672
+datum sensitivity|kind of datum I want to store|True|0.9397300481796265
+datum sensitivity|conservation period|True|0.8714283108711243
+when|agreement|True|0.8579747676849365
+kind of datum|how|True|0.8355075120925903
+estimate|conservation period|True|0.7647380828857422
+all right|creation proces|False|0.6090210676193237
+how|how many|True|0.9368818402290344
+cost|report|True|0.7281509041786194
+repository mention|how long|False|0.6510905623435974
+compliance|how secure|True|0.8109630346298218
+cost|section|True|0.8600349426269531
+kind of datum type|who|True|0.8548097610473633
+dmp|security requirement|True|0.7937644124031067
+how|datum set|True|0.8129198551177979
+persistent identifier|all datum|True|0.9025499224662781
+compliance|how long|True|0.7179523706436157
+pointer|research publication|False|0.5253177881240845
+time plan|privacy|False|0.5196359157562256
+reference|datum set|True|0.8935646414756775
+how many|who|True|0.9033623337745667
+research publication|detail|True|0.7943912148475647
+how|plan provenance|True|0.8893837928771973
+metadata|how|True|0.7674221396446228
+it resource requirement|short description|True|0.7331127524375916
+all right|kind of datum type|True|0.7367258667945862
+metadata|information|True|0.8557212352752686
+pointer|reference|True|0.8387934565544128
+when|report|True|0.7452529668807983
+kind of datum|metadata|True|0.8755446672439575
+legal statu|format|False|0.6784880757331848
+information|how|True|0.8520259857177734
+when|section|True|0.8629068732261658
+my datum|who|False|0.697334885597229
+information|information|True|1.0
+metadata|all right|False|0.5856158137321472
+datum|how long|False|0.6665806770324707
+pointer|description|False|0.6671549081802368
+datum|datum set|True|0.9395838975906372
+kind of datum type|how secure|True|0.7098677754402161
+it resource requirement|who be responsible|True|0.8232817649841309
+topic|how many|True|0.7311797738075256
+information|all right|True|0.7713881731033325
+description|kind of datum I want to store|True|0.8744477033615112
+pointer|all datum|True|0.7574663758277893
+kind of datum type|how long|True|0.7525510191917419
+who be responsible|software|True|0.7161820530891418
+how many|how secure|True|0.7396363019943237
+conservation period|dmp|True|0.908496618270874
+who be responsible|datum|True|0.8107709288597107
+datum sensitivity|dmp|True|0.919951319694519
+estimate|dmp|True|0.8365145325660706
+short description|how many|True|0.7133285999298096
+reference|short description|True|0.8925593495368958
+how many|how long|True|0.8518028259277344
+kind of datum type|regular summary report|True|0.7951399087905884
+kind of datum I want to store|who|False|0.6944055557250977
+time plan|how many|True|0.7087261080741882
+who|how|True|0.8939213752746582
+metadata|kind of datum|True|0.9036431908607483
+legal statu|anonymization of datum|True|0.7418189644813538
+who|information|True|0.842994749546051
+it resource requirement|compliance|False|0.6964858770370483
+software|all datum|True|0.7315483689308167
+metadata|format|True|0.8471346497535706
+time plan|datum set|True|0.8170363306999207
+how many|regular summary report|True|0.7664386034011841
+my datum|how secure|False|0.6573073863983154
+datum sensitivity|how|True|0.8541079163551331
+information|kind of datum|True|0.9325464963912964
+datum sensitivity|information|True|0.8634557127952576
+who|all right|True|0.7920460104942322
+information|format|True|0.8814833760261536
+my datum|how long|False|0.5577446818351746
+kind of datum|technology|False|0.656814694404602
+report|security requirement|False|0.691112220287323
+persistent identifier|detail|True|0.8733230233192444
+datum sensitivity|all right|True|0.8018069863319397
+all right|intention|True|0.7635077238082886
+my datum|regular summary report|False|0.6341491937637329
+cost|how many|True|0.8115392923355103
+kind of datum I want to record|cost|False|0.6437453627586365
+kind of datum I want to store|how secure|False|0.6100258827209473
+conservation period|metadata|True|0.8249718546867371
+metadata|topic|True|0.7599157691001892
+metadata|anonymization of datum|True|0.902499258518219
+reference|compliance|True|0.8125571012496948
+content|software|True|0.7481058239936829
+estimate|metadata|True|0.7371880412101746
+kind of datum I want to store|how long|False|0.5431681871414185
+metadata|repository mention|True|0.8776648640632629
+content|datum|True|0.8505808711051941
+who|kind of datum|True|0.8561115860939026
+content|persistent identifier|True|0.876352071762085
+plan provenance|time plan|True|0.8825679421424866
+agreement|software|False|0.6117355823516846
+who|format|True|0.7490648031234741
+research publication|datum|True|0.7250609397888184
+who be responsible|privacy|True|0.7960664629936218
+information|repository mention|True|0.9179722666740417
+datum sensitivity|kind of datum|True|0.9332562685012817
+technology|intention|True|0.7485909461975098
+datum sensitivity|format|True|0.8841875791549683
+all right|agreement|True|0.713687539100647
+kind of datum type|who be responsible|True|0.8918423652648926
+kind of datum I want to record|content|True|0.9011921882629395
+when|how many|True|0.8428773283958435
+description|information|True|0.8926261067390442
+how|cost|True|0.7977617383003235
+pointer|detail|True|0.7270898222923279
+kind of datum I want to record|kind of datum I want to store|True|0.911680281162262
+all right|time plan|False|0.5959173440933228
+datum|compliance|False|0.6696763634681702
+intention|dmp|True|0.9374866485595703
+how secure|software|False|0.6845596432685852
+how secure|datum|False|0.6883987784385681
+cost|all resource|True|0.8037288784980774
+detail|software|False|0.6191425919532776
+who|technology|False|0.5181834101676941
+detail|datum|True|0.8003408312797546
+who|repository mention|True|0.8322515487670898
+how|content|True|0.9333265423774719
+privacy|anonymization of datum|True|0.8983430862426758
+my datum|who be responsible|True|0.8089801669120789
+conservation period|technology|True|0.7390890717506409
+how|kind of datum I want to store|True|0.8669766187667847
+all right|section|True|0.731734573841095
+datum sensitivity|technology|True|0.7330383062362671
+estimate|technology|False|0.552590012550354
+datum sensitivity|repository mention|True|0.9143591523170471
+creation proces|information|True|0.7123822569847107
+reference|kind of datum I want to store|True|0.9222699403762817
+all resource|dmp|True|0.8099967241287231
+metadata|it resource requirement|True|0.739372968673706
+report|anonymization of datum|True|0.7495788931846619
+content|privacy|False|0.6815483570098877
+format|information|True|0.8654673099517822
+description|format|True|0.8296380639076233
+topic|cost|True|0.7744847536087036
+agreement|privacy|True|0.7140215039253235
+who be responsible|datum set|True|0.8097226023674011
+my datum|compliance|False|0.5935294032096863
+datum set|intention|True|0.7763820886611938
+persistent identifier|software|True|0.8215246200561523
+persistent identifier|datum|True|0.901745080947876
+intention|metadata|True|0.7855570316314697
+short description|cost|False|0.661911129951477
+research publication|who|True|0.7391432523727417
+regular summary report|intention|False|0.4796943664550781
+technology|section|True|0.7032638788223267
+all metadata|who|True|0.7260960340499878
+topic|content|True|0.9559828042984009
+legal statu|creation proces|False|0.5752240419387817
+topic|conservation period|True|0.805164098739624
+kind of datum I want to record|how|True|0.7733216881752014
+creation proces|format|True|0.7235592603683472
+how secure|who|True|0.7707015872001648
+description|anonymization of datum|True|0.8422980308532715
+kind of datum I want to record|information|True|0.8879157304763794
+legal statu|administrative information|False|0.646615743637085
+kind of datum|all datum|True|0.9198089838027954
+detail|privacy|False|0.6678759455680847
+format|format|True|1.0
+all resource|metadata|True|0.7037561535835266
+time plan|kind of datum I want to store|True|0.7597610950469971
+detail|who|True|0.7968630194664001
+kind of datum I want to record|all right|True|0.7909523248672485
+who be responsible|short description|True|0.843268632888794
+pointer|software|False|0.6195112466812134
+pointer|datum|True|0.8020395040512085
+cost|cost|True|1.0
+pointer|persistent identifier|True|0.8369041085243225
+legal statu|kind of datum type|True|0.7657116055488586
+research publication|how secure|False|0.6646972894668579
+content|datum set|True|0.846433699131012
+repository mention|security requirement|False|0.6932011246681213
+administrative information|intention|True|0.7439718246459961
+agreement|datum set|True|0.7627952098846436
+how long|anonymization of datum|True|0.8067440986633301
+all metadata|how secure|True|0.7864002585411072
+research publication|how long|False|0.5935215950012207
+how|how|True|1.0
+dmp|administrative information|True|0.8002303838729858
+compliance|security requirement|True|0.8070761561393738
+how|information|True|0.8824518322944641
+all metadata|how long|False|0.6143478155136108
+information|estimate|True|0.7963241934776306
+metadata|creation proces|False|0.5560635328292847
+all resource|necessary right|True|0.8238004446029663
+reference|information|True|0.928386926651001
+creation proces|anonymization of datum|True|0.8227211833000183
+research publication|regular summary report|True|0.7827000021934509
+persistent identifier|privacy|True|0.7851076722145081
+datum set|section|True|0.8591415882110596
+how|all right|True|0.8594710230827332
+kind of datum I want to record|kind of datum|True|0.9768045544624329
+all metadata|regular summary report|False|0.6975133419036865
+information|creation proces|False|0.6769150495529175
+format|anonymization of datum|True|0.8902710676193237
+security requirement|how secure|True|0.9056053161621094
+persistent identifier|who|True|0.8903814554214478
+regular summary report|report|True|0.852911114692688
+kind of datum I want to record|format|True|0.8605602383613586
+how secure|how long|False|0.6692435145378113
+when|cost|True|0.8424212336540222
+regular summary report|section|False|0.6922792196273804
+plan provenance|how secure|True|0.8286479711532593
+all datum|dmp|True|0.827325165271759
+topic|dmp|True|0.8881151080131531
+who|when|True|0.9125385880470276
+metadata|kind of datum type|True|0.9163384437561035
+detail|how long|True|0.7063572406768799
+compliance|necessary right|True|0.884135365486145
+security requirement|all resource|True|0.719219446182251
+security requirement|regular summary report|False|0.6734908223152161
+who be responsible|compliance|True|0.8138314485549927
+all resource|technology|False|0.593629002571106
+detail|datum set|True|0.802222490310669
+conservation period|when|True|0.851813554763794
+conservation period|description|True|0.8959288597106934
+plan provenance|all resource|True|0.788911759853363
+plan provenance|regular summary report|True|0.755649209022522
+datum sensitivity|when|True|0.8725907206535339
+estimate|when|True|0.7998886704444885
+content|short description|True|0.8589942455291748
+information|kind of datum type|True|0.9288818836212158
+estimate|description|True|0.7643118500709534
+short description|dmp|True|0.8080118298530579
+kind of datum type|security requirement|False|0.688495934009552
+how|kind of datum|True|0.8989058136940002
+topic|how|True|0.8397938013076782
+section|necessary right|True|0.8486198782920837
+how|format|True|0.8474452495574951
+topic|information|True|0.9160207509994507
+datum sensitivity|estimate|True|0.8583105802536011
+when|kind of datum I want to store|True|0.8907194137573242
+conservation period|all datum|True|0.892320454120636
+it resource requirement|anonymization of datum|True|0.7553055286407471
+how many|security requirement|False|0.6669732928276062
+pointer|privacy|False|0.5426866412162781
+estimate|all datum|True|0.8066981434822083
+reference|format|True|0.8761846423149109
+kind of datum I want to record|topic|True|0.8398797512054443
+kind of datum|detail|True|0.8588710427284241
+kind of datum I want to record|repository mention|True|0.857433557510376
+legal statu|intention|False|0.6343008875846863
+all right|all resource|False|0.678051233291626
+all right|regular summary report|False|0.5941064953804016
+short description|how|True|0.7582008242607117
+topic|all right|True|0.7691217064857483
+administrative information|report|True|0.7109920382499695
+pointer|who|False|0.6506673693656921
+short description|information|True|0.7841737866401672
+time plan|how|False|0.6909599900245667
+persistent identifier|how long|True|0.8130292892456055
+time plan|information|True|0.7309514284133911
+my datum|security requirement|False|0.5711514949798584
+kind of datum type|necessary right|True|0.8302268385887146
+all datum|metadata|True|0.7314253449440002
+topic|metadata|True|0.7756150960922241
+cost|dmp|True|0.8939527273178101
+how|topic|True|0.8573805093765259
+description|pointer|False|0.6921723484992981
+how|anonymization of datum|True|0.8812363743782043
+how many|necessary right|True|0.8244631290435791
+dmp|intention|True|0.9212825298309326
+how|repository mention|True|0.8925331830978394
+content|compliance|True|0.7762665152549744
+reference|anonymization of datum|True|0.9249115586280823
+topic|kind of datum|True|0.9103598594665527
+short description|metadata|True|0.7098559737205505

@@ -1,0 +1,301 @@
+Activity 1|Activity 2|Hints from Wordnet
+access|access|True
+access|be inform|False
+access|document|False
+access|get|False
+access|import|False
+access|indicate|False
+access|link|False
+access|properly record|False
+access|reuse|False
+access|see|False
+be inform|be inform|True
+be inform|get|False
+be inform|import|False
+be inform|indicate|False
+be inform|link|False
+be inform|properly record|False
+be inform|reuse|False
+be inform|see|False
+check|access|False
+check|be inform|False
+check|check|True
+check|clarify|False
+check|document|False
+check|ensure|True
+check|extract|False
+check|get|True
+check|import|False
+check|indicate|False
+check|know in advance|False
+check|link|False
+check|plan|False
+check|properly record|False
+check|receive|True
+check|record|False
+check|reuse|False
+check|see|True
+clarify|access|False
+clarify|be inform|False
+clarify|clarify|True
+clarify|document|False
+clarify|get|False
+clarify|import|False
+clarify|indicate|False
+clarify|link|False
+clarify|properly record|False
+clarify|reuse|False
+clarify|see|False
+document|be inform|False
+document|document|True
+document|get|False
+document|import|False
+document|indicate|False
+document|link|False
+document|properly record|False
+document|reuse|False
+document|see|False
+ensure|access|False
+ensure|be inform|False
+ensure|clarify|False
+ensure|document|False
+ensure|ensure|True
+ensure|get|True
+ensure|import|False
+ensure|indicate|False
+ensure|know in advance|False
+ensure|link|False
+ensure|properly record|False
+ensure|reuse|False
+ensure|see|True
+extract|access|False
+extract|be inform|False
+extract|clarify|False
+extract|document|False
+extract|ensure|False
+extract|extract|True
+extract|get|True
+extract|import|False
+extract|indicate|False
+extract|know in advance|False
+extract|link|False
+extract|properly record|False
+extract|receive|False
+extract|record|False
+extract|reuse|False
+extract|see|False
+get|get|True
+get|import|False
+get|see|True
+have|access|False
+have|be inform|False
+have|check|True
+have|clarify|False
+have|document|False
+have|ensure|False
+have|extract|False
+have|get|True
+have|have|True
+have|import|False
+have|indicate|False
+have|know in advance|True
+have|link|False
+have|plan|False
+have|properly record|False
+have|receive|True
+have|record|False
+have|reuse|False
+have|see|True
+have|store|False
+import|import|True
+import|see|False
+indicate|get|False
+indicate|import|False
+indicate|indicate|True
+indicate|link|False
+indicate|properly record|True
+indicate|reuse|False
+indicate|see|False
+know|access|False
+know|be inform|False
+know|check|False
+know|clarify|False
+know|document|False
+know|ensure|False
+know|extract|False
+know|get|True
+know|have|True
+know|import|False
+know|indicate|False
+know|know|True
+know|know in advance|False
+know|link|False
+know|need|False
+know|plan|False
+know|properly record|False
+know|read|False
+know|receive|True
+know|record|False
+know|reuse|False
+know|see|True
+know|store|False
+know|want|False
+know in advance|access|False
+know in advance|be inform|False
+know in advance|clarify|False
+know in advance|document|False
+know in advance|get|True
+know in advance|import|False
+know in advance|indicate|False
+know in advance|know in advance|True
+know in advance|link|False
+know in advance|properly record|False
+know in advance|reuse|False
+know in advance|see|False
+link|get|False
+link|import|False
+link|link|True
+link|see|False
+need|access|False
+need|be inform|False
+need|check|False
+need|clarify|False
+need|document|False
+need|ensure|False
+need|extract|False
+need|get|True
+need|have|True
+need|import|False
+need|indicate|False
+need|know in advance|False
+need|link|False
+need|need|True
+need|plan|False
+need|properly record|False
+need|receive|True
+need|record|False
+need|reuse|False
+need|see|False
+need|store|False
+need|want|True
+plan|access|False
+plan|be inform|False
+plan|clarify|False
+plan|document|False
+plan|ensure|False
+plan|extract|False
+plan|get|False
+plan|import|False
+plan|indicate|False
+plan|know in advance|False
+plan|link|False
+plan|plan|True
+plan|properly record|False
+plan|receive|False
+plan|record|False
+plan|reuse|False
+plan|see|True
+properly record|get|False
+properly record|import|False
+properly record|link|False
+properly record|properly record|True
+properly record|reuse|False
+properly record|see|False
+read|access|False
+read|be inform|False
+read|check|True
+read|clarify|False
+read|document|False
+read|ensure|True
+read|extract|False
+read|get|True
+read|have|True
+read|import|False
+read|indicate|True
+read|know in advance|False
+read|link|False
+read|need|True
+read|plan|False
+read|properly record|True
+read|read|True
+read|receive|True
+read|record|True
+read|reuse|False
+read|see|True
+read|store|False
+read|want|False
+receive|access|False
+receive|be inform|False
+receive|clarify|False
+receive|document|False
+receive|ensure|True
+receive|get|True
+receive|import|False
+receive|indicate|False
+receive|know in advance|False
+receive|link|False
+receive|properly record|False
+receive|receive|True
+receive|record|False
+receive|reuse|False
+receive|see|True
+record|access|False
+record|be inform|False
+record|clarify|False
+record|document|False
+record|ensure|False
+record|get|False
+record|import|False
+record|indicate|True
+record|know in advance|False
+record|link|False
+record|properly record|True
+record|record|True
+record|reuse|False
+record|see|False
+reuse|get|False
+reuse|import|False
+reuse|link|False
+reuse|reuse|True
+reuse|see|False
+see|see|True
+store|access|False
+store|be inform|False
+store|check|False
+store|clarify|False
+store|document|False
+store|ensure|False
+store|extract|False
+store|get|False
+store|import|False
+store|indicate|False
+store|know in advance|False
+store|link|False
+store|plan|False
+store|properly record|False
+store|receive|False
+store|record|False
+store|reuse|False
+store|see|False
+store|store|True
+want|access|False
+want|be inform|False
+want|check|False
+want|clarify|False
+want|document|False
+want|ensure|False
+want|extract|False
+want|get|False
+want|have|False
+want|import|False
+want|indicate|False
+want|know in advance|False
+want|link|False
+want|plan|False
+want|properly record|False
+want|receive|False
+want|record|False
+want|reuse|False
+want|see|False
+want|store|False
+want|want|True

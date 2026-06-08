@@ -1,0 +1,15 @@
+Gensim | g03_baseline_lemmatized.json | Mode 1 word with action | 0.002058744430541992 seconds
+Gensim | g03_baseline_lemmatized.json | Mode 1 word with sentences | 0.0030934810638427734 seconds
+Gensim | g03_baseline_lemmatized.json | Mode 30 words with action | 0.002994060516357422 seconds
+Gensim | g03_baseline_lemmatized.json | Mode 30 words with sentences | 0.0050029754638671875 seconds
+Gensim | g08_baseline_lemmatized.json | Mode 1 word with action | 0.0030002593994140625 seconds
+Gensim | g08_baseline_lemmatized.json | Mode 1 word with sentences | 0.003996610641479492 seconds
+Gensim | g08_baseline_lemmatized.json | Mode 30 words with action | 0.0019838809967041016 seconds
+Gensim | g08_baseline_lemmatized.json | Mode 30 words with sentences | 0.0030074119567871094 second
+Gensim | g22_baseline_lemmatized.json | Mode 1 word with action | 0.002005338668823242 seconds
+Gensim | g22_baseline_lemmatized.json | Mode 1 word with sentences | 0.004926919937133789 seconds
+Gensim | g22_baseline_lemmatized.json | Mode 30 words with action | 0.002995014190673828 seconds
+Gensim | g22_baseline_lemmatized.json | Mode 30 words with sentences | 0.0050733089447021484 seconds
+
+Gensim | Sin01_baseline_lemmatized.json | Mode 30 words with action | 0.003652334213256836 seconds
+Gensim | Sin01_baseline_lemmatized.json | Mode 30 words with sentences | 0.010970115661621094 seconds

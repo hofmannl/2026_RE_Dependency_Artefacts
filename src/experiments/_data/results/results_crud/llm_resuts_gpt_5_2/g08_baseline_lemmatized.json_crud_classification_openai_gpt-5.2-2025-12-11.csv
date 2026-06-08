@@ -1,0 +1,69 @@
+story|action|classified_action|similarity
+As a Developer, I want to get a Data Package into Node, so that I can start using the data for doing analysis and visualizations|get|read|1.0
+As a Researcher, I want to get a Data Package into Julia in seconds, so that I can start using the data for doing analysis and visualizations|get|read|1.0
+As a Publisher, I want to add type information to my data, so that it is more useful to others and can be used better with tools like visualization programs|add|create|1.0
+As a Publisher, I want to be able to provide a visualization of data in the Data Package, so that I can provide my analysis and show my work to users of the data|provide|create|1.0
+As a Researcher, I want to be able to save new visualizations, so that I can share them with others or include them in the Data Package|save|create|1.0
+As a ResearcherPublisher, I want to know that my data conforms to its Data Package profile, so that I can feel trust in the validity and usefulness of the data|know|read|1.0
+As a ResearcherPublisher, I want to understand the ways in which my data is invalid, so that I can know how to fix it|understand|read|1.0
+As a Researcher, I want to get a Data Package into R in seconds, so that I can start using the data for doing analysis and visualizations|get|read|1.0
+As a Researcher, I want to get a Data Package into Excel in seconds, so that I can start using the data for doing analysis and visualizations|get|read|1.0
+As a Researcher, I want to get a Data Package into SPSS in seconds, so that I can start using the data for doing analysis and visualizations|get|read|1.0
+As a Researcher, I want to get a Data Package into STATA in seconds, so that I can start using the data for doing analysis and visualizations|get|read|1.0
+As a Researcher, I want to be able to translate my EML dataset to a Data Package, so that I can benefit from the wide array of tools available for Data Packages|translate|update|1.0
+As a Researcher, I want to get a Data Package into LibreOffice/OpenOffice in seconds, so that I can start using the data for doing analysis and visualizations|get|read|1.0
+As a Developer, I want to get a Data Package into Python in seconds, so that I can start using the data for doing analysis and visualizations|get|read|1.0
+As a Developer, I want a jQuery plugin for Core Data Packages, so that I can use it to apply to form control that uses a core dataset for autocompletion|want|create|1.0
+As a Researcher, I want to get my Excel spreadsheet into a Data Package, so that I can benefit from better tooling and standardization|get|read|1.0
+As a Developer, I want to do exploratory data analysis in R, so that I can use the best tool for the job|do|read|1.0
+As a Developer, I want to operationalize that analysis in Python, so that I can use the best tool for the job|operationalize|update|1.0
+As a Developer, I want to get a Data Package into Clojure in seconds, so that I can start using the data in doing analysis and visualizations|get|read|1.0
+As a Developer, I want to get a Data Package into Julia in seconds, so that I can start using the data in doing analysis and visualizations|get|read|1.0
+As a Developer, I want to get a Data Package into C++ in seconds, so that I can start using the data in doing analysis and visualizations|get|read|1.0
+As a Machine Learning expert, I would like to package ML datasets as data packages, so that I can easily import them into my ML platform, so that I can start using the data in doing analysis|package|create|1.0
+As a Developer, I want an Elasticsearch integration, so that I can integrate data-packaged data with pipelines that use Elasticsearch|want|create|1.0
+As a Developer, I want an SPSS integration, so that I can integrate data-packaged data with pipelines that use SPSS|want|create|1.0
+As a Developer, I want an EPrints integration, so that I can integrate data-packaged data with pipelines that use EPrints|want|create|1.0
+As a Developer, I want a Mongo integration, so that I can integrate data-packaged data with pipelines that use Mongo|want|create|1.0
+As a Developer, I want a DAT integration, so that I can integrate data-packaged data with pipelines that use DAT|want|create|1.0
+As a ResearcherGovernment Publisher, I want to add general reference data to my narrow dataset, so that my dataset is more useful|add|create|1.0
+As a ResearcherGovernment Publisher, I want to add general country names to my dataset that only contains country codes, so that my dataset is more readable|add|create|1.0
+As a ResearcherGovernment Publisher, I want to add reference data on inflation to my spending dataset, so that the spending lines in my dataset is more understandable|add|create|1.0
+As a ResearcherGovernment Publisher, I want to map lines in my dataset using geographic data in my dataset, so that my dataset is more engaging for non-technical users|map|create|1.0
+As a Researcher, I want to be able to reference a remote-controlled vocabulary for my dataset, so that I can be sure that column of my dataset are valid against a single shard list of terms|reference|read|1.0
+As a developer, I want an DSpace integration, so that I can integrate data-packaged data with pipelines that use Dspace|want|create|1.0
+As a Developer, I want Feather integration, so that I can integrate data-packaged data with pipelines that use Feather|want|create|1.0
+As a Developer, I want HDF5 integration, so that I can integrate data-packaged data with pipelines that use HDF5|want|create|1.0
+As a Researcher, working with data, I want an Microsoft Power BI integration, so that I can import datasets without downloading them locally|want|create|1.0
+As a ResearcherPublisher, I want an integration with Zenodo, so that when I store my dataset in GitHub, I don’t have to retype descriptive information about my dataset|want|create|1.0
+As a Publisher, I would like an integration with Open Refine, so that I can output cleaned Data Packages|would like|create|1.0
+As a ResearcherPublisher, I want to publish Data Packages to CKAN, so that my data is findable, and I can have a data API|publish|create|1.0
+As a ResearcherDeveloper, would like the ability import/export from MS-SQL, so that I can use Data Packages in workflows that involve MS-SQL|import/export|read|1.0
+As a Researcher, working with data in NetCDF, I want NetCDF integration, so that I can store my data in plaintext while still retaining its metadata|want|create|1.0
+As a Researcher, I want an integration with https://data.mendeley.com/, so that I can validate my data upon ingest to the service|want|create|1.0
+As a Publisher, I would like an integration with Excel, so that I can output cleaned Data Packages|would like|read|1.0
+As a Publisher, I want to store my data quickly and easily online|store|create|1.0
+As a Repository Manager, I want a tool that makes it easy for researchers/ users to add basic metadata to their research data, so that it is more findable and therefore useful|want|create|1.0
+As a ResearcherPublisher, I want validate my data with a minimum of clicks, so that I can feel trust in the validity and usefulness of the data|validate|read|1.0
+As a publisher, I want to be able to check that every time I update my data it is still good, so that I can catch errors early and store reliable data|check|read|1.0
+As a DeveloperWrangler, I want to use a command line tool that allows met to validate data, so that I can feel trust in the validity and usefulness of the data quickly and in the context of my command line workflow|use|read|1.0
+As a developer, I want an online service that is connected to my data repository that validates data on update, so that I can delegate data validation to a third party|want|create|1.0
+As a government Publisher, I want to make it easy to prove that our published data is valid, so that I can claim that we are living up to our transparency commitments|make it easy|update|1.0
+As a Civic Tech Activist, I want to make it easy to assess the quality of data stored by the government, so that I can make sure that government is living up to its transparency commitments|make it easy to assess|update|1.0
+As a publisher, I want to embed an interactive preview of my data on my site, so that users can be encouraged that this is the correct data for them|embed|create|1.0
+As a publisher, I want to embed a preview button on my site, so that users can preview the data and be encouraged that this is the correct data for them|embed|create|1.0
+As a Publisher, I want to know how many users have previewed a dataset, so that I know how interest in a dataset relates to its actual download numbers|know|read|1.0
+As a Developer, I want to customize an existing wizard for my specific type of data, so that I can give my users a great user experience|customize|update|1.0
+As a Publisher, I want to add useful metadata to make the dataset more useful|add|create|1.0
+As a Publisher, I want to add in new data columns to make the dataset more useful|add|create|1.0
+As a publisher, I want to package reproducible steps to get a certain data state, so my methodology is transparent and can be rerun by others|package|create|1.0
+As a DeveloperDataWrangler, I want to store my Data Package in GitHub and have it automatically stored into CKAN, so that I get a data API and my dataset is listed in a relevant catalog|store|create|1.0
+As a Researcher, I want a tool that can generate basic statistics about a dataset, so that I can get a quick preview of the data|want|create|1.0
+As a DeveloperPublisher, I want a tool to create an embeddable data summary via iframe, so that I can embed data summaries across sites|want|create|1.0
+As a Researcher, I want an app that generates an OpenRefine reconciliation API endpoint from a Tabular Data Package, so that I can use it to clean messy data|want|create|1.0
+As a Researcher, I want an app that create proxy Data Packages for well know and reliable data, sources, so that I can load high quality data using Data Package tooling|want|create|1.0
+As a RepositoryManagerResearcher, I want an app that acts as a match-making service for packaging data, so that owners are paired with data packagers|want|create|1.0
+As a developer, I would like to create a web socket protocol for Frictionless data tools, so that I can easily use data packages with additional data analysis tools|create|create|1.0
+As a Publisher, I would like a tool to check data availability persistence after publication|would like|create|1.0
+As a ResearcherPublisher, I want to specify the funding that contributed to the creation of a given dataset, so that funding agencies can identify the funding, source for a given dataset|specify|update|1.0
+As a ResearcherPublisher, I want to add a DOI to a dataset, so that I can cite it in papers stored  with the data|add|create|1.0

@@ -1,0 +1,197 @@
+Persona 1|Persona 2
+civic tech activist|civic tech activist
+civic tech activist|developer
+civic tech activist|developerdatawrangler
+civic tech activist|developerpublisher
+civic tech activist|developerwrangler
+civic tech activist|government publisher
+civic tech activist|machine learning expert
+civic tech activist|publisher
+civic tech activist|repository manager
+civic tech activist|repositorymanagerresearcher
+civic tech activist|researcher
+civic tech activist|researcherdeveloper
+civic tech activist|researchergovernment publisher
+civic tech activist|researcherpublisher
+developer|civic tech activist
+developer|developer
+developer|developerdatawrangler
+developer|developerpublisher
+developer|developerwrangler
+developer|government publisher
+developer|machine learning expert
+developer|publisher
+developer|repository manager
+developer|repositorymanagerresearcher
+developer|researcher
+developer|researcherdeveloper
+developer|researchergovernment publisher
+developer|researcherpublisher
+developerdatawrangler|civic tech activist
+developerdatawrangler|developer
+developerdatawrangler|developerdatawrangler
+developerdatawrangler|developerpublisher
+developerdatawrangler|developerwrangler
+developerdatawrangler|government publisher
+developerdatawrangler|machine learning expert
+developerdatawrangler|publisher
+developerdatawrangler|repository manager
+developerdatawrangler|repositorymanagerresearcher
+developerdatawrangler|researcher
+developerdatawrangler|researcherdeveloper
+developerdatawrangler|researchergovernment publisher
+developerdatawrangler|researcherpublisher
+developerpublisher|civic tech activist
+developerpublisher|developer
+developerpublisher|developerdatawrangler
+developerpublisher|developerpublisher
+developerpublisher|developerwrangler
+developerpublisher|government publisher
+developerpublisher|machine learning expert
+developerpublisher|publisher
+developerpublisher|repository manager
+developerpublisher|repositorymanagerresearcher
+developerpublisher|researcher
+developerpublisher|researcherdeveloper
+developerpublisher|researchergovernment publisher
+developerpublisher|researcherpublisher
+developerwrangler|civic tech activist
+developerwrangler|developer
+developerwrangler|developerdatawrangler
+developerwrangler|developerpublisher
+developerwrangler|developerwrangler
+developerwrangler|government publisher
+developerwrangler|machine learning expert
+developerwrangler|publisher
+developerwrangler|repository manager
+developerwrangler|repositorymanagerresearcher
+developerwrangler|researcher
+developerwrangler|researcherdeveloper
+developerwrangler|researchergovernment publisher
+developerwrangler|researcherpublisher
+government publisher|civic tech activist
+government publisher|developer
+government publisher|developerdatawrangler
+government publisher|developerpublisher
+government publisher|developerwrangler
+government publisher|government publisher
+government publisher|machine learning expert
+government publisher|publisher
+government publisher|repository manager
+government publisher|repositorymanagerresearcher
+government publisher|researcher
+government publisher|researcherdeveloper
+government publisher|researchergovernment publisher
+government publisher|researcherpublisher
+machine learning expert|civic tech activist
+machine learning expert|developer
+machine learning expert|developerdatawrangler
+machine learning expert|developerpublisher
+machine learning expert|developerwrangler
+machine learning expert|government publisher
+machine learning expert|machine learning expert
+machine learning expert|publisher
+machine learning expert|repository manager
+machine learning expert|repositorymanagerresearcher
+machine learning expert|researcher
+machine learning expert|researcherdeveloper
+machine learning expert|researchergovernment publisher
+machine learning expert|researcherpublisher
+publisher|civic tech activist
+publisher|developer
+publisher|developerdatawrangler
+publisher|developerpublisher
+publisher|developerwrangler
+publisher|government publisher
+publisher|machine learning expert
+publisher|publisher
+publisher|repository manager
+publisher|repositorymanagerresearcher
+publisher|researcher
+publisher|researcherdeveloper
+publisher|researchergovernment publisher
+publisher|researcherpublisher
+repository manager|civic tech activist
+repository manager|developer
+repository manager|developerdatawrangler
+repository manager|developerpublisher
+repository manager|developerwrangler
+repository manager|government publisher
+repository manager|machine learning expert
+repository manager|publisher
+repository manager|repository manager
+repository manager|repositorymanagerresearcher
+repository manager|researcher
+repository manager|researcherdeveloper
+repository manager|researchergovernment publisher
+repository manager|researcherpublisher
+repositorymanagerresearcher|civic tech activist
+repositorymanagerresearcher|developer
+repositorymanagerresearcher|developerdatawrangler
+repositorymanagerresearcher|developerpublisher
+repositorymanagerresearcher|developerwrangler
+repositorymanagerresearcher|government publisher
+repositorymanagerresearcher|machine learning expert
+repositorymanagerresearcher|publisher
+repositorymanagerresearcher|repository manager
+repositorymanagerresearcher|repositorymanagerresearcher
+repositorymanagerresearcher|researcher
+repositorymanagerresearcher|researcherdeveloper
+repositorymanagerresearcher|researchergovernment publisher
+repositorymanagerresearcher|researcherpublisher
+researcher|civic tech activist
+researcher|developer
+researcher|developerdatawrangler
+researcher|developerpublisher
+researcher|developerwrangler
+researcher|government publisher
+researcher|machine learning expert
+researcher|publisher
+researcher|repository manager
+researcher|repositorymanagerresearcher
+researcher|researcher
+researcher|researcherdeveloper
+researcher|researchergovernment publisher
+researcher|researcherpublisher
+researcherdeveloper|civic tech activist
+researcherdeveloper|developer
+researcherdeveloper|developerdatawrangler
+researcherdeveloper|developerpublisher
+researcherdeveloper|developerwrangler
+researcherdeveloper|government publisher
+researcherdeveloper|machine learning expert
+researcherdeveloper|publisher
+researcherdeveloper|repository manager
+researcherdeveloper|repositorymanagerresearcher
+researcherdeveloper|researcher
+researcherdeveloper|researcherdeveloper
+researcherdeveloper|researchergovernment publisher
+researcherdeveloper|researcherpublisher
+researchergovernment publisher|civic tech activist
+researchergovernment publisher|developer
+researchergovernment publisher|developerdatawrangler
+researchergovernment publisher|developerpublisher
+researchergovernment publisher|developerwrangler
+researchergovernment publisher|government publisher
+researchergovernment publisher|machine learning expert
+researchergovernment publisher|publisher
+researchergovernment publisher|repository manager
+researchergovernment publisher|repositorymanagerresearcher
+researchergovernment publisher|researcher
+researchergovernment publisher|researcherdeveloper
+researchergovernment publisher|researchergovernment publisher
+researchergovernment publisher|researcherpublisher
+researcherpublisher|civic tech activist
+researcherpublisher|developer
+researcherpublisher|developerdatawrangler
+researcherpublisher|developerpublisher
+researcherpublisher|developerwrangler
+researcherpublisher|government publisher
+researcherpublisher|machine learning expert
+researcherpublisher|publisher
+researcherpublisher|repository manager
+researcherpublisher|repositorymanagerresearcher
+researcherpublisher|researcher
+researcherpublisher|researcherdeveloper
+researcherpublisher|researchergovernment publisher
+researcherpublisher|researcherpublisher

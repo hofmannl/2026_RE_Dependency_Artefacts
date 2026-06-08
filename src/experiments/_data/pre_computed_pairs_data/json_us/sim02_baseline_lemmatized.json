@@ -1,0 +1,816 @@
+[
+  {
+    "PID": "Sim02",
+    "Text": "As an administrator I want to change the role of another user.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "change"
+      ],
+      "Benefit": [
+        "manage"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "role of another user"
+      ],
+      "Benefit": [
+        "user access"
+      ]
+    },
+    "Benefit": "I can manage user access",
+    "Triggers": [
+      [
+        "administrator",
+        "change"
+      ]
+    ],
+    "Targets": [
+      [
+        "change",
+        "role of another user"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As an administrator, I want to delete another user.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "delete"
+      ],
+      "Benefit": [
+        "maintain"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "user"
+      ],
+      "Benefit": [
+        "user directory"
+      ]
+    },
+    "Benefit": "I can maintain the user directory",
+    "Triggers": [
+      [
+        "administrator",
+        "delete"
+      ]
+    ],
+    "Targets": [
+      [
+        "delete",
+        "user"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As a project manager, I want to change the roles of another user in this project.",
+    "Persona": [
+      "project manager"
+    ],
+    "Action": {
+      "Goal": [
+        "change"
+      ],
+      "Benefit": [
+        "control"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "roles of another user"
+      ],
+      "Benefit": [
+        "project permissions"
+      ]
+    },
+    "Benefit": "I can control project permissions",
+    "Triggers": [
+      [
+        "project manager",
+        "change"
+      ]
+    ],
+    "Targets": [
+      [
+        "change",
+        "roles of another user"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As a manager of a project, I want to create an appointment.",
+    "Persona": [
+      "project manager"
+    ],
+    "Action": {
+      "Goal": [
+        "create"
+      ],
+      "Benefit": [
+        "schedule"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "appointment"
+      ],
+      "Benefit": [
+        "project calendar"
+      ]
+    },
+    "Benefit": "I can schedule project appointments",
+    "Triggers": [
+      [
+        "project manager",
+        "create"
+      ]
+    ],
+    "Targets": [
+      [
+        "create",
+        "appointment"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As a manager, I want to change appointments in my projects.",
+    "Persona": [
+      "manager"
+    ],
+    "Action": {
+      "Goal": [
+        "change"
+      ],
+      "Benefit": [
+        "keep updated"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "appointment"
+      ],
+      "Benefit": [
+        "project schedules"
+      ]
+    },
+    "Benefit": "I can keep project schedules updated",
+    "Triggers": [
+      [
+        "manager",
+        "change"
+      ]
+    ],
+    "Targets": [
+      [
+        "change",
+        "appointment"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As a developer of a project, I want to insert a new appointment in the project.",
+    "Persona": [
+      "developer"
+    ],
+    "Action": {
+      "Goal": [
+        "insert"
+      ],
+      "Benefit": [
+        "coordinate"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "appointment"
+      ],
+      "Benefit": [
+        "project plan"
+      ]
+    },
+    "Benefit": "I can coordinate work via appointments",
+    "Triggers": [
+      [
+        "developer",
+        "insert"
+      ]
+    ],
+    "Targets": [
+      [
+        "insert",
+        "appointment"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As a manager of a project, I want to modify time and place of meetings.",
+    "Persona": [
+      "project manager"
+    ],
+    "Action": {
+      "Goal": [
+        "modify"
+      ],
+      "Benefit": [
+        "reschedule"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "meeting"
+      ],
+      "Benefit": [
+        "meetings"
+      ]
+    },
+    "Benefit": "I can reschedule meetings",
+    "Triggers": [
+      [
+        "project manager",
+        "modify"
+      ]
+    ],
+    "Targets": [
+      [
+        "modify",
+        "meeting"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As a manager, I want to modify my projects.",
+    "Persona": [
+      "manager"
+    ],
+    "Action": {
+      "Goal": [
+        "modify"
+      ],
+      "Benefit": [
+        "maintain"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "project"
+      ],
+      "Benefit": [
+        "project data"
+      ]
+    },
+    "Benefit": "I can maintain project data",
+    "Triggers": [
+      [
+        "manager",
+        "modify"
+      ]
+    ],
+    "Targets": [
+      [
+        "modify",
+        "project"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As a manager, I want to change the status of a project.",
+    "Persona": [
+      "manager"
+    ],
+    "Action": {
+      "Goal": [
+        "change"
+      ],
+      "Benefit": [
+        "track"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "status of project"
+      ],
+      "Benefit": [
+        "project progress"
+      ]
+    },
+    "Benefit": "I can track project progress",
+    "Triggers": [
+      [
+        "manager",
+        "change"
+      ]
+    ],
+    "Targets": [
+      [
+        "change",
+        "status of project"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As an end user, I want to change the type of an appointment.",
+    "Persona": [
+      "end user"
+    ],
+    "Action": {
+      "Goal": [
+        "change"
+      ],
+      "Benefit": [
+        "categorize"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "type of appointment"
+      ],
+      "Benefit": [
+        "appointment"
+      ]
+    },
+    "Benefit": "I can categorize appointments correctly",
+    "Triggers": [
+      [
+        "end user",
+        "change"
+      ]
+    ],
+    "Targets": [
+      [
+        "change",
+        "type of appointment"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As an administrator, I want to modify projects.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "modify"
+      ],
+      "Benefit": [
+        "administer"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "project"
+      ],
+      "Benefit": [
+        "project portfolio"
+      ]
+    },
+    "Benefit": "I can administer the project portfolio",
+    "Triggers": [
+      [
+        "administrator",
+        "modify"
+      ]
+    ],
+    "Targets": [
+      [
+        "modify",
+        "project"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As an end user, I want to edit appointments.",
+    "Persona": [
+      "end user"
+    ],
+    "Action": {
+      "Goal": [
+        "edit"
+      ],
+      "Benefit": [
+        "update"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "appointment"
+      ],
+      "Benefit": [
+        "calendar entries"
+      ]
+    },
+    "Benefit": "I can update my calendar entries",
+    "Triggers": [
+      [
+        "end user",
+        "edit"
+      ]
+    ],
+    "Targets": [
+      [
+        "edit",
+        "appointment"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As a project manager, I would like to add users to the project.",
+    "Persona": [
+      "project manager"
+    ],
+    "Action": {
+      "Goal": [
+        "add"
+      ],
+      "Benefit": [
+        "staff"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "user"
+      ],
+      "Benefit": [
+        "project team"
+      ]
+    },
+    "Benefit": "I can staff the project team",
+    "Triggers": [
+      [
+        "project manager",
+        "add"
+      ]
+    ],
+    "Targets": [
+      [
+        "add",
+        "user"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As a project manager, I want to remove users from projects.",
+    "Persona": [
+      "project manager"
+    ],
+    "Action": {
+      "Goal": [
+        "remove"
+      ],
+      "Benefit": [
+        "manage"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "user"
+      ],
+      "Benefit": [
+        "project team"
+      ]
+    },
+    "Benefit": "I can manage project membership",
+    "Triggers": [
+      [
+        "project manager",
+        "remove"
+      ]
+    ],
+    "Targets": [
+      [
+        "remove",
+        "user"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As a project manager, I want to drop developers from the project.",
+    "Persona": [
+      "project manager"
+    ],
+    "Action": {
+      "Goal": [
+        "drop"
+      ],
+      "Benefit": [
+        "manage"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "developer"
+      ],
+      "Benefit": [
+        "project team"
+      ]
+    },
+    "Benefit": "I can manage developer assignments",
+    "Triggers": [
+      [
+        "project manager",
+        "drop"
+      ]
+    ],
+    "Targets": [
+      [
+        "drop",
+        "developer"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As a project manager, I want to set a new deadline to the project.",
+    "Persona": [
+      "project manager"
+    ],
+    "Action": {
+      "Goal": [
+        "set"
+      ],
+      "Benefit": [
+        "plan"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "deadline"
+      ],
+      "Benefit": [
+        "project timeline"
+      ]
+    },
+    "Benefit": "I can plan the project timeline",
+    "Triggers": [
+      [
+        "project manager",
+        "set"
+      ]
+    ],
+    "Targets": [
+      [
+        "set",
+        "deadline"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As a project manager, I want to change the deadline of a project.",
+    "Persona": [
+      "project manager"
+    ],
+    "Action": {
+      "Goal": [
+        "change"
+      ],
+      "Benefit": [
+        "replan"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "deadline"
+      ],
+      "Benefit": [
+        "project timeline"
+      ]
+    },
+    "Benefit": "I can replan the project timeline",
+    "Triggers": [
+      [
+        "project manager",
+        "change"
+      ]
+    ],
+    "Targets": [
+      [
+        "change",
+        "deadline"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As an end user, I want to upload new files to my projects.",
+    "Persona": [
+      "end user"
+    ],
+    "Action": {
+      "Goal": [
+        "upload"
+      ],
+      "Benefit": [
+        "share"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "file"
+      ],
+      "Benefit": [
+        "projects"
+      ]
+    },
+    "Benefit": "I can share files in my projects",
+    "Triggers": [
+      [
+        "end user",
+        "upload"
+      ]
+    ],
+    "Targets": [
+      [
+        "upload",
+        "file"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As an end user, I want to modify data that I have uploaded before.",
+    "Persona": [
+      "end user"
+    ],
+    "Action": {
+      "Goal": [
+        "modify"
+      ],
+      "Benefit": [
+        "correct"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "data"
+      ],
+      "Benefit": [
+        "project files"
+      ]
+    },
+    "Benefit": "I can correct previously uploaded data",
+    "Triggers": [
+      [
+        "end user",
+        "modify"
+      ]
+    ],
+    "Targets": [
+      [
+        "modify",
+        "data"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As a user, I want to delete files from projects.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "delete"
+      ],
+      "Benefit": [
+        "clean up"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "file"
+      ],
+      "Benefit": [
+        "projects"
+      ]
+    },
+    "Benefit": "I can clean up project files",
+    "Triggers": [
+      [
+        "user",
+        "delete"
+      ]
+    ],
+    "Targets": [
+      [
+        "delete",
+        "file"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As a project manager I want to see the users of my projects.",
+    "Persona": [
+      "project manager"
+    ],
+    "Action": {
+      "Goal": [
+        "see"
+      ],
+      "Benefit": [
+        "overview"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "project user"
+      ],
+      "Benefit": [
+        "project team"
+      ]
+    },
+    "Benefit": "I can get an overview of project membership",
+    "Triggers": [
+      [
+        "project manager",
+        "see"
+      ]
+    ],
+    "Targets": [
+      [
+        "see",
+        "project user"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sim02",
+    "Text": "As a project manager I want to inspect the developers of my projects.",
+    "Persona": [
+      "project manager"
+    ],
+    "Action": {
+      "Goal": [
+        "inspect"
+      ],
+      "Benefit": [
+        "overview"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "project developer"
+      ],
+      "Benefit": [
+        "project team"
+      ]
+    },
+    "Benefit": "I can get an overview of developer assignments",
+    "Triggers": [
+      [
+        "project manager",
+        "inspect"
+      ]
+    ],
+    "Targets": [
+      [
+        "inspect",
+        "project developer"
+      ]
+    ],
+    "Contains": []
+  }
+]

@@ -1,0 +1,216 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: JSON to CSV Converter",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts4dataanalyse/json_to_csv_converter.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}/scripts4dataanalyse",
+            "args": [
+                "../../elaborated_ground_truth/datasets/annotated/g03_baseline.json",
+                "../../g03_baseline_single_row.csv"
+            ],
+            "presentation": {
+                "hidden": false,
+                "group": "1_data_conversion",
+                "order": 1
+            }
+        },
+        {
+            "name": "Python: JSON to CSV Split Edges",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts4dataanalyse/json_to_csv_split_edges.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}/scripts4dataanalyse",
+            "args": [
+                "../../elaborated_ground_truth/datasets/annotated/g03_baseline.json",
+                "../../g03_baseline_split_edges.csv"
+            ],
+            "presentation": {
+                "hidden": false,
+                "group": "1_data_conversion",
+                "order": 2
+            }
+        },
+        {
+            "name": "Python: Extract Goal Actions",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts4dataanalyse/extract_goal_actions.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}/scripts4dataanalyse",
+            "args": [
+                "../../elaborated_ground_truth/datasets/annotated/g03_baseline.json",
+                "../../g03_goal_actions.csv"
+            ],
+            "presentation": {
+                "hidden": false,
+                "group": "2_extraction",
+                "order": 1
+            }
+        },
+        {
+            "name": "Python: Extract Goal Benefit Parts",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts4dataanalyse/extract_goal_benefit_parts.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}/scripts4dataanalyse",
+            "args": [
+                "../../elaborated_ground_truth/datasets/annotated/g03_baseline.json",
+                "../../g03_goal_benefit_parts.csv"
+            ],
+            "presentation": {
+                "hidden": false,
+                "group": "2_extraction",
+                "order": 2
+            }
+        },
+        {
+            "name": "Python: Extract Persona Pairs",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts4dataanalyse/extract_persona_pairs.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}/scripts4dataanalyse",
+            "args": [
+                "../../elaborated_ground_truth/datasets/annotated/g03_baseline.json",
+                "../../g03_persona_pairs.csv"
+            ],
+            "presentation": {
+                "hidden": false,
+                "group": "3_all_pairs",
+                "order": 1
+            }
+        },
+        {
+            "name": "Python: Extract Goal Action Pairs",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts4dataanalyse/extract_goal_action_pairs.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}/scripts4dataanalyse",
+            "args": [
+                "../../elaborated_ground_truth/datasets/annotated/g03_baseline.json",
+                "../../g03_goal_action_pairs.csv"
+            ],
+            "presentation": {
+                "hidden": false,
+                "group": "3_all_pairs",
+                "order": 2
+            }
+        },
+        {
+            "name": "Python: Extract Goal Entity Pairs",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts4dataanalyse/extract_goal_entities_pairs.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}/scripts4dataanalyse",
+            "args": [
+                "../../elaborated_ground_truth/datasets/annotated/g03_baseline.json",
+                "../../g03_goal_entity_pairs.csv"
+            ],
+            "presentation": {
+                "hidden": false,
+                "group": "3_all_pairs",
+                "order": 3
+            }
+        },
+        {
+            "name": "Python: Extract Unique Persona Pairs",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts4dataanalyse/extract_unique_persona_pairs.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}/scripts4dataanalyse",
+            "args": [
+                "../../elaborated_ground_truth/datasets/annotated/g03_baseline.json",
+                "../../g03_unique_persona_pairs.csv"
+            ],
+            "presentation": {
+                "hidden": false,
+                "group": "4_unique_pairs",
+                "order": 1
+            }
+        },
+        {
+            "name": "Python: Extract Unique Entity Pairs",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts4dataanalyse/extract_unique_entity_pairs.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}/scripts4dataanalyse",
+            "args": [
+                "../../elaborated_ground_truth/datasets/annotated/g03_baseline.json",
+                "../../g03_unique_entity_pairs.csv"
+            ],
+            "presentation": {
+                "hidden": false,
+                "group": "4_unique_pairs",
+                "order": 2
+            }
+        },
+        {
+            "name": "Python: Extract Unique Action Pairs",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts4dataanalyse/extract_unique_action_pairs.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}/scripts4dataanalyse",
+            "args": [
+                "../../elaborated_ground_truth/datasets/annotated/g03_baseline.json",
+                "../../g03_unique_action_pairs.csv"
+            ],
+            "presentation": {
+                "hidden": false,
+                "group": "4_unique_pairs",
+                "order": 3
+            }
+        },
+        {
+            "name": "Python: Debug Lemmatization",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts4dataanalyse/debug_lemmatization.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}/scripts4dataanalyse",
+            "args": [
+                "../../elaborated_ground_truth/datasets/annotated/g03_baseline.json"
+            ],
+            "presentation": {
+                "hidden": false,
+                "group": "5_testing",
+                "order": 1
+            }
+        },
+        {
+            "name": "Python: Current File (Generic)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${fileDirname}",
+            "presentation": {
+                "hidden": false,
+                "group": "5_testing",
+                "order": 2
+            }
+        }
+    ]
+}

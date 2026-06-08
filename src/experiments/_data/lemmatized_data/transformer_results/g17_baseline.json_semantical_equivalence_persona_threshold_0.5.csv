@@ -1,0 +1,56 @@
+Persona 1 | Persona 2 | Result | Score 
+app developer|pipeline designer|True|0.769153356552124
+app developer|datum scientist|True|0.74863201379776
+app developer|hydrator user|True|0.6674192547798157
+app developer|plugin developer|True|0.8103348016738892
+dataset developer|dataset developer|True|1.0
+dataset developer|pipeline developer|True|0.8135235905647278
+developer|dataset developer|True|0.931317150592804
+plugin developer|user|True|0.7183106541633606
+hydrator user|pipeline developer|True|0.6969534158706665
+hydrator user|dataset developer|True|0.6558887958526611
+dataset developer|user|True|0.7484391927719116
+developer|user|True|0.7714644074440002
+pipeline developer|dataset developer|True|0.8342138528823853
+plugin developer|developer|True|0.8789045810699463
+hydrator user|user|True|0.9013569355010986
+datum scientist|pipeline developer|True|0.7981739044189453
+datum scientist|dataset developer|True|0.8942140340805054
+user|user|True|1.0
+plugin developer|app developer|True|0.8110246062278748
+dataset developer|developer|True|0.9332703351974487
+datum scientist|user|True|0.7783725261688232
+pipeline developer|user|True|0.7188710570335388
+app developer|pipeline developer|True|0.8045864701271057
+app developer|dataset developer|True|0.8453758358955383
+hydrator user|developer|True|0.5846683979034424
+plugin developer|plugin developer|True|1.0
+plugin developer|pipeline designer|True|0.7957931756973267
+dataset developer|app developer|True|0.8141456246376038
+developer|app developer|True|0.8443449139595032
+dataset developer|hydrator user|True|0.7031975388526917
+dataset developer|plugin developer|True|0.7849287390708923
+datum scientist|developer|True|0.8100033402442932
+dataset developer|pipeline designer|True|0.7899765968322754
+app developer|user|True|0.6615740060806274
+dataset developer|datum scientist|True|0.8816163539886475
+pipeline developer|developer|True|0.9062382578849792
+developer|pipeline designer|True|0.8506160378456116
+hydrator user|app developer|True|0.5572450160980225
+hydrator user|pipeline designer|True|0.7154222726821899
+plugin developer|dataset developer|True|0.8324902057647705
+pipeline designer|user|True|0.729559063911438
+hydrator user|hydrator user|True|1.0
+hydrator user|plugin developer|True|0.6708529591560364
+pipeline developer|app developer|True|0.796085774898529
+user|app developer|True|0.7857410311698914
+datum scientist|app developer|True|0.7121379375457764
+datum scientist|pipeline designer|True|0.802873969078064
+app developer|developer|True|0.8900398015975952
+datum scientist|datum scientist|True|1.0
+pipeline developer|pipeline designer|True|0.9420196413993835
+datum scientist|hydrator user|True|0.7343760132789612
+datum scientist|plugin developer|True|0.744536280632019
+user|pipeline designer|True|0.7870725393295288
+app developer|app developer|True|1.0
+plugin developer|pipeline developer|True|0.8240047693252563

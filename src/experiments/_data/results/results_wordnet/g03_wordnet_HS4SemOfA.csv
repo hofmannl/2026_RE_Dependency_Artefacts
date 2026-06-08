@@ -1,0 +1,667 @@
+Activity 1|Activity 2|Hints from Wordnet
+apply|apply|True
+apply|record|False
+assign|apply|False
+assign|assign|True
+assign|check|False
+assign|complete|False
+assign|conduct|False
+assign|evaluate|False
+assign|generate|False
+assign|manage|False
+assign|perform|False
+assign|record|False
+assign|remove|False
+assign|resubmit|False
+assign|select|False
+assign|support|False
+be notify|apply|False
+be notify|assign|False
+be notify|be notify|True
+be notify|check|False
+be notify|complete|False
+be notify|conduct|False
+be notify|create|False
+be notify|develop|False
+be notify|evaluate|False
+be notify|generate|False
+be notify|issue|False
+be notify|manage|False
+be notify|pay|False
+be notify|perform|False
+be notify|post|False
+be notify|prepare|False
+be notify|process|False
+be notify|record|False
+be notify|remove|False
+be notify|resubmit|False
+be notify|satisfy|False
+be notify|schedule|False
+be notify|select|False
+be notify|send|False
+be notify|submit|False
+be notify|successfully conduct|False
+be notify|support|False
+capture|apply|False
+capture|assign|False
+capture|be notify|False
+capture|capture|True
+capture|check|True
+capture|complete|False
+capture|conduct|False
+capture|create|False
+capture|denote|False
+capture|develop|True
+capture|evaluate|False
+capture|generate|True
+capture|issue|False
+capture|manage|False
+capture|pay|True
+capture|perform|False
+capture|post|False
+capture|prepare|True
+capture|process|False
+capture|record|False
+capture|remove|False
+capture|request|False
+capture|resubmit|False
+capture|review|False
+capture|satisfy|False
+capture|schedule|False
+capture|select|False
+capture|send|False
+capture|submit|False
+capture|successfully conduct|False
+capture|support|False
+capture|track|False
+check|apply|True
+check|check|True
+check|complete|False
+check|conduct|False
+check|evaluate|False
+check|generate|True
+check|manage|False
+check|record|False
+check|remove|False
+check|resubmit|False
+check|select|False
+check|support|True
+complete|apply|False
+complete|complete|True
+complete|conduct|False
+complete|manage|True
+complete|record|False
+complete|support|False
+conduct|apply|False
+conduct|conduct|True
+conduct|manage|True
+conduct|record|False
+create|apply|False
+create|assign|False
+create|check|True
+create|complete|False
+create|conduct|False
+create|create|True
+create|develop|True
+create|evaluate|False
+create|generate|False
+create|issue|False
+create|manage|False
+create|pay|False
+create|perform|False
+create|prepare|True
+create|process|False
+create|record|False
+create|remove|False
+create|resubmit|False
+create|satisfy|False
+create|select|False
+create|send|False
+create|submit|False
+create|successfully conduct|False
+create|support|False
+denote|apply|False
+denote|assign|False
+denote|be notify|False
+denote|check|False
+denote|complete|False
+denote|conduct|False
+denote|create|False
+denote|denote|True
+denote|develop|False
+denote|evaluate|False
+denote|generate|False
+denote|issue|False
+denote|manage|False
+denote|pay|False
+denote|perform|False
+denote|post|True
+denote|prepare|False
+denote|process|False
+denote|record|False
+denote|remove|False
+denote|request|False
+denote|resubmit|False
+denote|satisfy|False
+denote|schedule|False
+denote|select|False
+denote|send|False
+denote|submit|False
+denote|successfully conduct|False
+denote|support|False
+denote|track|False
+develop|apply|False
+develop|assign|False
+develop|check|True
+develop|complete|False
+develop|conduct|False
+develop|develop|True
+develop|evaluate|False
+develop|generate|True
+develop|issue|False
+develop|manage|False
+develop|perform|False
+develop|record|False
+develop|remove|False
+develop|resubmit|False
+develop|satisfy|False
+develop|select|False
+develop|submit|False
+develop|successfully conduct|False
+develop|support|False
+evaluate|apply|False
+evaluate|complete|False
+evaluate|conduct|False
+evaluate|evaluate|True
+evaluate|generate|False
+evaluate|manage|False
+evaluate|record|False
+evaluate|remove|False
+evaluate|resubmit|False
+evaluate|select|False
+evaluate|support|False
+generate|apply|True
+generate|complete|False
+generate|conduct|False
+generate|generate|True
+generate|manage|False
+generate|record|False
+generate|remove|False
+generate|resubmit|False
+generate|select|False
+generate|support|False
+issue|apply|False
+issue|assign|False
+issue|check|True
+issue|complete|True
+issue|conduct|False
+issue|evaluate|False
+issue|generate|False
+issue|issue|True
+issue|manage|True
+issue|perform|False
+issue|record|False
+issue|remove|False
+issue|resubmit|False
+issue|satisfy|False
+issue|select|False
+issue|successfully conduct|False
+issue|support|False
+manage|apply|False
+manage|manage|True
+manage|record|False
+modify|apply|False
+modify|assign|False
+modify|be notify|False
+modify|capture|False
+modify|check|False
+modify|complete|False
+modify|conduct|False
+modify|create|False
+modify|denote|False
+modify|develop|False
+modify|evaluate|False
+modify|generate|False
+modify|issue|False
+modify|manage|False
+modify|modify|True
+modify|pay|False
+modify|perform|False
+modify|post|False
+modify|prepare|False
+modify|process|False
+modify|record|False
+modify|remove|False
+modify|request|False
+modify|research|False
+modify|resubmit|False
+modify|review|False
+modify|satisfy|False
+modify|schedule|False
+modify|search|False
+modify|select|False
+modify|send|False
+modify|submit|False
+modify|successfully conduct|False
+modify|support|False
+modify|track|False
+modify|update|False
+pay|apply|True
+pay|assign|False
+pay|check|True
+pay|complete|False
+pay|conduct|True
+pay|develop|True
+pay|evaluate|False
+pay|generate|True
+pay|issue|False
+pay|manage|False
+pay|pay|True
+pay|perform|False
+pay|prepare|True
+pay|process|False
+pay|record|False
+pay|remove|False
+pay|resubmit|False
+pay|satisfy|False
+pay|select|False
+pay|send|True
+pay|submit|False
+pay|successfully conduct|True
+pay|support|True
+perform|apply|False
+perform|check|False
+perform|complete|False
+perform|conduct|False
+perform|evaluate|False
+perform|generate|False
+perform|manage|True
+perform|perform|True
+perform|record|False
+perform|remove|False
+perform|resubmit|False
+perform|select|False
+perform|support|False
+post|apply|False
+post|assign|False
+post|check|False
+post|complete|False
+post|conduct|True
+post|create|False
+post|develop|False
+post|evaluate|False
+post|generate|False
+post|issue|False
+post|manage|False
+post|pay|False
+post|perform|False
+post|post|True
+post|prepare|False
+post|process|False
+post|record|False
+post|remove|False
+post|resubmit|False
+post|satisfy|False
+post|select|False
+post|send|True
+post|submit|False
+post|successfully conduct|True
+post|support|True
+prepare|apply|False
+prepare|assign|False
+prepare|check|True
+prepare|complete|False
+prepare|conduct|False
+prepare|develop|True
+prepare|evaluate|False
+prepare|generate|True
+prepare|issue|False
+prepare|manage|False
+prepare|perform|False
+prepare|prepare|True
+prepare|process|False
+prepare|record|False
+prepare|remove|False
+prepare|resubmit|False
+prepare|satisfy|False
+prepare|select|False
+prepare|send|False
+prepare|submit|False
+prepare|successfully conduct|False
+prepare|support|False
+process|apply|False
+process|assign|False
+process|check|False
+process|complete|False
+process|conduct|False
+process|develop|False
+process|evaluate|False
+process|generate|False
+process|issue|False
+process|manage|False
+process|perform|False
+process|process|True
+process|record|False
+process|remove|False
+process|resubmit|False
+process|satisfy|False
+process|select|False
+process|submit|False
+process|successfully conduct|False
+process|support|False
+record|record|True
+remove|apply|False
+remove|complete|True
+remove|conduct|True
+remove|manage|False
+remove|record|False
+remove|remove|True
+remove|select|True
+remove|support|False
+request|apply|True
+request|assign|False
+request|be notify|False
+request|check|False
+request|complete|False
+request|conduct|False
+request|create|False
+request|develop|False
+request|evaluate|False
+request|generate|False
+request|issue|False
+request|manage|False
+request|pay|False
+request|perform|False
+request|post|False
+request|prepare|False
+request|process|False
+request|record|False
+request|remove|False
+request|request|True
+request|resubmit|False
+request|satisfy|False
+request|schedule|False
+request|select|False
+request|send|False
+request|submit|False
+request|successfully conduct|False
+request|support|False
+research|apply|False
+research|assign|False
+research|be notify|False
+research|capture|False
+research|check|False
+research|complete|False
+research|conduct|False
+research|create|False
+research|denote|False
+research|develop|False
+research|evaluate|False
+research|generate|False
+research|issue|False
+research|manage|False
+research|pay|False
+research|perform|False
+research|post|False
+research|prepare|False
+research|process|False
+research|record|False
+research|remove|False
+research|request|False
+research|research|True
+research|resubmit|False
+research|review|False
+research|satisfy|False
+research|schedule|False
+research|select|False
+research|send|False
+research|submit|False
+research|successfully conduct|False
+research|support|False
+research|track|False
+resubmit|apply|False
+resubmit|complete|False
+resubmit|conduct|False
+resubmit|manage|False
+resubmit|record|False
+resubmit|remove|False
+resubmit|resubmit|True
+resubmit|select|False
+resubmit|support|False
+review|apply|False
+review|assign|False
+review|be notify|False
+review|check|True
+review|complete|False
+review|conduct|False
+review|create|False
+review|denote|False
+review|develop|False
+review|evaluate|False
+review|generate|False
+review|issue|False
+review|manage|False
+review|pay|False
+review|perform|False
+review|post|False
+review|prepare|False
+review|process|False
+review|record|False
+review|remove|False
+review|request|False
+review|resubmit|False
+review|review|True
+review|satisfy|False
+review|schedule|False
+review|select|False
+review|send|False
+review|submit|False
+review|successfully conduct|False
+review|support|False
+review|track|False
+satisfy|apply|False
+satisfy|assign|False
+satisfy|check|False
+satisfy|complete|False
+satisfy|conduct|False
+satisfy|evaluate|False
+satisfy|generate|False
+satisfy|manage|False
+satisfy|perform|False
+satisfy|record|False
+satisfy|remove|False
+satisfy|resubmit|False
+satisfy|satisfy|True
+satisfy|select|False
+satisfy|successfully conduct|False
+satisfy|support|False
+schedule|apply|False
+schedule|assign|False
+schedule|check|False
+schedule|complete|False
+schedule|conduct|False
+schedule|create|False
+schedule|develop|False
+schedule|evaluate|False
+schedule|generate|False
+schedule|issue|False
+schedule|manage|False
+schedule|pay|False
+schedule|perform|False
+schedule|post|False
+schedule|prepare|False
+schedule|process|False
+schedule|record|False
+schedule|remove|False
+schedule|resubmit|False
+schedule|satisfy|False
+schedule|schedule|True
+schedule|select|False
+schedule|send|False
+schedule|submit|False
+schedule|successfully conduct|False
+schedule|support|False
+search|apply|False
+search|assign|False
+search|be notify|False
+search|capture|False
+search|check|False
+search|complete|False
+search|conduct|False
+search|create|False
+search|denote|False
+search|develop|False
+search|evaluate|False
+search|generate|False
+search|issue|False
+search|manage|False
+search|pay|False
+search|perform|False
+search|post|False
+search|prepare|False
+search|process|False
+search|record|False
+search|remove|False
+search|request|False
+search|research|True
+search|resubmit|False
+search|review|False
+search|satisfy|False
+search|schedule|False
+search|search|True
+search|select|False
+search|send|False
+search|submit|False
+search|successfully conduct|False
+search|support|False
+search|track|False
+search|update|False
+select|apply|False
+select|complete|False
+select|conduct|True
+select|manage|False
+select|record|False
+select|select|True
+select|support|False
+send|apply|False
+send|assign|False
+send|check|False
+send|complete|False
+send|conduct|True
+send|develop|False
+send|evaluate|False
+send|generate|False
+send|issue|False
+send|manage|False
+send|perform|False
+send|process|False
+send|record|False
+send|remove|False
+send|resubmit|False
+send|satisfy|False
+send|select|False
+send|send|True
+send|submit|False
+send|successfully conduct|True
+send|support|False
+submit|apply|True
+submit|assign|False
+submit|check|False
+submit|complete|False
+submit|conduct|True
+submit|evaluate|False
+submit|generate|True
+submit|issue|False
+submit|manage|False
+submit|perform|False
+submit|record|False
+submit|remove|True
+submit|resubmit|False
+submit|satisfy|False
+submit|select|True
+submit|submit|True
+submit|successfully conduct|True
+submit|support|False
+successfully conduct|apply|False
+successfully conduct|assign|False
+successfully conduct|check|False
+successfully conduct|complete|False
+successfully conduct|conduct|True
+successfully conduct|evaluate|False
+successfully conduct|generate|False
+successfully conduct|manage|True
+successfully conduct|perform|False
+successfully conduct|record|False
+successfully conduct|remove|True
+successfully conduct|resubmit|False
+successfully conduct|select|True
+successfully conduct|successfully conduct|True
+successfully conduct|support|True
+support|apply|True
+support|conduct|True
+support|manage|False
+support|record|False
+support|support|True
+track|apply|False
+track|assign|False
+track|be notify|False
+track|check|False
+track|complete|False
+track|conduct|False
+track|create|False
+track|develop|False
+track|evaluate|False
+track|generate|False
+track|issue|False
+track|manage|False
+track|pay|False
+track|perform|False
+track|post|False
+track|prepare|False
+track|process|False
+track|record|False
+track|remove|False
+track|request|False
+track|resubmit|False
+track|satisfy|False
+track|schedule|False
+track|select|False
+track|send|False
+track|submit|False
+track|successfully conduct|False
+track|support|False
+track|track|True
+update|apply|False
+update|assign|False
+update|be notify|False
+update|capture|False
+update|check|False
+update|complete|False
+update|conduct|False
+update|create|False
+update|denote|False
+update|develop|False
+update|evaluate|False
+update|generate|False
+update|issue|False
+update|manage|False
+update|pay|False
+update|perform|False
+update|post|False
+update|prepare|False
+update|process|False
+update|record|False
+update|remove|False
+update|request|False
+update|research|False
+update|resubmit|False
+update|review|False
+update|satisfy|False
+update|schedule|False
+update|select|False
+update|send|False
+update|submit|False
+update|successfully conduct|False
+update|support|False
+update|track|False
+update|update|True

@@ -1,0 +1,290 @@
+Persona 1 | Persona 2 | Result | Score 
+applicant|applicant|False|0.0
+applicant|county staff member|False|0.2556256055831909
+applicant|customer|False|0.35828784108161926
+applicant|development staff member|False|0.27658969163894653
+applicant|enforcement staff member|False|0.20842047035694122
+applicant|inspection staff member|False|0.28126025199890137
+applicant|inspection staff supervisor|False|0.42153164744377136
+applicant|inspection supervisor|False|0.4033169448375702
+applicant|inspector|False|0.32960328459739685
+applicant|plan review staff member|False|0.2509545087814331
+applicant|plan review staff supervisor|False|0.3462582528591156
+applicant|planning staff member|False|0.29100632667541504
+applicant|prospectiveapplicant|True|0.8456811904907227
+applicant|public user|False|0.3295290172100067
+applicant|staff member|False|0.20146039128303528
+applicant|technical staff member|False|0.27700525522232056
+applicant|zoning staff member|False|0.19112332165241241
+county staff member|applicant|False|0.19317376613616943
+county staff member|county staff member|False|0.0
+county staff member|customer|False|0.2334669828414917
+county staff member|development staff member|False|0.3740171194076538
+county staff member|enforcement staff member|False|0.2929925322532654
+county staff member|inspection staff member|False|0.3567448854446411
+county staff member|inspection staff supervisor|False|0.42524296045303345
+county staff member|inspection supervisor|False|0.4115085005760193
+county staff member|inspector|False|0.37482213973999023
+county staff member|plan review staff member|False|0.2910044491291046
+county staff member|plan review staff supervisor|False|0.3922218978404999
+county staff member|planning staff member|False|0.43276527523994446
+county staff member|prospectiveapplicant|False|0.24235038459300995
+county staff member|public user|False|0.20934002101421356
+county staff member|staff member|False|0.4613613188266754
+county staff member|technical staff member|False|0.31213417649269104
+county staff member|zoning staff member|False|0.23725542426109314
+customer|applicant|False|0.25109735131263733
+customer|county staff member|False|0.21924613416194916
+customer|customer|False|0.0
+customer|development staff member|False|0.2725485861301422
+customer|enforcement staff member|False|0.20439428091049194
+customer|inspection staff member|False|0.3063165247440338
+customer|inspection staff supervisor|False|0.39648982882499695
+customer|inspection supervisor|False|0.4472619593143463
+customer|inspector|False|0.41582992672920227
+customer|plan review staff member|False|0.29740288853645325
+customer|plan review staff supervisor|False|0.3674488961696625
+customer|planning staff member|False|0.28918564319610596
+customer|prospectiveapplicant|False|0.5481783151626587
+customer|public user|False|0.5134764909744263
+customer|staff member|False|0.2230539470911026
+customer|technical staff member|False|0.32154175639152527
+customer|zoning staff member|False|0.1294807493686676
+development staff member|applicant|False|0.2086952030658722
+development staff member|county staff member|False|0.25044679641723633
+development staff member|customer|False|0.29275214672088623
+development staff member|development staff member|False|0.0
+development staff member|enforcement staff member|False|0.13891151547431946
+development staff member|inspection staff member|False|0.23368597030639648
+development staff member|inspection staff supervisor|False|0.32345402240753174
+development staff member|inspection supervisor|False|0.3564968705177307
+development staff member|inspector|False|0.3360079228878021
+development staff member|plan review staff member|False|0.2247992604970932
+development staff member|plan review staff supervisor|False|0.31260737776756287
+development staff member|planning staff member|False|0.3199955224990845
+development staff member|prospectiveapplicant|False|0.2738247513771057
+development staff member|public user|False|0.19945257902145386
+development staff member|staff member|False|0.4228955805301666
+development staff member|technical staff member|False|0.3815110921859741
+development staff member|zoning staff member|False|0.14934876561164856
+enforcement staff member|applicant|False|0.19008295238018036
+enforcement staff member|county staff member|False|0.2798968255519867
+enforcement staff member|customer|False|0.22141624987125397
+enforcement staff member|development staff member|False|0.15237116813659668
+enforcement staff member|enforcement staff member|False|0.0
+enforcement staff member|inspection staff member|False|0.45996060967445374
+enforcement staff member|inspection staff supervisor|False|0.5384185910224915
+enforcement staff member|inspection supervisor|False|0.5297572612762451
+enforcement staff member|inspector|False|0.48250266909599304
+enforcement staff member|plan review staff member|False|0.18239781260490417
+enforcement staff member|plan review staff supervisor|False|0.27137264609336853
+enforcement staff member|planning staff member|False|0.1555205136537552
+enforcement staff member|prospectiveapplicant|False|0.23143401741981506
+enforcement staff member|public user|False|0.15368199348449707
+enforcement staff member|staff member|False|0.3939366638660431
+enforcement staff member|technical staff member|False|0.3007611930370331
+enforcement staff member|zoning staff member|False|0.2533913850784302
+inspection staff member|applicant|False|0.2886863648891449
+inspection staff member|county staff member|False|0.274779349565506
+inspection staff member|customer|False|0.2964649796485901
+inspection staff member|development staff member|False|0.2387138158082962
+inspection staff member|enforcement staff member|False|0.371050626039505
+inspection staff member|inspection staff member|False|0.0
+inspection staff member|inspection staff supervisor|True|0.7122373580932617
+inspection staff member|inspection supervisor|False|0.5723942518234253
+inspection staff member|inspector|False|0.5860283374786377
+inspection staff member|plan review staff member|False|0.2100077122449875
+inspection staff member|plan review staff supervisor|False|0.2779023349285126
+inspection staff member|planning staff member|False|0.2012547105550766
+inspection staff member|prospectiveapplicant|False|0.32310181856155396
+inspection staff member|public user|False|0.20782744884490967
+inspection staff member|staff member|False|0.519535481929779
+inspection staff member|technical staff member|False|0.42586010694503784
+inspection staff member|zoning staff member|False|0.20046204328536987
+inspection staff supervisor|applicant|False|0.2912307381629944
+inspection staff supervisor|county staff member|False|0.29470160603523254
+inspection staff supervisor|customer|False|0.3105267882347107
+inspection staff supervisor|development staff member|False|0.27845099568367004
+inspection staff supervisor|enforcement staff member|False|0.44550666213035583
+inspection staff supervisor|inspection staff member|False|0.5654497146606445
+inspection staff supervisor|inspection staff supervisor|False|0.0
+inspection staff supervisor|inspection supervisor|True|0.7995374798774719
+inspection staff supervisor|inspector|False|0.5313227772712708
+inspection staff supervisor|plan review staff member|False|0.3628353178501129
+inspection staff supervisor|plan review staff supervisor|False|0.2729371190071106
+inspection staff supervisor|planning staff member|False|0.2720853388309479
+inspection staff supervisor|prospectiveapplicant|False|0.366060733795166
+inspection staff supervisor|public user|False|0.21333205699920654
+inspection staff supervisor|staff member|False|0.466267853975296
+inspection staff supervisor|technical staff member|False|0.4172133207321167
+inspection staff supervisor|zoning staff member|False|0.2540178894996643
+inspection supervisor|applicant|False|0.3183048665523529
+inspection supervisor|county staff member|False|0.3001057803630829
+inspection supervisor|customer|False|0.3029971420764923
+inspection supervisor|development staff member|False|0.3071286380290985
+inspection supervisor|enforcement staff member|False|0.4984797537326813
+inspection supervisor|inspection staff member|False|0.6260427236557007
+inspection supervisor|inspection staff supervisor|True|0.9011096954345703
+inspection supervisor|inspection supervisor|False|0.0
+inspection supervisor|inspector|False|0.5774906277656555
+inspection supervisor|plan review staff member|False|0.3735625743865967
+inspection supervisor|plan review staff supervisor|False|0.3879534602165222
+inspection supervisor|planning staff member|False|0.3099777400493622
+inspection supervisor|prospectiveapplicant|False|0.42508453130722046
+inspection supervisor|public user|False|0.25598210096359253
+inspection supervisor|staff member|False|0.4413842260837555
+inspection supervisor|technical staff member|False|0.40158477425575256
+inspection supervisor|zoning staff member|False|0.28083711862564087
+inspector|applicant|False|0.31998211145401
+inspector|county staff member|False|0.2606546878814697
+inspector|customer|False|0.44768303632736206
+inspector|development staff member|False|0.24352483451366425
+inspector|enforcement staff member|False|0.4657916724681854
+inspector|inspection staff member|False|0.5325665473937988
+inspector|inspection staff supervisor|False|0.5349876880645752
+inspector|inspection supervisor|False|0.6189161539077759
+inspector|inspector|False|0.0
+inspector|plan review staff member|False|0.3132961094379425
+inspector|plan review staff supervisor|False|0.273053914308548
+inspector|planning staff member|False|0.27629169821739197
+inspector|prospectiveapplicant|False|0.415883332490921
+inspector|public user|False|0.42842069268226624
+inspector|staff member|False|0.2958911657333374
+inspector|technical staff member|False|0.32953161001205444
+inspector|zoning staff member|False|0.20775403082370758
+plan review staff member|applicant|False|0.2159106284379959
+plan review staff member|county staff member|False|0.29456138610839844
+plan review staff member|customer|False|0.29599297046661377
+plan review staff member|development staff member|False|0.34824833273887634
+plan review staff member|enforcement staff member|False|0.2279762327671051
+plan review staff member|inspection staff member|False|0.24719597399234772
+plan review staff member|inspection staff supervisor|False|0.33006876707077026
+plan review staff member|inspection supervisor|False|0.2872704863548279
+plan review staff member|inspector|False|0.33832451701164246
+plan review staff member|plan review staff member|False|0.0
+plan review staff member|plan review staff supervisor|False|0.6212677359580994
+plan review staff member|planning staff member|False|0.6493218541145325
+plan review staff member|prospectiveapplicant|False|0.27639976143836975
+plan review staff member|public user|False|0.18428799510002136
+plan review staff member|staff member|False|0.47811806201934814
+plan review staff member|technical staff member|False|0.39166316390037537
+plan review staff member|zoning staff member|False|0.22873905301094055
+plan review staff supervisor|applicant|False|0.2166045606136322
+plan review staff supervisor|county staff member|False|0.3300272226333618
+plan review staff supervisor|customer|False|0.280962735414505
+plan review staff supervisor|development staff member|False|0.3697810471057892
+plan review staff supervisor|enforcement staff member|False|0.3307715058326721
+plan review staff supervisor|inspection staff member|False|0.30001288652420044
+plan review staff supervisor|inspection staff supervisor|False|0.3376133143901825
+plan review staff supervisor|inspection supervisor|False|0.3492743670940399
+plan review staff supervisor|inspector|False|0.3193608522415161
+plan review staff supervisor|plan review staff member|False|0.4689822196960449
+plan review staff supervisor|plan review staff supervisor|False|0.0
+plan review staff supervisor|planning staff member|False|0.5728862881660461
+plan review staff supervisor|prospectiveapplicant|False|0.3055301904678345
+plan review staff supervisor|public user|False|0.17451149225234985
+plan review staff supervisor|staff member|False|0.44284623861312866
+plan review staff supervisor|technical staff member|False|0.38296619057655334
+plan review staff supervisor|zoning staff member|False|0.2895459532737732
+planning staff member|applicant|False|0.2466314435005188
+planning staff member|county staff member|False|0.3155069351196289
+planning staff member|customer|False|0.37641990184783936
+planning staff member|development staff member|False|0.35355839133262634
+planning staff member|enforcement staff member|False|0.127188578248024
+planning staff member|inspection staff member|False|0.2149464637041092
+planning staff member|inspection staff supervisor|False|0.3125336468219757
+planning staff member|inspection supervisor|False|0.31071725487709045
+planning staff member|inspector|False|0.37615546584129333
+planning staff member|plan review staff member|False|0.5500450134277344
+planning staff member|plan review staff supervisor|False|0.4794692099094391
+planning staff member|planning staff member|False|0.0
+planning staff member|prospectiveapplicant|False|0.29380935430526733
+planning staff member|public user|False|0.2508876919746399
+planning staff member|staff member|False|0.5498685836791992
+planning staff member|technical staff member|False|0.29226380586624146
+planning staff member|zoning staff member|False|0.25061091780662537
+prospectiveapplicant|applicant|True|0.8051785230636597
+prospectiveapplicant|county staff member|False|0.16630324721336365
+prospectiveapplicant|customer|False|0.3736359477043152
+prospectiveapplicant|development staff member|False|0.18822672963142395
+prospectiveapplicant|enforcement staff member|False|0.1409515142440796
+prospectiveapplicant|inspection staff member|False|0.24153923988342285
+prospectiveapplicant|inspection staff supervisor|False|0.30492234230041504
+prospectiveapplicant|inspection supervisor|False|0.30780190229415894
+prospectiveapplicant|inspector|False|0.36091548204421997
+prospectiveapplicant|plan review staff member|False|0.21818970143795013
+prospectiveapplicant|plan review staff supervisor|False|0.2575892508029938
+prospectiveapplicant|planning staff member|False|0.19777469336986542
+prospectiveapplicant|prospectiveapplicant|False|0.0
+prospectiveapplicant|public user|False|0.2922026813030243
+prospectiveapplicant|staff member|False|0.1588590443134308
+prospectiveapplicant|technical staff member|False|0.20045706629753113
+prospectiveapplicant|zoning staff member|False|0.13211093842983246
+public user|applicant|False|0.42445430159568787
+public user|county staff member|False|0.18749631941318512
+public user|customer|False|0.6937755942344666
+public user|development staff member|False|0.2713048756122589
+public user|enforcement staff member|False|0.16608388721942902
+public user|inspection staff member|False|0.29927971959114075
+public user|inspection staff supervisor|False|0.47062328457832336
+public user|inspection supervisor|False|0.5427279472351074
+public user|inspector|False|0.5167244076728821
+public user|plan review staff member|False|0.2359611690044403
+public user|plan review staff supervisor|False|0.37151989340782166
+public user|planning staff member|False|0.28463393449783325
+public user|prospectiveapplicant|False|0.6021623611450195
+public user|public user|False|0.0
+public user|staff member|False|0.218179389834404
+public user|technical staff member|False|0.2558176517486572
+public user|zoning staff member|False|0.13984616100788116
+staff member|applicant|False|0.19425813853740692
+staff member|county staff member|False|0.48209941387176514
+staff member|customer|False|0.3061622381210327
+staff member|development staff member|False|0.59359210729599
+staff member|enforcement staff member|False|0.44987601041793823
+staff member|inspection staff member|False|0.5939671993255615
+staff member|inspection staff supervisor|False|0.6223639249801636
+staff member|inspection supervisor|False|0.47642192244529724
+staff member|inspector|False|0.4012153744697571
+staff member|plan review staff member|False|0.5248801708221436
+staff member|plan review staff supervisor|False|0.47190067172050476
+staff member|planning staff member|False|0.6686720252037048
+staff member|prospectiveapplicant|False|0.22813957929611206
+staff member|public user|False|0.20463424921035767
+staff member|staff member|False|0.0
+staff member|technical staff member|False|0.6370710134506226
+staff member|zoning staff member|False|0.3868968188762665
+technical staff member|applicant|False|0.22741705179214478
+technical staff member|county staff member|False|0.2648560404777527
+technical staff member|customer|False|0.2934517562389374
+technical staff member|development staff member|False|0.5019308924674988
+technical staff member|enforcement staff member|False|0.2645796239376068
+technical staff member|inspection staff member|False|0.4552321135997772
+technical staff member|inspection staff supervisor|False|0.49833497405052185
+technical staff member|inspection supervisor|False|0.4866061806678772
+technical staff member|inspector|False|0.44455742835998535
+technical staff member|plan review staff member|False|0.3155360519886017
+technical staff member|plan review staff supervisor|False|0.4015357494354248
+technical staff member|planning staff member|False|0.19407279789447784
+technical staff member|prospectiveapplicant|False|0.2830810844898224
+technical staff member|public user|False|0.1865520477294922
+technical staff member|staff member|False|0.47741609811782837
+technical staff member|technical staff member|False|0.0
+technical staff member|zoning staff member|False|0.17036251723766327
+zoning staff member|applicant|False|0.1926305592060089
+zoning staff member|county staff member|False|0.26787447929382324
+zoning staff member|customer|False|0.2067052721977234
+zoning staff member|development staff member|False|0.20269592106342316
+zoning staff member|enforcement staff member|False|0.2919917404651642
+zoning staff member|inspection staff member|False|0.21573485434055328
+zoning staff member|inspection staff supervisor|False|0.29166486859321594
+zoning staff member|inspection supervisor|False|0.3110466003417969
+zoning staff member|inspector|False|0.36432987451553345
+zoning staff member|plan review staff member|False|0.21589122712612152
+zoning staff member|plan review staff supervisor|False|0.27796387672424316
+zoning staff member|planning staff member|False|0.3287331163883209
+zoning staff member|prospectiveapplicant|False|0.23281195759773254
+zoning staff member|public user|False|0.1734943985939026
+zoning staff member|staff member|False|0.38571006059646606
+zoning staff member|technical staff member|False|0.23278845846652985
+zoning staff member|zoning staff member|False|0.0

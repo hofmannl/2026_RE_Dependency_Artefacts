@@ -1,0 +1,301 @@
+Activity 1|Activity 2|Hints from Wordnet
+add|add|True
+add|check|True
+add|create|False
+add|do|False
+add|embed|False
+add|get|True
+add|know|False
+add|make it easy to assess|False
+add|map|False
+add|operationalize|False
+add|package|False
+add|publish|False
+add|reference|False
+add|translate|False
+add|use|False
+add|want|False
+check|check|True
+check|embed|False
+check|get|True
+check|operationalize|False
+check|publish|False
+check|translate|False
+check|use|False
+create|check|True
+create|create|True
+create|do|True
+create|embed|False
+create|get|True
+create|know|False
+create|make it easy to assess|False
+create|map|False
+create|operationalize|False
+create|package|False
+create|publish|False
+create|translate|False
+create|use|False
+customize|add|False
+customize|check|False
+customize|create|False
+customize|customize|True
+customize|do|False
+customize|embed|False
+customize|get|False
+customize|know|False
+customize|make it easy to assess|False
+customize|map|False
+customize|operationalize|False
+customize|package|False
+customize|publish|False
+customize|reference|False
+customize|specify|False
+customize|store|False
+customize|translate|False
+customize|use|False
+customize|want|False
+customize|would like|False
+do|check|True
+do|do|True
+do|embed|False
+do|get|True
+do|operationalize|False
+do|package|False
+do|publish|False
+do|translate|False
+do|use|True
+embed|embed|True
+embed|get|False
+embed|publish|False
+embed|use|False
+get|get|True
+get|use|False
+know|check|False
+know|do|True
+know|embed|False
+know|get|True
+know|know|True
+know|make it easy to assess|False
+know|map|False
+know|operationalize|False
+know|package|False
+know|publish|False
+know|translate|False
+know|use|False
+make it easy to assess|check|False
+make it easy to assess|do|False
+make it easy to assess|embed|False
+make it easy to assess|get|False
+make it easy to assess|make it easy to assess|True
+make it easy to assess|operationalize|False
+make it easy to assess|package|False
+make it easy to assess|publish|False
+make it easy to assess|translate|False
+make it easy to assess|use|False
+map|check|False
+map|do|True
+map|embed|False
+map|get|False
+map|make it easy to assess|False
+map|map|True
+map|operationalize|False
+map|package|False
+map|publish|False
+map|translate|False
+map|use|False
+operationalize|embed|False
+operationalize|get|False
+operationalize|operationalize|True
+operationalize|publish|False
+operationalize|use|False
+package|check|False
+package|embed|False
+package|get|False
+package|operationalize|False
+package|package|True
+package|publish|False
+package|translate|False
+package|use|False
+provide|add|True
+provide|check|False
+provide|create|False
+provide|customize|False
+provide|do|False
+provide|embed|False
+provide|get|False
+provide|know|False
+provide|make it easy to assess|False
+provide|map|False
+provide|operationalize|False
+provide|package|False
+provide|provide|True
+provide|publish|False
+provide|reference|False
+provide|save|False
+provide|specify|True
+provide|store|False
+provide|translate|True
+provide|understand|False
+provide|use|False
+provide|validate|False
+provide|want|False
+provide|would like|False
+publish|get|False
+publish|publish|True
+publish|use|False
+reference|check|False
+reference|create|False
+reference|do|False
+reference|embed|False
+reference|get|False
+reference|know|False
+reference|make it easy to assess|False
+reference|map|False
+reference|operationalize|False
+reference|package|False
+reference|publish|False
+reference|reference|True
+reference|translate|False
+reference|use|False
+save|add|False
+save|check|False
+save|create|False
+save|customize|False
+save|do|False
+save|embed|False
+save|get|False
+save|know|False
+save|make it easy to assess|False
+save|map|False
+save|operationalize|False
+save|package|False
+save|publish|True
+save|reference|False
+save|save|True
+save|specify|False
+save|store|False
+save|translate|False
+save|use|False
+save|validate|False
+save|want|False
+save|would like|False
+specify|add|False
+specify|check|True
+specify|create|False
+specify|do|True
+specify|embed|False
+specify|get|True
+specify|know|False
+specify|make it easy to assess|False
+specify|map|False
+specify|operationalize|False
+specify|package|False
+specify|publish|False
+specify|reference|False
+specify|specify|True
+specify|translate|False
+specify|use|False
+specify|want|False
+specify|would like|False
+store|add|False
+store|check|False
+store|create|False
+store|do|False
+store|embed|False
+store|get|False
+store|know|False
+store|make it easy to assess|False
+store|map|False
+store|operationalize|False
+store|package|False
+store|publish|False
+store|reference|False
+store|specify|False
+store|store|True
+store|translate|False
+store|use|False
+store|want|False
+store|would like|False
+translate|embed|False
+translate|get|False
+translate|operationalize|False
+translate|publish|False
+translate|translate|True
+translate|use|False
+understand|add|False
+understand|check|True
+understand|create|False
+understand|customize|False
+understand|do|False
+understand|embed|False
+understand|get|True
+understand|know|False
+understand|make it easy to assess|False
+understand|map|False
+understand|operationalize|False
+understand|package|False
+understand|publish|False
+understand|reference|False
+understand|save|False
+understand|specify|False
+understand|store|False
+understand|translate|True
+understand|understand|True
+understand|use|False
+understand|validate|False
+understand|want|False
+understand|would like|False
+use|use|True
+validate|add|False
+validate|check|False
+validate|create|False
+validate|customize|False
+validate|do|False
+validate|embed|False
+validate|get|False
+validate|know|False
+validate|make it easy to assess|False
+validate|map|False
+validate|operationalize|False
+validate|package|False
+validate|publish|False
+validate|reference|False
+validate|specify|False
+validate|store|False
+validate|translate|False
+validate|use|False
+validate|validate|True
+validate|want|False
+validate|would like|False
+want|check|False
+want|create|False
+want|do|False
+want|embed|False
+want|get|False
+want|know|False
+want|make it easy to assess|False
+want|map|False
+want|operationalize|False
+want|package|False
+want|publish|False
+want|reference|False
+want|translate|False
+want|use|False
+want|want|True
+would like|add|False
+would like|check|False
+would like|create|False
+would like|do|False
+would like|embed|False
+would like|get|False
+would like|know|False
+would like|make it easy to assess|False
+would like|map|False
+would like|operationalize|False
+would like|package|False
+would like|publish|False
+would like|reference|False
+would like|translate|False
+would like|use|False
+would like|want|False
+would like|would like|True

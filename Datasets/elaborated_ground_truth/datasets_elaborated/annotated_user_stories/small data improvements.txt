@@ -1,0 +1,403 @@
+--- g08 ---
+
+{
+    "PID": "#G08#",
+    "Text": "#G08# As a ResearcherDeveloper, would like the ability import/export from MS-SQL, so that I can use Data Packages in workflows that involve MS-SQL.",
+    "Persona": [
+        "ResearcherDeveloper"
+    ],
+    "Action": {
+        "Primary Action": [
+            "import/export"
+        ],
+        "Secondary Action": [
+            "use"
+        ]
+    },
+    "Entity": {
+        "Primary Entity": [
+            "MS-SQL"
+        ],
+        "Secondary Entity": [
+            "Data Packages",
+            "MS-SQL",
+            "workflows",
+            "ability"
+        ]
+    },
+    "Benefit": "I can use Data Packages in workflows that involve MS-SQL",
+    "Triggers": [
+        [
+            "ResearcherDeveloper",
+            "import"
+        ],
+        [
+            "ResearcherDeveloper",
+            "export"
+        ]
+    ],
+    "Targets": [
+        [
+            "import/export",
+            "MS-SQL"
+        ],
+        [
+            "use ",
+            "Data Packages"
+        ]
+    ],
+    "Contains": [
+        [
+            "workflows",
+            "Data Packages"
+        ],
+        [
+            "workflows",
+            "MS-SQL"
+        ]
+    ]
+}
+
+
+
+g17
+
+{
+        "PID": "#G17#",
+        "Text": "#G17# As a hydrator user, I want to ensure that all dataset instances created by apps are available as sinks and sources for pipelines.",
+        "Persona": [
+            "hydrator user"
+        ],
+        "Action": {
+            "Primary Action": [
+                "ensure"
+            ],
+            "Secondary Action": [
+                ""
+            ]
+        },
+        "Entity": {
+            "Primary Entity": [
+                "dataset instances"
+            ],
+            "Secondary Entity": [
+                "all dataset instances",
+                "sinks",
+                "sources",
+                "pipelines"
+            ]
+        },
+        "Benefit": "",
+        "Triggers": [
+            [
+                "hydrator user",
+                "ensure"
+            ]
+        ],
+        "Targets": [
+            [
+                "ensure",
+                "dataset instances"
+            ]
+        ],
+        "Contains": [
+            [
+                "all dataset instances",
+                "sinks"
+            ],
+            [
+                "all dataset instances",
+                "sources"
+            ]
+        ]
+    },
+    {
+        "PID": "#G17#",
+        "Text": "#G17# As an app developer, I want to ensure that all dataset instances created by Hydrator pipelines are accessible to the app.",
+        "Persona": [
+            "app developer"
+        ],
+        "Action": {
+            "Primary Action": [
+                "ensure"
+            ],
+            "Secondary Action": [
+                ""
+            ]
+        },
+        "Entity": {
+            "Primary Entity": [
+                "dataset instances"
+            ],
+            "Secondary Entity": [
+                "all dataset instances",
+                "Hydrator pipelines",
+                "app"
+            ]
+        },
+        "Benefit": "",
+        "Triggers": [
+            [
+                "app developer",
+                "ensure"
+            ]
+        ],
+        "Targets": [
+            [
+                "ensure",
+                "dataset instances"
+            ]
+        ],
+        "Contains": [
+            [
+                "app",
+                "all dataset instances"
+            ]
+        ]
+    }
+
+
+    {
+        "PID": "#G17#",
+        "Text": "#G17# As an app developer, I want to ensure that application creation fails if any of its datasets cannot be created.",
+        "Persona": [
+            "app developer"
+        ],
+        "Action": {
+            "Primary Action": [
+                "ensure"
+            ],
+            "Secondary Action": [
+                "fails"
+            ]
+        },
+        "Entity": {
+            "Primary Entity": [
+                "application creation"
+            ],
+            "Secondary Entity": [
+                "application creation",
+                "datasets"
+            ]
+        },
+        "Benefit": "",
+        "Triggers": [
+            [
+                "app developer",
+                "ensure"
+            ]
+        ],
+        "Targets": [
+            [
+                "ensure",
+                "application creation"
+            ]
+        ],
+        "Contains": [
+            [
+                "application creation",
+                "datasets"
+            ]
+        ]
+    }
+
+
+    {
+        "PID": "#G17#",
+        "Text": "#G17# As an app developer, I want to ensure that application redeployment fails if any of its datasets cannot be reconfigured.",
+        "Persona": [
+            "app developer"
+        ],
+        "Action": {
+            "Primary Action": [
+                "ensure"
+            ],
+            "Secondary Action": [
+                "fails"
+            ]
+        },
+        "Entity": {
+            "Primary Entity": [
+                "application redeployment"
+            ],
+            "Secondary Entity": [
+                "application redeployment",
+                "datasets"
+            ]
+        },
+        "Benefit": "",
+        "Triggers": [
+            [
+                "app developer",
+                "ensure"
+            ]
+        ],
+        "Targets": [
+            [
+                "ensure",
+                "application redeployment"
+            ]
+        ],
+        "Contains": [
+            [
+                "application redeployment",
+                "datasets"
+            ]
+        ]
+    }
+
+    {
+        "PID": "#G17#",
+        "Text": "#G17# As a user, I want to ensure that dataset creation fails if the dataset cannot be enabled for explore.",
+        "Persona": [
+            "user"
+        ],
+        "Action": {
+            "Primary Action": [
+                "ensure"
+            ],
+            "Secondary Action": [
+                "fails"
+            ]
+        },
+        "Entity": {
+            "Primary Entity": [
+                "dataset creation"
+            ],
+            "Secondary Entity": [
+                "dataset creation",
+                "dataset",
+                "explore"
+            ]
+        },
+        "Benefit": "",
+        "Triggers": [
+            [
+                "user",
+                "ensure"
+            ]
+        ],
+        "Targets": [
+            [
+                "ensure",
+                "dataset creation"
+            ]
+        ],
+        "Contains": []
+    }
+
+    {
+        "PID": "#G17#",
+        "Text": "#G17# As a user, I want to ensure that dataset reconfiguration fails if the corresponding update of the explore table fails.",
+        "Persona": [
+            "user"
+        ],
+        "Action": {
+            "Primary Action": [
+                "ensure"
+            ],
+            "Secondary Action": [
+                "fails",
+                "fails"
+            ]
+        },
+        "Entity": {
+            "Primary Entity": [
+                "dataset reconfiguration"
+            ],
+            "Secondary Entity": [
+                "corresponding update",
+                "explore table"
+            ]
+        },
+        "Benefit": "",
+        "Triggers": [
+            [
+                "user",
+                "ensure"
+            ]
+        ],
+        "Targets": [
+            [
+                "ensure",
+                "dataset reconfiguration"
+            ]
+        ],
+        "Contains": [
+            [
+                "explore table",
+                "corresponding update"
+            ]
+        ]
+    }
+
+
+in g22
+
+{
+        "PID": "#G22#",
+        "Text": "#G22# As a researcher, I want to indicate where my data will be stored during the project and where after the project, so that it remains accessible during all stages of the data lifecycle.",
+        "Persona": [
+            "researcher"
+        ],
+        "Action": {
+            "Primary Action": [
+                "indicate"
+            ],
+            "Secondary Action": [
+                "stored"
+            ]
+        },
+        "Entity": {
+            "Primary Entity": [
+                "my data"
+            ],
+            "Secondary Entity": [
+                "data",
+                "project",
+                "where",
+                "project",
+                "all stages",
+                "data lifecycle"
+            ]
+        },
+        "Benefit": "it remains accessible during all stages of the data lifecycle",
+        "Triggers": [
+            [
+                "researcher",
+                "indicate"
+            ]
+        ],
+        "Targets": [
+            [
+                "indicate",
+                "where"
+            ],
+            [
+                "indicate",
+                "my data"
+            ],
+            [
+                "stored",
+                "data"
+            ]
+        ],
+        "Contains": [
+            [
+                "my data",
+                "data"
+            ],
+            [
+                "project",
+                "data"
+            ],
+            [
+                "data lifecycle",
+                "all stages"
+            ],
+            [
+                "project",
+                "data"
+            ]
+        ]
+    },

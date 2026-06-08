@@ -1,0 +1,6 @@
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g17_baseline.json | Persona pairs | Threshold 0.5 | 94.01918649673462 seconds
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g17_baseline.json | Persona pairs | Threshold 0.7 | 93.70857977867126 seconds
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g17_baseline.json | Persona pairs | Threshold 0.9 | 93.50807213783264 seconds
+Semantical Equivalence Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g17_baseline.json | Persona pairs | Threshold 0.5 | 47.31407189369202 seconds
+Semantical Equivalence Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g17_baseline.json | Persona pairs | Threshold 0.7 | 47.112438678741455 seconds
+Semantical Equivalence Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g17_baseline.json | Persona pairs | Threshold 0.9 | 47.08040452003479 seconds

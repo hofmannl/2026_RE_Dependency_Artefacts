@@ -1,0 +1,20 @@
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Persona pairs | Threshold 0.5 | 1064.909601688385 seconds
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Persona pairs | Threshold 0.7 | 1064.2365834712982 seconds
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Persona pairs | Threshold 0.9 | 1063.9555888175964 seconds
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Action pairs | Threshold 0.5 | 540.9414114952087 seconds
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Action pairs | Threshold 0.7 | 541.0855689048767 seconds
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Action pairs | Threshold 0.9 | 540.941531419754 seconds
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Entity pairs | Threshold 0.5 | 2205.024491786957 seconds
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Entity pairs | Threshold 0.7 | 2206.998229265213 seconds
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Entity pairs | Threshold 0.9 | 2205.8103034496307 seconds
+Containment Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Entity pairs | Threshold 0.5 | 2185.4502699375153 seconds
+Containment Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Entity pairs | Threshold 0.7 | 2186.0003151893616 seconds
+Containment Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Entity pairs | Threshold 0.9 | 2185.9394369125366 seconds
+Semantical Equivalence Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Persona pairs | Threshold 0.5 | 562.435394525528 seconds
+Semantical Equivalence Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Persona pairs | Threshold 0.7 | 562.4668309688568 seconds
+Semantical Equivalence Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Persona pairs | Threshold 0.9 | 562.1105818748474 seconds
+Semantical Equivalence Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Action pairs | Threshold 0.5 | 277.39419293403625 seconds
+Semantical Equivalence Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Action pairs | Threshold 0.9 | 277.40823578834534 seconds
+Semantical Equivalence Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Entity pairs | Threshold 0.5 | 1604.7200634479523 seconds
+Semantical Equivalence Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Entity pairs | Threshold 0.7 | 1604.4061450958252 seconds
+Semantical Equivalence Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\lemmatized_data\g22_baseline.json | Entity pairs | Threshold 0.9 | 1602.8563072681427 seconds

@@ -1,0 +1,176 @@
+Ref Original USID|USID|User Story Text|Persona|Activity|Entity|Type
+1|G-1|As a Developer, I want to get a Data Package into Node.|developer|get|datum package|Goal
+1|B-1| so that I can start using the data for doing analysis and visualizations.|developer|do|analysis|Benefit
+1|B-2| so that I can start using the data for doing analysis and visualizations.|developer|do|visualization|Benefit
+1|B-3| so that I can start using the data for doing analysis and visualizations.|developer|start use|datum|Benefit
+2|G-2|As a Researcher, I want to get a Data Package into Julia in seconds.|researcher|get|datum package|Goal
+2|B-4| so that I can start using the data for doing analysis and visualizations.|researcher|start use|datum|Benefit
+2|B-5| so that I can start using the data for doing analysis and visualizations.|researcher|do|analysis|Benefit
+2|B-6| so that I can start using the data for doing analysis and visualizations.|researcher|do|visualization|Benefit
+3|B-7| so that it is more useful to others and can be used better with tools like visualization programs.|publisher|use well|tool|Benefit
+3|G-3|As a Publisher, I want to add type information to my data.|publisher|add|type information|Goal
+4|G-4|As a Publisher, I want to be able to provide a visualization of data in the Data Package.|publisher|provide|visualization|Goal
+4|B-8| so that I can provide my analysis and show my work to users of the data.|publisher|provide|analysis|Benefit
+4|B-9| so that I can provide my analysis and show my work to users of the data.|publisher|show|work|Benefit
+5|G-5|As a Researcher, I want to be able to save new visualizations.|researcher|save|new visualization|Goal
+6|B-10| so that I can feel trust in the validity and usefulness of the data.|researcherpublisher|feel|usefulness|Benefit
+6|G-6|As a ResearcherPublisher, I want to know that my data conforms to its Data Package profile.|researcherpublisher|know|datum|Goal
+6|B-11| so that I can feel trust in the validity and usefulness of the data.|researcherpublisher|feel|trust|Benefit
+7|G-7|As a ResearcherPublisher, I want to understand the ways in which my data is invalid.|researcherpublisher|understand|way|Goal
+7|B-12| so that I can know how to fix it.|researcherpublisher|know|how|Benefit
+7|B-13| so that I can know how to fix it.|researcherpublisher|fix|datum|Benefit
+8|B-14| so that I can start using the data for doing analysis and visualizations.|researcher|start use|datum|Benefit
+8|G-8|As a Researcher, I want to get a Data Package into R in seconds.|researcher|get|datum package|Goal
+8|B-15| so that I can start using the data for doing analysis and visualizations.|researcher|do|analysis|Benefit
+8|B-16| so that I can start using the data for doing analysis and visualizations.|researcher|do|visualization|Benefit
+9|B-17| so that I can start using the data for doing analysis and visualizations.|researcher|do|analysis|Benefit
+9|B-18| so that I can start using the data for doing analysis and visualizations.|researcher|do|visualization|Benefit
+9|G-9|As a Researcher, I want to get a Data Package into Excel in seconds.|researcher|get|datum package|Goal
+9|B-19| so that I can start using the data for doing analysis and visualizations.|researcher|start use|datum|Benefit
+10|G-10|As a Researcher, I want to get a Data Package into SPSS in seconds.|researcher|get|datum package|Goal
+10|B-20| so that I can start using the data for doing analysis and visualizations.|researcher|start use|datum|Benefit
+10|B-21| so that I can start using the data for doing analysis and visualizations.|researcher|do|visualization|Benefit
+10|B-22| so that I can start using the data for doing analysis and visualizations.|researcher|do|analysis|Benefit
+11|B-23| so that I can start using the data for doing analysis and visualizations.|researcher|start use|datum|Benefit
+11|B-24| so that I can start using the data for doing analysis and visualizations.|researcher|do|analysis|Benefit
+11|B-25| so that I can start using the data for doing analysis and visualizations.|researcher|do|visualization|Benefit
+11|G-11|As a Researcher, I want to get a Data Package into STATA in seconds.|researcher|get|datum package|Goal
+12|B-26| so that I can benefit from the wide array of tools available for Data Packages.|researcher|benefit|wide array of tool available|Benefit
+12|G-12|As a Researcher, I want to be able to translate my EML dataset to a Data Package.|researcher|translate|eml dataset|Goal
+13|G-13|As a Researcher, I want to get a Data Package into LibreOffice/OpenOffice in seconds.|researcher|get|datum package|Goal
+13|B-27| so that I can start using the data for doing analysis and visualizations.|researcher|start use|datum|Benefit
+13|B-28| so that I can start using the data for doing analysis and visualizations.|researcher|do|analysis|Benefit
+13|B-29| so that I can start using the data for doing analysis and visualizations.|researcher|do|visualization|Benefit
+14|G-14|As a Developer, I want to get a Data Package into Python in seconds.|developer|get|datum package|Goal
+14|B-30| so that I can start using the data for doing analysis and visualizations.|developer|do|analysis|Benefit
+14|B-31| so that I can start using the data for doing analysis and visualizations.|developer|start use|datum|Benefit
+14|B-32| so that I can start using the data for doing analysis and visualizations.|developer|do|visualization|Benefit
+15|G-15|As a Developer, I want a jQuery plugin for Core Data Packages.|developer|want|jquery plugin|Goal
+15|B-33| so that I can use it to apply to form control that uses a core dataset for autocompletion.|developer|form|control|Benefit
+16|G-16|As a Researcher, I want to get my Excel spreadsheet into a Data Package.|researcher|get|excel spreadsheet|Goal
+16|B-34| so that I can benefit from better tooling and standardization.|researcher|benefit from|well tooling|Benefit
+16|B-35| so that I can benefit from better tooling and standardization.|researcher|benefit from|standardization|Benefit
+17|B-36| so that I can use the best tool for the job.|developer|use|good tool|Benefit
+17|G-17|As a Developer, I want to do exploratory data analysis in R and operationalize that analysis in Python.|developer|do|exploratory data analysis|Goal
+17|G-18|As a Developer, I want to do exploratory data analysis in R and operationalize that analysis in Python.|developer|operationalize|analysis|Goal
+18|G-19|As a Developer, I want to get a Data Package into Clojure in seconds.|developer|get|datum package|Goal
+18|B-37| so that I can start using the data in doing analysis and visualizations.|developer|start use|datum|Benefit
+18|B-38| so that I can start using the data in doing analysis and visualizations.|developer|do|visualization|Benefit
+18|B-39| so that I can start using the data in doing analysis and visualizations.|developer|do|analysis|Benefit
+19|G-20|As a Developer, I want to get a Data Package into Julia in seconds.|developer|get|datum package|Goal
+19|B-40| so that I can start using the data in doing analysis and visualizations.|developer|start use|datum|Benefit
+19|B-41| so that I can start using the data in doing analysis and visualizations.|developer|do|analysis|Benefit
+19|B-42| so that I can start using the data in doing analysis and visualizations.|developer|do|visualization|Benefit
+20|G-21|As a Developer, I want to get a Data Package into C++ in seconds.|developer|get|datum package|Goal
+20|B-43| so that I can start using the data in doing analysis and visualizations.|developer|start use|datum|Benefit
+20|B-44| so that I can start using the data in doing analysis and visualizations.|developer|do|visualization|Benefit
+20|B-45| so that I can start using the data in doing analysis and visualizations.|developer|do|analysis|Benefit
+21|G-22|As a Machine Learning expert, I would like to package ML datasets as data packages.|machine learning expert|package|ml dataset|Goal
+21|B-46| so that I can easily import them into my ML platform, so that I can start using the data in doing analysis.|machine learning expert|start use|datum|Benefit
+21|B-47| so that I can easily import them into my ML platform, so that I can start using the data in doing analysis.|machine learning expert|do|analysis|Benefit
+22|B-48| so that I can integrate data-packaged data with pipelines that use Elasticsearch.|developer|integrate|data - package datum|Benefit
+22|G-23|As a Developer, I want an Elasticsearch integration.|developer|want|elasticsearch integration|Goal
+23|B-49| so that I can integrate data-packaged data with pipelines that use SPSS.|developer|integrate|data - package datum|Benefit
+23|G-24|As a Developer, I want an SPSS integration.|developer|want|spss integration|Goal
+24|B-50| so that I can integrate data-packaged data with pipelines that use EPrints.|developer|integrate|data - package datum|Benefit
+24|G-25|As a Developer, I want an EPrints integration.|developer|want|eprint integration|Goal
+25|G-26|As a Developer, I want a Mongo integration.|developer|want|mongo integration|Goal
+25|B-51| so that I can integrate data-packaged data with pipelines that use Mongo.|developer|integrate|data - package datum|Benefit
+26|G-27|As a Developer, I want a DAT integration.|developer|want|dat integration|Goal
+26|B-52| so that I can integrate data-packaged data with pipelines that use DAT.|developer|integrate|data - package datum|Benefit
+27|G-28|As a ResearcherGovernment Publisher, I want to add general reference data to my narrow dataset.|researchergovernment publisher|add|general reference datum|Goal
+28|G-29|As a ResearcherGovernment Publisher, I want to add general country names to my dataset that only contains country codes.|researchergovernment publisher|add|general country name|Goal
+29|G-30|As a ResearcherGovernment Publisher, I want to add reference data on inflation to my spending dataset.|researchergovernment publisher|add|reference datum on inflation|Goal
+30|G-31|As a ResearcherGovernment Publisher, I want to map lines in my dataset using geographic data in my dataset.|researchergovernment publisher|map|line|Goal
+30|B-53| so that my dataset is more engaging for non-technical users.|researchergovernment publisher|use|geographic datum|Benefit
+31|G-32|As a Researcher, I want to be able to reference a remote-controlled vocabulary for my dataset.|researcher|reference|remote - control vocabulary|Goal
+32|B-54| so that I can integrate data-packaged data with pipelines that use Dspace.|developer|integrate|data - package datum|Benefit
+32|G-33|As a developer, I want an DSpace integration.|developer|want|dspace integration|Goal
+33|G-34|As a Developer, I want Feather integration.|developer|want|feather integration|Goal
+33|B-55| so that I can integrate data-packaged data with pipelines that use Feather.|developer|integrate|data - package datum|Benefit
+34|G-35|As a Developer, I want HDF5 integration.|developer|want|hdf5 integration|Goal
+34|B-56| so that I can integrate data-packaged data with pipelines that use HDF5.|developer|integrate|data - package datum|Benefit
+35|B-57| so that I can import datasets without downloading them locally.|researcher|work with|datum|Benefit
+35|B-58| so that I can import datasets without downloading them locally.|researcher|import|dataset|Benefit
+35|B-59| so that I can import datasets without downloading them locally.|researcher|without download|dataset|Benefit
+35|G-36|As a Researcher, working with data, I want an Microsoft Power BI integration.|researcher|want|microsoft power bi integration|Goal
+36|B-60| so that when I store my dataset in GitHub, I don’t have to retype descriptive information about my dataset.|researcherpublisher|do not have to retype|descriptive information|Benefit
+36|B-61| so that when I store my dataset in GitHub, I don’t have to retype descriptive information about my dataset.|researcherpublisher|store|dataset|Benefit
+36|G-37|As a ResearcherPublisher, I want an integration with Zenodo.|researcherpublisher|want|integration|Goal
+37|G-38|As a Publisher, I would like an integration with Open Refine.|publisher|would like|integration|Goal
+37|B-62| so that I can output cleaned Data Packages.|publisher|output|clean datum package|Benefit
+38|G-39|As a ResearcherPublisher, I want to publish Data Packages to CKAN.|researcherpublisher|publish|datum package|Goal
+38|B-63| so that my data is findable, and I can have a data API.|researcherpublisher|have|data api|Benefit
+39|G-40|As a ResearcherDeveloper, would like the ability import/export from MS-SQL.|researcherdeveloper|import / export|ms - sql|Goal
+40|B-64| so that I can store my data in plaintext while still retaining its metadata.|researcher|still retain|metadata|Benefit
+40|G-41|As a Researcher, working with data in NetCDF, I want NetCDF integration.|researcher|want|netcdf integration|Goal
+40|B-65| so that I can store my data in plaintext while still retaining its metadata.|researcher|store|datum|Benefit
+41|G-42|As a Researcher, I want an integration with https://data.mendeley.com/.|researcher|want|integration|Goal
+41|B-66| so that I can validate my data upon ingest to the service.|researcher|ing|service|Benefit
+42|G-43|As a Publisher, I would like an integration with Excel.|publisher|would like|integration|Goal
+42|B-67| so that I can output cleaned Data Packages.|publisher|output|clean datum package|Benefit
+43|G-44|As a Publisher, I want to store my data quickly and easily online.|publisher|store|datum|Goal
+44|G-45|As a Repository Manager, I want a tool that makes it easy for researchers/ users to add basic metadata to their research data.|repository manager|want|tool|Goal
+44|B-68| so that it is more findable and therefore useful.|repository manager|add|basic metadata|Benefit
+45|G-46|As a ResearcherPublisher, I want validate my data with a minimum of clicks.|researcherpublisher|validate|datum|Goal
+45|B-69| so that I can feel trust in the validity and usefulness of the data.|researcherpublisher|feel|usefulness|Benefit
+45|B-70| so that I can feel trust in the validity and usefulness of the data.|researcherpublisher|feel|trust|Benefit
+46|G-47|As a publisher, I want to be able to check that every time I update my data it is still good.|publisher|check|datum|Goal
+46|B-71| so that I can catch errors early and store reliable data.|publisher|catch|error|Benefit
+46|B-72| so that I can catch errors early and store reliable data.|publisher|store|reliable datum|Benefit
+47|B-73| so that I can feel trust in the validity and usefulness of the data quickly and in the context of my command line workflow.|developerwrangler|validate|datum|Benefit
+47|G-48|As a DeveloperWrangler, I want to use a command line tool that allows met to validate data.|developerwrangler|use|command line tool|Goal
+47|B-74| so that I can feel trust in the validity and usefulness of the data quickly and in the context of my command line workflow.|developerwrangler|feel|trust|Benefit
+47|B-75| so that I can feel trust in the validity and usefulness of the data quickly and in the context of my command line workflow.|developerwrangler|feel|usefulness|Benefit
+48|G-49|As a developer, I want an online service that is connected to my data repository that validates data on update.|developer|want|online service|Goal
+48|B-76| so that I can delegate data validation to a third party.|developer|validate|datum|Benefit
+48|B-77| so that I can delegate data validation to a third party.|developer|delegate|datum validation|Benefit
+49|B-78| so that I can claim that we are living up to our transparency commitments.|government publisher|claim|transparency commitment|Benefit
+49|B-79| so that I can claim that we are living up to our transparency commitments.|government publisher|live up to|transparency commitment|Benefit
+49|B-80| so that I can claim that we are living up to our transparency commitments.|government publisher|prove|publish datum|Benefit
+50|G-50|As a Civic Tech Activist, I want to make it easy to assess the quality of data stored by the government.|civic tech activist|make it easy to assess|quality of data|Goal
+50|B-81| so that I can make sure that government is living up to its transparency commitments.|civic tech activist|live up to|transparency commitment|Benefit
+51|G-51|As a publisher, I want to embed an interactive preview of my data on my site.|publisher|embed|interactive preview|Goal
+51|B-82| so that users can be encouraged that this is the correct data for them.|publisher|encourage|correct datum|Benefit
+52|G-52|As a publisher, I want to embed a preview button on my site.|publisher|embed|preview button|Goal
+52|B-83| so that users can preview the data and be encouraged that this is the correct data for them.|publisher|preview|datum|Benefit
+52|B-84| so that users can preview the data and be encouraged that this is the correct data for them.|publisher|encourage|correct datum|Benefit
+53|G-53|As a Publisher, I want to know how many users have previewed a dataset.|publisher|know|how many user|Goal
+53|B-85| so that I know how interest in a dataset relates to its actual download numbers.|publisher|relate|actual download number|Benefit
+53|B-86| so that I know how interest in a dataset relates to its actual download numbers.|publisher|know|how|Benefit
+53|B-87| so that I know how interest in a dataset relates to its actual download numbers.|publisher|preview|dataset|Benefit
+54|G-54|As a Developer, I want to customize an existing wizard for my specific type of data.|developer|customize|exist wizard|Goal
+54|B-88| so that I can give my users a great user experience.|developer|give|user|Benefit
+55|G-55|As a Publisher, I want to add useful metadata or add in new data columns to make the dataset more useful.|publisher|add|useful metadata|Goal
+55|G-56|As a Publisher, I want to add useful metadata or add in new data columns to make the dataset more useful.|publisher|add|new data column|Goal
+56|B-89|As a publisher, I want to package reproducible steps to get a certain data state, so my methodology is transparent and can be rerun by others.|publisher|get|certain data state|Benefit
+56|G-57|As a publisher, I want to package reproducible steps to get a certain data state, so my methodology is transparent and can be rerun by others.|publisher|package|reproducible step|Goal
+56|B-90|As a publisher, I want to package reproducible steps to get a certain data state, so my methodology is transparent and can be rerun by others.|publisher|rerun|methodology|Benefit
+57|B-91| so that I get a data API and my dataset is listed in a relevant catalog.|developerdatawrangler|automatically store|ckan|Benefit
+57|G-58|As a DeveloperDataWrangler, I want to store my Data Package in GitHub and have it automatically stored into CKAN.|developerdatawrangler|store|datum package|Goal
+57|B-92| so that I get a data API and my dataset is listed in a relevant catalog.|developerdatawrangler|get|data api|Benefit
+57|B-93| so that I get a data API and my dataset is listed in a relevant catalog.|developerdatawrangler|list|dataset|Benefit
+58|G-59|As a Researcher, I want a tool that can generate basic statistics about a dataset.|researcher|want|tool|Goal
+58|B-94| so that I can get a quick preview of the data.|researcher|get|quick preview|Benefit
+59|G-60|As a DeveloperPublisher, I want a tool to create an embeddable data summary via iframe.|developerpublisher|want|tool|Goal
+59|B-95| so that I can embed data summaries across sites.|developerpublisher|create|embeddable data summary|Benefit
+59|B-96| so that I can embed data summaries across sites.|developerpublisher|embed|data summary|Benefit
+60|G-61|As a Researcher, I want an app that generates an OpenRefine reconciliation API endpoint from a Tabular Data Package.|researcher|want|app|Goal
+60|B-97| so that I can use it to clean messy data.|researcher|clean|messy datum|Benefit
+60|B-98| so that I can use it to clean messy data.|researcher|generate|openrefine reconciliation api endpoint|Benefit
+61|G-62|As a Researcher, I want an app that create proxy Data Packages for well know and reliable data, sources.|researcher|want|app|Goal
+61|B-99| so that I can load high quality data using Data Package tooling.|researcher|load|high quality datum|Benefit
+61|B-100| so that I can load high quality data using Data Package tooling.|researcher|create|proxy datum package|Benefit
+61|B-101| so that I can load high quality data using Data Package tooling.|researcher|use|datum package tooling|Benefit
+62|G-63|As a RepositoryManagerResearcher, I want an app that acts as a match-making service for packaging data.|repositorymanagerresearcher|want|app|Goal
+62|B-102| so that owners are paired with data packagers.|repositorymanagerresearcher|pair|datum packager|Benefit
+62|B-103| so that owners are paired with data packagers.|repositorymanagerresearcher|pair|owner|Benefit
+62|B-104| so that owners are paired with data packagers.|repositorymanagerresearcher|act as|match - making service|Benefit
+63|G-64|As a developer, I would like to create a web socket protocol for Frictionless data tools.|developer|create|web socket protocol|Goal
+63|B-105| so that I can easily use data packages with additional data analysis tools.|developer|easily use|datum package|Benefit
+64|B-106|As a Publisher, I would like a tool to check data availability persistence after publication.|publisher|check|data availability persistence|Benefit
+65|B-107| so that funding agencies can identify the funding, source for a given dataset.|researcherpublisher|identify|funding|Benefit
+65|B-108| so that funding agencies can identify the funding, source for a given dataset.|researcherpublisher|identify|source|Benefit
+65|G-65|As a ResearcherPublisher, I want to specify the funding that contributed to the creation of a given dataset.|researcherpublisher|specify|funding|Goal
+66|G-66|As a ResearcherPublisher, I want to add a DOI to a dataset.|researcherpublisher|add|doi|Goal
+66|B-109| so that I can cite it in papers stored  with the data.|researcherpublisher|cite|dataset|Benefit

@@ -1,0 +1,67 @@
+Entity 1 | Entity 2 | Result 
+appointment|appointment|True
+appointment|data|False
+appointment|deadline|False
+appointment|developer|False
+appointment|files|False
+appointment|meeting|True
+appointment|project|False
+appointment|status of project|False
+appointment|type of appointment|False
+data|data|True
+deadline|data|False
+deadline|deadline|True
+deadline|files|False
+developer|data|False
+developer|deadline|False
+developer|developer|True
+developer|files|False
+files|data|False
+files|files|True
+meeting|data|False
+meeting|deadline|False
+meeting|developer|False
+meeting|files|False
+meeting|meeting|True
+meeting|project|False
+meeting|status of project|False
+meeting|type of appointment|True
+project|data|False
+project|deadline|False
+project|developer|False
+project|files|False
+project|project|True
+project|status of project|False
+project|type of appointment|False
+role of another user|appointment|False
+role of another user|data|False
+role of another user|deadline|False
+role of another user|developer|False
+role of another user|files|False
+role of another user|meeting|False
+role of another user|project|False
+role of another user|role of another user|True
+role of another user|status of project|False
+role of another user|type of appointment|False
+role of another user|user|False
+status of project|data|False
+status of project|deadline|False
+status of project|developer|False
+status of project|files|False
+status of project|status of project|True
+status of project|type of appointment|True
+type of appointment|data|False
+type of appointment|deadline|False
+type of appointment|developer|False
+type of appointment|files|False
+type of appointment|type of appointment|True
+user|appointment|False
+user|data|False
+user|deadline|False
+user|developer|False
+user|files|False
+user|meeting|False
+user|project|False
+user|status of project|False
+user|type of appointment|False
+user|user|True

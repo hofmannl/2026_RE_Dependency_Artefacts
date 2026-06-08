@@ -1,0 +1,90 @@
+As a manager of a project, I want to create an appointment. -> As an administrator, I want to delete another user.
+As a manager of a project, I want to create an appointment. -> As a manager of a project, I want to modify time and place of meetings.
+As a manager of a project, I want to create an appointment. -> As a project manager, I would like to add users to the project.
+As a manager of a project, I want to create an appointment. -> As a project manager, I want to remove users from projects.
+As a manager of a project, I want to create an appointment. -> As a project manager, I want to drop developers from the project.
+As a manager of a project, I want to create an appointment. -> As a project manager, I want to set a new deadline to the project.
+As a manager of a project, I want to create an appointment. -> As a project manager, I want to change the deadline of a project.
+As a manager of a project, I want to create an appointment. -> As an end user, I want to modify data that I have uploaded before.
+As a manager, I want to change appointments in my projects. -> As an administrator, I want to delete another user.
+As a manager, I want to change appointments in my projects. -> As a manager of a project, I want to modify time and place of meetings.
+As a manager, I want to change appointments in my projects. -> As a project manager, I would like to add users to the project.
+As a manager, I want to change appointments in my projects. -> As a project manager, I want to remove users from projects.
+As a manager, I want to change appointments in my projects. -> As a project manager, I want to drop developers from the project.
+As a manager, I want to change appointments in my projects. -> As a project manager, I want to set a new deadline to the project.
+As a manager, I want to change appointments in my projects. -> As a project manager, I want to change the deadline of a project.
+As a manager, I want to change appointments in my projects. -> As an end user, I want to modify data that I have uploaded before.
+As a developer of a project, I want to insert a new appointment in the project. -> As an administrator, I want to delete another user.
+As a developer of a project, I want to insert a new appointment in the project. -> As a manager of a project, I want to modify time and place of meetings.
+As a developer of a project, I want to insert a new appointment in the project. -> As a project manager, I would like to add users to the project.
+As a developer of a project, I want to insert a new appointment in the project. -> As a project manager, I want to remove users from projects.
+As a developer of a project, I want to insert a new appointment in the project. -> As a project manager, I want to drop developers from the project.
+As a developer of a project, I want to insert a new appointment in the project. -> As a project manager, I want to set a new deadline to the project.
+As a developer of a project, I want to insert a new appointment in the project. -> As a project manager, I want to change the deadline of a project.
+As a developer of a project, I want to insert a new appointment in the project. -> As an end user, I want to modify data that I have uploaded before.
+As a manager of a project, I want to modify time and place of meetings. -> As an administrator, I want to delete another user.
+As a manager of a project, I want to modify time and place of meetings. -> As a manager of a project, I want to create an appointment.
+As a manager of a project, I want to modify time and place of meetings. -> As a manager, I want to change appointments in my projects.
+As a manager of a project, I want to modify time and place of meetings. -> As a developer of a project, I want to insert a new appointment in the project.
+As a manager of a project, I want to modify time and place of meetings. -> As an end user, I want to edit appointments.
+As a manager of a project, I want to modify time and place of meetings. -> As a project manager, I would like to add users to the project.
+As a manager of a project, I want to modify time and place of meetings. -> As a project manager, I want to remove users from projects.
+As a manager of a project, I want to modify time and place of meetings. -> As an end user, I want to modify data that I have uploaded before.
+As a manager, I want to modify my projects. -> As an administrator, I want to delete another user.
+As a manager, I want to modify my projects. -> As a manager of a project, I want to create an appointment.
+As a manager, I want to modify my projects. -> As a manager, I want to change appointments in my projects.
+As a manager, I want to modify my projects. -> As a developer of a project, I want to insert a new appointment in the project.
+As a manager, I want to modify my projects. -> As a manager of a project, I want to modify time and place of meetings.
+As a manager, I want to modify my projects. -> As a manager, I want to change the status of a project.
+As a manager, I want to modify my projects. -> As an end user, I want to edit appointments.
+As a manager, I want to modify my projects. -> As a project manager, I would like to add users to the project.
+As a manager, I want to modify my projects. -> As a project manager, I want to remove users from projects.
+As a manager, I want to modify my projects. -> As a project manager, I want to drop developers from the project.
+As a manager, I want to modify my projects. -> As a project manager, I want to set a new deadline to the project.
+As a manager, I want to modify my projects. -> As a project manager, I want to change the deadline of a project.
+As a manager, I want to modify my projects. -> As an end user, I want to modify data that I have uploaded before.
+As an administrator, I want to modify projects. -> As an administrator, I want to delete another user.
+As an administrator, I want to modify projects. -> As a manager of a project, I want to create an appointment.
+As an administrator, I want to modify projects. -> As a manager, I want to change appointments in my projects.
+As an administrator, I want to modify projects. -> As a developer of a project, I want to insert a new appointment in the project.
+As an administrator, I want to modify projects. -> As a manager of a project, I want to modify time and place of meetings.
+As an administrator, I want to modify projects. -> As a manager, I want to change the status of a project.
+As an administrator, I want to modify projects. -> As an end user, I want to edit appointments.
+As an administrator, I want to modify projects. -> As a project manager, I would like to add users to the project.
+As an administrator, I want to modify projects. -> As a project manager, I want to remove users from projects.
+As an administrator, I want to modify projects. -> As a project manager, I want to drop developers from the project.
+As an administrator, I want to modify projects. -> As a project manager, I want to set a new deadline to the project.
+As an administrator, I want to modify projects. -> As a project manager, I want to change the deadline of a project.
+As an administrator, I want to modify projects. -> As an end user, I want to modify data that I have uploaded before.
+As an end user, I want to edit appointments. -> As an administrator, I want to delete another user.
+As an end user, I want to edit appointments. -> As a manager of a project, I want to modify time and place of meetings.
+As an end user, I want to edit appointments. -> As a project manager, I would like to add users to the project.
+As an end user, I want to edit appointments. -> As a project manager, I want to remove users from projects.
+As an end user, I want to edit appointments. -> As a project manager, I want to drop developers from the project.
+As an end user, I want to edit appointments. -> As a project manager, I want to set a new deadline to the project.
+As an end user, I want to edit appointments. -> As a project manager, I want to change the deadline of a project.
+As an end user, I want to edit appointments. -> As an end user, I want to modify data that I have uploaded before.
+As a project manager, I would like to add users to the project. -> As a manager of a project, I want to create an appointment.
+As a project manager, I would like to add users to the project. -> As a manager, I want to change appointments in my projects.
+As a project manager, I would like to add users to the project. -> As a developer of a project, I want to insert a new appointment in the project.
+As a project manager, I would like to add users to the project. -> As a manager of a project, I want to modify time and place of meetings.
+As a project manager, I would like to add users to the project. -> As a manager, I want to modify my projects.
+As a project manager, I would like to add users to the project. -> As an administrator, I want to modify projects.
+As a project manager, I would like to add users to the project. -> As an end user, I want to edit appointments.
+As a project manager, I would like to add users to the project. -> As a project manager, I want to set a new deadline to the project.
+As a project manager, I would like to add users to the project. -> As a project manager, I want to change the deadline of a project.
+As a project manager, I would like to add users to the project. -> As an end user, I want to modify data that I have uploaded before.
+As an end user, I want to modify data that I have uploaded before. -> As an administrator, I want to delete another user.
+As an end user, I want to modify data that I have uploaded before. -> As a manager of a project, I want to create an appointment.
+As an end user, I want to modify data that I have uploaded before. -> As a manager, I want to change appointments in my projects.
+As an end user, I want to modify data that I have uploaded before. -> As a developer of a project, I want to insert a new appointment in the project.
+As an end user, I want to modify data that I have uploaded before. -> As a manager of a project, I want to modify time and place of meetings.
+As an end user, I want to modify data that I have uploaded before. -> As a manager, I want to modify my projects.
+As an end user, I want to modify data that I have uploaded before. -> As a manager, I want to change the status of a project.
+As an end user, I want to modify data that I have uploaded before. -> As an administrator, I want to modify projects.
+As an end user, I want to modify data that I have uploaded before. -> As an end user, I want to edit appointments.
+As an end user, I want to modify data that I have uploaded before. -> As a project manager, I would like to add users to the project.
+As an end user, I want to modify data that I have uploaded before. -> As a project manager, I want to remove users from projects.
+As an end user, I want to modify data that I have uploaded before. -> As a project manager, I want to drop developers from the project.
+As an end user, I want to modify data that I have uploaded before. -> As a project manager, I want to set a new deadline to the project.
+As an end user, I want to modify data that I have uploaded before. -> As a project manager, I want to change the deadline of a project.

@@ -1,0 +1,1297 @@
+Action 1 | Action 2 | Result | Score 
+apply|apply|False|0.0
+apply|assign|True|0.5517352819442749
+apply|be notify|False|0.3652743697166443
+apply|capture|True|0.5079984068870544
+apply|check|True|0.5389510989189148
+apply|complete|False|0.2640158534049988
+apply|conduct|True|0.6076716184616089
+apply|create|False|0.3554285764694214
+apply|denote|True|0.8386729955673218
+apply|develop|False|0.48053663969039917
+apply|evaluate|True|0.7697594165802002
+apply|generate|True|0.5233013033866882
+apply|issue|True|0.668890655040741
+apply|manage|True|0.5152674317359924
+apply|modify|True|0.5679664015769958
+apply|pay|False|0.2877538800239563
+apply|perform|False|0.48353099822998047
+apply|post|False|0.49487796425819397
+apply|prepare|False|0.4950336217880249
+apply|process|True|0.7234641313552856
+apply|record|True|0.5409049987792969
+apply|remove|False|0.16590870916843414
+apply|request|True|0.5712649822235107
+apply|research|False|0.4970768988132477
+apply|resubmit|False|0.3143658936023712
+apply|review|True|0.7530253529548645
+apply|satisfy|True|0.8175849318504333
+apply|schedule|False|0.25071677565574646
+apply|search|False|0.47036436200141907
+apply|select|False|0.49035653471946716
+apply|send|False|0.324658066034317
+apply|submit|False|0.37594935297966003
+apply|successfully conduct|True|0.5243075489997864
+apply|support|True|0.5765460133552551
+apply|track|True|0.5538251399993896
+apply|update|False|0.46121469140052795
+assign|apply|False|0.3892686367034912
+assign|assign|False|0.0
+assign|be notify|False|0.3002643585205078
+assign|capture|False|0.38601794838905334
+assign|check|False|0.3156634569168091
+assign|complete|False|0.2461073398590088
+assign|conduct|True|0.5007714033126831
+assign|create|False|0.32489997148513794
+assign|denote|True|0.8091644048690796
+assign|develop|False|0.4599459767341614
+assign|evaluate|True|0.6459924578666687
+assign|generate|False|0.4264974594116211
+assign|issue|True|0.5102392435073853
+assign|manage|True|0.6227201223373413
+assign|modify|False|0.43757525086402893
+assign|pay|False|0.15318764746189117
+assign|perform|True|0.5770551562309265
+assign|post|False|0.3367566168308258
+assign|prepare|False|0.41557541489601135
+assign|process|True|0.5873258113861084
+assign|record|False|0.44327375292778015
+assign|remove|False|0.19916932284832
+assign|request|False|0.4580691456794739
+assign|research|False|0.3874485194683075
+assign|resubmit|False|0.2995394170284271
+assign|review|True|0.5368039011955261
+assign|satisfy|True|0.6310504078865051
+assign|schedule|False|0.21440348029136658
+assign|search|False|0.2920141816139221
+assign|select|True|0.5123135447502136
+assign|send|False|0.35111352801322937
+assign|submit|False|0.37606775760650635
+assign|successfully conduct|False|0.49602529406547546
+assign|support|False|0.48564693331718445
+assign|track|False|0.4063444137573242
+assign|update|False|0.29730597138404846
+be notify|apply|False|0.2707449495792389
+be notify|assign|False|0.2741721570491791
+be notify|be notify|False|0.0
+be notify|capture|False|0.235620379447937
+be notify|check|False|0.29194122552871704
+be notify|complete|False|0.18279355764389038
+be notify|conduct|False|0.3157600462436676
+be notify|create|False|0.2592524588108063
+be notify|denote|False|0.40831512212753296
+be notify|develop|False|0.2611501216888428
+be notify|evaluate|False|0.303749680519104
+be notify|generate|False|0.29412928223609924
+be notify|issue|False|0.2630007863044739
+be notify|manage|False|0.2821466624736786
+be notify|modify|False|0.30750197172164917
+be notify|pay|False|0.14185184240341187
+be notify|perform|False|0.3119613230228424
+be notify|post|False|0.2593567967414856
+be notify|prepare|False|0.24140286445617676
+be notify|process|False|0.3140159249305725
+be notify|record|False|0.24416013062000275
+be notify|remove|False|0.15646137297153473
+be notify|request|False|0.35966402292251587
+be notify|research|False|0.1739634871482849
+be notify|resubmit|False|0.3351716995239258
+be notify|review|False|0.27735334634780884
+be notify|satisfy|False|0.2891232669353485
+be notify|schedule|False|0.23602692782878876
+be notify|search|False|0.24132968485355377
+be notify|select|False|0.34440773725509644
+be notify|send|False|0.44866904616355896
+be notify|submit|False|0.31733888387680054
+be notify|successfully conduct|False|0.3502194583415985
+be notify|support|False|0.3242233991622925
+be notify|track|False|0.24138213694095612
+be notify|update|False|0.2813901901245117
+capture|apply|False|0.4263279139995575
+capture|assign|False|0.4137691259384155
+capture|be notify|False|0.3998856842517853
+capture|capture|False|0.0
+capture|check|False|0.34925711154937744
+capture|complete|False|0.3283122479915619
+capture|conduct|False|0.48047128319740295
+capture|create|False|0.40404728055000305
+capture|denote|True|0.6276037693023682
+capture|develop|False|0.4397328495979309
+capture|evaluate|True|0.5147766470909119
+capture|generate|False|0.426005482673645
+capture|issue|False|0.32233792543411255
+capture|manage|False|0.4992743134498596
+capture|modify|False|0.44783496856689453
+capture|pay|False|0.2029692530632019
+capture|perform|True|0.5759049654006958
+capture|post|False|0.39055120944976807
+capture|prepare|False|0.34923672676086426
+capture|process|False|0.40488964319229126
+capture|record|False|0.3767659068107605
+capture|remove|False|0.25472453236579895
+capture|request|False|0.4360429346561432
+capture|research|False|0.36711010336875916
+capture|resubmit|False|0.4126254916191101
+capture|review|False|0.37804320454597473
+capture|satisfy|True|0.5158882141113281
+capture|schedule|False|0.30610448122024536
+capture|search|False|0.3517972528934479
+capture|select|False|0.49686023592948914
+capture|send|False|0.4205828309059143
+capture|submit|False|0.3975045382976532
+capture|successfully conduct|True|0.521685004234314
+capture|support|False|0.358149915933609
+capture|track|False|0.3636685907840729
+capture|update|False|0.37589967250823975
+check|apply|False|0.406473308801651
+check|assign|False|0.3988244831562042
+check|be notify|False|0.39453181624412537
+check|capture|False|0.3692323863506317
+check|check|False|0.0
+check|complete|False|0.3332379162311554
+check|conduct|True|0.5079816579818726
+check|create|False|0.3861803412437439
+check|denote|True|0.5560553073883057
+check|develop|False|0.44164490699768066
+check|evaluate|False|0.4416996240615845
+check|generate|False|0.42132726311683655
+check|issue|False|0.3776417672634125
+check|manage|False|0.38271579146385193
+check|modify|False|0.4045424163341522
+check|pay|False|0.18695886433124542
+check|perform|False|0.4827457666397095
+check|post|False|0.4710962772369385
+check|prepare|False|0.3358668386936188
+check|process|True|0.5614562630653381
+check|record|False|0.4054452180862427
+check|remove|False|0.21092909574508667
+check|request|False|0.4018595814704895
+check|research|False|0.3837883472442627
+check|resubmit|False|0.42400437593460083
+check|review|True|0.5708235502243042
+check|satisfy|False|0.4814164638519287
+check|schedule|False|0.26030197739601135
+check|search|False|0.3607698678970337
+check|select|False|0.46919676661491394
+check|send|False|0.39905086159706116
+check|submit|False|0.40975651144981384
+check|successfully conduct|True|0.5101246237754822
+check|support|False|0.42234352231025696
+check|track|False|0.3365398943424225
+check|update|False|0.35857340693473816
+complete|apply|True|0.595255970954895
+complete|assign|False|0.4829353392124176
+complete|be notify|False|0.3172864615917206
+complete|capture|False|0.3895449936389923
+complete|check|False|0.45189622044563293
+complete|complete|False|0.0
+complete|conduct|True|0.6179912686347961
+complete|create|False|0.3359776437282562
+complete|denote|True|0.8001671433448792
+complete|develop|False|0.4050544202327728
+complete|evaluate|True|0.6728707551956177
+complete|generate|False|0.388702929019928
+complete|issue|True|0.5774322748184204
+complete|manage|False|0.4761612117290497
+complete|modify|False|0.4627181887626648
+complete|pay|False|0.2511761486530304
+complete|perform|False|0.35395267605781555
+complete|post|False|0.3138136863708496
+complete|prepare|False|0.31765151023864746
+complete|process|False|0.4355856776237488
+complete|record|True|0.549805223941803
+complete|remove|False|0.24831341207027435
+complete|request|False|0.4667648673057556
+complete|research|False|0.30882588028907776
+complete|resubmit|False|0.4260394275188446
+complete|review|False|0.48159465193748474
+complete|satisfy|False|0.47523435950279236
+complete|schedule|False|0.3004152178764343
+complete|search|False|0.2575099468231201
+complete|select|False|0.45661744475364685
+complete|send|False|0.34139174222946167
+complete|submit|False|0.45278358459472656
+complete|successfully conduct|False|0.39437344670295715
+complete|support|True|0.517604410648346
+complete|track|False|0.3896791934967041
+complete|update|False|0.4434865117073059
+conduct|apply|True|0.5874547362327576
+conduct|assign|True|0.5120840668678284
+conduct|be notify|False|0.443816602230072
+conduct|capture|True|0.5227543115615845
+conduct|check|False|0.36550140380859375
+conduct|complete|False|0.4018353223800659
+conduct|conduct|False|0.0
+conduct|create|True|0.514958381652832
+conduct|denote|True|0.8016943335533142
+conduct|develop|True|0.5343557000160217
+conduct|evaluate|True|0.6325428485870361
+conduct|generate|True|0.5564675331115723
+conduct|issue|True|0.5961815118789673
+conduct|manage|True|0.5107800960540771
+conduct|modify|True|0.5441290140151978
+conduct|pay|False|0.3102779984474182
+conduct|perform|True|0.6301400661468506
+conduct|post|False|0.44308289885520935
+conduct|prepare|False|0.45241105556488037
+conduct|process|True|0.587359607219696
+conduct|record|False|0.4557863473892212
+conduct|remove|False|0.17502351105213165
+conduct|request|True|0.5251802206039429
+conduct|research|False|0.3441134989261627
+conduct|resubmit|False|0.4065716564655304
+conduct|review|False|0.47708022594451904
+conduct|satisfy|False|0.48517903685569763
+conduct|schedule|False|0.29591605067253113
+conduct|search|False|0.3571391701698303
+conduct|select|True|0.6226707696914673
+conduct|send|False|0.47125592827796936
+conduct|submit|False|0.40484049916267395
+conduct|successfully conduct|True|0.5822097063064575
+conduct|support|False|0.3901602327823639
+conduct|track|False|0.35028359293937683
+conduct|update|False|0.4101681113243103
+create|apply|False|0.3291091322898865
+create|assign|False|0.30585357546806335
+create|be notify|False|0.3090699017047882
+create|capture|False|0.2741720378398895
+create|check|False|0.3254101276397705
+create|complete|False|0.23676346242427826
+create|conduct|False|0.45349419116973877
+create|create|False|0.0
+create|denote|True|0.7830696105957031
+create|develop|False|0.3312520384788513
+create|evaluate|True|0.5426324605941772
+create|generate|False|0.47149577736854553
+create|issue|False|0.3396832048892975
+create|manage|False|0.30657321214675903
+create|modify|False|0.3717329800128937
+create|pay|False|0.16200116276741028
+create|perform|False|0.38699692487716675
+create|post|False|0.31749427318573
+create|prepare|False|0.3302319645881653
+create|process|False|0.36057889461517334
+create|record|False|0.2867854833602905
+create|remove|False|0.16825121641159058
+create|request|False|0.3571132719516754
+create|research|False|0.419916570186615
+create|resubmit|False|0.3210078179836273
+create|review|True|0.6217750906944275
+create|satisfy|False|0.35166680812835693
+create|schedule|False|0.2412593960762024
+create|search|False|0.29942575097084045
+create|select|False|0.4619061052799225
+create|send|False|0.3304452896118164
+create|submit|False|0.2962900698184967
+create|successfully conduct|False|0.49093833565711975
+create|support|False|0.4922949969768524
+create|track|False|0.30578604340553284
+create|update|False|0.27175796031951904
+denote|apply|True|0.5313490033149719
+denote|assign|True|0.7353817224502563
+denote|be notify|False|0.3641607165336609
+denote|capture|False|0.44709312915802
+denote|check|True|0.5127816796302795
+denote|complete|False|0.3877136707305908
+denote|conduct|True|0.6974856853485107
+denote|create|True|0.6902573108673096
+denote|denote|False|0.0
+denote|develop|True|0.6133734583854675
+denote|evaluate|True|0.7219383120536804
+denote|generate|False|0.4815026819705963
+denote|issue|True|0.6082293391227722
+denote|manage|True|0.7690337300300598
+denote|modify|True|0.6422786116600037
+denote|pay|False|0.26946383714675903
+denote|perform|True|0.6887431144714355
+denote|post|True|0.5566025972366333
+denote|prepare|False|0.4326268434524536
+denote|process|True|0.7424359917640686
+denote|record|True|0.6205660104751587
+denote|remove|False|0.17903049290180206
+denote|request|True|0.5376886129379272
+denote|research|True|0.5122883319854736
+denote|resubmit|False|0.3474447727203369
+denote|review|True|0.7731301188468933
+denote|satisfy|True|0.6835952997207642
+denote|schedule|False|0.2747569680213928
+denote|search|True|0.5644593834877014
+denote|select|True|0.7211303114891052
+denote|send|False|0.47931331396102905
+denote|submit|True|0.5154895782470703
+denote|successfully conduct|True|0.58778977394104
+denote|support|True|0.6904652714729309
+denote|track|True|0.5210869312286377
+denote|update|True|0.526699423789978
+develop|apply|False|0.45740294456481934
+develop|assign|True|0.6106393933296204
+develop|be notify|False|0.3722866475582123
+develop|capture|False|0.49173134565353394
+develop|check|True|0.6047772169113159
+develop|complete|False|0.4492897689342499
+develop|conduct|False|0.46567949652671814
+develop|create|False|0.44751736521720886
+develop|denote|True|0.6841838359832764
+develop|develop|False|0.0
+develop|evaluate|True|0.7932929396629333
+develop|generate|True|0.5121710300445557
+develop|issue|True|0.5508109331130981
+develop|manage|False|0.4833521544933319
+develop|modify|True|0.5937450528144836
+develop|pay|False|0.37012583017349243
+develop|perform|True|0.5137119293212891
+develop|post|False|0.32700520753860474
+develop|prepare|False|0.47896483540534973
+develop|process|False|0.4207169711589813
+develop|record|False|0.4922540783882141
+develop|remove|False|0.1773173213005066
+develop|request|False|0.37280529737472534
+develop|research|False|0.3678695261478424
+develop|resubmit|False|0.3674795925617218
+develop|review|True|0.5827744603157043
+develop|satisfy|True|0.734733521938324
+develop|schedule|False|0.33637017011642456
+develop|search|False|0.2956148684024811
+develop|select|True|0.51228928565979
+develop|send|False|0.4094402492046356
+develop|submit|False|0.3853757679462433
+develop|successfully conduct|True|0.5031784772872925
+develop|support|True|0.5165956616401672
+develop|track|False|0.4007190465927124
+develop|update|False|0.3541174530982971
+evaluate|apply|False|0.4972112476825714
+evaluate|assign|True|0.6561163663864136
+evaluate|be notify|False|0.3925011157989502
+evaluate|capture|False|0.3968976140022278
+evaluate|check|False|0.47882384061813354
+evaluate|complete|False|0.3793930411338806
+evaluate|conduct|True|0.5337813496589661
+evaluate|create|True|0.598516047000885
+evaluate|denote|True|0.8341519832611084
+evaluate|develop|True|0.5208003520965576
+evaluate|evaluate|False|0.0
+evaluate|generate|True|0.5189555883407593
+evaluate|issue|False|0.4989438056945801
+evaluate|manage|True|0.7151705622673035
+evaluate|modify|False|0.464583158493042
+evaluate|pay|False|0.2243013083934784
+evaluate|perform|True|0.6164840459823608
+evaluate|post|True|0.5214888453483582
+evaluate|prepare|False|0.3807581961154938
+evaluate|process|True|0.7736439108848572
+evaluate|record|True|0.5772441625595093
+evaluate|remove|False|0.20321710407733917
+evaluate|request|True|0.5051974058151245
+evaluate|research|False|0.4611157178878784
+evaluate|resubmit|False|0.36802712082862854
+evaluate|review|True|0.5858692526817322
+evaluate|satisfy|True|0.6685805320739746
+evaluate|schedule|False|0.2820408344268799
+evaluate|search|False|0.3900517225265503
+evaluate|select|True|0.6203985810279846
+evaluate|send|False|0.4614678621292114
+evaluate|submit|False|0.38351187109947205
+evaluate|successfully conduct|True|0.6156259179115295
+evaluate|support|True|0.6047284603118896
+evaluate|track|True|0.5808896422386169
+evaluate|update|False|0.4413183927536011
+generate|apply|False|0.3741956651210785
+generate|assign|False|0.4352182447910309
+generate|be notify|False|0.3430188298225403
+generate|capture|False|0.3075977563858032
+generate|check|False|0.35167714953422546
+generate|complete|False|0.2599947452545166
+generate|conduct|False|0.4614844024181366
+generate|create|False|0.45455247163772583
+generate|denote|True|0.5789728164672852
+generate|develop|False|0.44428083300590515
+generate|evaluate|True|0.616771936416626
+generate|generate|False|0.0
+generate|issue|False|0.30693310499191284
+generate|manage|False|0.4322364330291748
+generate|modify|False|0.4476419687271118
+generate|pay|False|0.17833717167377472
+generate|perform|False|0.45803698897361755
+generate|post|False|0.3134167790412903
+generate|prepare|False|0.3298685550689697
+generate|process|False|0.427428275346756
+generate|record|False|0.3449746370315552
+generate|remove|False|0.16105417907238007
+generate|request|False|0.3457760512828827
+generate|research|False|0.4074636399745941
+generate|resubmit|False|0.3295353651046753
+generate|review|True|0.5358700156211853
+generate|satisfy|True|0.5335767865180969
+generate|schedule|False|0.2270844727754593
+generate|search|False|0.2683332860469818
+generate|select|False|0.4862666130065918
+generate|send|False|0.35523107647895813
+generate|submit|False|0.32720404863357544
+generate|successfully conduct|True|0.5133819580078125
+generate|support|False|0.4891221225261688
+generate|track|False|0.35423725843429565
+generate|update|False|0.29264405369758606
+issue|apply|False|0.4813077449798584
+issue|assign|False|0.4941328465938568
+issue|be notify|False|0.3576442301273346
+issue|capture|False|0.4727742671966553
+issue|check|False|0.4636733829975128
+issue|complete|False|0.24836479127407074
+issue|conduct|True|0.6760088205337524
+issue|create|False|0.46416524052619934
+issue|denote|True|0.8260639309883118
+issue|develop|True|0.5300034284591675
+issue|evaluate|True|0.6386950016021729
+issue|generate|False|0.4751009941101074
+issue|issue|False|0.0
+issue|manage|True|0.5421597361564636
+issue|modify|True|0.5274971127510071
+issue|pay|False|0.30150654911994934
+issue|perform|True|0.6412020921707153
+issue|post|False|0.4056011438369751
+issue|prepare|False|0.4748869836330414
+issue|process|True|0.688811719417572
+issue|record|False|0.4628342390060425
+issue|remove|False|0.12744535505771637
+issue|request|False|0.4876411557197571
+issue|research|False|0.4758644700050354
+issue|resubmit|False|0.40884289145469666
+issue|review|True|0.6651370525360107
+issue|satisfy|True|0.5080251097679138
+issue|schedule|False|0.24980200827121735
+issue|search|False|0.4597240090370178
+issue|select|True|0.5538249611854553
+issue|send|False|0.4447447657585144
+issue|submit|False|0.421809583902359
+issue|successfully conduct|True|0.6244319677352905
+issue|support|False|0.49872466921806335
+issue|track|False|0.38291189074516296
+issue|update|False|0.43628713488578796
+manage|apply|False|0.4405200183391571
+manage|assign|False|0.4027801752090454
+manage|be notify|False|0.3714650869369507
+manage|capture|False|0.34910300374031067
+manage|check|False|0.3803424537181854
+manage|complete|False|0.3221651017665863
+manage|conduct|False|0.4434494972229004
+manage|create|False|0.3618764877319336
+manage|denote|True|0.606569230556488
+manage|develop|False|0.3615410327911377
+manage|evaluate|False|0.4198499321937561
+manage|generate|False|0.4063628911972046
+manage|issue|False|0.35895803570747375
+manage|manage|False|0.0
+manage|modify|False|0.44987377524375916
+manage|pay|False|0.2207009345293045
+manage|perform|False|0.44979023933410645
+manage|post|False|0.37050503492355347
+manage|prepare|False|0.36822715401649475
+manage|process|False|0.4003507196903229
+manage|record|False|0.35917791724205017
+manage|remove|False|0.18433861434459686
+manage|request|False|0.4352046847343445
+manage|research|False|0.2570236325263977
+manage|resubmit|False|0.3937188982963562
+manage|review|False|0.34614795446395874
+manage|satisfy|True|0.5261282324790955
+manage|schedule|False|0.2670603394508362
+manage|search|False|0.32416582107543945
+manage|select|False|0.4673779010772705
+manage|send|False|0.42047038674354553
+manage|submit|False|0.3920212686061859
+manage|successfully conduct|False|0.47936758399009705
+manage|support|False|0.4584338963031769
+manage|track|False|0.32128775119781494
+manage|update|False|0.3590882122516632
+modify|apply|False|0.42080917954444885
+modify|assign|False|0.4798026978969574
+modify|be notify|False|0.36618369817733765
+modify|capture|False|0.3333019018173218
+modify|check|False|0.38906577229499817
+modify|complete|False|0.3366871476173401
+modify|conduct|False|0.4622661769390106
+modify|create|False|0.34784823656082153
+modify|denote|True|0.7525192499160767
+modify|develop|False|0.3608039319515228
+modify|evaluate|False|0.39760586619377136
+modify|generate|False|0.3933267593383789
+modify|issue|False|0.3978367745876312
+modify|manage|True|0.5050948262214661
+modify|modify|False|0.0
+modify|pay|False|0.19021596014499664
+modify|perform|False|0.48427119851112366
+modify|post|False|0.46172034740448
+modify|prepare|False|0.3486975133419037
+modify|process|True|0.5197873115539551
+modify|record|False|0.42207440733909607
+modify|remove|False|0.3254168927669525
+modify|request|False|0.39927276968955994
+modify|research|False|0.37010377645492554
+modify|resubmit|False|0.4216672480106354
+modify|review|False|0.49505025148391724
+modify|satisfy|False|0.4501841366291046
+modify|schedule|False|0.22551482915878296
+modify|search|False|0.32048460841178894
+modify|select|False|0.46135106682777405
+modify|send|False|0.4285886585712433
+modify|submit|False|0.3908063471317291
+modify|successfully conduct|True|0.5307109951972961
+modify|support|True|0.53729248046875
+modify|track|False|0.30296385288238525
+modify|update|False|0.3943770229816437
+pay|apply|False|0.19577690958976746
+pay|assign|False|0.17406916618347168
+pay|be notify|False|0.17160344123840332
+pay|capture|False|0.15547969937324524
+pay|check|False|0.18013714253902435
+pay|complete|False|0.11090804636478424
+pay|conduct|False|0.18941199779510498
+pay|create|False|0.17429067194461823
+pay|denote|False|0.295592725276947
+pay|develop|False|0.2028803527355194
+pay|evaluate|False|0.19128236174583435
+pay|generate|False|0.1895512491464615
+pay|issue|False|0.15667930245399475
+pay|manage|False|0.2012765109539032
+pay|modify|False|0.19174660742282867
+pay|pay|False|0.0
+pay|perform|False|0.2063603401184082
+pay|post|False|0.18256430327892303
+pay|prepare|False|0.14738138020038605
+pay|process|False|0.17370431125164032
+pay|record|False|0.14699400961399078
+pay|remove|False|0.08770612627267838
+pay|request|False|0.1947026252746582
+pay|research|False|0.12939929962158203
+pay|resubmit|False|0.2319440394639969
+pay|review|False|0.180430069565773
+pay|satisfy|False|0.19562144577503204
+pay|schedule|False|0.13077475130558014
+pay|search|False|0.15842056274414062
+pay|select|False|0.20497353374958038
+pay|send|False|0.19009466469287872
+pay|submit|False|0.19270192086696625
+pay|successfully conduct|False|0.17227928340435028
+pay|support|False|0.16548147797584534
+pay|track|False|0.16294172406196594
+pay|update|False|0.16976182162761688
+perform|apply|False|0.40083402395248413
+perform|assign|False|0.40542033314704895
+perform|be notify|False|0.3684048056602478
+perform|capture|False|0.35138973593711853
+perform|check|False|0.33988097310066223
+perform|complete|False|0.35864347219467163
+perform|conduct|True|0.527086079120636
+perform|create|False|0.3579089939594269
+perform|denote|True|0.7311823964118958
+perform|develop|False|0.3461988568305969
+perform|evaluate|False|0.40741801261901855
+perform|generate|False|0.43120452761650085
+perform|issue|False|0.38939446210861206
+perform|manage|False|0.3258378803730011
+perform|modify|False|0.412203848361969
+perform|pay|False|0.2086111158132553
+perform|perform|False|0.0
+perform|post|False|0.3598959147930145
+perform|prepare|False|0.3144915997982025
+perform|process|False|0.4696105122566223
+perform|record|False|0.42142751812934875
+perform|remove|False|0.19988910853862762
+perform|request|False|0.45441654324531555
+perform|research|False|0.3470224142074585
+perform|resubmit|False|0.35387513041496277
+perform|review|True|0.5343642234802246
+perform|satisfy|False|0.44062063097953796
+perform|schedule|False|0.2248312085866928
+perform|search|False|0.4237101972103119
+perform|select|True|0.5349171757698059
+perform|send|False|0.41630759835243225
+perform|submit|False|0.3583056926727295
+perform|successfully conduct|True|0.583599865436554
+perform|support|False|0.43427661061286926
+perform|track|False|0.3342634439468384
+perform|update|False|0.33745601773262024
+post|apply|False|0.37784332036972046
+post|assign|False|0.3644391894340515
+post|be notify|False|0.2727498412132263
+post|capture|False|0.25722789764404297
+post|check|False|0.3329331576824188
+post|complete|False|0.2676791846752167
+post|conduct|False|0.4773810803890228
+post|create|False|0.3178006708621979
+post|denote|True|0.6524427533149719
+post|develop|False|0.39236071705818176
+post|evaluate|False|0.4841381013393402
+post|generate|False|0.3856269419193268
+post|issue|False|0.30954715609550476
+post|manage|False|0.36733025312423706
+post|modify|False|0.3942592740058899
+post|pay|False|0.1703365445137024
+post|perform|False|0.46557679772377014
+post|post|False|0.0
+post|prepare|False|0.26638153195381165
+post|process|False|0.47527775168418884
+post|record|False|0.27872714400291443
+post|remove|False|0.11330100148916245
+post|request|False|0.316409707069397
+post|research|False|0.3650233745574951
+post|resubmit|False|0.3478078544139862
+post|review|True|0.5316250920295715
+post|satisfy|False|0.34553515911102295
+post|schedule|False|0.20513756573200226
+post|search|False|0.31292855739593506
+post|select|False|0.43719449639320374
+post|send|False|0.3037358224391937
+post|submit|False|0.35772505402565
+post|successfully conduct|False|0.4396684765815735
+post|support|False|0.4090370535850525
+post|track|False|0.30572718381881714
+post|update|False|0.3545955419540405
+prepare|apply|False|0.30210405588150024
+prepare|assign|False|0.3077065646648407
+prepare|be notify|False|0.2702029347419739
+prepare|capture|False|0.28225722908973694
+prepare|check|False|0.2870350778102875
+prepare|complete|False|0.2328009456396103
+prepare|conduct|False|0.41344112157821655
+prepare|create|False|0.3284797668457031
+prepare|denote|True|0.5067506432533264
+prepare|develop|False|0.3117230534553528
+prepare|evaluate|False|0.3305682837963104
+prepare|generate|False|0.3608705997467041
+prepare|issue|False|0.252905935049057
+prepare|manage|False|0.29034215211868286
+prepare|modify|False|0.31712889671325684
+prepare|pay|False|0.16714371740818024
+prepare|perform|False|0.3177376091480255
+prepare|post|False|0.25847381353378296
+prepare|prepare|False|0.0
+prepare|process|False|0.47096148133277893
+prepare|record|False|0.31872352957725525
+prepare|remove|False|0.16764523088932037
+prepare|request|False|0.3159949779510498
+prepare|research|False|0.35632747411727905
+prepare|resubmit|False|0.3351445496082306
+prepare|review|False|0.40683192014694214
+prepare|satisfy|False|0.32517918944358826
+prepare|schedule|False|0.23131228983402252
+prepare|search|False|0.2707602381706238
+prepare|select|False|0.3849789798259735
+prepare|send|False|0.3160266578197479
+prepare|submit|False|0.2855817377567291
+prepare|successfully conduct|False|0.4060380458831787
+prepare|support|False|0.40034219622612
+prepare|track|False|0.2771514356136322
+prepare|update|False|0.27720123529434204
+process|apply|False|0.4722863435745239
+process|assign|True|0.5024353265762329
+process|be notify|False|0.3496074676513672
+process|capture|False|0.4129331409931183
+process|check|False|0.43798598647117615
+process|complete|False|0.27970170974731445
+process|conduct|True|0.5335626006126404
+process|create|False|0.48119640350341797
+process|denote|True|0.7001954913139343
+process|develop|True|0.559130072593689
+process|evaluate|True|0.5124432444572449
+process|generate|False|0.4301571547985077
+process|issue|False|0.44257450103759766
+process|manage|True|0.5213073492050171
+process|modify|False|0.45737478137016296
+process|pay|False|0.23810669779777527
+process|perform|True|0.5121488571166992
+process|post|False|0.38782480359077454
+process|prepare|False|0.4642971158027649
+process|process|False|0.0
+process|record|False|0.4324777126312256
+process|remove|False|0.13090725243091583
+process|request|False|0.4558691382408142
+process|research|True|0.5438006520271301
+process|resubmit|False|0.4105245769023895
+process|review|True|0.7367032766342163
+process|satisfy|False|0.4351324439048767
+process|schedule|False|0.23980088531970978
+process|search|False|0.466575026512146
+process|select|False|0.4929553270339966
+process|send|False|0.437360018491745
+process|submit|False|0.4764134883880615
+process|successfully conduct|True|0.5741501450538635
+process|support|False|0.49191051721572876
+process|track|False|0.3516994118690491
+process|update|False|0.45390933752059937
+record|apply|True|0.5033767819404602
+record|assign|True|0.504026472568512
+record|be notify|False|0.36243459582328796
+record|capture|False|0.3880922198295593
+record|check|False|0.3691650927066803
+record|complete|False|0.3033864200115204
+record|conduct|True|0.5346946716308594
+record|create|False|0.4110620617866516
+record|denote|True|0.7470998167991638
+record|develop|False|0.47853174805641174
+record|evaluate|False|0.48725390434265137
+record|generate|False|0.4387659728527069
+record|issue|False|0.4724014103412628
+record|manage|False|0.44051772356033325
+record|modify|True|0.5133883357048035
+record|pay|False|0.21928194165229797
+record|perform|True|0.6249853372573853
+record|post|False|0.3810379207134247
+record|prepare|False|0.3624788522720337
+record|process|False|0.4827122688293457
+record|record|False|0.0
+record|remove|False|0.15051504969596863
+record|request|False|0.49151715636253357
+record|research|False|0.28915488719940186
+record|resubmit|False|0.37533503770828247
+record|review|False|0.3758423626422882
+record|satisfy|False|0.48472946882247925
+record|schedule|False|0.2617045044898987
+record|search|False|0.3278341293334961
+record|select|True|0.5283345580101013
+record|send|False|0.4233976900577545
+record|submit|False|0.37266674637794495
+record|successfully conduct|True|0.5063183903694153
+record|support|False|0.3700031340122223
+record|track|False|0.37780603766441345
+record|update|False|0.3868638575077057
+remove|apply|False|0.17113173007965088
+remove|assign|False|0.11638814210891724
+remove|be notify|False|0.15317785739898682
+remove|capture|False|0.17297324538230896
+remove|check|False|0.24508847296237946
+remove|complete|False|0.10339546948671341
+remove|conduct|False|0.22440381348133087
+remove|create|False|0.10306121408939362
+remove|denote|False|0.22077016532421112
+remove|develop|False|0.1894032061100006
+remove|evaluate|False|0.3312085270881653
+remove|generate|False|0.1460777074098587
+remove|issue|False|0.1860891729593277
+remove|manage|False|0.20156562328338623
+remove|modify|False|0.27373313903808594
+remove|pay|False|0.0875953659415245
+remove|perform|False|0.17540580034255981
+remove|post|False|0.12490569800138474
+remove|prepare|False|0.16242191195487976
+remove|process|False|0.1416073739528656
+remove|record|False|0.13262169063091278
+remove|remove|False|0.0
+remove|request|False|0.1778234988451004
+remove|research|False|0.1157691702246666
+remove|resubmit|False|0.21110568940639496
+remove|review|False|0.19364602863788605
+remove|satisfy|False|0.15466606616973877
+remove|schedule|False|0.11783705651760101
+remove|search|False|0.1281544268131256
+remove|select|False|0.22292403876781464
+remove|send|False|0.15343691408634186
+remove|submit|False|0.1483311504125595
+remove|successfully conduct|False|0.16455386579036713
+remove|support|False|0.23726004362106323
+remove|track|False|0.2162345051765442
+remove|update|False|0.23232711851596832
+request|apply|True|0.5817800164222717
+request|assign|True|0.6290868520736694
+request|be notify|False|0.44961777329444885
+request|capture|True|0.5363133549690247
+request|check|False|0.43789464235305786
+request|complete|False|0.41423770785331726
+request|conduct|True|0.7588682770729065
+request|create|True|0.5047077536582947
+request|denote|True|0.7109424471855164
+request|develop|True|0.5469273328781128
+request|evaluate|True|0.7673390507698059
+request|generate|True|0.5429897904396057
+request|issue|True|0.5117511749267578
+request|manage|True|0.6623275876045227
+request|modify|True|0.6124321818351746
+request|pay|False|0.2752262353897095
+request|perform|True|0.6268905997276306
+request|post|False|0.43633705377578735
+request|prepare|True|0.5599203109741211
+request|process|True|0.5750264525413513
+request|record|False|0.4277729094028473
+request|remove|False|0.26186898350715637
+request|request|False|0.0
+request|research|False|0.28936851024627686
+request|resubmit|False|0.49374428391456604
+request|review|True|0.5259725451469421
+request|satisfy|True|0.567690372467041
+request|schedule|False|0.3024040460586548
+request|search|False|0.35135674476623535
+request|select|True|0.7151221036911011
+request|send|True|0.5632337331771851
+request|submit|True|0.5400710701942444
+request|successfully conduct|True|0.6329641938209534
+request|support|False|0.41987964510917664
+request|track|False|0.4760207533836365
+request|update|False|0.4488733410835266
+research|apply|False|0.3463912904262543
+research|assign|False|0.34134283661842346
+research|be notify|False|0.2220602035522461
+research|capture|False|0.2991814613342285
+research|check|False|0.23494194447994232
+research|complete|False|0.11897171288728714
+research|conduct|False|0.34438222646713257
+research|create|False|0.32474926114082336
+research|denote|False|0.3968634009361267
+research|develop|False|0.3643854856491089
+research|evaluate|False|0.3467874228954315
+research|generate|False|0.347901850938797
+research|issue|False|0.2522066533565521
+research|manage|False|0.34500014781951904
+research|modify|False|0.3589474558830261
+research|pay|False|0.1244143396615982
+research|perform|False|0.3838062882423401
+research|post|False|0.23146015405654907
+research|prepare|False|0.2907246947288513
+research|process|False|0.2495853453874588
+research|record|False|0.2918052077293396
+research|remove|False|0.07142680138349533
+research|request|False|0.2659972906112671
+research|research|False|0.0
+research|resubmit|False|0.28937166929244995
+research|review|False|0.3042227029800415
+research|satisfy|False|0.28923872113227844
+research|schedule|False|0.17135755717754364
+research|search|False|0.26351824402809143
+research|select|False|0.31104645133018494
+research|send|False|0.26246583461761475
+research|submit|False|0.27590665221214294
+research|successfully conduct|False|0.2723487615585327
+research|support|False|0.2639186978340149
+research|track|False|0.2864331603050232
+research|update|False|0.25850382447242737
+resubmit|apply|False|0.38051462173461914
+resubmit|assign|False|0.30986708402633667
+resubmit|be notify|False|0.3444307744503021
+resubmit|capture|False|0.3401031494140625
+resubmit|check|False|0.34655457735061646
+resubmit|complete|False|0.22630798816680908
+resubmit|conduct|False|0.37008753418922424
+resubmit|create|False|0.31337597966194153
+resubmit|denote|False|0.4469746947288513
+resubmit|develop|False|0.33000603318214417
+resubmit|evaluate|False|0.36156442761421204
+resubmit|generate|False|0.3216111660003662
+resubmit|issue|False|0.3402179777622223
+resubmit|manage|False|0.3610232472419739
+resubmit|modify|False|0.452750027179718
+resubmit|pay|False|0.20396581292152405
+resubmit|perform|False|0.41008973121643066
+resubmit|post|False|0.3786869943141937
+resubmit|prepare|False|0.324768602848053
+resubmit|process|False|0.3746652603149414
+resubmit|record|False|0.3392130434513092
+resubmit|remove|False|0.2475787103176117
+resubmit|request|False|0.44795873761177063
+resubmit|research|False|0.2777444124221802
+resubmit|resubmit|False|0.0
+resubmit|review|False|0.38486728072166443
+resubmit|satisfy|False|0.4016092121601105
+resubmit|schedule|False|0.3049095869064331
+resubmit|search|False|0.28865358233451843
+resubmit|select|False|0.38421109318733215
+resubmit|send|False|0.4149004817008972
+resubmit|submit|True|0.6180278062820435
+resubmit|successfully conduct|False|0.38582807779312134
+resubmit|support|False|0.349398136138916
+resubmit|track|False|0.28351131081581116
+resubmit|update|False|0.436194509267807
+review|apply|False|0.438973605632782
+review|assign|False|0.46503809094429016
+review|be notify|False|0.33108752965927124
+review|capture|False|0.34429457783699036
+review|check|False|0.3382304310798645
+review|complete|False|0.34632453322410583
+review|conduct|False|0.46717369556427
+review|create|False|0.41153067350387573
+review|denote|True|0.6500100493431091
+review|develop|False|0.40091633796691895
+review|evaluate|False|0.4123739004135132
+review|generate|False|0.47573214769363403
+review|issue|False|0.42724892497062683
+review|manage|False|0.44044944643974304
+review|modify|False|0.4024198651313782
+review|pay|False|0.15951302647590637
+review|perform|True|0.5323014259338379
+review|post|True|0.5113473534584045
+review|prepare|False|0.3447229564189911
+review|process|True|0.5914108157157898
+review|record|True|0.5269603729248047
+review|remove|False|0.15107440948486328
+review|request|False|0.3851306438446045
+review|research|False|0.3764735758304596
+review|resubmit|False|0.3808543086051941
+review|review|False|0.0
+review|satisfy|False|0.41846758127212524
+review|schedule|False|0.23087836802005768
+review|search|False|0.2980120778083801
+review|select|True|0.5240113735198975
+review|send|False|0.3969511091709137
+review|submit|False|0.36887067556381226
+review|successfully conduct|False|0.4922616183757782
+review|support|False|0.47916966676712036
+review|track|False|0.3548162579536438
+review|update|False|0.37097808718681335
+satisfy|apply|False|0.4361220896244049
+satisfy|assign|True|0.632331907749176
+satisfy|be notify|False|0.3841453492641449
+satisfy|capture|False|0.37803229689598083
+satisfy|check|True|0.5028080344200134
+satisfy|complete|False|0.2856694161891937
+satisfy|conduct|True|0.5207711458206177
+satisfy|create|False|0.4261888265609741
+satisfy|denote|True|0.6316859126091003
+satisfy|develop|True|0.5043151378631592
+satisfy|evaluate|True|0.7696592807769775
+satisfy|generate|False|0.4385213553905487
+satisfy|issue|True|0.54217129945755
+satisfy|manage|False|0.47742539644241333
+satisfy|modify|False|0.49601882696151733
+satisfy|pay|False|0.23666822910308838
+satisfy|perform|True|0.5941352248191833
+satisfy|post|False|0.3488396108150482
+satisfy|prepare|False|0.42173391580581665
+satisfy|process|True|0.623697817325592
+satisfy|record|False|0.3898870646953583
+satisfy|remove|False|0.17114759981632233
+satisfy|request|False|0.43058598041534424
+satisfy|research|False|0.3436228930950165
+satisfy|resubmit|False|0.34054499864578247
+satisfy|review|True|0.6054018139839172
+satisfy|satisfy|False|0.0
+satisfy|schedule|False|0.24221976101398468
+satisfy|search|False|0.3207073211669922
+satisfy|select|True|0.5040110349655151
+satisfy|send|False|0.39583417773246765
+satisfy|submit|False|0.3846019208431244
+satisfy|successfully conduct|True|0.5129647850990295
+satisfy|support|False|0.49850982427597046
+satisfy|track|False|0.45128029584884644
+satisfy|update|False|0.3318725824356079
+schedule|apply|True|0.5134069919586182
+schedule|assign|False|0.45665109157562256
+schedule|be notify|False|0.3885737955570221
+schedule|capture|False|0.4116959571838379
+schedule|check|False|0.38201725482940674
+schedule|complete|False|0.36722323298454285
+schedule|conduct|True|0.5066373944282532
+schedule|create|False|0.4122070074081421
+schedule|denote|True|0.5547782182693481
+schedule|develop|False|0.45865416526794434
+schedule|evaluate|False|0.4830928444862366
+schedule|generate|False|0.4344308376312256
+schedule|issue|False|0.4061301648616791
+schedule|manage|False|0.4818410873413086
+schedule|modify|False|0.48110881447792053
+schedule|pay|False|0.18516121804714203
+schedule|perform|True|0.5708131790161133
+schedule|post|False|0.4507603645324707
+schedule|prepare|False|0.3846631944179535
+schedule|process|False|0.439435750246048
+schedule|record|False|0.38893696665763855
+schedule|remove|False|0.14470034837722778
+schedule|request|False|0.4238379895687103
+schedule|research|False|0.2910093665122986
+schedule|resubmit|False|0.42600876092910767
+schedule|review|False|0.46619534492492676
+schedule|satisfy|False|0.40727901458740234
+schedule|schedule|False|0.0
+schedule|search|False|0.34892454743385315
+schedule|select|True|0.5038712620735168
+schedule|send|False|0.42432963848114014
+schedule|submit|False|0.39953428506851196
+schedule|successfully conduct|True|0.5266213417053223
+schedule|support|False|0.4055215120315552
+schedule|track|False|0.38558852672576904
+schedule|update|False|0.3976244628429413
+search|apply|False|0.2963266670703888
+search|assign|False|0.315027117729187
+search|be notify|False|0.2753138542175293
+search|capture|False|0.25405576825141907
+search|check|False|0.26490339636802673
+search|complete|False|0.20210908353328705
+search|conduct|False|0.3991111218929291
+search|create|False|0.2860904037952423
+search|denote|True|0.507594108581543
+search|develop|False|0.2955743968486786
+search|evaluate|False|0.31464144587516785
+search|generate|False|0.32109659910202026
+search|issue|False|0.302402138710022
+search|manage|False|0.36601632833480835
+search|modify|False|0.29606175422668457
+search|pay|False|0.13217157125473022
+search|perform|False|0.39093276858329773
+search|post|False|0.2636580467224121
+search|prepare|False|0.2519434094429016
+search|process|False|0.2830749452114105
+search|record|False|0.2691599428653717
+search|remove|False|0.1398494392633438
+search|request|False|0.2994924485683441
+search|research|False|0.24297282099723816
+search|resubmit|False|0.3216775357723236
+search|review|False|0.27855420112609863
+search|satisfy|False|0.30977755784988403
+search|schedule|False|0.1875033676624298
+search|search|False|0.0
+search|select|False|0.4067211449146271
+search|send|False|0.23855645954608917
+search|submit|False|0.2630578279495239
+search|successfully conduct|False|0.3747463822364807
+search|support|False|0.2500663101673126
+search|track|False|0.29005882143974304
+search|update|False|0.24908559024333954
+select|apply|False|0.48496145009994507
+select|assign|True|0.5221239328384399
+select|be notify|False|0.4232495129108429
+select|capture|False|0.37521031498908997
+select|check|False|0.4156695008277893
+select|complete|False|0.3484672009944916
+select|conduct|True|0.5334354043006897
+select|create|False|0.44659096002578735
+select|denote|True|0.7950372695922852
+select|develop|False|0.4705258905887604
+select|evaluate|False|0.48142656683921814
+select|generate|False|0.4930993318557739
+select|issue|False|0.3832179009914398
+select|manage|True|0.6060025691986084
+select|modify|False|0.4742116332054138
+select|pay|False|0.17619222402572632
+select|perform|True|0.6781823039054871
+select|post|False|0.48307621479034424
+select|prepare|False|0.4053727388381958
+select|process|True|0.593586266040802
+select|record|False|0.4700818657875061
+select|remove|False|0.28736692667007446
+select|request|False|0.49690505862236023
+select|research|False|0.356263667345047
+select|resubmit|False|0.3809297978878021
+select|review|True|0.6184014678001404
+select|satisfy|True|0.5701462030410767
+select|schedule|False|0.2565196454524994
+select|search|False|0.3536517918109894
+select|select|False|0.0
+select|send|True|0.5041850209236145
+select|submit|False|0.41350993514060974
+select|successfully conduct|True|0.56853848695755
+select|support|True|0.563235342502594
+select|track|False|0.39167413115501404
+select|update|False|0.37279728055000305
+send|apply|False|0.330070436000824
+send|assign|False|0.2820104658603668
+send|be notify|False|0.38148263096809387
+send|capture|False|0.29533201456069946
+send|check|False|0.3259844481945038
+send|complete|False|0.21200548112392426
+send|conduct|False|0.381815105676651
+send|create|False|0.28033483028411865
+send|denote|True|0.5497944951057434
+send|develop|False|0.3390420079231262
+send|evaluate|False|0.4038628935813904
+send|generate|False|0.33658143877983093
+send|issue|False|0.25850850343704224
+send|manage|False|0.3264755606651306
+send|modify|False|0.37537387013435364
+send|pay|False|0.15691377222537994
+send|perform|False|0.4259131848812103
+send|post|False|0.27362844347953796
+send|prepare|False|0.3057045638561249
+send|process|False|0.336408793926239
+send|record|False|0.2907540500164032
+send|remove|False|0.16129817068576813
+send|request|False|0.438559353351593
+send|research|False|0.28232911229133606
+send|resubmit|False|0.37811902165412903
+send|review|False|0.41692790389060974
+send|satisfy|False|0.36461374163627625
+send|schedule|False|0.21079741418361664
+send|search|False|0.2536393105983734
+send|select|False|0.4188239276409149
+send|send|False|0.0
+send|submit|False|0.36435654759407043
+send|successfully conduct|False|0.41082656383514404
+send|support|False|0.35697153210639954
+send|track|False|0.3141510486602783
+send|update|False|0.3288721740245819
+submit|apply|False|0.3394278883934021
+submit|assign|False|0.3520677983760834
+submit|be notify|False|0.3286680281162262
+submit|capture|False|0.3362659811973572
+submit|check|False|0.33232009410858154
+submit|complete|False|0.2360096275806427
+submit|conduct|False|0.3872944712638855
+submit|create|False|0.2904450595378876
+submit|denote|True|0.5572667121887207
+submit|develop|False|0.3254711627960205
+submit|evaluate|False|0.3739868700504303
+submit|generate|False|0.35391759872436523
+submit|issue|False|0.2634628117084503
+submit|manage|False|0.32542890310287476
+submit|modify|False|0.380679190158844
+submit|pay|False|0.1570318639278412
+submit|perform|False|0.4677184224128723
+submit|post|False|0.2945574223995209
+submit|prepare|False|0.28682059049606323
+submit|process|False|0.4770132005214691
+submit|record|False|0.28890350461006165
+submit|remove|False|0.19405029714107513
+submit|request|False|0.44897666573524475
+submit|research|False|0.29593464732170105
+submit|resubmit|True|0.6813355088233948
+submit|review|False|0.35279300808906555
+submit|satisfy|False|0.4265734851360321
+submit|schedule|False|0.20728465914726257
+submit|search|False|0.2917264401912689
+submit|select|False|0.4233427345752716
+submit|send|False|0.44654157757759094
+submit|submit|False|0.0
+submit|successfully conduct|False|0.4619438052177429
+submit|support|False|0.38072285056114197
+submit|track|False|0.2855255603790283
+submit|update|False|0.3266410231590271
+successfully conduct|apply|False|0.31007689237594604
+successfully conduct|assign|False|0.3010774254798889
+successfully conduct|be notify|False|0.22465384006500244
+successfully conduct|capture|False|0.27520182728767395
+successfully conduct|check|False|0.2733803987503052
+successfully conduct|complete|False|0.19771207869052887
+successfully conduct|conduct|True|0.5230137705802917
+successfully conduct|create|False|0.3080475926399231
+successfully conduct|denote|False|0.42073047161102295
+successfully conduct|develop|False|0.25675031542778015
+successfully conduct|evaluate|False|0.38631516695022583
+successfully conduct|generate|False|0.3342089354991913
+successfully conduct|issue|False|0.31010738015174866
+successfully conduct|manage|False|0.3184402287006378
+successfully conduct|modify|False|0.2808748781681061
+successfully conduct|pay|False|0.11255329102277756
+successfully conduct|perform|False|0.4448357820510864
+successfully conduct|post|False|0.21818743646144867
+successfully conduct|prepare|False|0.3163613975048065
+successfully conduct|process|False|0.40271326899528503
+successfully conduct|record|False|0.385193794965744
+successfully conduct|remove|False|0.07901631295681
+successfully conduct|request|False|0.2765745520591736
+successfully conduct|research|False|0.16142752766609192
+successfully conduct|resubmit|False|0.3258342146873474
+successfully conduct|review|False|0.25501465797424316
+successfully conduct|satisfy|False|0.3421873450279236
+successfully conduct|schedule|False|0.14054957032203674
+successfully conduct|search|False|0.20073366165161133
+successfully conduct|select|False|0.327290803194046
+successfully conduct|send|False|0.2508961856365204
+successfully conduct|submit|False|0.22338411211967468
+successfully conduct|successfully conduct|False|0.0
+successfully conduct|support|False|0.4879440665245056
+successfully conduct|track|False|0.27386221289634705
+successfully conduct|update|False|0.24412088096141815
+support|apply|False|0.47523924708366394
+support|assign|False|0.4964774250984192
+support|be notify|False|0.36560261249542236
+support|capture|False|0.3943667709827423
+support|check|False|0.3518306314945221
+support|complete|False|0.22415980696678162
+support|conduct|False|0.4784371256828308
+support|create|True|0.5838965773582458
+support|denote|True|0.6859980225563049
+support|develop|False|0.4548564851284027
+support|evaluate|True|0.6291629672050476
+support|generate|False|0.43610286712646484
+support|issue|False|0.4460289180278778
+support|manage|True|0.6860439777374268
+support|modify|False|0.46725746989250183
+support|pay|False|0.17474313080310822
+support|perform|True|0.5753100514411926
+support|post|False|0.4185011684894562
+support|prepare|False|0.3747941553592682
+support|process|True|0.5609370470046997
+support|record|False|0.34167927503585815
+support|remove|False|0.1730656623840332
+support|request|False|0.4292149245738983
+support|research|False|0.350983202457428
+support|resubmit|False|0.3862779140472412
+support|review|False|0.45659711956977844
+support|satisfy|True|0.5070581436157227
+support|schedule|False|0.24862714111804962
+support|search|False|0.30704131722450256
+support|select|True|0.6722709536552429
+support|send|False|0.41996514797210693
+support|submit|False|0.36812999844551086
+support|successfully conduct|True|0.5347864031791687
+support|support|False|0.0
+support|track|False|0.33169737458229065
+support|update|False|0.37596485018730164
+track|apply|False|0.4381609857082367
+track|assign|False|0.43785518407821655
+track|be notify|False|0.3425333797931671
+track|capture|False|0.2900747060775757
+track|check|False|0.3372631371021271
+track|complete|False|0.2685209810733795
+track|conduct|False|0.44032227993011475
+track|create|False|0.3848186731338501
+track|denote|True|0.58314448595047
+track|develop|False|0.4366493821144104
+track|evaluate|False|0.41181227564811707
+track|generate|False|0.43283194303512573
+track|issue|False|0.4149055778980255
+track|manage|False|0.38387104868888855
+track|modify|False|0.4532153010368347
+track|pay|False|0.14357951283454895
+track|perform|True|0.5438987612724304
+track|post|False|0.43773379921913147
+track|prepare|False|0.3151572644710541
+track|process|True|0.5824616551399231
+track|record|False|0.29760921001434326
+track|remove|False|0.13844607770442963
+track|request|True|0.5068095326423645
+track|research|False|0.3570549786090851
+track|resubmit|False|0.33805492520332336
+track|review|True|0.5974149107933044
+track|satisfy|False|0.3853546977043152
+track|schedule|False|0.2892284393310547
+track|search|False|0.32793980836868286
+track|select|False|0.47606268525123596
+track|send|False|0.4009471833705902
+track|submit|False|0.36211803555488586
+track|successfully conduct|False|0.49590733647346497
+track|support|False|0.4115231931209564
+track|track|False|0.0
+track|update|False|0.4116133451461792
+update|apply|False|0.36633720993995667
+update|assign|False|0.3114710748195648
+update|be notify|False|0.3415248990058899
+update|capture|False|0.2759804129600525
+update|check|False|0.2895791530609131
+update|complete|False|0.23823541402816772
+update|conduct|False|0.4608873426914215
+update|create|False|0.30410414934158325
+update|denote|False|0.46661996841430664
+update|develop|False|0.2992165982723236
+update|evaluate|False|0.37071219086647034
+update|generate|False|0.35602015256881714
+update|issue|False|0.33654871582984924
+update|manage|False|0.44343408942222595
+update|modify|False|0.400829941034317
+update|pay|False|0.13897040486335754
+update|perform|False|0.42174044251441956
+update|post|False|0.3310064971446991
+update|prepare|False|0.27498742938041687
+update|process|False|0.33197611570358276
+update|record|False|0.26553699374198914
+update|remove|False|0.19809290766716003
+update|request|False|0.2922934293746948
+update|research|False|0.2396622896194458
+update|resubmit|False|0.4275892674922943
+update|review|False|0.293102502822876
+update|satisfy|False|0.3366970717906952
+update|schedule|False|0.22534741461277008
+update|search|False|0.2592053711414337
+update|select|False|0.493133008480072
+update|send|False|0.36492758989334106
+update|submit|False|0.31557464599609375
+update|successfully conduct|False|0.43452608585357666
+update|support|False|0.32712143659591675
+update|track|False|0.27721551060676575
+update|update|False|0.0

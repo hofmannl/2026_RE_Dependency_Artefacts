@@ -1,0 +1,65 @@
+story|action|classified_action
+as a developer, i want to get a data package into node|get|read
+as a researcher, i want to get a data package into julia in seconds|get|read
+as a publisher, i want to add type information to my data|add|create
+as a publisher, i want to be able to provide a visualization of data in the data package|provide|create
+as a researcher, i want to be able to save new visualizations|save|create
+as a researcherpublisher, i want to know that my data conforms to its data package profile|know|read
+as a researcherpublisher, i want to understand the ways in which my data is invalid|understand|read
+as a researcher, i want to get a data package into r in seconds|get|read
+as a researcher, i want to get a data package into excel in seconds|get|read
+as a researcher, i want to get a data package into spss in seconds|get|read
+as a researcher, i want to get a data package into stata in seconds|get|read
+as a researcher, i want to be able to translate my eml dataset to a data package|translate|update
+as a researcher, i want to get a data package into libreoffice/openoffice in seconds|get|read
+as a developer, i want to get a data package into python in seconds|get|read
+as a developer, i want a jquery plugin for core data packages|want|create
+as a researcher, i want to get my excel spreadsheet into a data package|get|read
+as a developer, i want to do exploratory data analysis in r|do|read
+as a developer, i want to operationalize that analysis in python|operationalize|update
+as a developer, i want to get a data package into clojure in seconds|get|read
+as a developer, i want to get a data package into julia in seconds|get|read
+as a developer, i want to get a data package into c++ in seconds|get|read
+as a machine learning expert, i would like to package ml datasets as data packages|package|create
+as a developer, i want an elasticsearch integration|want|create
+as a developer, i want an spss integration|want|create
+as a developer, i want an eprints integration|want|create
+as a developer, i want a mongo integration|want|create
+as a developer, i want a dat integration|want|create
+as a researchergovernment publisher, i want to add general reference data to my narrow dataset|add|create
+as a researchergovernment publisher, i want to add general country names to my dataset that only contains country codes|add|create
+as a researchergovernment publisher, i want to add reference data on inflation to my spending dataset|add|create
+as a researchergovernment publisher, i want to map lines in my dataset using geographic data in my dataset|map|create
+as a researcher, i want to be able to reference a remote-controlled vocabulary for my dataset|reference|create
+as a developer, i want an dspace integration|want|create
+as a developer, i want feather integration|want|create
+as a developer, i want hdf5 integration|want|create
+as a researcher, working with data, i want an microsoft power bi integration|want|create
+as a researcherpublisher, i want an integration with zenodo|want|create
+as a publisher, i would like an integration with open refine|would like|create
+as a researcherpublisher, i want to publish data packages to ckan|publish|create
+as a researcher, working with data in netcdf, i want netcdf integration|want|create
+as a researcher, i want an integration with https://data.mendeley.com/|want|create
+as a publisher, i would like an integration with excel|would like|read
+as a publisher, i want to store my data quickly and easily online|store|create
+as a repository manager, i want a tool that makes it easy for researchers/ users to add basic metadata to their research data|want|create
+as a researcherpublisher, i want validate my data with a minimum of clicks|validate|read
+as a publisher, i want to be able to check that every time i update my data it is still good|check|read
+as a developerwrangler, i want to use a command line tool that allows met to validate data|use|read
+as a developer, i want an online service that is connected to my data repository that validates data on update|want|create
+as a civic tech activist, i want to make it easy to assess the quality of data stored by the government|make it easy to assess|update
+as a publisher, i want to embed an interactive preview of my data on my site|embed|create
+as a publisher, i want to embed a preview button on my site|embed|create
+as a publisher, i want to know how many users have previewed a dataset|know|read
+as a developer, i want to customize an existing wizard for my specific type of data|customize|update
+as a publisher, i want to add useful metadata|add|create
+as a publisher, i want to package reproducible steps to get a certain data state, so my methodology is transparent and can be rerun by others|package|create
+as a developerdatawrangler, i want to store my data package in github and have it automatically stored into ckan|store|create
+as a researcher, i want a tool that can generate basic statistics about a dataset|want|create
+as a developerpublisher, i want a tool to create an embeddable data summary via iframe|want|create
+as a researcher, i want an app that generates an openrefine reconciliation api endpoint from a tabular data package|want|create
+as a researcher, i want an app that create proxy data packages for well know and reliable data, sources|want|create
+as a repositorymanagerresearcher, i want an app that acts as a match-making service for packaging data|want|create
+as a developer, i would like to create a web socket protocol for frictionless data tools|create|create
+as a researcherpublisher, i want to specify the funding that contributed to the creation of a given dataset|specify|create
+as a researcherpublisher, i want to add a doi to a dataset|add|create

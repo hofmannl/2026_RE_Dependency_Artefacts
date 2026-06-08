@@ -1,0 +1,22 @@
+=== Ergebnis: sim02_hierarchical_order_dependencies gegen gt_sim02_hierarchical_order_dependencies ===
+Anzahl potentielle Abhängigkeiten für sim02_hierarchical_order_dependencies: 506
+sim02_hierarchical_order_dependencies gesamt:           90
+sim02_hierarchical_order_dependencies in gt_sim02_hierarchical_order_dependencies:         76
+sim02_hierarchical_order_dependencies nicht in gt_sim02_hierarchical_order_dependencies:   14
+
+=== Ergebnis: gt_sim02_hierarchical_order_dependencies gegen sim02_hierarchical_order_dependencies ===
+Anzahl potentielle Abhängigkeiten für gt_sim02_hierarchical_order_dependencies: 506
+gt_sim02_hierarchical_order_dependencies gesamt:           89
+gt_sim02_hierarchical_order_dependencies in sim02_hierarchical_order_dependencies:         76
+gt_sim02_hierarchical_order_dependencies nicht in sim02_hierarchical_order_dependencies:   13 
+
+
+=== Total Results ===
+Anzahl potentielle Abhängigkeiten: 506
+Real Dependencies: 89
+No Depenendcies: 417
+
+Correctly Detected Dependencies: 76
+Incorrect Detected Dependencies: 14
+Missed Dependencies: 13
+Correct non-dependency: 403

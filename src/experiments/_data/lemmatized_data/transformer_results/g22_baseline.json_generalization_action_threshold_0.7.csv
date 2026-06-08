@@ -1,0 +1,612 @@
+Action 1 | Action 2 | Result | Score 
+make sure|have|False|0.6219530701637268
+record|properly record|False|0.6396710872650146
+clarify|access|False|0.4280996322631836
+read|make sure|False|0.4654557704925537
+check|store|False|0.24602295458316803
+want|document|False|0.5807493925094604
+want|access|False|0.45959532260894775
+clarify|be inform|False|0.5634901523590088
+check|see|False|0.498994380235672
+get|know|False|0.3216543197631836
+link|properly record|False|0.6546712517738342
+know in advance|access|False|0.449586421251297
+store|ensure|False|0.252049058675766
+have|make sure|False|0.489788293838501
+know in advance|be inform|False|0.509942352771759
+ensure|access|False|0.30178841948509216
+ensure|be inform|False|0.5665391683578491
+plan|read|False|0.4575071930885315
+record|know|False|0.5444774031639099
+reuse|get|False|0.26282528042793274
+access|make sure|False|0.38900381326675415
+be inform|reuse|False|0.3134567439556122
+read|ensure|False|0.5350783467292786
+link|know|False|0.6140431761741638
+clarify|properly record|True|0.8435278534889221
+read|record|False|0.2420112043619156
+want|properly record|True|0.7238226532936096
+reuse|indicate|False|0.6835426688194275
+record|link|False|0.40970006585121155
+check|read|False|0.26575523614883423
+have|ensure|False|0.4870591163635254
+ensure|properly record|False|0.6547349691390991
+have|record|False|0.484090656042099
+clarify|know|True|0.7556586265563965
+store|know in advance|False|0.24963900446891785
+access|record|False|0.39112579822540283
+want|know|False|0.5298295617103577
+store|want|False|0.28690364956855774
+extract|plan|False|0.587497353553772
+reuse|import|False|0.25322532653808594
+properly record|link|False|0.40261200070381165
+clarify|link|True|0.7997457385063171
+access|reuse|False|0.47283172607421875
+read|know in advance|False|0.3491886556148529
+ensure|know|False|0.4401076138019562
+know|make sure|False|0.4757629334926605
+extract|document|False|0.5820351839065552
+read|want|False|0.41664308309555054
+extract|access|False|0.3151933252811432
+indicate|have|True|0.8746462464332581
+document|receive|False|0.6347951292991638
+import|make sure|False|0.3111065924167633
+know in advance|link|False|0.5480576753616333
+access|extract|False|0.3590584993362427
+ensure|link|False|0.2704486548900604
+have|know in advance|False|0.47539108991622925
+have|want|False|0.4350976049900055
+receive|clarify|False|0.6140185594558716
+store|need|False|0.39265626668930054
+receive|get|False|0.4524458646774292
+make sure|get|False|0.35384121537208557
+know|ensure|False|0.5490260720252991
+know|record|False|0.40600529313087463
+document|check|False|0.607201337814331
+extract|properly record|False|0.5258204340934753
+be inform|plan|False|0.4533007740974426
+read|need|False|0.46840277314186096
+receive|indicate|False|0.6947462558746338
+make sure|indicate|True|0.7757136225700378
+import|record|False|0.23300594091415405
+be inform|document|False|0.4411933124065399
+have|need|False|0.485125869512558
+record|receive|False|0.4490053653717041
+extract|know|False|0.4697248339653015
+receive|import|False|0.3474738597869873
+plan|document|False|0.534679114818573
+make sure|import|False|0.33963799476623535
+plan|access|False|0.2958647608757019
+plan|be inform|False|0.4881106913089752
+know|know in advance|False|0.5278633236885071
+import|extract|False|0.2407236099243164
+know|want|False|0.5349986553192139
+access|plan|False|0.4491347670555115
+properly record|receive|False|0.39013856649398804
+be inform|properly record|False|0.5696876645088196
+check|document|False|0.6580391526222229
+clarify|receive|True|0.784284234046936
+import|want|False|0.41062530875205994
+check|access|False|0.36183685064315796
+check|be inform|False|0.3535795211791992
+reuse|ensure|False|0.513212263584137
+document|store|False|0.37944531440734863
+plan|properly record|False|0.5332364439964294
+know in advance|receive|False|0.43400999903678894
+ensure|receive|False|0.4224727749824524
+properly record|check|False|0.33279600739479065
+indicate|clarify|True|0.9352474212646484
+indicate|get|False|0.5588523745536804
+be inform|know|False|0.45296019315719604
+clarify|check|True|0.7282494902610779
+know|need|False|0.5651423931121826
+need|clarify|False|0.6563002467155457
+reuse|see|False|0.4825820326805115
+need|get|False|0.41806384921073914
+see|make sure|False|0.5048546195030212
+check|properly record|False|0.5558846592903137
+plan|know|False|0.4342174530029297
+know in advance|check|False|0.48027274012565613
+ensure|check|False|0.4344809353351593
+reuse|know in advance|False|0.4431816637516022
+reuse|want|False|0.50078946352005
+record|store|False|0.2853887677192688
+get|make sure|False|0.3169192671775818
+access|have|True|0.715506374835968
+check|know|False|0.4003305733203888
+see|ensure|False|0.47918692231178284
+indicate|import|False|0.3884640634059906
+see|record|False|0.42088356614112854
+document|reuse|False|0.5778452157974243
+check|link|False|0.3215806782245636
+link|make sure|False|0.5078464150428772
+properly record|store|False|0.24922378361225128
+make sure|ensure|False|0.5493415594100952
+clarify|store|False|0.3053082525730133
+document|extract|False|0.4260910451412201
+get|record|False|0.21637940406799316
+reuse|need|False|0.4941308796405792
+know in advance|store|False|0.25879645347595215
+record|record|False|0.0
+ensure|store|False|0.23473915457725525
+receive|see|False|0.4281312823295593
+want|make sure|False|0.4778783917427063
+see|know in advance|False|0.5458762049674988
+make sure|see|False|0.48148584365844727
+see|want|False|0.4890274703502655
+link|record|False|0.5489518642425537
+get|extract|False|0.23999443650245667
+import|have|False|0.46975377202033997
+record|reuse|False|0.42899802327156067
+store|clarify|False|0.3524540364742279
+store|get|False|0.18419481813907623
+make sure|know in advance|False|0.49099069833755493
+link|reuse|False|0.48469141125679016
+record|extract|False|0.34168776869773865
+get|want|False|0.37991073727607727
+read|clarify|True|0.7623013854026794
+store|indicate|False|0.4237765967845917
+need|check|False|0.49691876769065857
+read|get|False|0.2420933097600937
+want|record|False|0.44680702686309814
+link|extract|False|0.41772356629371643
+receive|read|False|0.3636467754840851
+properly record|reuse|False|0.34014439582824707
+make sure|read|False|0.3168182969093323
+see|need|False|0.6073324680328369
+have|clarify|True|0.8478485941886902
+read|indicate|True|0.8236852288246155
+clarify|reuse|False|0.45870110392570496
+have|get|False|0.2909735441207886
+want|reuse|False|0.4789756238460541
+document|plan|True|0.8323425650596619
+properly record|extract|False|0.285064697265625
+access|get|False|0.4162144958972931
+store|import|False|0.20869316160678864
+clarify|extract|False|0.5749733448028564
+check|receive|False|0.40656331181526184
+indicate|ensure|True|0.8486791253089905
+have|indicate|True|0.86387699842453
+know in advance|reuse|False|0.4032178819179535
+want|extract|False|0.3392237722873688
+ensure|reuse|False|0.41409599781036377
+make sure|need|False|0.6097589135169983
+access|indicate|False|0.6807961463928223
+read|import|False|0.25436970591545105
+ensure|extract|False|0.2831895351409912
+extract|make sure|False|0.314694881439209
+indicate|see|True|0.838232159614563
+reuse|be inform|False|0.4666852653026581
+have|import|False|0.36939525604248047
+need|store|False|0.4101080596446991
+need|see|False|0.6375908851623535
+record|plan|False|0.5018450021743774
+access|import|False|0.3489365577697754
+indicate|know in advance|True|0.877483606338501
+know|clarify|False|0.683314323425293
+link|plan|True|0.751284658908844
+know|get|False|0.30718421936035156
+extract|record|False|0.3326002359390259
+document|have|True|0.7248572707176208
+import|clarify|False|0.6190391182899475
+import|get|False|0.249076709151268
+store|check|False|0.2294369786977768
+know|indicate|True|0.7848622798919678
+properly record|plan|False|0.4755924642086029
+indicate|read|True|0.7274649739265442
+extract|reuse|False|0.32690301537513733
+be inform|make sure|False|0.39829134941101074
+clarify|plan|True|0.7575628161430359
+want|plan|False|0.5237963199615479
+need|read|False|0.4604645371437073
+import|indicate|False|0.5303301811218262
+properly record|document|False|0.568503201007843
+extract|extract|False|0.0
+get|have|False|0.29745548963546753
+know in advance|plan|False|0.4227428138256073
+indicate|need|True|0.8077666759490967
+ensure|plan|False|0.5231970548629761
+clarify|document|True|0.7829509973526001
+know|import|False|0.2630886137485504
+extract|want|False|0.43557411432266235
+reuse|link|False|0.4893187880516052
+record|have|False|0.5661152601242065
+know in advance|document|False|0.6110697388648987
+import|import|False|0.0
+ensure|document|False|0.5747386813163757
+be inform|record|False|0.33512625098228455
+receive|access|False|0.4161214828491211
+receive|be inform|False|0.3930937945842743
+reuse|clarify|True|0.7159237265586853
+make sure|be inform|False|0.5799340009689331
+link|have|True|0.7410873770713806
+plan|record|False|0.3373708426952362
+store|see|False|0.3335334062576294
+be inform|extract|False|0.2066131979227066
+plan|reuse|False|0.3490501344203949
+clarify|have|True|0.9187238216400146
+know in advance|properly record|False|0.6750019192695618
+receive|properly record|False|0.587436318397522
+want|have|False|0.5600794553756714
+properly record|know|False|0.5190466046333313
+check|record|False|0.4054452180862427
+read|see|False|0.5661607980728149
+access|ensure|False|0.470593124628067
+plan|extract|False|0.29794421792030334
+be inform|want|False|0.4353920817375183
+ensure|have|False|0.6073347330093384
+check|reuse|False|0.39666756987571716
+have|see|False|0.6255231499671936
+know in advance|know|False|0.5228673219680786
+receive|know|False|0.461276113986969
+store|read|False|0.19231754541397095
+access|see|False|0.5511814951896667
+see|clarify|True|0.8567295074462891
+check|extract|False|0.32033705711364746
+see|get|False|0.41029980778694153
+receive|link|False|0.3754153251647949
+make sure|link|False|0.2654794752597809
+see|indicate|True|0.7857735753059387
+access|know in advance|False|0.533382773399353
+get|clarify|False|0.37674495577812195
+indicate|access|False|0.44356611371040344
+access|want|False|0.5418874621391296
+indicate|be inform|False|0.6726354956626892
+make sure|clarify|False|0.5532168745994568
+reuse|receive|False|0.35235047340393066
+need|document|False|0.6438558101654053
+have|read|False|0.3876896798610687
+need|access|False|0.47924792766571045
+need|be inform|False|0.5635282397270203
+get|indicate|False|0.40659579634666443
+import|ensure|False|0.3131627142429352
+see|import|False|0.378316193819046
+extract|have|False|0.6845299005508423
+reuse|check|False|0.29358917474746704
+link|get|False|0.4018329381942749
+plan|plan|False|0.0
+know|see|False|0.5166524648666382
+record|indicate|True|0.7039982676506042
+access|need|False|0.48029252886772156
+import|see|False|0.36302024126052856
+link|indicate|True|0.8593562841415405
+need|properly record|False|0.6663090586662292
+get|import|False|0.23443681001663208
+check|plan|False|0.5657052397727966
+want|get|False|0.47797998785972595
+import|know in advance|False|0.3255624771118164
+need|know|False|0.5264818072319031
+know|read|False|0.2987208962440491
+want|indicate|True|0.742719292640686
+link|import|False|0.3727928102016449
+indicate|link|True|0.7907432913780212
+be inform|have|False|0.6223543286323547
+import|read|False|0.280529648065567
+receive|receive|False|0.0
+need|link|False|0.5469906330108643
+make sure|receive|False|0.4689754247665405
+document|make sure|False|0.6297966241836548
+reuse|store|False|0.24278372526168823
+plan|have|False|0.5648428201675415
+want|import|False|0.3913498818874359
+store|document|False|0.31079500913619995
+store|access|False|0.24032963812351227
+import|need|False|0.48099735379219055
+store|be inform|False|0.2057875245809555
+receive|check|False|0.4081544876098633
+make sure|check|False|0.4760163426399231
+check|have|False|0.5288224220275879
+read|access|False|0.310926228761673
+read|be inform|False|0.5295909643173218
+document|ensure|False|0.6398135423660278
+document|record|False|0.3698764741420746
+extract|clarify|False|0.5111423134803772
+reuse|read|False|0.3045618236064911
+extract|get|False|0.3080279529094696
+record|make sure|False|0.4076306223869324
+have|access|False|0.36027809977531433
+have|be inform|False|0.6534367203712463
+store|properly record|False|0.3680526316165924
+access|be inform|False|0.4144618511199951
+extract|indicate|True|0.7080808877944946
+get|ensure|False|0.25011730194091797
+read|properly record|False|0.5367997288703918
+see|see|False|0.0
+store|know|False|0.2880473732948303
+properly record|make sure|False|0.5146538019180298
+document|know in advance|False|0.676917314529419
+record|ensure|False|0.4426935017108917
+have|properly record|False|0.5966287851333618
+indicate|receive|True|0.7592955231666565
+document|want|False|0.6808508038520813
+receive|store|False|0.3024514615535736
+clarify|make sure|False|0.5919792056083679
+make sure|store|False|0.2449406534433365
+store|link|False|0.17937590181827545
+get|see|False|0.41841164231300354
+extract|import|False|0.25140807032585144
+read|know|False|0.385922372341156
+link|ensure|False|0.5446670651435852
+need|receive|False|0.5470463633537292
+be inform|clarify|False|0.6399521231651306
+know in advance|make sure|False|0.597252368927002
+be inform|get|False|0.27229630947113037
+ensure|make sure|False|0.5646157264709473
+see|read|False|0.45103374123573303
+read|link|False|0.25655847787857056
+have|know|False|0.60530686378479
+indicate|check|False|0.6815222501754761
+get|know in advance|False|0.3353878855705261
+know|access|False|0.34919583797454834
+know|be inform|False|0.45919710397720337
+properly record|record|False|0.4825111925601959
+link|see|False|0.5283705592155457
+be inform|indicate|False|0.636479377746582
+plan|get|False|0.3067573606967926
+clarify|ensure|True|0.8328229188919067
+clarify|record|False|0.6458548307418823
+want|ensure|False|0.5074553489685059
+document|need|False|0.6292042136192322
+import|access|False|0.28475823998451233
+import|be inform|False|0.3216724693775177
+have|link|False|0.3969930410385132
+record|know in advance|False|0.4232521057128906
+get|read|False|0.28544881939888
+record|want|False|0.4638809263706207
+plan|indicate|False|0.5867031216621399
+access|link|False|0.4989137649536133
+ensure|ensure|False|0.0
+know in advance|record|False|0.3890400528907776
+link|know in advance|False|0.5782081484794617
+ensure|record|False|0.36781662702560425
+link|want|False|0.5730432868003845
+access|clarify|True|0.7215052247047424
+want|see|False|0.5337499380111694
+know|properly record|False|0.6757301092147827
+be inform|import|False|0.23577144742012024
+receive|reuse|False|0.4564494490623474
+get|need|False|0.43231815099716187
+check|indicate|False|0.5566500425338745
+properly record|want|False|0.5222064256668091
+clarify|know in advance|True|0.7403944134712219
+plan|import|False|0.28518208861351013
+want|know in advance|False|0.5444062352180481
+know in advance|extract|False|0.42683327198028564
+receive|extract|False|0.3718975782394409
+clarify|want|False|0.6804983019828796
+record|need|False|0.5132125020027161
+know|know|False|0.0
+indicate|store|False|0.3528573215007782
+reuse|document|False|0.5267557501792908
+reuse|access|False|0.3037604093551636
+ensure|know in advance|False|0.483990341424942
+link|need|False|0.567348301410675
+check|import|False|0.28195154666900635
+know in advance|want|False|0.515591025352478
+ensure|want|False|0.4106336236000061
+know|link|False|0.45688337087631226
+store|receive|False|0.2632020115852356
+import|link|False|0.41172507405281067
+extract|ensure|False|0.3626406490802765
+clarify|need|True|0.7313211560249329
+read|receive|False|0.3048626780509949
+want|need|False|0.5026316046714783
+reuse|properly record|False|0.4029659032821655
+ensure|need|True|0.7470575571060181
+have|receive|False|0.4125591516494751
+extract|see|False|0.4465447962284088
+access|receive|False|0.5433094501495361
+read|check|False|0.3077778220176697
+need|record|False|0.46386098861694336
+reuse|know|False|0.40561822056770325
+see|access|False|0.41955888271331787
+plan|make sure|False|0.4546796977519989
+see|be inform|False|0.5635741949081421
+receive|plan|False|0.4609020948410034
+indicate|reuse|False|0.4710901975631714
+make sure|plan|False|0.4685291349887848
+extract|know in advance|False|0.44632861018180847
+have|check|False|0.41623589396476746
+need|reuse|False|0.5018627047538757
+be inform|ensure|False|0.5647873282432556
+access|check|False|0.42824065685272217
+receive|document|False|0.6146225333213806
+check|make sure|False|0.4383585751056671
+make sure|document|False|0.4284016489982605
+get|access|False|0.285479873418808
+make sure|access|False|0.3081481158733368
+get|be inform|False|0.24989061057567596
+extract|read|False|0.22191546857357025
+need|extract|False|0.39325740933418274
+plan|ensure|False|0.47461777925491333
+see|properly record|False|0.5695067644119263
+be inform|see|False|0.44461727142333984
+properly record|have|False|0.6879177093505859
+know|receive|False|0.4930354654788971
+extract|need|False|0.4836880564689636
+link|be inform|False|0.4137263596057892
+check|ensure|False|0.43099209666252136
+plan|see|False|0.5385269522666931
+read|store|False|0.206365168094635
+import|receive|False|0.3084079325199127
+make sure|properly record|False|0.5832588076591492
+see|know|False|0.4835957884788513
+be inform|know in advance|False|0.4984300434589386
+know in advance|have|False|0.6627893447875977
+receive|have|False|0.608185350894928
+know|check|False|0.35289692878723145
+have|store|False|0.2727000415325165
+see|link|False|0.36334535479545593
+plan|know in advance|False|0.4132525324821472
+document|clarify|True|0.7576042413711548
+want|be inform|False|0.45716121792793274
+document|get|False|0.5468347072601318
+be inform|read|False|0.26288902759552
+plan|want|False|0.40890970826148987
+access|store|False|0.2662084996700287
+import|check|False|0.27782586216926575
+make sure|know|False|0.6514647006988525
+indicate|plan|False|0.6994996070861816
+store|record|False|0.20817676186561584
+document|indicate|True|0.8525192737579346
+check|know in advance|False|0.5021098852157593
+get|link|False|0.23112913966178894
+need|plan|True|0.716256320476532
+check|want|False|0.4174976348876953
+be inform|need|False|0.5247634053230286
+indicate|document|True|0.8178350329399109
+store|reuse|False|0.24390551447868347
+plan|need|False|0.498184472322464
+store|extract|False|0.19201728701591492
+document|import|False|0.42761632800102234
+record|clarify|False|0.5246472954750061
+access|read|False|0.4045722782611847
+read|reuse|False|0.2666035294532776
+record|get|False|0.3142052888870239
+link|clarify|True|0.7689442038536072
+know|store|False|0.2396935671567917
+read|extract|False|0.19569620490074158
+check|need|False|0.46414774656295776
+have|reuse|False|0.39894190430641174
+indicate|properly record|True|0.788287878036499
+import|store|False|0.20744027197360992
+want|link|False|0.4696626365184784
+properly record|clarify|True|0.7366189360618591
+properly record|get|False|0.37929287552833557
+have|extract|False|0.2739779055118561
+extract|be inform|False|0.44005662202835083
+want|clarify|True|0.7102251648902893
+clarify|get|False|0.616968035697937
+need|have|False|0.5543884038925171
+indicate|know|True|0.8075981140136719
+properly record|indicate|False|0.6855412721633911
+record|import|False|0.3239995837211609
+see|receive|False|0.5603179931640625
+know in advance|clarify|True|0.8133851289749146
+ensure|clarify|False|0.6151267886161804
+clarify|indicate|True|0.9236948490142822
+know in advance|get|False|0.32588741183280945
+ensure|get|False|0.32718512415885925
+know in advance|indicate|True|0.7593576908111572
+ensure|indicate|False|0.6141065955162048
+store|plan|False|0.20913434028625488
+get|receive|False|0.3588097095489502
+see|check|False|0.4467845857143402
+properly record|import|False|0.2854861319065094
+know|reuse|False|0.43862777948379517
+clarify|import|False|0.3498559892177582
+be inform|access|False|0.26846110820770264
+read|plan|False|0.5692987442016602
+import|reuse|False|0.2683863043785095
+know|extract|False|0.3150487542152405
+reuse|make sure|False|0.43692082166671753
+get|check|False|0.25087785720825195
+know in advance|import|False|0.43767672777175903
+link|receive|False|0.5634779334068298
+ensure|import|False|0.2516270577907562
+read|document|False|0.6250902414321899
+have|plan|False|0.5576128363609314
+extract|link|False|0.3892309367656708
+record|check|False|0.3691650927066803
+have|document|False|0.6005830764770508
+link|check|False|0.4383906424045563
+want|receive|False|0.5691447257995605
+access|document|False|0.595897376537323
+reuse|record|False|0.26360374689102173
+access|access|False|0.0
+document|see|True|0.7615354061126709
+store|have|False|0.3019205331802368
+see|store|False|0.3395993113517761
+want|check|False|0.4538514316082001
+read|have|False|0.6592028141021729
+reuse|extract|False|0.27216047048568726
+get|store|False|0.18313126266002655
+be inform|link|False|0.27129778265953064
+access|properly record|False|0.6184994578361511
+know|plan|False|0.49025386571884155
+need|indicate|True|0.7135536074638367
+have|have|False|0.0
+document|read|False|0.3981611132621765
+receive|make sure|False|0.38679230213165283
+plan|link|False|0.43398526310920715
+import|plan|False|0.3075260818004608
+record|see|False|0.5537176132202148
+know|document|False|0.6624616384506226
+properly record|ensure|False|0.6308992505073547
+link|store|False|0.3036313056945801
+plan|clarify|False|0.61974036693573
+access|know|False|0.5417295694351196
+import|document|False|0.4145251512527466
+need|import|False|0.4887433350086212
+extract|receive|False|0.34228789806365967
+know in advance|ensure|False|0.5544626712799072
+receive|ensure|False|0.43470877408981323
+see|reuse|False|0.4264569580554962
+properly record|see|False|0.6392475962638855
+check|clarify|False|0.47965526580810547
+receive|record|False|0.3770306706428528
+check|get|False|0.3648289740085602
+make sure|record|False|0.3328392803668976
+want|store|False|0.29963648319244385
+clarify|see|True|0.8567915558815002
+record|read|False|0.372978538274765
+see|extract|False|0.30112290382385254
+properly record|know in advance|False|0.5126606225967407
+link|read|False|0.3745060861110687
+get|reuse|False|0.23714175820350647
+import|properly record|False|0.34470826387405396
+extract|check|False|0.31890177726745605
+know in advance|see|False|0.4720305800437927
+reuse|plan|False|0.4620710611343384
+know|have|False|0.6561052203178406
+ensure|see|False|0.422372043132782
+make sure|reuse|False|0.3174907863140106
+make sure|extract|False|0.2533332109451294
+properly record|read|False|0.3835815489292145
+receive|know in advance|False|0.46920737624168396
+clarify|read|False|0.5923392176628113
+import|know|False|0.31559401750564575
+receive|want|False|0.4713808298110962
+want|read|False|0.37329116463661194
+be inform|receive|False|0.3742266595363617
+make sure|want|False|0.4420737624168396
+indicate|make sure|False|0.6462419033050537
+know in advance|read|False|0.4308973550796509
+properly record|need|False|0.543334424495697
+ensure|read|False|0.26653024554252625
+need|make sure|False|0.4657246172428131
+plan|receive|False|0.4471907317638397
+be inform|check|False|0.2778441905975342
+see|plan|False|0.5781976580619812
+know in advance|need|False|0.6350671648979187
+receive|need|False|0.5330906510353088
+extract|store|False|0.20666104555130005
+reuse|have|False|0.5983723998069763
+indicate|record|False|0.6515081524848938
+plan|check|False|0.3717891275882721
+document|access|False|0.4753791391849518
+document|be inform|False|0.6161020994186401
+need|ensure|False|0.5125169157981873
+see|document|False|0.6353279948234558
+get|plan|False|0.30617475509643555
+check|check|False|0.0
+indicate|extract|False|0.6483660936355591
+get|document|False|0.5221677422523499
+document|properly record|True|0.7003089785575867
+indicate|want|True|0.7765522599220276
+record|document|False|0.2851264774799347
+be inform|store|False|0.19471649825572968
+record|access|False|0.3825761079788208
+need|know in advance|False|0.5334418416023254
+record|be inform|False|0.37428176403045654
+need|want|False|0.48299816250801086
+link|document|False|0.6418785452842712
+see|have|False|0.6673666834831238
+link|access|False|0.4222942590713501
+document|know|True|0.725106418132782
+plan|store|False|0.22685979306697845
+store|make sure|False|0.2904825806617737
+get|properly record|False|0.38514864444732666
+document|link|False|0.4652496874332428
+properly record|access|False|0.35658928751945496
+properly record|be inform|False|0.42756280303001404

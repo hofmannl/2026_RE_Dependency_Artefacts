@@ -1,0 +1,842 @@
+Persona 1 | Persona 2 | Result | Score 
+administrator|administrator|False|0.0
+administrator|archive|False|0.2105400264263153
+administrator|archivemanager|False|0.2907535433769226
+administrator|data librarian|False|0.3000899851322174
+administrator|data manager|False|0.334380179643631
+administrator|director of research integrity|False|0.4000013768672943
+administrator|ethic manager|False|0.40396711230278015
+administrator|faculty data steward|False|0.3225868344306946
+administrator|funder|False|0.36356908082962036
+administrator|institutional data manager|False|0.35285356640815735
+administrator|institutional data steward|False|0.40269988775253296
+administrator|it manager|False|0.4083898961544037
+administrator|it officer|False|0.29104387760162354
+administrator|it staff member|False|0.2577131688594818
+administrator|legalofficer|False|0.2825494408607483
+administrator|manager|False|0.4351159930229187
+administrator|metadata manager|False|0.3400012254714966
+administrator|pi|False|0.29300785064697266
+administrator|postgraduate convenor|False|0.4130096435546875
+administrator|rector|False|0.35498473048210144
+administrator|repository manager|False|0.3214205801486969
+administrator|repository operator|False|0.24649521708488464
+administrator|repository owner|False|0.3341512382030487
+administrator|research centre director|False|0.25192221999168396
+administrator|research evaluation manager|False|0.43668296933174133
+administrator|research head|False|0.2687578797340393
+administrator|research support officer|False|0.32793179154396057
+administrator|researcher|False|0.2171519249677658
+administrator|stakeholder|False|0.34259217977523804
+archive|administrator|False|0.22857558727264404
+archive|archive|False|0.0
+archive|archivemanager|False|0.2807580828666687
+archive|data librarian|False|0.3960188925266266
+archive|data manager|False|0.22688594460487366
+archive|director of research integrity|False|0.3391748070716858
+archive|ethic manager|False|0.25564974546432495
+archive|faculty data steward|False|0.3180164098739624
+archive|funder|False|0.20969583094120026
+archive|institutional data manager|False|0.27012091875076294
+archive|institutional data steward|False|0.2797114849090576
+archive|it manager|False|0.24927745759487152
+archive|it officer|False|0.2447366565465927
+archive|it staff member|False|0.20490026473999023
+archive|legalofficer|False|0.1990407407283783
+archive|manager|False|0.26098406314849854
+archive|metadata manager|False|0.26212868094444275
+archive|pi|False|0.20379090309143066
+archive|postgraduate convenor|False|0.29250162839889526
+archive|rector|False|0.20933912694454193
+archive|repository manager|False|0.4081763029098511
+archive|repository operator|False|0.27483227849006653
+archive|repository owner|False|0.3481922745704651
+archive|research centre director|False|0.2904501259326935
+archive|research evaluation manager|False|0.3520151376724243
+archive|research head|False|0.2565951943397522
+archive|research support officer|False|0.30612024664878845
+archive|researcher|False|0.292863667011261
+archive|stakeholder|False|0.1969403177499771
+archivemanager|administrator|False|0.22187840938568115
+archivemanager|archive|False|0.34937167167663574
+archivemanager|archivemanager|False|0.0
+archivemanager|data librarian|False|0.29690274596214294
+archivemanager|data manager|False|0.3054845631122589
+archivemanager|director of research integrity|False|0.3018457889556885
+archivemanager|ethic manager|False|0.3169407546520233
+archivemanager|faculty data steward|False|0.28454625606536865
+archivemanager|funder|False|0.2882467806339264
+archivemanager|institutional data manager|False|0.31294387578964233
+archivemanager|institutional data steward|False|0.34997496008872986
+archivemanager|it manager|False|0.40340176224708557
+archivemanager|it officer|False|0.1638811081647873
+archivemanager|it staff member|False|0.17389939725399017
+archivemanager|legalofficer|False|0.15616625547409058
+archivemanager|manager|False|0.3872528374195099
+archivemanager|metadata manager|False|0.3176192045211792
+archivemanager|pi|False|0.14660710096359253
+archivemanager|postgraduate convenor|False|0.3500598967075348
+archivemanager|rector|False|0.23078829050064087
+archivemanager|repository manager|False|0.3935140073299408
+archivemanager|repository operator|False|0.2636655271053314
+archivemanager|repository owner|False|0.3653334081172943
+archivemanager|research centre director|False|0.20743978023529053
+archivemanager|research evaluation manager|False|0.33968856930732727
+archivemanager|research head|False|0.23277965188026428
+archivemanager|research support officer|False|0.2678667902946472
+archivemanager|researcher|False|0.1778639853000641
+archivemanager|stakeholder|False|0.1565430760383606
+data librarian|administrator|False|0.2087763100862503
+data librarian|archive|False|0.2837659418582916
+data librarian|archivemanager|False|0.3080371618270874
+data librarian|data librarian|False|0.0
+data librarian|data manager|False|0.42725902795791626
+data librarian|director of research integrity|False|0.3935018479824066
+data librarian|ethic manager|False|0.23430940508842468
+data librarian|faculty data steward|False|0.39582568407058716
+data librarian|funder|False|0.37030288577079773
+data librarian|institutional data manager|False|0.37867939472198486
+data librarian|institutional data steward|False|0.46204832196235657
+data librarian|it manager|False|0.2252214550971985
+data librarian|it officer|False|0.17175863683223724
+data librarian|it staff member|False|0.25316938757896423
+data librarian|legalofficer|False|0.13448259234428406
+data librarian|manager|False|0.2644205391407013
+data librarian|metadata manager|False|0.3237772285938263
+data librarian|pi|False|0.18304847180843353
+data librarian|postgraduate convenor|False|0.39814433455467224
+data librarian|rector|False|0.3192177712917328
+data librarian|repository manager|False|0.32228636741638184
+data librarian|repository operator|False|0.2334132343530655
+data librarian|repository owner|False|0.325688898563385
+data librarian|research centre director|False|0.300198495388031
+data librarian|research evaluation manager|False|0.3556300103664398
+data librarian|research head|False|0.4075501561164856
+data librarian|research support officer|False|0.43305209279060364
+data librarian|researcher|False|0.423679381608963
+data librarian|stakeholder|False|0.18216562271118164
+data manager|administrator|False|0.25193408131599426
+data manager|archive|False|0.2531892657279968
+data manager|archivemanager|False|0.3025016188621521
+data manager|data librarian|False|0.4203455150127411
+data manager|data manager|False|0.0
+data manager|director of research integrity|False|0.36638158559799194
+data manager|ethic manager|False|0.3033917248249054
+data manager|faculty data steward|False|0.3670560121536255
+data manager|funder|False|0.28799065947532654
+data manager|institutional data manager|False|0.4725038707256317
+data manager|institutional data steward|False|0.4205070734024048
+data manager|it manager|False|0.41458845138549805
+data manager|it officer|False|0.2560134530067444
+data manager|it staff member|False|0.23189204931259155
+data manager|legalofficer|False|0.14119204878807068
+data manager|manager|False|0.43694713711738586
+data manager|metadata manager|False|0.3296550214290619
+data manager|pi|False|0.4119790196418762
+data manager|postgraduate convenor|False|0.3624756932258606
+data manager|rector|False|0.28025004267692566
+data manager|repository manager|False|0.32072213292121887
+data manager|repository operator|False|0.20740143954753876
+data manager|repository owner|False|0.3082273602485657
+data manager|research centre director|False|0.2155415564775467
+data manager|research evaluation manager|False|0.3919851779937744
+data manager|research head|False|0.3057027757167816
+data manager|research support officer|False|0.3244307041168213
+data manager|researcher|False|0.25431886315345764
+data manager|stakeholder|False|0.2485998123884201
+director of research integrity|administrator|False|0.17568716406822205
+director of research integrity|archive|False|0.24360820651054382
+director of research integrity|archivemanager|False|0.2477210909128189
+director of research integrity|data librarian|False|0.41320672631263733
+director of research integrity|data manager|False|0.3033088743686676
+director of research integrity|director of research integrity|False|0.0
+director of research integrity|ethic manager|False|0.2772952616214752
+director of research integrity|faculty data steward|False|0.3298230469226837
+director of research integrity|funder|False|0.3148101270198822
+director of research integrity|institutional data manager|False|0.3038133680820465
+director of research integrity|institutional data steward|False|0.40014544129371643
+director of research integrity|it manager|False|0.2761153280735016
+director of research integrity|it officer|False|0.26983165740966797
+director of research integrity|it staff member|False|0.25823163986206055
+director of research integrity|legalofficer|False|0.17094071209430695
+director of research integrity|manager|False|0.23588812351226807
+director of research integrity|metadata manager|False|0.25407058000564575
+director of research integrity|pi|False|0.1835418939590454
+director of research integrity|postgraduate convenor|False|0.3727568984031677
+director of research integrity|rector|False|0.25492915511131287
+director of research integrity|repository manager|False|0.24800001084804535
+director of research integrity|repository operator|False|0.23846207559108734
+director of research integrity|repository owner|False|0.24702298641204834
+director of research integrity|research centre director|False|0.5840639472007751
+director of research integrity|research evaluation manager|False|0.5018402934074402
+director of research integrity|research head|False|0.5488396286964417
+director of research integrity|research support officer|False|0.4657880663871765
+director of research integrity|researcher|False|0.48044100403785706
+director of research integrity|stakeholder|False|0.3111000657081604
+ethic manager|administrator|False|0.23245052993297577
+ethic manager|archive|False|0.1496151089668274
+ethic manager|archivemanager|False|0.2463303953409195
+ethic manager|data librarian|False|0.17253410816192627
+ethic manager|data manager|False|0.21295170485973358
+ethic manager|director of research integrity|False|0.33033129572868347
+ethic manager|ethic manager|False|0.0
+ethic manager|faculty data steward|False|0.2230035960674286
+ethic manager|funder|False|0.2531161904335022
+ethic manager|institutional data manager|False|0.19766439497470856
+ethic manager|institutional data steward|False|0.244498148560524
+ethic manager|it manager|False|0.4017716348171234
+ethic manager|it officer|False|0.21223585307598114
+ethic manager|it staff member|False|0.2195306122303009
+ethic manager|legalofficer|False|0.15464141964912415
+ethic manager|manager|False|0.4010378420352936
+ethic manager|metadata manager|False|0.2462466061115265
+ethic manager|pi|False|0.1915551871061325
+ethic manager|postgraduate convenor|False|0.34492552280426025
+ethic manager|rector|False|0.2522503435611725
+ethic manager|repository manager|False|0.28327998518943787
+ethic manager|repository operator|False|0.21022260189056396
+ethic manager|repository owner|False|0.20818834006786346
+ethic manager|research centre director|False|0.17709065973758698
+ethic manager|research evaluation manager|False|0.34110763669013977
+ethic manager|research head|False|0.25381630659103394
+ethic manager|research support officer|False|0.2646457254886627
+ethic manager|researcher|False|0.2301817089319229
+ethic manager|stakeholder|False|0.2829573154449463
+faculty data steward|administrator|False|0.21192434430122375
+faculty data steward|archive|False|0.22314314544200897
+faculty data steward|archivemanager|False|0.25636228919029236
+faculty data steward|data librarian|False|0.47315695881843567
+faculty data steward|data manager|False|0.41727542877197266
+faculty data steward|director of research integrity|False|0.35187843441963196
+faculty data steward|ethic manager|False|0.26249411702156067
+faculty data steward|faculty data steward|False|0.0
+faculty data steward|funder|False|0.33028215169906616
+faculty data steward|institutional data manager|False|0.3763591945171356
+faculty data steward|institutional data steward|False|0.4808628261089325
+faculty data steward|it manager|False|0.24090345203876495
+faculty data steward|it officer|False|0.19303692877292633
+faculty data steward|it staff member|False|0.19234463572502136
+faculty data steward|legalofficer|False|0.17505042254924774
+faculty data steward|manager|False|0.2638889253139496
+faculty data steward|metadata manager|False|0.306275337934494
+faculty data steward|pi|False|0.19973066449165344
+faculty data steward|postgraduate convenor|False|0.4206867516040802
+faculty data steward|rector|False|0.27943184971809387
+faculty data steward|repository manager|False|0.2823505997657776
+faculty data steward|repository operator|False|0.21442332863807678
+faculty data steward|repository owner|False|0.2255675196647644
+faculty data steward|research centre director|False|0.22667351365089417
+faculty data steward|research evaluation manager|False|0.3500228822231293
+faculty data steward|research head|False|0.30453401803970337
+faculty data steward|research support officer|False|0.3986024558544159
+faculty data steward|researcher|False|0.4017516076564789
+faculty data steward|stakeholder|False|0.22699500620365143
+funder|administrator|False|0.3503403961658478
+funder|archive|False|0.1960839480161667
+funder|archivemanager|False|0.2918938994407654
+funder|data librarian|False|0.3898502588272095
+funder|data manager|False|0.37938612699508667
+funder|director of research integrity|False|0.34855160117149353
+funder|ethic manager|False|0.32851359248161316
+funder|faculty data steward|False|0.3718853294849396
+funder|funder|False|0.0
+funder|institutional data manager|False|0.35491514205932617
+funder|institutional data steward|False|0.3626500070095062
+funder|it manager|False|0.3318413197994232
+funder|it officer|False|0.29047784209251404
+funder|it staff member|False|0.20057879388332367
+funder|legalofficer|False|0.24561980366706848
+funder|manager|False|0.3862171471118927
+funder|metadata manager|False|0.3841308653354645
+funder|pi|False|0.31385719776153564
+funder|postgraduate convenor|False|0.4334912896156311
+funder|rector|False|0.3360802233219147
+funder|repository manager|False|0.33570605516433716
+funder|repository operator|False|0.2965646982192993
+funder|repository owner|False|0.3197539448738098
+funder|research centre director|False|0.2960982620716095
+funder|research evaluation manager|False|0.4299631118774414
+funder|research head|False|0.2932939827442169
+funder|research support officer|False|0.37689685821533203
+funder|researcher|False|0.37704697251319885
+funder|stakeholder|False|0.3124902844429016
+institutional data manager|administrator|False|0.23371967673301697
+institutional data manager|archive|False|0.2030089646577835
+institutional data manager|archivemanager|False|0.26032644510269165
+institutional data manager|data librarian|False|0.3311823606491089
+institutional data manager|data manager|False|0.441398948431015
+institutional data manager|director of research integrity|False|0.3253526985645294
+institutional data manager|ethic manager|False|0.25664418935775757
+institutional data manager|faculty data steward|False|0.2924964427947998
+institutional data manager|funder|False|0.2103368192911148
+institutional data manager|institutional data manager|False|0.0
+institutional data manager|institutional data steward|False|0.5184209942817688
+institutional data manager|it manager|False|0.36455368995666504
+institutional data manager|it officer|False|0.21925842761993408
+institutional data manager|it staff member|False|0.21976371109485626
+institutional data manager|legalofficer|False|0.11587175726890564
+institutional data manager|manager|False|0.32715076208114624
+institutional data manager|metadata manager|False|0.27920618653297424
+institutional data manager|pi|False|0.313189834356308
+institutional data manager|postgraduate convenor|False|0.3114025294780731
+institutional data manager|rector|False|0.21859049797058105
+institutional data manager|repository manager|False|0.2668766975402832
+institutional data manager|repository operator|False|0.19386760890483856
+institutional data manager|repository owner|False|0.2084866613149643
+institutional data manager|research centre director|False|0.19844084978103638
+institutional data manager|research evaluation manager|False|0.32503393292427063
+institutional data manager|research head|False|0.22643883526325226
+institutional data manager|research support officer|False|0.2920023202896118
+institutional data manager|researcher|False|0.1890675574541092
+institutional data manager|stakeholder|False|0.16721633076667786
+institutional data steward|administrator|False|0.33167368173599243
+institutional data steward|archive|False|0.21102982759475708
+institutional data steward|archivemanager|False|0.2556292712688446
+institutional data steward|data librarian|False|0.437433123588562
+institutional data steward|data manager|False|0.371565043926239
+institutional data steward|director of research integrity|False|0.35969769954681396
+institutional data steward|ethic manager|False|0.2610012888908386
+institutional data steward|faculty data steward|False|0.40754762291908264
+institutional data steward|funder|False|0.2517422139644623
+institutional data steward|institutional data manager|False|0.5320649147033691
+institutional data steward|institutional data steward|False|0.0
+institutional data steward|it manager|False|0.24724037945270538
+institutional data steward|it officer|False|0.2380749136209488
+institutional data steward|it staff member|False|0.23126696050167084
+institutional data steward|legalofficer|False|0.18096214532852173
+institutional data steward|manager|False|0.25333431363105774
+institutional data steward|metadata manager|False|0.3082384467124939
+institutional data steward|pi|False|0.2937600016593933
+institutional data steward|postgraduate convenor|False|0.35587581992149353
+institutional data steward|rector|False|0.25211936235427856
+institutional data steward|repository manager|False|0.2942716181278229
+institutional data steward|repository operator|False|0.2565896809101105
+institutional data steward|repository owner|False|0.2531109154224396
+institutional data steward|research centre director|False|0.24960719048976898
+institutional data steward|research evaluation manager|False|0.3235827386379242
+institutional data steward|research head|False|0.26728275418281555
+institutional data steward|research support officer|False|0.3689260482788086
+institutional data steward|researcher|False|0.2907753586769104
+institutional data steward|stakeholder|False|0.23981694877147675
+it manager|administrator|False|0.41055789589881897
+it manager|archive|False|0.30535537004470825
+it manager|archivemanager|False|0.32063284516334534
+it manager|data librarian|False|0.40150952339172363
+it manager|data manager|False|0.3951161205768585
+it manager|director of research integrity|False|0.41810333728790283
+it manager|ethic manager|False|0.4559360146522522
+it manager|faculty data steward|False|0.32820191979408264
+it manager|funder|False|0.44305118918418884
+it manager|institutional data manager|False|0.35325193405151367
+it manager|institutional data steward|False|0.3851005434989929
+it manager|it manager|False|0.0
+it manager|it officer|False|0.4525647759437561
+it manager|it staff member|False|0.38629329204559326
+it manager|legalofficer|False|0.30005162954330444
+it manager|manager|False|0.6340065598487854
+it manager|metadata manager|False|0.35703665018081665
+it manager|pi|False|0.44554904103279114
+it manager|postgraduate convenor|False|0.46839597821235657
+it manager|rector|False|0.38677680492401123
+it manager|repository manager|False|0.39528781175613403
+it manager|repository operator|False|0.34505847096443176
+it manager|repository owner|False|0.42483773827552795
+it manager|research centre director|False|0.2821524739265442
+it manager|research evaluation manager|False|0.4636320471763611
+it manager|research head|False|0.4202158749103546
+it manager|research support officer|False|0.38336747884750366
+it manager|researcher|False|0.4236498773097992
+it manager|stakeholder|False|0.43672794103622437
+it officer|administrator|False|0.2935609519481659
+it officer|archive|False|0.22624249756336212
+it officer|archivemanager|False|0.2410467118024826
+it officer|data librarian|False|0.3308311104774475
+it officer|data manager|False|0.28354936838150024
+it officer|director of research integrity|False|0.35698720812797546
+it officer|ethic manager|False|0.34838515520095825
+it officer|faculty data steward|False|0.2913149297237396
+it officer|funder|False|0.38506147265434265
+it officer|institutional data manager|False|0.2959575355052948
+it officer|institutional data steward|False|0.38081037998199463
+it officer|it manager|False|0.40419134497642517
+it officer|it officer|False|0.0
+it officer|it staff member|False|0.34640440344810486
+it officer|legalofficer|False|0.46821901202201843
+it officer|manager|False|0.3575704097747803
+it officer|metadata manager|False|0.2749706506729126
+it officer|pi|False|0.3278311491012573
+it officer|postgraduate convenor|False|0.43544214963912964
+it officer|rector|False|0.40887901186943054
+it officer|repository manager|False|0.2921150326728821
+it officer|repository operator|False|0.33296582102775574
+it officer|repository owner|False|0.3234884440898895
+it officer|research centre director|False|0.25586381554603577
+it officer|research evaluation manager|False|0.3625630736351013
+it officer|research head|False|0.37752091884613037
+it officer|research support officer|False|0.4357227087020874
+it officer|researcher|False|0.32414448261260986
+it officer|stakeholder|False|0.3196597993373871
+it staff member|administrator|False|0.3721550405025482
+it staff member|archive|False|0.27801111340522766
+it staff member|archivemanager|False|0.2706523537635803
+it staff member|data librarian|False|0.36076635122299194
+it staff member|data manager|False|0.37795430421829224
+it staff member|director of research integrity|False|0.43532976508140564
+it staff member|ethic manager|False|0.3991657495498657
+it staff member|faculty data steward|False|0.3922332525253296
+it staff member|funder|False|0.3483882546424866
+it staff member|institutional data manager|False|0.35629406571388245
+it staff member|institutional data steward|False|0.40759462118148804
+it staff member|it manager|False|0.47332626581192017
+it staff member|it officer|False|0.424915075302124
+it staff member|it staff member|False|0.0
+it staff member|legalofficer|False|0.23414529860019684
+it staff member|manager|False|0.38923880457878113
+it staff member|metadata manager|False|0.36238566040992737
+it staff member|pi|False|0.29924532771110535
+it staff member|postgraduate convenor|False|0.3723753094673157
+it staff member|rector|False|0.30053409934043884
+it staff member|repository manager|False|0.3690277934074402
+it staff member|repository operator|False|0.33324486017227173
+it staff member|repository owner|False|0.3026311695575714
+it staff member|research centre director|False|0.25193727016448975
+it staff member|research evaluation manager|False|0.4270736277103424
+it staff member|research head|False|0.3694242537021637
+it staff member|research support officer|False|0.4666331708431244
+it staff member|researcher|False|0.4456116855144501
+it staff member|stakeholder|False|0.3096926510334015
+legalofficer|administrator|False|0.1832597702741623
+legalofficer|archive|False|0.11495378613471985
+legalofficer|archivemanager|False|0.11220058798789978
+legalofficer|data librarian|False|0.11620865762233734
+legalofficer|data manager|False|0.10235332697629929
+legalofficer|director of research integrity|False|0.24908488988876343
+legalofficer|ethic manager|False|0.158759206533432
+legalofficer|faculty data steward|False|0.17825883626937866
+legalofficer|funder|False|0.12696601450443268
+legalofficer|institutional data manager|False|0.12679307162761688
+legalofficer|institutional data steward|False|0.20901089906692505
+legalofficer|it manager|False|0.1559719443321228
+legalofficer|it officer|False|0.5023937821388245
+legalofficer|it staff member|False|0.15266643464565277
+legalofficer|legalofficer|False|0.0
+legalofficer|manager|False|0.14503028988838196
+legalofficer|metadata manager|False|0.1281680464744568
+legalofficer|pi|False|0.14869624376296997
+legalofficer|postgraduate convenor|False|0.33363959193229675
+legalofficer|rector|False|0.22254633903503418
+legalofficer|repository manager|False|0.13630378246307373
+legalofficer|repository operator|False|0.20729783177375793
+legalofficer|repository owner|False|0.133458212018013
+legalofficer|research centre director|False|0.12097066640853882
+legalofficer|research evaluation manager|False|0.13233596086502075
+legalofficer|research head|False|0.1514941155910492
+legalofficer|research support officer|False|0.18844005465507507
+legalofficer|researcher|False|0.15842537581920624
+legalofficer|stakeholder|False|0.19278331100940704
+manager|administrator|False|0.3376757502555847
+manager|archive|False|0.15118063986301422
+manager|archivemanager|False|0.39833804965019226
+manager|data librarian|False|0.2744140326976776
+manager|data manager|False|0.4085454046726227
+manager|director of research integrity|False|0.28237804770469666
+manager|ethic manager|False|0.47677555680274963
+manager|faculty data steward|False|0.24486884474754333
+manager|funder|False|0.3329385221004486
+manager|institutional data manager|False|0.37340253591537476
+manager|institutional data steward|False|0.302225798368454
+manager|it manager|False|0.762030839920044
+manager|it officer|False|0.24326667189598083
+manager|it staff member|False|0.26883986592292786
+manager|legalofficer|False|0.20332734286785126
+manager|manager|False|0.0
+manager|metadata manager|False|0.5386788249015808
+manager|pi|False|0.25306519865989685
+manager|postgraduate convenor|False|0.3776237368583679
+manager|rector|False|0.2841978669166565
+manager|repository manager|False|0.41115602850914
+manager|repository operator|False|0.20915815234184265
+manager|repository owner|False|0.23301371932029724
+manager|research centre director|False|0.1800249218940735
+manager|research evaluation manager|False|0.5393507480621338
+manager|research head|False|0.23645934462547302
+manager|research support officer|False|0.2330895960330963
+manager|researcher|False|0.19957411289215088
+manager|stakeholder|False|0.3412948250770569
+metadata manager|administrator|False|0.2581457197666168
+metadata manager|archive|False|0.25467902421951294
+metadata manager|archivemanager|False|0.30015474557876587
+metadata manager|data librarian|False|0.3643406927585602
+metadata manager|data manager|False|0.3009788990020752
+metadata manager|director of research integrity|False|0.3341163396835327
+metadata manager|ethic manager|False|0.29804670810699463
+metadata manager|faculty data steward|False|0.2912827730178833
+metadata manager|funder|False|0.31453409790992737
+metadata manager|institutional data manager|False|0.28394293785095215
+metadata manager|institutional data steward|False|0.33704113960266113
+metadata manager|it manager|False|0.3876965045928955
+metadata manager|it officer|False|0.2810943126678467
+metadata manager|it staff member|False|0.29185134172439575
+metadata manager|legalofficer|False|0.23902148008346558
+metadata manager|manager|False|0.48690998554229736
+metadata manager|metadata manager|False|0.0
+metadata manager|pi|False|0.46030887961387634
+metadata manager|postgraduate convenor|False|0.3339170217514038
+metadata manager|rector|False|0.3207695186138153
+metadata manager|repository manager|False|0.26548734307289124
+metadata manager|repository operator|False|0.17821399867534637
+metadata manager|repository owner|False|0.3039812743663788
+metadata manager|research centre director|False|0.21654561161994934
+metadata manager|research evaluation manager|False|0.31398770213127136
+metadata manager|research head|False|0.3067764341831207
+metadata manager|research support officer|False|0.30214303731918335
+metadata manager|researcher|False|0.32747289538383484
+metadata manager|stakeholder|False|0.3083689212799072
+pi|administrator|False|0.33917665481567383
+pi|archive|False|0.20839935541152954
+pi|archivemanager|False|0.26776325702667236
+pi|data librarian|False|0.3307952582836151
+pi|data manager|False|0.3218625485897064
+pi|director of research integrity|False|0.4136589467525482
+pi|ethic manager|False|0.31108206510543823
+pi|faculty data steward|False|0.3190441429615021
+pi|funder|False|0.3034433126449585
+pi|institutional data manager|False|0.31881803274154663
+pi|institutional data steward|False|0.31548812985420227
+pi|it manager|False|0.35882723331451416
+pi|it officer|False|0.32762518525123596
+pi|it staff member|False|0.3213576376438141
+pi|legalofficer|False|0.25296592712402344
+pi|manager|False|0.3398522734642029
+pi|metadata manager|False|0.3389204442501068
+pi|pi|False|0.0
+pi|postgraduate convenor|False|0.34225067496299744
+pi|rector|False|0.28065192699432373
+pi|repository manager|False|0.3211729824542999
+pi|repository operator|False|0.3433217406272888
+pi|repository owner|False|0.3587365746498108
+pi|research centre director|False|0.30678635835647583
+pi|research evaluation manager|False|0.41609105467796326
+pi|research head|False|0.3333168029785156
+pi|research support officer|False|0.4024125635623932
+pi|researcher|False|0.36467134952545166
+pi|stakeholder|False|0.341301292181015
+postgraduate convenor|administrator|False|0.23435288667678833
+postgraduate convenor|archive|False|0.17103759944438934
+postgraduate convenor|archivemanager|False|0.1843128204345703
+postgraduate convenor|data librarian|False|0.29718902707099915
+postgraduate convenor|data manager|False|0.22232888638973236
+postgraduate convenor|director of research integrity|False|0.33257922530174255
+postgraduate convenor|ethic manager|False|0.24827656149864197
+postgraduate convenor|faculty data steward|False|0.31943753361701965
+postgraduate convenor|funder|False|0.2961066663265228
+postgraduate convenor|institutional data manager|False|0.23099872469902039
+postgraduate convenor|institutional data steward|False|0.2971585690975189
+postgraduate convenor|it manager|False|0.22077982127666473
+postgraduate convenor|it officer|False|0.19561763107776642
+postgraduate convenor|it staff member|False|0.19387023150920868
+postgraduate convenor|legalofficer|False|0.20112580060958862
+postgraduate convenor|manager|False|0.21822263300418854
+postgraduate convenor|metadata manager|False|0.22193454205989838
+postgraduate convenor|pi|False|0.20896001160144806
+postgraduate convenor|postgraduate convenor|False|0.0
+postgraduate convenor|rector|False|0.27016159892082214
+postgraduate convenor|repository manager|False|0.20771728456020355
+postgraduate convenor|repository operator|False|0.19261935353279114
+postgraduate convenor|repository owner|False|0.208312526345253
+postgraduate convenor|research centre director|False|0.19139781594276428
+postgraduate convenor|research evaluation manager|False|0.3100450038909912
+postgraduate convenor|research head|False|0.2895602881908417
+postgraduate convenor|research support officer|False|0.35731834173202515
+postgraduate convenor|researcher|False|0.32573220133781433
+postgraduate convenor|stakeholder|False|0.20922495424747467
+rector|administrator|False|0.3024422228336334
+rector|archive|False|0.16300348937511444
+rector|archivemanager|False|0.20682162046432495
+rector|data librarian|False|0.33049365878105164
+rector|data manager|False|0.28484538197517395
+rector|director of research integrity|False|0.32498830556869507
+rector|ethic manager|False|0.31095147132873535
+rector|faculty data steward|False|0.36975640058517456
+rector|funder|False|0.3223319947719574
+rector|institutional data manager|False|0.3013248145580292
+rector|institutional data steward|False|0.3452436029911041
+rector|it manager|False|0.28506219387054443
+rector|it officer|False|0.35670191049575806
+rector|it staff member|False|0.2805624008178711
+rector|legalofficer|False|0.3394526243209839
+rector|manager|False|0.30573996901512146
+rector|metadata manager|False|0.26243966817855835
+rector|pi|False|0.24098648130893707
+rector|postgraduate convenor|False|0.41343873739242554
+rector|rector|False|0.0
+rector|repository manager|False|0.2817714512348175
+rector|repository operator|False|0.2853890657424927
+rector|repository owner|False|0.3115423619747162
+rector|research centre director|False|0.30956026911735535
+rector|research evaluation manager|False|0.378598153591156
+rector|research head|False|0.36337044835090637
+rector|research support officer|False|0.3673463761806488
+rector|researcher|False|0.40415680408477783
+rector|stakeholder|False|0.25396493077278137
+repository manager|administrator|False|0.23144014179706573
+repository manager|archive|False|0.3401142954826355
+repository manager|archivemanager|False|0.38421952724456787
+repository manager|data librarian|False|0.354584664106369
+repository manager|data manager|False|0.3148775100708008
+repository manager|director of research integrity|False|0.29282915592193604
+repository manager|ethic manager|False|0.30100321769714355
+repository manager|faculty data steward|False|0.2901429533958435
+repository manager|funder|False|0.34021374583244324
+repository manager|institutional data manager|False|0.3086172640323639
+repository manager|institutional data steward|False|0.3540949821472168
+repository manager|it manager|False|0.37227752804756165
+repository manager|it officer|False|0.20989331603050232
+repository manager|it staff member|False|0.18137000501155853
+repository manager|legalofficer|False|0.17152677476406097
+repository manager|manager|False|0.37231287360191345
+repository manager|metadata manager|False|0.26912200450897217
+repository manager|pi|False|0.28184229135513306
+repository manager|postgraduate convenor|False|0.35241085290908813
+repository manager|rector|False|0.2555134892463684
+repository manager|repository manager|False|0.0
+repository manager|repository operator|False|0.4176802933216095
+repository manager|repository owner|False|0.5018055438995361
+repository manager|research centre director|False|0.19163234531879425
+repository manager|research evaluation manager|False|0.30739811062812805
+repository manager|research head|False|0.2720910310745239
+repository manager|research support officer|False|0.32380667328834534
+repository manager|researcher|False|0.22787818312644958
+repository manager|stakeholder|False|0.24128113687038422
+repository operator|administrator|False|0.24693594872951508
+repository operator|archive|False|0.37224292755126953
+repository operator|archivemanager|False|0.3575937747955322
+repository operator|data librarian|False|0.41123902797698975
+repository operator|data manager|False|0.3379752039909363
+repository operator|director of research integrity|False|0.38670071959495544
+repository operator|ethic manager|False|0.30103573203086853
+repository operator|faculty data steward|False|0.29777199029922485
+repository operator|funder|False|0.44802066683769226
+repository operator|institutional data manager|False|0.310142457485199
+repository operator|institutional data steward|False|0.34898096323013306
+repository operator|it manager|False|0.35193634033203125
+repository operator|it officer|False|0.3241368532180786
+repository operator|it staff member|False|0.19378167390823364
+repository operator|legalofficer|False|0.22476673126220703
+repository operator|manager|False|0.3241621255874634
+repository operator|metadata manager|False|0.3135686218738556
+repository operator|pi|False|0.24772760272026062
+repository operator|postgraduate convenor|False|0.42168691754341125
+repository operator|rector|False|0.37486007809638977
+repository operator|repository manager|False|0.5940316915512085
+repository operator|repository operator|False|0.0
+repository operator|repository owner|False|0.5895185470581055
+repository operator|research centre director|False|0.21857154369354248
+repository operator|research evaluation manager|False|0.29079779982566833
+repository operator|research head|False|0.33725500106811523
+repository operator|research support officer|False|0.3518090546131134
+repository operator|researcher|False|0.3414965271949768
+repository operator|stakeholder|False|0.315045028924942
+repository owner|administrator|False|0.32221662998199463
+repository owner|archive|False|0.289049357175827
+repository owner|archivemanager|False|0.3343963027000427
+repository owner|data librarian|False|0.42944732308387756
+repository owner|data manager|False|0.31083086133003235
+repository owner|director of research integrity|False|0.3663646876811981
+repository owner|ethic manager|False|0.2551250159740448
+repository owner|faculty data steward|False|0.28718775510787964
+repository owner|funder|False|0.41423657536506653
+repository owner|institutional data manager|False|0.2733539938926697
+repository owner|institutional data steward|False|0.35963526368141174
+repository owner|it manager|False|0.31551456451416016
+repository owner|it officer|False|0.22363273799419403
+repository owner|it staff member|False|0.16598641872406006
+repository owner|legalofficer|False|0.16677045822143555
+repository owner|manager|False|0.26108643412590027
+repository owner|metadata manager|False|0.29470449686050415
+repository owner|pi|False|0.2420574426651001
+repository owner|postgraduate convenor|False|0.4303162693977356
+repository owner|rector|False|0.28810253739356995
+repository owner|repository manager|False|0.5417335033416748
+repository owner|repository operator|False|0.4999110698699951
+repository owner|repository owner|False|0.0
+repository owner|research centre director|False|0.22776393592357635
+repository owner|research evaluation manager|False|0.30098995566368103
+repository owner|research head|False|0.2507796287536621
+repository owner|research support officer|False|0.32221946120262146
+repository owner|researcher|False|0.2845029830932617
+repository owner|stakeholder|False|0.25684183835983276
+research centre director|administrator|False|0.23035359382629395
+research centre director|archive|False|0.22781434655189514
+research centre director|archivemanager|False|0.2165146768093109
+research centre director|data librarian|False|0.33543407917022705
+research centre director|data manager|False|0.24628856778144836
+research centre director|director of research integrity|False|0.5707253217697144
+research centre director|ethic manager|False|0.2530875504016876
+research centre director|faculty data steward|False|0.3334472179412842
+research centre director|funder|False|0.32452595233917236
+research centre director|institutional data manager|False|0.2749152183532715
+research centre director|institutional data steward|False|0.36028018593788147
+research centre director|it manager|False|0.27296024560928345
+research centre director|it officer|False|0.17633113265037537
+research centre director|it staff member|False|0.2781723439693451
+research centre director|legalofficer|False|0.11605916917324066
+research centre director|manager|False|0.23373453319072723
+research centre director|metadata manager|False|0.2144831418991089
+research centre director|pi|False|0.24110352993011475
+research centre director|postgraduate convenor|False|0.433757483959198
+research centre director|rector|False|0.2930348217487335
+research centre director|repository manager|False|0.24054819345474243
+research centre director|repository operator|False|0.2054113894701004
+research centre director|repository owner|False|0.2280743569135666
+research centre director|research centre director|False|0.0
+research centre director|research evaluation manager|False|0.4560035765171051
+research centre director|research head|False|0.4693714380264282
+research centre director|research support officer|False|0.439954549074173
+research centre director|researcher|False|0.4367089867591858
+research centre director|stakeholder|False|0.2875058352947235
+research evaluation manager|administrator|False|0.2066989541053772
+research evaluation manager|archive|False|0.22536730766296387
+research evaluation manager|archivemanager|False|0.2599771320819855
+research evaluation manager|data librarian|False|0.3119509220123291
+research evaluation manager|data manager|False|0.3403363525867462
+research evaluation manager|director of research integrity|False|0.3895789086818695
+research evaluation manager|ethic manager|False|0.30833008885383606
+research evaluation manager|faculty data steward|False|0.2744615375995636
+research evaluation manager|funder|False|0.3001629412174225
+research evaluation manager|institutional data manager|False|0.30021825432777405
+research evaluation manager|institutional data steward|False|0.3192593455314636
+research evaluation manager|it manager|False|0.3967004120349884
+research evaluation manager|it officer|False|0.1928928941488266
+research evaluation manager|it staff member|False|0.2324807047843933
+research evaluation manager|legalofficer|False|0.12204180657863617
+research evaluation manager|manager|False|0.4279106855392456
+research evaluation manager|metadata manager|False|0.24724999070167542
+research evaluation manager|pi|False|0.23574595153331757
+research evaluation manager|postgraduate convenor|False|0.38687604665756226
+research evaluation manager|rector|False|0.2685820162296295
+research evaluation manager|repository manager|False|0.2812391221523285
+research evaluation manager|repository operator|False|0.21279820799827576
+research evaluation manager|repository owner|False|0.2465832233428955
+research evaluation manager|research centre director|False|0.29020023345947266
+research evaluation manager|research evaluation manager|False|0.0
+research evaluation manager|research head|False|0.46947431564331055
+research evaluation manager|research support officer|False|0.4526883065700531
+research evaluation manager|researcher|False|0.47037702798843384
+research evaluation manager|stakeholder|False|0.28561127185821533
+research head|administrator|False|0.15464793145656586
+research head|archive|False|0.22185315191745758
+research head|archivemanager|False|0.1936543732881546
+research head|data librarian|False|0.4048820734024048
+research head|data manager|False|0.24322092533111572
+research head|director of research integrity|False|0.4708528220653534
+research head|ethic manager|False|0.22873128950595856
+research head|faculty data steward|False|0.2884208858013153
+research head|funder|False|0.2885868549346924
+research head|institutional data manager|False|0.2555369734764099
+research head|institutional data steward|False|0.3268899619579315
+research head|it manager|False|0.2401769906282425
+research head|it officer|False|0.25244778394699097
+research head|it staff member|False|0.209923654794693
+research head|legalofficer|False|0.15021486580371857
+research head|manager|False|0.2151719331741333
+research head|metadata manager|False|0.21699875593185425
+research head|pi|False|0.27211952209472656
+research head|postgraduate convenor|False|0.39112165570259094
+research head|rector|False|0.296042799949646
+research head|repository manager|False|0.21711795032024384
+research head|repository operator|False|0.21509601175785065
+research head|repository owner|False|0.24795031547546387
+research head|research centre director|False|0.38745442032814026
+research head|research evaluation manager|False|0.45425865054130554
+research head|research head|False|0.0
+research head|research support officer|False|0.4258236885070801
+research head|researcher|False|0.6007375121116638
+research head|stakeholder|False|0.22170938551425934
+research support officer|administrator|False|0.17849557101726532
+research support officer|archive|False|0.21134358644485474
+research support officer|archivemanager|False|0.2162727564573288
+research support officer|data librarian|False|0.35972172021865845
+research support officer|data manager|False|0.22040171921253204
+research support officer|director of research integrity|False|0.38075247406959534
+research support officer|ethic manager|False|0.21918533742427826
+research support officer|faculty data steward|False|0.28964802622795105
+research support officer|funder|False|0.35025492310523987
+research support officer|institutional data manager|False|0.22979645431041718
+research support officer|institutional data steward|False|0.3339218199253082
+research support officer|it manager|False|0.14568515121936798
+research support officer|it officer|False|0.3666820526123047
+research support officer|it staff member|False|0.23211300373077393
+research support officer|legalofficer|False|0.1304134875535965
+research support officer|manager|False|0.1639539748430252
+research support officer|metadata manager|False|0.1567632108926773
+research support officer|pi|False|0.20887574553489685
+research support officer|postgraduate convenor|False|0.3848966360092163
+research support officer|rector|False|0.2416965514421463
+research support officer|repository manager|False|0.22735066711902618
+research support officer|repository operator|False|0.16635820269584656
+research support officer|repository owner|False|0.2137991040945053
+research support officer|research centre director|False|0.258651465177536
+research support officer|research evaluation manager|False|0.38452887535095215
+research support officer|research head|False|0.4195716381072998
+research support officer|research support officer|False|0.0
+research support officer|researcher|False|0.5383877754211426
+research support officer|stakeholder|False|0.30491119623184204
+researcher|administrator|False|0.2539216876029968
+researcher|archive|False|0.3097895681858063
+researcher|archivemanager|False|0.3441290259361267
+researcher|data librarian|False|0.44146135449409485
+researcher|data manager|False|0.2810361087322235
+researcher|director of research integrity|False|0.4901292026042938
+researcher|ethic manager|False|0.3879404067993164
+researcher|faculty data steward|False|0.343903511762619
+researcher|funder|False|0.4177221357822418
+researcher|institutional data manager|False|0.28979891538619995
+researcher|institutional data steward|False|0.3411809206008911
+researcher|it manager|False|0.3529294431209564
+researcher|it officer|False|0.3666123151779175
+researcher|it staff member|False|0.25154805183410645
+researcher|legalofficer|False|0.2777346670627594
+researcher|manager|False|0.35802552103996277
+researcher|metadata manager|False|0.3016866445541382
+researcher|pi|False|0.3457871675491333
+researcher|postgraduate convenor|False|0.4510055482387543
+researcher|rector|False|0.3836537301540375
+researcher|repository manager|False|0.30209243297576904
+researcher|repository operator|False|0.27254006266593933
+researcher|repository owner|False|0.3407384157180786
+researcher|research centre director|False|0.4276120066642761
+researcher|research evaluation manager|False|0.5135934352874756
+researcher|research head|False|0.5793926119804382
+researcher|research support officer|False|0.5328056216239929
+researcher|researcher|False|0.0
+researcher|stakeholder|False|0.29352790117263794
+stakeholder|administrator|False|0.32134389877319336
+stakeholder|archive|False|0.1953241378068924
+stakeholder|archivemanager|False|0.22752338647842407
+stakeholder|data librarian|False|0.3807113766670227
+stakeholder|data manager|False|0.3303515613079071
+stakeholder|director of research integrity|False|0.39767974615097046
+stakeholder|ethic manager|False|0.34075483679771423
+stakeholder|faculty data steward|False|0.36656278371810913
+stakeholder|funder|False|0.34326231479644775
+stakeholder|institutional data manager|False|0.3216892182826996
+stakeholder|institutional data steward|False|0.35739511251449585
+stakeholder|it manager|False|0.4152217507362366
+stakeholder|it officer|False|0.30023470520973206
+stakeholder|it staff member|False|0.23714272677898407
+stakeholder|legalofficer|False|0.21757622063159943
+stakeholder|manager|False|0.3434828817844391
+stakeholder|metadata manager|False|0.3421308994293213
+stakeholder|pi|False|0.5164881348609924
+stakeholder|postgraduate convenor|False|0.4336806535720825
+stakeholder|rector|False|0.3042711019515991
+stakeholder|repository manager|False|0.34382373094558716
+stakeholder|repository operator|False|0.3348411023616791
+stakeholder|repository owner|False|0.3512206971645355
+stakeholder|research centre director|False|0.29460328817367554
+stakeholder|research evaluation manager|False|0.4368782341480255
+stakeholder|research head|False|0.3203886151313782
+stakeholder|research support officer|False|0.38209569454193115
+stakeholder|researcher|False|0.38539886474609375
+stakeholder|stakeholder|False|0.0

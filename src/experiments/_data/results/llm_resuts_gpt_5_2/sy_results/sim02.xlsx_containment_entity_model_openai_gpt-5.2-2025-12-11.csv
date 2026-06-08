@@ -1,0 +1,110 @@
+appointment|role of another user|false
+appointment|user|true
+appointment|meeting|true
+appointment|project|false
+appointment|status of project|false
+appointment|type of appointment|true
+appointment|developer|true
+appointment|deadline|true
+appointment|files|true
+appointment|data|true
+data|role of another user|true
+data|user|false
+data|appointment|false
+data|meeting|false
+data|project|false
+data|status of project|false
+data|type of appointment|false
+data|developer|false
+data|deadline|false
+data|files|true
+deadline|role of another user|false
+deadline|user|false
+deadline|appointment|false
+deadline|meeting|false
+deadline|project|false
+deadline|status of project|True
+deadline|type of appointment|True
+deadline|developer|false
+deadline|files|false
+deadline|data|false
+developer|role of another user|true
+developer|user|false
+developer|appointment|true
+developer|meeting|true
+developer|project|true
+developer|status of project|false
+developer|type of appointment|false
+developer|deadline|false
+developer|files|False
+developer|data|False
+files|role of another user|true
+files|user|true
+files|appointment|true
+files|meeting|true
+files|project|true
+files|status of project|true
+files|type of appointment|true
+files|developer|false
+files|deadline|false
+files|data|true
+meeting|role of another user|false
+meeting|user|true
+meeting|appointment|true
+meeting|project|false
+meeting|status of project|false
+meeting|type of appointment|true
+meeting|developer|false
+meeting|deadline|false
+meeting|files|true
+meeting|data|true
+project|role of another user|true
+project|user|true
+project|appointment|true
+project|meeting|true
+project|status of project|true
+project|type of appointment|true
+project|developer|true
+project|deadline|true
+project|files|true
+project|data|true
+role of another user|user|false
+role of another user|appointment|false
+role of another user|meeting|false
+role of another user|project|false
+role of another user|status of project|false
+role of another user|type of appointment|false
+role of another user|developer|false
+role of another user|deadline|false
+role of another user|files|false
+role of another user|data|false
+status of project|role of another user|false
+status of project|user|false
+status of project|appointment|false
+status of project|meeting|false
+status of project|project|false
+status of project|type of appointment|false
+status of project|developer|false
+status of project|deadline|True
+status of project|files|false
+status of project|data|false
+type of appointment|role of another user|false
+type of appointment|user|false
+type of appointment|appointment|false
+type of appointment|meeting|false
+type of appointment|project|false
+type of appointment|status of project|false
+type of appointment|developer|false
+type of appointment|deadline|true
+type of appointment|files|false
+type of appointment|data|false
+user|role of another user|true
+user|appointment|true
+user|meeting|true
+user|project|true
+user|status of project|false
+user|type of appointment|false
+user|developer|false
+user|deadline|true
+user|files|true
+user|data|true

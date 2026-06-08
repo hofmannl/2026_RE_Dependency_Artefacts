@@ -1,0 +1,1445 @@
+Entity 1 | Entity 2 | Result | Score 
+all dataset instance|all dataset instance|False|0.0
+all dataset instance|app|False|0.20423464477062225
+all dataset instance|application creation|False|0.18240931630134583
+all dataset instance|application redeployment|False|0.12474212050437927
+all dataset instance|archetype|False|0.2447265237569809
+all dataset instance|code|False|0.25913670659065247
+all dataset instance|custom administrative operation|False|0.17057785391807556
+all dataset instance|custom dataset type|False|0.21639060974121094
+all dataset instance|dataset|False|0.24534061551094055
+all dataset instance|dataset configuration|False|0.3371492028236389
+all dataset instance|dataset creation|False|0.2046622633934021
+all dataset instance|dataset instance|False|0.27654483914375305
+all dataset instance|dataset instance of a type|False|0.4155595600605011
+all dataset instance|dataset of that type|False|0.3381740152835846
+all dataset instance|dataset reconfiguration|False|0.21580569446086884
+all dataset instance|dataset type|False|0.3251742124557495
+all dataset instance|dataset type independent|False|0.1365988850593567
+all dataset instance|default|False|0.20686987042427063
+all dataset instance|exist dataset|False|0.21413910388946533
+all dataset instance|explicit version|False|0.25333431363105774
+all dataset instance|explore|False|0.25610458850860596
+all dataset instance|explore schema|False|0.27749308943748474
+all dataset instance|implementation|False|0.2724863886833191
+all dataset instance|interface|False|0.28376325964927673
+all dataset instance|meaningful error message|False|0.1168745681643486
+all dataset instance|migration process|False|0.15481272339820862
+all dataset instance|new version|False|0.19610285758972168
+all dataset instance|option|False|0.3550589382648468
+all dataset instance|outdated version|False|0.04459084942936897
+all dataset instance|pipeline|False|0.1892617791891098
+all dataset instance|property|False|0.33013224601745605
+all dataset instance|schema|False|0.31583353877067566
+all dataset instance|single property|False|0.09415280818939209
+all dataset instance|system|False|0.28901469707489014
+all dataset instance|time - to - live|False|0.16097721457481384
+all dataset instance|unit test|False|0.20202931761741638
+all dataset instance|value|False|0.3528173267841339
+all dataset instance|way|False|0.3885297179222107
+app|all dataset instance|False|0.20611996948719025
+app|app|False|0.0
+app|application creation|False|0.337140291929245
+app|application redeployment|False|0.31659796833992004
+app|archetype|False|0.35949233174324036
+app|code|False|0.30530303716659546
+app|custom administrative operation|False|0.267487496137619
+app|custom dataset type|False|0.2507512867450714
+app|dataset|False|0.26075950264930725
+app|dataset configuration|False|0.3012751042842865
+app|dataset creation|False|0.26366621255874634
+app|dataset instance|False|0.2740135192871094
+app|dataset instance of a type|False|0.4248463213443756
+app|dataset of that type|False|0.3696902096271515
+app|dataset reconfiguration|False|0.24784284830093384
+app|dataset type|False|0.30956587195396423
+app|dataset type independent|False|0.20051731169223785
+app|default|False|0.4006749391555786
+app|exist dataset|False|0.2757885754108429
+app|explicit version|False|0.43728193640708923
+app|explore|False|0.41384872794151306
+app|explore schema|False|0.4412780702114105
+app|implementation|False|0.3414624333381653
+app|interface|False|0.44913384318351746
+app|meaningful error message|False|0.22659794986248016
+app|migration process|False|0.25842422246932983
+app|new version|False|0.2934056222438812
+app|option|True|0.5235955119132996
+app|outdated version|False|0.09092850983142853
+app|pipeline|False|0.29401224851608276
+app|property|True|0.5236424207687378
+app|schema|False|0.415894091129303
+app|single property|False|0.18242177367210388
+app|system|False|0.4597570300102234
+app|time - to - live|False|0.2421577274799347
+app|unit test|False|0.28406623005867004
+app|value|False|0.4318915903568268
+app|way|False|0.38764384388923645
+application creation|all dataset instance|False|0.18506041169166565
+application creation|app|False|0.31868138909339905
+application creation|application creation|False|0.0
+application creation|application redeployment|False|0.17779012024402618
+application creation|archetype|False|0.49512508511543274
+application creation|code|False|0.3374539613723755
+application creation|custom administrative operation|False|0.2760095000267029
+application creation|custom dataset type|False|0.2695998549461365
+application creation|dataset|False|0.3559538722038269
+application creation|dataset configuration|False|0.3806019127368927
+application creation|dataset creation|False|0.20519687235355377
+application creation|dataset instance|False|0.27008962631225586
+application creation|dataset instance of a type|False|0.3832743763923645
+application creation|dataset of that type|False|0.31664788722991943
+application creation|dataset reconfiguration|False|0.2672503590583801
+application creation|dataset type|False|0.3252687454223633
+application creation|dataset type independent|False|0.17292867600917816
+application creation|default|False|0.2237602174282074
+application creation|exist dataset|False|0.49198806285858154
+application creation|explicit version|True|0.5310080051422119
+application creation|explore|False|0.3494575619697571
+application creation|explore schema|False|0.4939430058002472
+application creation|implementation|False|0.3246770203113556
+application creation|interface|True|0.5539147257804871
+application creation|meaningful error message|False|0.1991405487060547
+application creation|migration process|False|0.21431796252727509
+application creation|new version|False|0.23115390539169312
+application creation|option|True|0.6691854596138
+application creation|outdated version|False|0.08512235432863235
+application creation|pipeline|False|0.3929760754108429
+application creation|property|True|0.6297115087509155
+application creation|schema|True|0.504159688949585
+application creation|single property|False|0.2071700245141983
+application creation|system|True|0.5712763667106628
+application creation|time - to - live|False|0.22755007445812225
+application creation|unit test|False|0.2505985498428345
+application creation|value|True|0.6223558783531189
+application creation|way|True|0.5451759696006775
+application redeployment|all dataset instance|False|0.14876027405261993
+application redeployment|app|False|0.2388256937265396
+application redeployment|application creation|False|0.19507691264152527
+application redeployment|application redeployment|False|0.0
+application redeployment|archetype|False|0.33564919233322144
+application redeployment|code|False|0.36284366250038147
+application redeployment|custom administrative operation|False|0.253607839345932
+application redeployment|custom dataset type|False|0.21936705708503723
+application redeployment|dataset|False|0.25410619378089905
+application redeployment|dataset configuration|False|0.22454290091991425
+application redeployment|dataset creation|False|0.1596989780664444
+application redeployment|dataset instance|False|0.2500630021095276
+application redeployment|dataset instance of a type|False|0.31823864579200745
+application redeployment|dataset of that type|False|0.25989001989364624
+application redeployment|dataset reconfiguration|False|0.236316978931427
+application redeployment|dataset type|False|0.26224562525749207
+application redeployment|dataset type independent|False|0.13975419104099274
+application redeployment|default|False|0.1655896008014679
+application redeployment|exist dataset|False|0.2812234163284302
+application redeployment|explicit version|False|0.2645343244075775
+application redeployment|explore|False|0.34081563353538513
+application redeployment|explore schema|False|0.33579012751579285
+application redeployment|implementation|False|0.23780223727226257
+application redeployment|interface|False|0.3342779576778412
+application redeployment|meaningful error message|False|0.19253383576869965
+application redeployment|migration process|False|0.25909167528152466
+application redeployment|new version|False|0.21244461834430695
+application redeployment|option|False|0.4078996479511261
+application redeployment|outdated version|False|0.11182108521461487
+application redeployment|pipeline|False|0.2157670259475708
+application redeployment|property|False|0.38245561718940735
+application redeployment|schema|False|0.42815548181533813
+application redeployment|single property|False|0.11990778148174286
+application redeployment|system|True|0.5111413598060608
+application redeployment|time - to - live|False|0.20866048336029053
+application redeployment|unit test|False|0.1737256646156311
+application redeployment|value|False|0.4058883786201477
+application redeployment|way|True|0.5500626564025879
+archetype|all dataset instance|False|0.218499094247818
+archetype|app|False|0.36016225814819336
+archetype|application creation|False|0.29261279106140137
+archetype|application redeployment|False|0.2620030343532562
+archetype|archetype|False|0.0
+archetype|code|True|0.6318805813789368
+archetype|custom administrative operation|False|0.33139562606811523
+archetype|custom dataset type|False|0.2861381769180298
+archetype|dataset|False|0.4941088557243347
+archetype|dataset configuration|True|0.5345950722694397
+archetype|dataset creation|False|0.39728865027427673
+archetype|dataset instance|False|0.4599555730819702
+archetype|dataset instance of a type|False|0.47666075825691223
+archetype|dataset of that type|True|0.536880612373352
+archetype|dataset reconfiguration|False|0.46067342162132263
+archetype|dataset type|False|0.4634392559528351
+archetype|dataset type independent|False|0.22279340028762817
+archetype|default|False|0.34019404649734497
+archetype|exist dataset|False|0.47909897565841675
+archetype|explicit version|True|0.5424879789352417
+archetype|explore|False|0.4919280707836151
+archetype|explore schema|False|0.4957561492919922
+archetype|implementation|True|0.5357863306999207
+archetype|interface|True|0.5677077770233154
+archetype|meaningful error message|False|0.16194720566272736
+archetype|migration process|False|0.22772149741649628
+archetype|new version|False|0.300199419260025
+archetype|option|True|0.6565387845039368
+archetype|outdated version|False|0.0981205403804779
+archetype|pipeline|False|0.374114990234375
+archetype|property|True|0.573715329170227
+archetype|schema|True|0.5378451943397522
+archetype|single property|False|0.2837991416454315
+archetype|system|True|0.5557976961135864
+archetype|time - to - live|False|0.1977110207080841
+archetype|unit test|False|0.35720136761665344
+archetype|value|True|0.587928056716919
+archetype|way|True|0.6535061001777649
+code|all dataset instance|False|0.3022165596485138
+code|app|False|0.3747464716434479
+code|application creation|False|0.3598462641239166
+code|application redeployment|False|0.23619970679283142
+code|archetype|True|0.5798444151878357
+code|code|False|0.0
+code|custom administrative operation|False|0.43312209844589233
+code|custom dataset type|False|0.35415118932724
+code|dataset|False|0.4049201011657715
+code|dataset configuration|False|0.45338088274002075
+code|dataset creation|False|0.32334381341934204
+code|dataset instance|False|0.43487825989723206
+code|dataset instance of a type|False|0.4617866277694702
+code|dataset of that type|False|0.3495776057243347
+code|dataset reconfiguration|False|0.3773980736732483
+code|dataset type|False|0.36414074897766113
+code|dataset type independent|False|0.25065547227859497
+code|default|False|0.47241726517677307
+code|exist dataset|False|0.4846763610839844
+code|explicit version|True|0.5074323415756226
+code|explore|False|0.4003223478794098
+code|explore schema|True|0.5515908002853394
+code|implementation|False|0.47530749440193176
+code|interface|True|0.5334117412567139
+code|meaningful error message|False|0.3053264021873474
+code|migration process|False|0.3477252125740051
+code|new version|False|0.391062468290329
+code|option|True|0.6855911612510681
+code|outdated version|False|0.16843917965888977
+code|pipeline|False|0.41746756434440613
+code|property|True|0.6765539050102234
+code|schema|True|0.5701670050621033
+code|single property|True|0.5348595380783081
+code|system|True|0.5866319537162781
+code|time - to - live|False|0.24933984875679016
+code|unit test|False|0.33940649032592773
+code|value|True|0.5492010712623596
+code|way|True|0.8685870170593262
+custom administrative operation|all dataset instance|False|0.19676414132118225
+custom administrative operation|app|True|0.5007187724113464
+custom administrative operation|application creation|False|0.3516559600830078
+custom administrative operation|application redeployment|False|0.22899343073368073
+custom administrative operation|archetype|True|0.7037051916122437
+custom administrative operation|code|True|0.6608194708824158
+custom administrative operation|custom administrative operation|False|0.0
+custom administrative operation|custom dataset type|False|0.27968424558639526
+custom administrative operation|dataset|True|0.5801248550415039
+custom administrative operation|dataset configuration|True|0.5678712129592896
+custom administrative operation|dataset creation|False|0.3315514326095581
+custom administrative operation|dataset instance|False|0.37878847122192383
+custom administrative operation|dataset instance of a type|False|0.38976919651031494
+custom administrative operation|dataset of that type|False|0.36038288474082947
+custom administrative operation|dataset reconfiguration|False|0.4313627779483795
+custom administrative operation|dataset type|False|0.3944024443626404
+custom administrative operation|dataset type independent|False|0.13070037961006165
+custom administrative operation|default|False|0.284619003534317
+custom administrative operation|exist dataset|True|0.6345342993736267
+custom administrative operation|explicit version|True|0.7939180135726929
+custom administrative operation|explore|True|0.5611270666122437
+custom administrative operation|explore schema|True|0.603691577911377
+custom administrative operation|implementation|True|0.6287800073623657
+custom administrative operation|interface|True|0.8059226870536804
+custom administrative operation|meaningful error message|False|0.23656520247459412
+custom administrative operation|migration process|False|0.34271302819252014
+custom administrative operation|new version|False|0.386379212141037
+custom administrative operation|option|True|0.845606803894043
+custom administrative operation|outdated version|False|0.2081470489501953
+custom administrative operation|pipeline|True|0.5739635825157166
+custom administrative operation|property|True|0.7808954119682312
+custom administrative operation|schema|True|0.7518885135650635
+custom administrative operation|single property|False|0.23627439141273499
+custom administrative operation|system|True|0.7650065422058105
+custom administrative operation|time - to - live|False|0.19864751398563385
+custom administrative operation|unit test|False|0.2781350910663605
+custom administrative operation|value|True|0.7649499177932739
+custom administrative operation|way|True|0.7833706140518188
+custom dataset type|all dataset instance|False|0.29150041937828064
+custom dataset type|app|False|0.4055788815021515
+custom dataset type|application creation|False|0.31837448477745056
+custom dataset type|application redeployment|False|0.2501524090766907
+custom dataset type|archetype|False|0.45617035031318665
+custom dataset type|code|False|0.3765338361263275
+custom dataset type|custom administrative operation|False|0.3303692936897278
+custom dataset type|custom dataset type|False|0.0
+custom dataset type|dataset|True|0.5422747135162354
+custom dataset type|dataset configuration|True|0.6402131915092468
+custom dataset type|dataset creation|False|0.35412535071372986
+custom dataset type|dataset instance|True|0.6291249394416809
+custom dataset type|dataset instance of a type|True|0.5655088424682617
+custom dataset type|dataset of that type|False|0.3955462872982025
+custom dataset type|dataset reconfiguration|False|0.480856716632843
+custom dataset type|dataset type|True|0.6175634860992432
+custom dataset type|dataset type independent|False|0.23526066541671753
+custom dataset type|default|False|0.20452237129211426
+custom dataset type|exist dataset|False|0.4687119722366333
+custom dataset type|explicit version|False|0.43794184923171997
+custom dataset type|explore|False|0.4203839600086212
+custom dataset type|explore schema|False|0.34552687406539917
+custom dataset type|implementation|False|0.40421628952026367
+custom dataset type|interface|False|0.3986518979072571
+custom dataset type|meaningful error message|False|0.28763332962989807
+custom dataset type|migration process|False|0.2328457087278366
+custom dataset type|new version|False|0.21947437524795532
+custom dataset type|option|True|0.5627123117446899
+custom dataset type|outdated version|False|0.07616535574197769
+custom dataset type|pipeline|False|0.331454873085022
+custom dataset type|property|True|0.6425970196723938
+custom dataset type|schema|False|0.4178740084171295
+custom dataset type|single property|False|0.1967829167842865
+custom dataset type|system|False|0.48796913027763367
+custom dataset type|time - to - live|False|0.3367798626422882
+custom dataset type|unit test|False|0.3335575461387634
+custom dataset type|value|False|0.4839390516281128
+custom dataset type|way|True|0.5608533024787903
+dataset|all dataset instance|False|0.36216795444488525
+dataset|app|False|0.3221417963504791
+dataset|application creation|False|0.3592868447303772
+dataset|application redeployment|False|0.24568738043308258
+dataset|archetype|False|0.4835682511329651
+dataset|code|False|0.4480907618999481
+dataset|custom administrative operation|False|0.4269932210445404
+dataset|custom dataset type|False|0.33066633343696594
+dataset|dataset|False|0.0
+dataset|dataset configuration|True|0.7588571906089783
+dataset|dataset creation|False|0.3330173194408417
+dataset|dataset instance|True|0.6781987547874451
+dataset|dataset instance of a type|True|0.631340503692627
+dataset|dataset of that type|True|0.5141619443893433
+dataset|dataset reconfiguration|False|0.4662628471851349
+dataset|dataset type|True|0.6469621658325195
+dataset|dataset type independent|False|0.3509356379508972
+dataset|default|False|0.43676313757896423
+dataset|exist dataset|True|0.5095142722129822
+dataset|explicit version|True|0.5983027219772339
+dataset|explore|True|0.5039606690406799
+dataset|explore schema|True|0.5162251591682434
+dataset|implementation|True|0.5462329387664795
+dataset|interface|False|0.4783879816532135
+dataset|meaningful error message|False|0.2729493975639343
+dataset|migration process|False|0.33276522159576416
+dataset|new version|False|0.36236894130706787
+dataset|option|True|0.8064483404159546
+dataset|outdated version|False|0.11277825385332108
+dataset|pipeline|False|0.36522430181503296
+dataset|property|True|0.739302396774292
+dataset|schema|True|0.5166229605674744
+dataset|single property|False|0.2973931133747101
+dataset|system|True|0.6887363195419312
+dataset|time - to - live|False|0.3707580268383026
+dataset|unit test|False|0.38995543122291565
+dataset|value|True|0.7152606248855591
+dataset|way|True|0.7693549394607544
+dataset configuration|all dataset instance|False|0.3298453092575073
+dataset configuration|app|False|0.465376079082489
+dataset configuration|application creation|False|0.40145668387413025
+dataset configuration|application redeployment|False|0.23763084411621094
+dataset configuration|archetype|False|0.46717360615730286
+dataset configuration|code|False|0.46334582567214966
+dataset configuration|custom administrative operation|False|0.3962123990058899
+dataset configuration|custom dataset type|True|0.5496677756309509
+dataset configuration|dataset|True|0.5981893539428711
+dataset configuration|dataset configuration|False|0.0
+dataset configuration|dataset creation|False|0.4285605847835541
+dataset configuration|dataset instance|True|0.6378887891769409
+dataset configuration|dataset instance of a type|True|0.6768189668655396
+dataset configuration|dataset of that type|True|0.6489613652229309
+dataset configuration|dataset reconfiguration|False|0.4958227872848511
+dataset configuration|dataset type|True|0.6413094401359558
+dataset configuration|dataset type independent|False|0.3940366804599762
+dataset configuration|default|False|0.38399508595466614
+dataset configuration|exist dataset|True|0.5899175405502319
+dataset configuration|explicit version|True|0.5462546944618225
+dataset configuration|explore|True|0.5273072123527527
+dataset configuration|explore schema|False|0.4858156740665436
+dataset configuration|implementation|False|0.4842070937156677
+dataset configuration|interface|True|0.5556394457817078
+dataset configuration|meaningful error message|False|0.2884441912174225
+dataset configuration|migration process|False|0.2843155860900879
+dataset configuration|new version|False|0.34478288888931274
+dataset configuration|option|True|0.6678236722946167
+dataset configuration|outdated version|False|0.10636095702648163
+dataset configuration|pipeline|False|0.3857262134552002
+dataset configuration|property|True|0.7639320492744446
+dataset configuration|schema|True|0.6048042178153992
+dataset configuration|single property|False|0.2783929705619812
+dataset configuration|system|True|0.5861181616783142
+dataset configuration|time - to - live|False|0.4385107159614563
+dataset configuration|unit test|False|0.4352065622806549
+dataset configuration|value|True|0.6502581834793091
+dataset configuration|way|True|0.7353293299674988
+dataset creation|all dataset instance|False|0.27865543961524963
+dataset creation|app|False|0.2856125235557556
+dataset creation|application creation|False|0.21060974895954132
+dataset creation|application redeployment|False|0.1454082727432251
+dataset creation|archetype|False|0.36529305577278137
+dataset creation|code|False|0.29822391271591187
+dataset creation|custom administrative operation|False|0.23721350729465485
+dataset creation|custom dataset type|False|0.3341366946697235
+dataset creation|dataset|False|0.33125805854797363
+dataset creation|dataset configuration|False|0.4798007309436798
+dataset creation|dataset creation|False|0.0
+dataset creation|dataset instance|False|0.49941694736480713
+dataset creation|dataset instance of a type|False|0.4416264593601227
+dataset creation|dataset of that type|False|0.46071723103523254
+dataset creation|dataset reconfiguration|False|0.31667080521583557
+dataset creation|dataset type|False|0.41926109790802
+dataset creation|dataset type independent|False|0.1715678870677948
+dataset creation|default|False|0.2159886509180069
+dataset creation|exist dataset|False|0.4440460205078125
+dataset creation|explicit version|False|0.3837767541408539
+dataset creation|explore|False|0.3198148012161255
+dataset creation|explore schema|False|0.35230132937431335
+dataset creation|implementation|False|0.3491916060447693
+dataset creation|interface|False|0.36683276295661926
+dataset creation|meaningful error message|False|0.19259585440158844
+dataset creation|migration process|False|0.19896985590457916
+dataset creation|new version|False|0.261646032333374
+dataset creation|option|True|0.6632629632949829
+dataset creation|outdated version|False|0.07439674437046051
+dataset creation|pipeline|False|0.23242390155792236
+dataset creation|property|True|0.5208256840705872
+dataset creation|schema|False|0.3782878816127777
+dataset creation|single property|False|0.1434546858072281
+dataset creation|system|True|0.5438326001167297
+dataset creation|time - to - live|False|0.3407610356807709
+dataset creation|unit test|False|0.23042312264442444
+dataset creation|value|True|0.5253018140792847
+dataset creation|way|True|0.5397871732711792
+dataset instance|all dataset instance|False|0.3053094148635864
+dataset instance|app|False|0.3594304323196411
+dataset instance|application creation|False|0.3147173523902893
+dataset instance|application redeployment|False|0.26774486899375916
+dataset instance|archetype|False|0.4667079746723175
+dataset instance|code|False|0.4105216860771179
+dataset instance|custom administrative operation|False|0.35995131731033325
+dataset instance|custom dataset type|False|0.4812982380390167
+dataset instance|dataset|True|0.5502828359603882
+dataset instance|dataset configuration|True|0.595911979675293
+dataset instance|dataset creation|False|0.40470990538597107
+dataset instance|dataset instance|False|0.0
+dataset instance|dataset instance of a type|True|0.7055643796920776
+dataset instance|dataset of that type|True|0.6558510661125183
+dataset instance|dataset reconfiguration|False|0.46905383467674255
+dataset instance|dataset type|True|0.6406558752059937
+dataset instance|dataset type independent|False|0.3624729514122009
+dataset instance|default|False|0.3572465181350708
+dataset instance|exist dataset|True|0.5448488593101501
+dataset instance|explicit version|True|0.5197083353996277
+dataset instance|explore|False|0.456349641084671
+dataset instance|explore schema|False|0.49098721146583557
+dataset instance|implementation|False|0.47468119859695435
+dataset instance|interface|False|0.4758830964565277
+dataset instance|meaningful error message|False|0.2805176377296448
+dataset instance|migration process|False|0.3184141218662262
+dataset instance|new version|False|0.3253532350063324
+dataset instance|option|True|0.6516999006271362
+dataset instance|outdated version|False|0.1097889393568039
+dataset instance|pipeline|False|0.33927983045578003
+dataset instance|property|True|0.5983306169509888
+dataset instance|schema|True|0.5179033279418945
+dataset instance|single property|False|0.23964717984199524
+dataset instance|system|True|0.5466992259025574
+dataset instance|time - to - live|False|0.3471633791923523
+dataset instance|unit test|False|0.36179229617118835
+dataset instance|value|True|0.6006354689598083
+dataset instance|way|True|0.6947551369667053
+dataset instance of a type|all dataset instance|False|0.3780645728111267
+dataset instance of a type|app|True|0.6067022085189819
+dataset instance of a type|application creation|True|0.5482597351074219
+dataset instance of a type|application redeployment|False|0.395916610956192
+dataset instance of a type|archetype|True|0.5656612515449524
+dataset instance of a type|code|True|0.5360225439071655
+dataset instance of a type|custom administrative operation|False|0.49250295758247375
+dataset instance of a type|custom dataset type|True|0.5131032466888428
+dataset instance of a type|dataset|True|0.7159531712532043
+dataset instance of a type|dataset configuration|True|0.7259178757667542
+dataset instance of a type|dataset creation|False|0.4882849156856537
+dataset instance of a type|dataset instance|True|0.7868840098381042
+dataset instance of a type|dataset instance of a type|False|0.0
+dataset instance of a type|dataset of that type|True|0.5861256718635559
+dataset instance of a type|dataset reconfiguration|True|0.5785809755325317
+dataset instance of a type|dataset type|True|0.7351349592208862
+dataset instance of a type|dataset type independent|False|0.49606651067733765
+dataset instance of a type|default|False|0.3733313977718353
+dataset instance of a type|exist dataset|True|0.6986193060874939
+dataset instance of a type|explicit version|True|0.586836040019989
+dataset instance of a type|explore|True|0.6566922664642334
+dataset instance of a type|explore schema|True|0.6578580737113953
+dataset instance of a type|implementation|True|0.6044914126396179
+dataset instance of a type|interface|True|0.6498879790306091
+dataset instance of a type|meaningful error message|False|0.40991613268852234
+dataset instance of a type|migration process|False|0.42761704325675964
+dataset instance of a type|new version|False|0.37452253699302673
+dataset instance of a type|option|True|0.7257397174835205
+dataset instance of a type|outdated version|False|0.15470393002033234
+dataset instance of a type|pipeline|True|0.5143930912017822
+dataset instance of a type|property|True|0.7347063422203064
+dataset instance of a type|schema|True|0.6710071563720703
+dataset instance of a type|single property|False|0.41935133934020996
+dataset instance of a type|system|True|0.7770593166351318
+dataset instance of a type|time - to - live|False|0.46993908286094666
+dataset instance of a type|unit test|True|0.5355392098426819
+dataset instance of a type|value|True|0.6393457055091858
+dataset instance of a type|way|True|0.7718642950057983
+dataset of that type|all dataset instance|True|0.5305555462837219
+dataset of that type|app|False|0.3883665204048157
+dataset of that type|application creation|False|0.3152604401111603
+dataset of that type|application redeployment|False|0.24614784121513367
+dataset of that type|archetype|True|0.5096740126609802
+dataset of that type|code|False|0.4385088384151459
+dataset of that type|custom administrative operation|False|0.3141385614871979
+dataset of that type|custom dataset type|False|0.39182719588279724
+dataset of that type|dataset|True|0.594128429889679
+dataset of that type|dataset configuration|True|0.7660070061683655
+dataset of that type|dataset creation|True|0.5324856638908386
+dataset of that type|dataset instance|True|0.793565571308136
+dataset of that type|dataset instance of a type|True|0.5774759650230408
+dataset of that type|dataset of that type|False|0.0
+dataset of that type|dataset reconfiguration|True|0.521358847618103
+dataset of that type|dataset type|True|0.6903178095817566
+dataset of that type|dataset type independent|False|0.4956824779510498
+dataset of that type|default|False|0.427701473236084
+dataset of that type|exist dataset|True|0.6355668902397156
+dataset of that type|explicit version|True|0.6169619560241699
+dataset of that type|explore|True|0.5788087844848633
+dataset of that type|explore schema|True|0.5516455769538879
+dataset of that type|implementation|True|0.5394824147224426
+dataset of that type|interface|True|0.5208675265312195
+dataset of that type|meaningful error message|False|0.2943727374076843
+dataset of that type|migration process|False|0.26274219155311584
+dataset of that type|new version|False|0.32350677251815796
+dataset of that type|option|True|0.7943592667579651
+dataset of that type|outdated version|False|0.10694653540849686
+dataset of that type|pipeline|False|0.365844190120697
+dataset of that type|property|True|0.7126749753952026
+dataset of that type|schema|True|0.5327814817428589
+dataset of that type|single property|False|0.2762828767299652
+dataset of that type|system|True|0.6398782730102539
+dataset of that type|time - to - live|False|0.31109878420829773
+dataset of that type|unit test|False|0.39338231086730957
+dataset of that type|value|True|0.7314439415931702
+dataset of that type|way|True|0.799501359462738
+dataset reconfiguration|all dataset instance|False|0.2068479061126709
+dataset reconfiguration|app|False|0.3146238327026367
+dataset reconfiguration|application creation|False|0.27581948041915894
+dataset reconfiguration|application redeployment|False|0.2403482347726822
+dataset reconfiguration|archetype|False|0.4758185148239136
+dataset reconfiguration|code|False|0.4814624488353729
+dataset reconfiguration|custom administrative operation|False|0.24887892603874207
+dataset reconfiguration|custom dataset type|False|0.4088425040245056
+dataset reconfiguration|dataset|True|0.5068441033363342
+dataset reconfiguration|dataset configuration|True|0.5817756652832031
+dataset reconfiguration|dataset creation|False|0.3752698302268982
+dataset reconfiguration|dataset instance|True|0.586911678314209
+dataset reconfiguration|dataset instance of a type|False|0.4976341426372528
+dataset reconfiguration|dataset of that type|True|0.5678802132606506
+dataset reconfiguration|dataset reconfiguration|False|0.0
+dataset reconfiguration|dataset type|True|0.5350036025047302
+dataset reconfiguration|dataset type independent|False|0.23327654600143433
+dataset reconfiguration|default|False|0.3713867962360382
+dataset reconfiguration|exist dataset|True|0.5909615159034729
+dataset reconfiguration|explicit version|False|0.4967648386955261
+dataset reconfiguration|explore|False|0.42807403206825256
+dataset reconfiguration|explore schema|False|0.40612509846687317
+dataset reconfiguration|implementation|False|0.3543415367603302
+dataset reconfiguration|interface|False|0.4410956799983978
+dataset reconfiguration|meaningful error message|False|0.20557886362075806
+dataset reconfiguration|migration process|False|0.2862323522567749
+dataset reconfiguration|new version|False|0.28199660778045654
+dataset reconfiguration|option|True|0.5887917280197144
+dataset reconfiguration|outdated version|False|0.12068884819746017
+dataset reconfiguration|pipeline|False|0.3095962405204773
+dataset reconfiguration|property|True|0.5220895409584045
+dataset reconfiguration|schema|True|0.515333890914917
+dataset reconfiguration|single property|False|0.18861453235149384
+dataset reconfiguration|system|True|0.6235195398330688
+dataset reconfiguration|time - to - live|False|0.3082735240459442
+dataset reconfiguration|unit test|False|0.2717236280441284
+dataset reconfiguration|value|False|0.46657106280326843
+dataset reconfiguration|way|True|0.7435069680213928
+dataset type|all dataset instance|False|0.3128826320171356
+dataset type|app|False|0.38800808787345886
+dataset type|application creation|False|0.32083702087402344
+dataset type|application redeployment|False|0.21927647292613983
+dataset type|archetype|False|0.42655324935913086
+dataset type|code|False|0.44603803753852844
+dataset type|custom administrative operation|False|0.31701475381851196
+dataset type|custom dataset type|False|0.3116053640842438
+dataset type|dataset|True|0.5459011197090149
+dataset type|dataset configuration|True|0.7223692536354065
+dataset type|dataset creation|False|0.4095952808856964
+dataset type|dataset instance|True|0.7171314358711243
+dataset type|dataset instance of a type|True|0.6303498148918152
+dataset type|dataset of that type|True|0.6178597211837769
+dataset type|dataset reconfiguration|False|0.4644787907600403
+dataset type|dataset type|False|0.0
+dataset type|dataset type independent|False|0.25766000151634216
+dataset type|default|False|0.26901182532310486
+dataset type|exist dataset|True|0.5476513504981995
+dataset type|explicit version|True|0.594711422920227
+dataset type|explore|True|0.5042266249656677
+dataset type|explore schema|False|0.4533747434616089
+dataset type|implementation|True|0.5322434306144714
+dataset type|interface|False|0.45801231265068054
+dataset type|meaningful error message|False|0.26761457324028015
+dataset type|migration process|False|0.28840216994285583
+dataset type|new version|False|0.2645227909088135
+dataset type|option|True|0.7074018120765686
+dataset type|outdated version|False|0.1118219792842865
+dataset type|pipeline|False|0.33246156573295593
+dataset type|property|True|0.659348726272583
+dataset type|schema|True|0.5103334188461304
+dataset type|single property|False|0.27535751461982727
+dataset type|system|True|0.641141414642334
+dataset type|time - to - live|False|0.3847053349018097
+dataset type|unit test|False|0.3720676302909851
+dataset type|value|True|0.6422575116157532
+dataset type|way|True|0.7524314522743225
+dataset type independent|all dataset instance|False|0.20447058975696564
+dataset type independent|app|False|0.16064193844795227
+dataset type independent|application creation|False|0.1592855602502823
+dataset type independent|application redeployment|False|0.13953912258148193
+dataset type independent|archetype|False|0.20614534616470337
+dataset type independent|code|False|0.3687739670276642
+dataset type independent|custom administrative operation|False|0.1696223020553589
+dataset type independent|custom dataset type|False|0.1895233690738678
+dataset type independent|dataset|False|0.47673454880714417
+dataset type independent|dataset configuration|False|0.47560012340545654
+dataset type independent|dataset creation|False|0.2107570916414261
+dataset type independent|dataset instance|False|0.48976656794548035
+dataset type independent|dataset instance of a type|False|0.48809748888015747
+dataset type independent|dataset of that type|True|0.5656054615974426
+dataset type independent|dataset reconfiguration|False|0.20537357032299042
+dataset type independent|dataset type|False|0.42806366086006165
+dataset type independent|dataset type independent|False|0.0
+dataset type independent|default|False|0.18323031067848206
+dataset type independent|exist dataset|False|0.3639267683029175
+dataset type independent|explicit version|False|0.44540512561798096
+dataset type independent|explore|False|0.27868717908859253
+dataset type independent|explore schema|False|0.2822731137275696
+dataset type independent|implementation|False|0.4212122857570648
+dataset type independent|interface|False|0.33533498644828796
+dataset type independent|meaningful error message|False|0.13979467749595642
+dataset type independent|migration process|False|0.17343208193778992
+dataset type independent|new version|False|0.22127678990364075
+dataset type independent|option|True|0.5807438492774963
+dataset type independent|outdated version|False|0.056536924093961716
+dataset type independent|pipeline|False|0.19986119866371155
+dataset type independent|property|True|0.555972695350647
+dataset type independent|schema|False|0.34795838594436646
+dataset type independent|single property|False|0.11274752020835876
+dataset type independent|system|True|0.5290703177452087
+dataset type independent|time - to - live|False|0.26578110456466675
+dataset type independent|unit test|False|0.21387146413326263
+dataset type independent|value|False|0.41495975852012634
+dataset type independent|way|True|0.5451178550720215
+default|all dataset instance|False|0.31910350918769836
+default|app|False|0.32027432322502136
+default|application creation|False|0.3572904169559479
+default|application redeployment|False|0.21283890306949615
+default|archetype|False|0.42382463812828064
+default|code|True|0.5869490504264832
+default|custom administrative operation|False|0.3265111446380615
+default|custom dataset type|False|0.26708707213401794
+default|dataset|False|0.46881550550460815
+default|dataset configuration|False|0.4433700442314148
+default|dataset creation|False|0.3372170925140381
+default|dataset instance|False|0.3693491220474243
+default|dataset instance of a type|False|0.4107445180416107
+default|dataset of that type|False|0.4388957619667053
+default|dataset reconfiguration|False|0.3477659225463867
+default|dataset type|False|0.310971200466156
+default|dataset type independent|False|0.08781281858682632
+default|default|False|0.0
+default|exist dataset|False|0.37012776732444763
+default|explicit version|True|0.6515094637870789
+default|explore|False|0.47724995017051697
+default|explore schema|False|0.4667770266532898
+default|implementation|True|0.5846232771873474
+default|interface|True|0.573832631111145
+default|meaningful error message|False|0.32406049966812134
+default|migration process|False|0.2589559853076935
+default|new version|False|0.42510873079299927
+default|option|True|0.7124204039573669
+default|outdated version|False|0.10990350693464279
+default|pipeline|False|0.36337098479270935
+default|property|True|0.6120296120643616
+default|schema|True|0.5583115220069885
+default|single property|False|0.2833603620529175
+default|system|True|0.7660160660743713
+default|time - to - live|False|0.40176528692245483
+default|unit test|False|0.40040579438209534
+default|value|True|0.5573372840881348
+default|way|True|0.7454283833503723
+exist dataset|all dataset instance|False|0.28673115372657776
+exist dataset|app|False|0.35821932554244995
+exist dataset|application creation|False|0.4430449306964874
+exist dataset|application redeployment|False|0.2581177055835724
+exist dataset|archetype|True|0.5049874186515808
+exist dataset|code|False|0.4876466989517212
+exist dataset|custom administrative operation|False|0.4396354556083679
+exist dataset|custom dataset type|False|0.4942638576030731
+exist dataset|dataset|True|0.6427221298217773
+exist dataset|dataset configuration|True|0.8076205253601074
+exist dataset|dataset creation|True|0.5092810392379761
+exist dataset|dataset instance|True|0.7066479921340942
+exist dataset|dataset instance of a type|True|0.7249992489814758
+exist dataset|dataset of that type|True|0.6837400197982788
+exist dataset|dataset reconfiguration|True|0.7263619899749756
+exist dataset|dataset type|True|0.723971426486969
+exist dataset|dataset type independent|False|0.3160961866378784
+exist dataset|default|False|0.37980327010154724
+exist dataset|exist dataset|False|0.0
+exist dataset|explicit version|True|0.5930575132369995
+exist dataset|explore|False|0.4404158890247345
+exist dataset|explore schema|False|0.44677433371543884
+exist dataset|implementation|True|0.6144598722457886
+exist dataset|interface|True|0.5623053312301636
+exist dataset|meaningful error message|False|0.33686044812202454
+exist dataset|migration process|False|0.3924979865550995
+exist dataset|new version|False|0.355223685503006
+exist dataset|option|True|0.7806854248046875
+exist dataset|outdated version|False|0.15409435331821442
+exist dataset|pipeline|False|0.4411803185939789
+exist dataset|property|True|0.7654215693473816
+exist dataset|schema|True|0.578831672668457
+exist dataset|single property|False|0.34180259704589844
+exist dataset|system|True|0.7270910143852234
+exist dataset|time - to - live|False|0.3969225585460663
+exist dataset|unit test|False|0.42064937949180603
+exist dataset|value|True|0.6892749667167664
+exist dataset|way|True|0.8331966996192932
+explicit version|all dataset instance|False|0.3174935281276703
+explicit version|app|True|0.5356174111366272
+explicit version|application creation|True|0.5205245614051819
+explicit version|application redeployment|False|0.31832852959632874
+explicit version|archetype|True|0.7221205234527588
+explicit version|code|True|0.8104506134986877
+explicit version|custom administrative operation|False|0.4840027689933777
+explicit version|custom dataset type|False|0.4085320830345154
+explicit version|dataset|True|0.6479922533035278
+explicit version|dataset configuration|True|0.6145607829093933
+explicit version|dataset creation|True|0.5112079977989197
+explicit version|dataset instance|False|0.46062609553337097
+explicit version|dataset instance of a type|True|0.6950055360794067
+explicit version|dataset of that type|True|0.7575089931488037
+explicit version|dataset reconfiguration|True|0.5428497195243835
+explicit version|dataset type|True|0.5509068965911865
+explicit version|dataset type independent|False|0.27915096282958984
+explicit version|default|True|0.6578764319419861
+explicit version|exist dataset|True|0.6269723176956177
+explicit version|explicit version|False|0.0
+explicit version|explore|True|0.6796029806137085
+explicit version|explore schema|True|0.7054827213287354
+explicit version|implementation|True|0.7421915531158447
+explicit version|interface|True|0.7470992207527161
+explicit version|meaningful error message|False|0.3789542019367218
+explicit version|migration process|False|0.42321211099624634
+explicit version|new version|True|0.6353495717048645
+explicit version|option|True|0.841415524482727
+explicit version|outdated version|False|0.19875958561897278
+explicit version|pipeline|True|0.5229112505912781
+explicit version|property|True|0.8547754883766174
+explicit version|schema|True|0.8247551321983337
+explicit version|single property|True|0.6189352869987488
+explicit version|system|True|0.9571235179901123
+explicit version|time - to - live|False|0.33630073070526123
+explicit version|unit test|False|0.47598692774772644
+explicit version|value|True|0.8428483009338379
+explicit version|way|True|0.9311808943748474
+explore|all dataset instance|False|0.39277321100234985
+explore|app|True|0.5295457243919373
+explore|application creation|True|0.5481457114219666
+explore|application redeployment|False|0.366909384727478
+explore|archetype|True|0.5863918662071228
+explore|code|True|0.7942214608192444
+explore|custom administrative operation|True|0.5364829301834106
+explore|custom dataset type|False|0.4762440323829651
+explore|dataset|True|0.5396214127540588
+explore|dataset configuration|True|0.5617296099662781
+explore|dataset creation|False|0.4347968101501465
+explore|dataset instance|False|0.4807940423488617
+explore|dataset instance of a type|True|0.572715699672699
+explore|dataset of that type|True|0.7211304306983948
+explore|dataset reconfiguration|False|0.49709707498550415
+explore|dataset type|False|0.48807650804519653
+explore|dataset type independent|False|0.23086154460906982
+explore|default|True|0.6430519223213196
+explore|exist dataset|False|0.41373172402381897
+explore|explicit version|True|0.5676553249359131
+explore|explore|False|0.0
+explore|explore schema|False|0.49914854764938354
+explore|implementation|True|0.5808874368667603
+explore|interface|True|0.6438443064689636
+explore|meaningful error message|False|0.39486458897590637
+explore|migration process|False|0.40820175409317017
+explore|new version|True|0.5571243762969971
+explore|option|True|0.7439059019088745
+explore|outdated version|False|0.19438880681991577
+explore|pipeline|False|0.4744741916656494
+explore|property|True|0.7712487578392029
+explore|schema|True|0.7946749329566956
+explore|single property|False|0.4019070863723755
+explore|system|True|0.8990250825881958
+explore|time - to - live|False|0.4521656036376953
+explore|unit test|False|0.4545193910598755
+explore|value|True|0.7620495557785034
+explore|way|True|0.8960144519805908
+explore schema|all dataset instance|False|0.3143634796142578
+explore schema|app|True|0.5422791838645935
+explore schema|application creation|False|0.4458456337451935
+explore schema|application redeployment|False|0.3267281651496887
+explore schema|archetype|False|0.4630138576030731
+explore schema|code|True|0.6908628344535828
+explore schema|custom administrative operation|False|0.4280411899089813
+explore schema|custom dataset type|False|0.39713254570961
+explore schema|dataset|False|0.4713028073310852
+explore schema|dataset configuration|False|0.46977248787879944
+explore schema|dataset creation|False|0.37398162484169006
+explore schema|dataset instance|False|0.4899085462093353
+explore schema|dataset instance of a type|True|0.5396854877471924
+explore schema|dataset of that type|True|0.6529467105865479
+explore schema|dataset reconfiguration|False|0.40144094824790955
+explore schema|dataset type|False|0.41158822178840637
+explore schema|dataset type independent|False|0.22091318666934967
+explore schema|default|False|0.48731210827827454
+explore schema|exist dataset|False|0.4603150486946106
+explore schema|explicit version|True|0.5849045515060425
+explore schema|explore|False|0.4811362624168396
+explore schema|explore schema|False|0.0
+explore schema|implementation|True|0.5432767868041992
+explore schema|interface|True|0.5470260977745056
+explore schema|meaningful error message|False|0.39536967873573303
+explore schema|migration process|False|0.33114326000213623
+explore schema|new version|False|0.4210878014564514
+explore schema|option|True|0.6753673553466797
+explore schema|outdated version|False|0.24175925552845
+explore schema|pipeline|False|0.4504651725292206
+explore schema|property|True|0.6902534365653992
+explore schema|schema|True|0.7750304341316223
+explore schema|single property|False|0.35409507155418396
+explore schema|system|True|0.7303063273429871
+explore schema|time - to - live|False|0.3635001480579376
+explore schema|unit test|False|0.371389776468277
+explore schema|value|True|0.6358015537261963
+explore schema|way|True|0.8025938868522644
+implementation|all dataset instance|False|0.29444316029548645
+implementation|app|False|0.3835420310497284
+implementation|application creation|False|0.37772753834724426
+implementation|application redeployment|False|0.2559722065925598
+implementation|archetype|True|0.5908119678497314
+implementation|code|True|0.5409170985221863
+implementation|custom administrative operation|False|0.42132189869880676
+implementation|custom dataset type|False|0.3637731075286865
+implementation|dataset|False|0.46211478114128113
+implementation|dataset configuration|True|0.515470027923584
+implementation|dataset creation|False|0.4219403564929962
+implementation|dataset instance|False|0.41839051246643066
+implementation|dataset instance of a type|False|0.47465479373931885
+implementation|dataset of that type|True|0.5251438021659851
+implementation|dataset reconfiguration|False|0.4671069383621216
+implementation|dataset type|False|0.4711128771305084
+implementation|dataset type independent|False|0.23030658066272736
+implementation|default|False|0.418331503868103
+implementation|exist dataset|True|0.5355858206748962
+implementation|explicit version|False|0.47847145795822144
+implementation|explore|False|0.4838406443595886
+implementation|explore schema|True|0.6119250655174255
+implementation|implementation|False|0.0
+implementation|interface|False|0.4617072641849518
+implementation|meaningful error message|False|0.29261165857315063
+implementation|migration process|False|0.35534095764160156
+implementation|new version|False|0.40256762504577637
+implementation|option|True|0.8060905933380127
+implementation|outdated version|False|0.10697885602712631
+implementation|pipeline|False|0.41505149006843567
+implementation|property|True|0.734561562538147
+implementation|schema|True|0.6979509592056274
+implementation|single property|False|0.4730328917503357
+implementation|system|True|0.77669757604599
+implementation|time - to - live|False|0.3464679718017578
+implementation|unit test|False|0.3170478343963623
+implementation|value|True|0.6777079701423645
+implementation|way|True|0.8129076361656189
+interface|all dataset instance|False|0.3619871735572815
+interface|app|False|0.4294160306453705
+interface|application creation|False|0.45801958441734314
+interface|application redeployment|False|0.35747578740119934
+interface|archetype|True|0.5934420824050903
+interface|code|True|0.556128203868866
+interface|custom administrative operation|True|0.5270465016365051
+interface|custom dataset type|False|0.36793628334999084
+interface|dataset|False|0.45624417066574097
+interface|dataset configuration|False|0.4524739384651184
+interface|dataset creation|False|0.3591052293777466
+interface|dataset instance|False|0.4618455469608307
+interface|dataset instance of a type|True|0.5728734731674194
+interface|dataset of that type|True|0.6175814867019653
+interface|dataset reconfiguration|False|0.4251527786254883
+interface|dataset type|True|0.5048642158508301
+interface|dataset type independent|False|0.2480456531047821
+interface|default|False|0.4586057960987091
+interface|exist dataset|False|0.49956756830215454
+interface|explicit version|True|0.5296469926834106
+interface|explore|True|0.5536279082298279
+interface|explore schema|True|0.656162679195404
+interface|implementation|False|0.4702533483505249
+interface|interface|False|0.0
+interface|meaningful error message|False|0.34946876764297485
+interface|migration process|False|0.3784208297729492
+interface|new version|False|0.3988354504108429
+interface|option|True|0.6892990469932556
+interface|outdated version|False|0.12924353778362274
+interface|pipeline|False|0.47855690121650696
+interface|property|True|0.7043212652206421
+interface|schema|True|0.6749654412269592
+interface|single property|False|0.42648687958717346
+interface|system|True|0.8842881321907043
+interface|time - to - live|False|0.3833375871181488
+interface|unit test|False|0.4180673658847809
+interface|value|True|0.5748737454414368
+interface|way|True|0.9004486799240112
+meaningful error message|all dataset instance|False|0.13614487648010254
+meaningful error message|app|False|0.2582821249961853
+meaningful error message|application creation|False|0.24250251054763794
+meaningful error message|application redeployment|False|0.20873881876468658
+meaningful error message|archetype|False|0.2165496051311493
+meaningful error message|code|False|0.2835521697998047
+meaningful error message|custom administrative operation|False|0.1574697196483612
+meaningful error message|custom dataset type|False|0.19060996174812317
+meaningful error message|dataset|False|0.2738519012928009
+meaningful error message|dataset configuration|False|0.26156243681907654
+meaningful error message|dataset creation|False|0.2319195419549942
+meaningful error message|dataset instance|False|0.2858360707759857
+meaningful error message|dataset instance of a type|False|0.3008515238761902
+meaningful error message|dataset of that type|False|0.26658138632774353
+meaningful error message|dataset reconfiguration|False|0.2705490291118622
+meaningful error message|dataset type|False|0.27668145298957825
+meaningful error message|dataset type independent|False|0.15834923088550568
+meaningful error message|default|False|0.22865761816501617
+meaningful error message|exist dataset|False|0.31337970495224
+meaningful error message|explicit version|False|0.3975803852081299
+meaningful error message|explore|False|0.3018069565296173
+meaningful error message|explore schema|False|0.28392720222473145
+meaningful error message|implementation|False|0.3476385772228241
+meaningful error message|interface|False|0.38473477959632874
+meaningful error message|meaningful error message|False|0.0
+meaningful error message|migration process|False|0.1677396297454834
+meaningful error message|new version|False|0.25567564368247986
+meaningful error message|option|True|0.5425718426704407
+meaningful error message|outdated version|False|0.09840302169322968
+meaningful error message|pipeline|False|0.21283262968063354
+meaningful error message|property|False|0.40027621388435364
+meaningful error message|schema|False|0.2638169527053833
+meaningful error message|single property|False|0.09851256012916565
+meaningful error message|system|False|0.3122291564941406
+meaningful error message|time - to - live|False|0.2032478004693985
+meaningful error message|unit test|False|0.19607819616794586
+meaningful error message|value|False|0.38504770398139954
+meaningful error message|way|False|0.49779337644577026
+migration process|all dataset instance|False|0.15780767798423767
+migration process|app|False|0.2461225837469101
+migration process|application creation|False|0.21568866074085236
+migration process|application redeployment|False|0.2896939814090729
+migration process|archetype|False|0.4165659248828888
+migration process|code|False|0.43040990829467773
+migration process|custom administrative operation|False|0.27732133865356445
+migration process|custom dataset type|False|0.23336797952651978
+migration process|dataset|False|0.2726885974407196
+migration process|dataset configuration|False|0.23629219830036163
+migration process|dataset creation|False|0.18040601909160614
+migration process|dataset instance|False|0.25987473130226135
+migration process|dataset instance of a type|False|0.3471736013889313
+migration process|dataset of that type|False|0.3080975413322449
+migration process|dataset reconfiguration|False|0.2759895920753479
+migration process|dataset type|False|0.24506008625030518
+migration process|dataset type independent|False|0.15535634756088257
+migration process|default|False|0.2068510204553604
+migration process|exist dataset|False|0.3200547397136688
+migration process|explicit version|False|0.3165302574634552
+migration process|explore|False|0.39946290850639343
+migration process|explore schema|False|0.308439165353775
+migration process|implementation|False|0.27456700801849365
+migration process|interface|False|0.3488749563694
+migration process|meaningful error message|False|0.137226864695549
+migration process|migration process|False|0.0
+migration process|new version|False|0.21193590760231018
+migration process|option|False|0.43436166644096375
+migration process|outdated version|False|0.12360550463199615
+migration process|pipeline|False|0.2986184358596802
+migration process|property|False|0.4752916693687439
+migration process|schema|False|0.4385281503200531
+migration process|single property|False|0.1587248593568802
+migration process|system|True|0.5658071637153625
+migration process|time - to - live|False|0.23961244523525238
+migration process|unit test|False|0.1760985404253006
+migration process|value|False|0.41455456614494324
+migration process|way|True|0.699110746383667
+new version|all dataset instance|False|0.2045162320137024
+new version|app|False|0.3319200277328491
+new version|application creation|False|0.35813409090042114
+new version|application redeployment|False|0.24137012660503387
+new version|archetype|False|0.42290031909942627
+new version|code|True|0.5892878174781799
+new version|custom administrative operation|False|0.352733850479126
+new version|custom dataset type|False|0.2445557564496994
+new version|dataset|False|0.45687493681907654
+new version|dataset configuration|False|0.4343653619289398
+new version|dataset creation|False|0.3479790687561035
+new version|dataset instance|False|0.3044717609882355
+new version|dataset instance of a type|True|0.506014347076416
+new version|dataset of that type|False|0.46237537264823914
+new version|dataset reconfiguration|False|0.36124399304389954
+new version|dataset type|False|0.3291204273700714
+new version|dataset type independent|False|0.1698678731918335
+new version|default|False|0.37268850207328796
+new version|exist dataset|False|0.4273078441619873
+new version|explicit version|True|0.5239566564559937
+new version|explore|True|0.571805477142334
+new version|explore schema|True|0.5274493098258972
+new version|implementation|False|0.4330832362174988
+new version|interface|True|0.5193600058555603
+new version|meaningful error message|False|0.21381938457489014
+new version|migration process|False|0.2653719484806061
+new version|new version|False|0.0
+new version|option|True|0.6291025876998901
+new version|outdated version|False|0.09921379387378693
+new version|pipeline|False|0.34316709637641907
+new version|property|True|0.6900359392166138
+new version|schema|True|0.672883152961731
+new version|single property|False|0.31185293197631836
+new version|system|True|0.761588990688324
+new version|time - to - live|False|0.22068701684474945
+new version|unit test|False|0.25679129362106323
+new version|value|True|0.6221972703933716
+new version|way|True|0.9316691756248474
+option|all dataset instance|False|0.4208320379257202
+option|app|True|0.57120281457901
+option|application creation|True|0.7144619822502136
+option|application redeployment|False|0.4052080810070038
+option|archetype|True|0.8820055723190308
+option|code|True|0.9760568141937256
+option|custom administrative operation|True|0.7732548117637634
+option|custom dataset type|True|0.5479407906532288
+option|dataset|True|0.8643220067024231
+option|dataset configuration|True|0.7814278602600098
+option|dataset creation|True|0.6963319778442383
+option|dataset instance|True|0.6077930331230164
+option|dataset instance of a type|True|0.8342556953430176
+option|dataset of that type|True|0.9538437724113464
+option|dataset reconfiguration|True|0.7382679581642151
+option|dataset type|True|0.7628675103187561
+option|dataset type independent|False|0.4934530556201935
+option|default|True|0.8926374316215515
+option|exist dataset|True|0.7719014883041382
+option|explicit version|True|0.9055027365684509
+option|explore|True|0.8301766514778137
+option|explore schema|True|0.8581063747406006
+option|implementation|True|0.942328691482544
+option|interface|True|0.7630977034568787
+option|meaningful error message|False|0.40825822949409485
+option|migration process|True|0.528573751449585
+option|new version|True|0.6509613394737244
+option|option|False|0.0
+option|outdated version|False|0.23872114717960358
+option|pipeline|True|0.6605167984962463
+option|property|True|0.9269132614135742
+option|schema|True|0.9736643433570862
+option|single property|True|0.7968018651008606
+option|system|True|0.992684543132782
+option|time - to - live|False|0.46800774335861206
+option|unit test|True|0.714678943157196
+option|value|True|0.8950875401496887
+option|way|True|0.9916734099388123
+outdated version|all dataset instance|False|0.052715979516506195
+outdated version|app|False|0.1233610287308693
+outdated version|application creation|False|0.12006176263093948
+outdated version|application redeployment|False|0.23867735266685486
+outdated version|archetype|False|0.07698573172092438
+outdated version|code|False|0.1895660161972046
+outdated version|custom administrative operation|False|0.056026022881269455
+outdated version|custom dataset type|False|0.060813263058662415
+outdated version|dataset|False|0.11754415929317474
+outdated version|dataset configuration|False|0.140233114361763
+outdated version|dataset creation|False|0.10875440388917923
+outdated version|dataset instance|False|0.12532395124435425
+outdated version|dataset instance of a type|False|0.11354034394025803
+outdated version|dataset of that type|False|0.12565243244171143
+outdated version|dataset reconfiguration|False|0.16353480517864227
+outdated version|dataset type|False|0.09506815671920776
+outdated version|dataset type independent|False|0.04612954705953598
+outdated version|default|False|0.0895828828215599
+outdated version|exist dataset|False|0.09436503797769547
+outdated version|explicit version|False|0.11843504756689072
+outdated version|explore|False|0.16188225150108337
+outdated version|explore schema|False|0.12059807032346725
+outdated version|implementation|False|0.161189004778862
+outdated version|interface|False|0.1856139749288559
+outdated version|meaningful error message|False|0.16246207058429718
+outdated version|migration process|False|0.23106598854064941
+outdated version|new version|False|0.09157992899417877
+outdated version|option|False|0.21507854759693146
+outdated version|outdated version|False|0.0
+outdated version|pipeline|False|0.08871028572320938
+outdated version|property|False|0.26215845346450806
+outdated version|schema|False|0.14706873893737793
+outdated version|single property|False|0.051239222288131714
+outdated version|system|False|0.21857993304729462
+outdated version|time - to - live|False|0.07595475018024445
+outdated version|unit test|False|0.10055698454380035
+outdated version|value|False|0.19557398557662964
+outdated version|way|False|0.2650202214717865
+pipeline|all dataset instance|False|0.2927725613117218
+pipeline|app|False|0.3548193871974945
+pipeline|application creation|False|0.3437969982624054
+pipeline|application redeployment|False|0.24560411274433136
+pipeline|archetype|False|0.4575457274913788
+pipeline|code|False|0.4102512300014496
+pipeline|custom administrative operation|False|0.40019690990448
+pipeline|custom dataset type|False|0.32580575346946716
+pipeline|dataset|False|0.31937164068222046
+pipeline|dataset configuration|False|0.3374696969985962
+pipeline|dataset creation|False|0.2730843126773834
+pipeline|dataset instance|False|0.3266696631908417
+pipeline|dataset instance of a type|False|0.443802148103714
+pipeline|dataset of that type|False|0.4357885420322418
+pipeline|dataset reconfiguration|False|0.32424208521842957
+pipeline|dataset type|False|0.34057849645614624
+pipeline|dataset type independent|False|0.238980233669281
+pipeline|default|False|0.368219256401062
+pipeline|exist dataset|False|0.33133092522621155
+pipeline|explicit version|False|0.4438435435295105
+pipeline|explore|False|0.39491257071495056
+pipeline|explore schema|False|0.4702264368534088
+pipeline|implementation|False|0.37597084045410156
+pipeline|interface|False|0.46287640929222107
+pipeline|meaningful error message|False|0.2209913581609726
+pipeline|migration process|False|0.29533687233924866
+pipeline|new version|False|0.29963913559913635
+pipeline|option|False|0.48634040355682373
+pipeline|outdated version|False|0.11042439937591553
+pipeline|pipeline|False|0.0
+pipeline|property|True|0.5199255347251892
+pipeline|schema|True|0.532924234867096
+pipeline|single property|False|0.2905993163585663
+pipeline|system|True|0.5675226449966431
+pipeline|time - to - live|False|0.24759350717067719
+pipeline|unit test|False|0.29278266429901123
+pipeline|value|False|0.46782127022743225
+pipeline|way|True|0.6087055802345276
+property|all dataset instance|False|0.413272500038147
+property|app|True|0.5979411005973816
+property|application creation|True|0.632922351360321
+property|application redeployment|False|0.3812321722507477
+property|archetype|True|0.7822287082672119
+property|code|True|0.9073761701583862
+property|custom administrative operation|True|0.6211622357368469
+property|custom dataset type|False|0.4553443193435669
+property|dataset|True|0.7693797945976257
+property|dataset configuration|True|0.7464885711669922
+property|dataset creation|True|0.6158103942871094
+property|dataset instance|True|0.6031813621520996
+property|dataset instance of a type|True|0.7021239399909973
+property|dataset of that type|True|0.8544310331344604
+property|dataset reconfiguration|True|0.6388919949531555
+property|dataset type|True|0.6864809393882751
+property|dataset type independent|False|0.43376266956329346
+property|default|True|0.7048628926277161
+property|exist dataset|True|0.7967556118965149
+property|explicit version|True|0.8753292560577393
+property|explore|True|0.834298312664032
+property|explore schema|True|0.8165808916091919
+property|implementation|True|0.8533108234405518
+property|interface|True|0.7398340106010437
+property|meaningful error message|False|0.3147881329059601
+property|migration process|False|0.4808003604412079
+property|new version|True|0.5724326372146606
+property|option|True|0.9218646287918091
+property|outdated version|False|0.1898326575756073
+property|pipeline|True|0.5196438431739807
+property|property|False|0.0
+property|schema|True|0.8932017087936401
+property|single property|True|0.5472589135169983
+property|system|True|0.9637858867645264
+property|time - to - live|False|0.39248988032341003
+property|unit test|True|0.6444733738899231
+property|value|True|0.8715833425521851
+property|way|True|0.9679042100906372
+schema|all dataset instance|False|0.2917720079421997
+schema|app|False|0.47888198494911194
+schema|application creation|False|0.4244551658630371
+schema|application redeployment|False|0.23733296990394592
+schema|archetype|True|0.5671876668930054
+schema|code|True|0.6922455430030823
+schema|custom administrative operation|False|0.4100174307823181
+schema|custom dataset type|False|0.36020663380622864
+schema|dataset|True|0.5452540516853333
+schema|dataset configuration|True|0.6480963826179504
+schema|dataset creation|False|0.3790935277938843
+schema|dataset instance|True|0.5047383904457092
+schema|dataset instance of a type|True|0.5662015080451965
+schema|dataset of that type|True|0.6522764563560486
+schema|dataset reconfiguration|False|0.4042918384075165
+schema|dataset type|False|0.44704127311706543
+schema|dataset type independent|False|0.20581042766571045
+schema|default|True|0.5665082931518555
+schema|exist dataset|True|0.6039808392524719
+schema|explicit version|True|0.7055825591087341
+schema|explore|True|0.5979126691818237
+schema|explore schema|True|0.516815721988678
+schema|implementation|True|0.6244553923606873
+schema|interface|True|0.6340307593345642
+schema|meaningful error message|False|0.23179607093334198
+schema|migration process|False|0.3035799264907837
+schema|new version|False|0.38624241948127747
+schema|option|True|0.8838511109352112
+schema|outdated version|False|0.11759411543607712
+schema|pipeline|False|0.49293196201324463
+schema|property|True|0.7372296452522278
+schema|schema|False|0.0
+schema|single property|True|0.5282710194587708
+schema|system|True|0.8006719946861267
+schema|time - to - live|False|0.2983696162700653
+schema|unit test|False|0.4034999907016754
+schema|value|True|0.699539840221405
+schema|way|True|0.8725963234901428
+single property|all dataset instance|False|0.1600935459136963
+single property|app|False|0.3313233256340027
+single property|application creation|False|0.37013670802116394
+single property|application redeployment|False|0.2482999861240387
+single property|archetype|False|0.3910008668899536
+single property|code|True|0.6302920579910278
+single property|custom administrative operation|False|0.1413145661354065
+single property|custom dataset type|False|0.19950589537620544
+single property|dataset|False|0.48516541719436646
+single property|dataset configuration|False|0.43732908368110657
+single property|dataset creation|False|0.3627283573150635
+single property|dataset instance|False|0.31484371423721313
+single property|dataset instance of a type|False|0.3819607198238373
+single property|dataset of that type|True|0.5335371494293213
+single property|dataset reconfiguration|False|0.4560289978981018
+single property|dataset type|False|0.3634541630744934
+single property|dataset type independent|False|0.2454318255186081
+single property|default|False|0.4618094861507416
+single property|exist dataset|True|0.5944458842277527
+single property|explicit version|True|0.7407425045967102
+single property|explore|True|0.7433013319969177
+single property|explore schema|True|0.6418262720108032
+single property|implementation|True|0.7249522805213928
+single property|interface|True|0.6579179763793945
+single property|meaningful error message|False|0.06037984415888786
+single property|migration process|False|0.19098138809204102
+single property|new version|False|0.4745464324951172
+single property|option|True|0.843308687210083
+single property|outdated version|False|0.09258056432008743
+single property|pipeline|False|0.4532204270362854
+single property|property|True|0.5746660828590393
+single property|schema|True|0.5926129817962646
+single property|single property|False|0.0
+single property|system|True|0.7039567828178406
+single property|time - to - live|False|0.23788759112358093
+single property|unit test|False|0.41185107827186584
+single property|value|True|0.765632152557373
+single property|way|True|0.8636665344238281
+system|all dataset instance|False|0.3172461986541748
+system|app|False|0.4812934100627899
+system|application creation|True|0.5974622368812561
+system|application redeployment|False|0.3183891177177429
+system|archetype|True|0.6915661692619324
+system|code|True|0.8526521921157837
+system|custom administrative operation|True|0.6487358808517456
+system|custom dataset type|False|0.4013234078884125
+system|dataset|True|0.6608458757400513
+system|dataset configuration|True|0.5885116457939148
+system|dataset creation|True|0.5643612146377563
+system|dataset instance|False|0.4313097298145294
+system|dataset instance of a type|True|0.7689732313156128
+system|dataset of that type|True|0.8289762735366821
+system|dataset reconfiguration|True|0.5427603125572205
+system|dataset type|True|0.5531051158905029
+system|dataset type independent|False|0.35990676283836365
+system|default|True|0.7789936065673828
+system|exist dataset|True|0.6441828608512878
+system|explicit version|True|0.9108933210372925
+system|explore|True|0.7590417265892029
+system|explore schema|True|0.752488374710083
+system|implementation|True|0.7373760342597961
+system|interface|True|0.8679870367050171
+system|meaningful error message|False|0.254421204328537
+system|migration process|False|0.38837191462516785
+system|new version|True|0.561534583568573
+system|option|True|0.9815702438354492
+system|outdated version|False|0.2269909530878067
+system|pipeline|True|0.5002809166908264
+system|property|True|0.9594716429710388
+system|schema|True|0.8709269762039185
+system|single property|True|0.7247849106788635
+system|system|False|0.0
+system|time - to - live|False|0.27113983035087585
+system|unit test|True|0.6293820142745972
+system|value|True|0.8706162571907043
+system|way|True|0.9770435094833374
+time - to - live|all dataset instance|False|0.2038830816745758
+time - to - live|app|False|0.4163844585418701
+time - to - live|application creation|False|0.3046237826347351
+time - to - live|application redeployment|False|0.22702939808368683
+time - to - live|archetype|False|0.32894960045814514
+time - to - live|code|True|0.5232780575752258
+time - to - live|custom administrative operation|False|0.3192964494228363
+time - to - live|custom dataset type|False|0.35902854800224304
+time - to - live|dataset|False|0.3879399597644806
+time - to - live|dataset configuration|False|0.4645369350910187
+time - to - live|dataset creation|False|0.32736095786094666
+time - to - live|dataset instance|False|0.4450003206729889
+time - to - live|dataset instance of a type|False|0.4129280745983124
+time - to - live|dataset of that type|False|0.33280372619628906
+time - to - live|dataset reconfiguration|False|0.3695197105407715
+time - to - live|dataset type|False|0.3983469009399414
+time - to - live|dataset type independent|False|0.2644203007221222
+time - to - live|default|False|0.26917532086372375
+time - to - live|exist dataset|False|0.35240626335144043
+time - to - live|explicit version|False|0.2931714653968811
+time - to - live|explore|False|0.32748645544052124
+time - to - live|explore schema|False|0.3936643600463867
+time - to - live|implementation|False|0.32574236392974854
+time - to - live|interface|False|0.48211947083473206
+time - to - live|meaningful error message|False|0.18870174884796143
+time - to - live|migration process|False|0.326566606760025
+time - to - live|new version|False|0.26499131321907043
+time - to - live|option|True|0.5341715812683105
+time - to - live|outdated version|False|0.13045234978199005
+time - to - live|pipeline|False|0.3242914378643036
+time - to - live|property|False|0.4668103754520416
+time - to - live|schema|True|0.5591095685958862
+time - to - live|single property|False|0.13367585837841034
+time - to - live|system|True|0.5644938349723816
+time - to - live|time - to - live|False|0.0
+time - to - live|unit test|False|0.2655395567417145
+time - to - live|value|False|0.4226340055465698
+time - to - live|way|False|0.4145411550998688
+unit test|all dataset instance|False|0.22394374012947083
+unit test|app|False|0.2685052454471588
+unit test|application creation|False|0.2173088937997818
+unit test|application redeployment|False|0.18798238039016724
+unit test|archetype|False|0.4202329218387604
+unit test|code|False|0.3175600469112396
+unit test|custom administrative operation|False|0.2685360312461853
+unit test|custom dataset type|False|0.2654918432235718
+unit test|dataset|False|0.38489648699760437
+unit test|dataset configuration|False|0.3777376115322113
+unit test|dataset creation|False|0.29613643884658813
+unit test|dataset instance|False|0.3658366799354553
+unit test|dataset instance of a type|False|0.4274629056453705
+unit test|dataset of that type|False|0.4284239411354065
+unit test|dataset reconfiguration|False|0.2926124334335327
+unit test|dataset type|False|0.3101586699485779
+unit test|dataset type independent|False|0.238576740026474
+unit test|default|False|0.28424128890037537
+unit test|exist dataset|False|0.3616279363632202
+unit test|explicit version|False|0.3639407455921173
+unit test|explore|False|0.3244609832763672
+unit test|explore schema|False|0.3423405587673187
+unit test|implementation|False|0.3777003884315491
+unit test|interface|False|0.41872313618659973
+unit test|meaningful error message|False|0.22630208730697632
+unit test|migration process|False|0.19213706254959106
+unit test|new version|False|0.22619156539440155
+unit test|option|False|0.4833182692527771
+unit test|outdated version|False|0.07236587256193161
+unit test|pipeline|False|0.2566169798374176
+unit test|property|False|0.49526336789131165
+unit test|schema|False|0.4216897487640381
+unit test|single property|False|0.19932669401168823
+unit test|system|False|0.45101580023765564
+unit test|time - to - live|False|0.20187993347644806
+unit test|unit test|False|0.0
+unit test|value|False|0.47955766320228577
+unit test|way|True|0.6960294842720032
+value|all dataset instance|False|0.410867840051651
+value|app|True|0.5339221358299255
+value|application creation|True|0.5963541269302368
+value|application redeployment|False|0.3379797041416168
+value|archetype|True|0.6715399026870728
+value|code|True|0.8036060333251953
+value|custom administrative operation|True|0.581209123134613
+value|custom dataset type|False|0.4280282258987427
+value|dataset|True|0.6094061136245728
+value|dataset configuration|True|0.5982903242111206
+value|dataset creation|False|0.4885372817516327
+value|dataset instance|True|0.5453578233718872
+value|dataset instance of a type|True|0.6733036637306213
+value|dataset of that type|True|0.7465860843658447
+value|dataset reconfiguration|True|0.5622178316116333
+value|dataset type|True|0.526216447353363
+value|dataset type independent|False|0.31680628657341003
+value|default|True|0.5941029191017151
+value|exist dataset|True|0.6323214173316956
+value|explicit version|True|0.7907138466835022
+value|explore|True|0.6812715530395508
+value|explore schema|True|0.7038052678108215
+value|implementation|True|0.7330744862556458
+value|interface|True|0.6640848517417908
+value|meaningful error message|False|0.3200967609882355
+value|migration process|False|0.39186540246009827
+value|new version|False|0.4746038317680359
+value|option|True|0.8455076217651367
+value|outdated version|False|0.1625019907951355
+value|pipeline|False|0.48725149035453796
+value|property|True|0.7759804129600525
+value|schema|True|0.8064524531364441
+value|single property|False|0.47887781262397766
+value|system|True|0.9084354043006897
+value|time - to - live|False|0.39500483870506287
+value|unit test|False|0.48089799284935
+value|value|False|0.0
+value|way|True|0.912501335144043
+way|all dataset instance|False|0.44192034006118774
+way|app|True|0.6168058514595032
+way|application creation|True|0.7503194212913513
+way|application redeployment|False|0.4164396822452545
+way|archetype|True|0.819212019443512
+way|code|True|0.9783902764320374
+way|custom administrative operation|True|0.7446579933166504
+way|custom dataset type|True|0.5212627649307251
+way|dataset|True|0.7945061326026917
+way|dataset configuration|True|0.7473839521408081
+way|dataset creation|True|0.7028942108154297
+way|dataset instance|True|0.6059099435806274
+way|dataset instance of a type|True|0.8678480982780457
+way|dataset of that type|True|0.9482488632202148
+way|dataset reconfiguration|True|0.7022430300712585
+way|dataset type|True|0.6927179098129272
+way|dataset type independent|False|0.45548391342163086
+way|default|True|0.9280475378036499
+way|exist dataset|True|0.8314874768257141
+way|explicit version|True|0.9106988310813904
+way|explore|True|0.8509817719459534
+way|explore schema|True|0.8565685153007507
+way|implementation|True|0.9325439929962158
+way|interface|True|0.8590524792671204
+way|meaningful error message|False|0.4057607352733612
+way|migration process|True|0.54831862449646
+way|new version|True|0.7845637202262878
+way|option|True|0.9817622303962708
+way|outdated version|False|0.25834178924560547
+way|pipeline|True|0.6820679306983948
+way|property|True|0.945374608039856
+way|schema|True|0.9614782333374023
+way|single property|True|0.7677062153816223
+way|system|True|0.9914937019348145
+way|time - to - live|False|0.33684608340263367
+way|unit test|True|0.7743917107582092
+way|value|True|0.924156129360199
+way|way|False|0.0

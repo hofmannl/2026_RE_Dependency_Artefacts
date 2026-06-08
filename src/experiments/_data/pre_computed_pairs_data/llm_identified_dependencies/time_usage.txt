@@ -1,0 +1,5 @@
+g08 | Order | Compute time was: 0.06006598472595215
+g08 | Hierical | Compute time was: 0.07890605926513672
+
+sim02 | Order | Compute time was: 0.0005583763122558594
+sim02 | Hierical | Compute time was: 0.0007607936859130859

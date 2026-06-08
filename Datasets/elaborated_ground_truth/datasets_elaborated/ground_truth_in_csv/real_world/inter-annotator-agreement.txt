@@ -1,0 +1,3 @@
+crud: Krippendorff's alpha: 0.7002130465658922
+containment: Krippendorff's alpha 0.6924646440013977
+sem.-eq.:  Krippendorff's alpha: 0.6560145757172242

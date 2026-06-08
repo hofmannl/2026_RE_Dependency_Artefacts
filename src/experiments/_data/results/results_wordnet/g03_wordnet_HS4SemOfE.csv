@@ -1,0 +1,1327 @@
+Entity 1|Entity 2|Hints from Wordnet
+affidavit|affidavit|True
+affidavit|application|False
+affidavit|bond|False
+affidavit|citation|False
+affidavit|code modification|False
+affidavit|completeness review|False
+affidavit|consistency|False
+affidavit|fee|False
+affidavit|fine|False
+affidavit|formal response|False
+affidavit|hearing calendar|False
+affidavit|hearing decision|False
+affidavit|hearing execution|False
+affidavit|hold|False
+affidavit|inspector workload|False
+affidavit|internal note|False
+affidavit|meet|False
+affidavit|notice of violation|False
+affidavit|ordinance|False
+affidavit|outcome|False
+affidavit|plan review meeting|False
+affidavit|planning - relate report|False
+affidavit|planning study|False
+affidavit|request|False
+affidavit|requirement|False
+affidavit|service|False
+affidavit|staff report|False
+affidavit|staff review|False
+affidavit|zoning - relate permit|False
+appeal|affidavit|False
+appeal|appeal|True
+appeal|application|False
+appeal|approve proffer|False
+appeal|bond|False
+appeal|citation|False
+appeal|code modification|False
+appeal|completeness review|False
+appeal|consistency|False
+appeal|fee|False
+appeal|fine|False
+appeal|formal response|False
+appeal|hearing calendar|False
+appeal|hearing decision|False
+appeal|hearing execution|False
+appeal|hold|False
+appeal|inspector workload|False
+appeal|internal note|False
+appeal|meet|False
+appeal|notice of violation|False
+appeal|ordinance|False
+appeal|outcome|False
+appeal|plan review meeting|False
+appeal|plan reviewer workload|False
+appeal|planning - relate report|False
+appeal|planning study|False
+appeal|property information|False
+appeal|request|False
+appeal|requirement|False
+appeal|service|False
+appeal|staff report|False
+appeal|staff review|False
+appeal|zoning - relate permit|False
+application|application|True
+application|bond|False
+application|code modification|False
+application|consistency|False
+application|hearing calendar|False
+application|hearing decision|False
+application|hold|False
+application|meet|False
+application|notice of violation|False
+application|plan review meeting|False
+application|planning - relate report|False
+application|planning study|False
+application|request|False
+application|requirement|False
+application|service|False
+application|staff report|False
+approve proffer|affidavit|False
+approve proffer|application|False
+approve proffer|approve proffer|True
+approve proffer|bond|False
+approve proffer|citation|False
+approve proffer|code modification|False
+approve proffer|completeness review|False
+approve proffer|consistency|False
+approve proffer|fee|False
+approve proffer|fine|False
+approve proffer|formal response|False
+approve proffer|hearing calendar|False
+approve proffer|hearing decision|False
+approve proffer|hearing execution|False
+approve proffer|hold|False
+approve proffer|inspector workload|False
+approve proffer|internal note|False
+approve proffer|meet|False
+approve proffer|notice of violation|False
+approve proffer|ordinance|False
+approve proffer|outcome|False
+approve proffer|plan review meeting|False
+approve proffer|plan reviewer workload|False
+approve proffer|planning - relate report|False
+approve proffer|planning study|False
+approve proffer|property information|False
+approve proffer|request|False
+approve proffer|requirement|False
+approve proffer|service|False
+approve proffer|staff report|False
+approve proffer|staff review|False
+approve proffer|zoning - relate permit|False
+bond|bond|True
+bond|consistency|False
+bond|hearing decision|False
+bond|requirement|False
+building development project|affidavit|False
+building development project|appeal|False
+building development project|application|False
+building development project|approve proffer|False
+building development project|bond|False
+building development project|building development project|True
+building development project|citation|False
+building development project|code modification|False
+building development project|completeness review|False
+building development project|consistency|False
+building development project|custom query / report|False
+building development project|customer portal user account|False
+building development project|draft proffer|False
+building development project|fee|False
+building development project|fine|False
+building development project|formal response|False
+building development project|hearing calendar|False
+building development project|hearing decision|False
+building development project|hearing execution|False
+building development project|hearing requirement|False
+building development project|hold|False
+building development project|inspection|False
+building development project|inspector workload|False
+building development project|internal note|False
+building development project|meet|False
+building development project|notice of violation|False
+building development project|ordinance|False
+building development project|outcome|False
+building development project|plan review meeting|False
+building development project|plan reviewer workload|False
+building development project|planning - relate report|False
+building development project|planning study|False
+building development project|property information|False
+building development project|request|False
+building development project|requirement|False
+building development project|service|False
+building development project|staff report|False
+building development project|staff review|False
+building development project|when|False
+building development project|zoning - relate permit|False
+citation|application|False
+citation|bond|False
+citation|citation|True
+citation|code modification|False
+citation|completeness review|False
+citation|consistency|False
+citation|fine|False
+citation|hearing calendar|False
+citation|hearing decision|False
+citation|hold|False
+citation|inspector workload|False
+citation|internal note|False
+citation|meet|False
+citation|notice of violation|False
+citation|ordinance|False
+citation|plan review meeting|False
+citation|planning - relate report|False
+citation|planning study|False
+citation|request|False
+citation|requirement|False
+citation|service|False
+citation|staff report|False
+citation|staff review|False
+citation|zoning - relate permit|False
+code modification|bond|False
+code modification|code modification|True
+code modification|consistency|False
+code modification|hearing decision|False
+code modification|requirement|False
+completeness review|application|False
+completeness review|bond|False
+completeness review|code modification|False
+completeness review|completeness review|True
+completeness review|consistency|False
+completeness review|fine|False
+completeness review|hearing calendar|False
+completeness review|hearing decision|False
+completeness review|hold|False
+completeness review|inspector workload|False
+completeness review|internal note|False
+completeness review|meet|False
+completeness review|notice of violation|False
+completeness review|ordinance|False
+completeness review|plan review meeting|False
+completeness review|planning - relate report|False
+completeness review|planning study|False
+completeness review|request|False
+completeness review|requirement|False
+completeness review|service|False
+completeness review|staff report|False
+completeness review|staff review|True
+completeness review|zoning - relate permit|False
+completion of require plan review|affidavit|False
+completion of require plan review|appeal|False
+completion of require plan review|application|False
+completion of require plan review|approve proffer|False
+completion of require plan review|bond|False
+completion of require plan review|building development project|False
+completion of require plan review|citation|False
+completion of require plan review|code modification|False
+completion of require plan review|completeness review|True
+completion of require plan review|completion of require plan review|True
+completion of require plan review|consistency|False
+completion of require plan review|custom query / report|False
+completion of require plan review|customer portal user account|False
+completion of require plan review|draft proffer|False
+completion of require plan review|fee|False
+completion of require plan review|fine|False
+completion of require plan review|formal response|False
+completion of require plan review|hearing calendar|False
+completion of require plan review|hearing decision|False
+completion of require plan review|hearing execution|False
+completion of require plan review|hearing requirement|False
+completion of require plan review|hold|False
+completion of require plan review|inspection|True
+completion of require plan review|inspector workload|False
+completion of require plan review|internal note|False
+completion of require plan review|meet|False
+completion of require plan review|notice of violation|False
+completion of require plan review|ordinance|False
+completion of require plan review|outcome|False
+completion of require plan review|plan review meeting|False
+completion of require plan review|plan reviewer workload|False
+completion of require plan review|planning - relate report|False
+completion of require plan review|planning study|False
+completion of require plan review|property information|False
+completion of require plan review|request|False
+completion of require plan review|requirement|False
+completion of require plan review|service|False
+completion of require plan review|staff report|False
+completion of require plan review|staff review|True
+completion of require plan review|when|False
+completion of require plan review|zoning - relate permit|False
+consistency|consistency|True
+consistency|requirement|False
+custom query / report|affidavit|False
+custom query / report|appeal|False
+custom query / report|application|False
+custom query / report|approve proffer|False
+custom query / report|bond|False
+custom query / report|citation|False
+custom query / report|code modification|False
+custom query / report|completeness review|False
+custom query / report|consistency|False
+custom query / report|custom query / report|True
+custom query / report|draft proffer|False
+custom query / report|fee|False
+custom query / report|fine|False
+custom query / report|formal response|False
+custom query / report|hearing calendar|False
+custom query / report|hearing decision|False
+custom query / report|hearing execution|False
+custom query / report|hold|False
+custom query / report|inspector workload|False
+custom query / report|internal note|False
+custom query / report|meet|False
+custom query / report|notice of violation|False
+custom query / report|ordinance|False
+custom query / report|outcome|False
+custom query / report|plan review meeting|False
+custom query / report|plan reviewer workload|False
+custom query / report|planning - relate report|True
+custom query / report|planning study|True
+custom query / report|property information|False
+custom query / report|request|False
+custom query / report|requirement|False
+custom query / report|service|False
+custom query / report|staff report|True
+custom query / report|staff review|False
+custom query / report|zoning - relate permit|False
+customer portal user account|affidavit|False
+customer portal user account|appeal|False
+customer portal user account|application|False
+customer portal user account|approve proffer|False
+customer portal user account|bond|False
+customer portal user account|citation|False
+customer portal user account|code modification|False
+customer portal user account|completeness review|False
+customer portal user account|consistency|False
+customer portal user account|custom query / report|True
+customer portal user account|customer portal user account|True
+customer portal user account|draft proffer|False
+customer portal user account|fee|False
+customer portal user account|fine|False
+customer portal user account|formal response|False
+customer portal user account|hearing calendar|False
+customer portal user account|hearing decision|False
+customer portal user account|hearing execution|False
+customer portal user account|hearing requirement|False
+customer portal user account|hold|False
+customer portal user account|inspector workload|False
+customer portal user account|internal note|False
+customer portal user account|meet|False
+customer portal user account|notice of violation|False
+customer portal user account|ordinance|False
+customer portal user account|outcome|False
+customer portal user account|plan review meeting|False
+customer portal user account|plan reviewer workload|False
+customer portal user account|planning - relate report|True
+customer portal user account|planning study|False
+customer portal user account|property information|False
+customer portal user account|request|False
+customer portal user account|requirement|False
+customer portal user account|service|False
+customer portal user account|staff report|True
+customer portal user account|staff review|False
+customer portal user account|when|False
+customer portal user account|zoning - relate permit|False
+development - relate permit|affidavit|False
+development - relate permit|appeal|False
+development - relate permit|application|False
+development - relate permit|approve proffer|False
+development - relate permit|bond|False
+development - relate permit|building development project|False
+development - relate permit|citation|False
+development - relate permit|code modification|False
+development - relate permit|completeness review|False
+development - relate permit|completion of require plan review|False
+development - relate permit|consistency|False
+development - relate permit|custom query / report|False
+development - relate permit|customer portal user account|False
+development - relate permit|development - relate permit|True
+development - relate permit|draft proffer|False
+development - relate permit|fee|False
+development - relate permit|fine|False
+development - relate permit|formal response|False
+development - relate permit|hearing calendar|False
+development - relate permit|hearing decision|False
+development - relate permit|hearing execution|False
+development - relate permit|hearing requirement|False
+development - relate permit|hold|False
+development - relate permit|inspection|False
+development - relate permit|inspector workload|False
+development - relate permit|internal note|False
+development - relate permit|meet|False
+development - relate permit|notice of violation|False
+development - relate permit|ordinance|False
+development - relate permit|outcome|False
+development - relate permit|plan amendment|False
+development - relate permit|plan review meeting|False
+development - relate permit|plan reviewer workload|False
+development - relate permit|planning - relate report|False
+development - relate permit|planning study|False
+development - relate permit|preapplication assistance|False
+development - relate permit|property information|False
+development - relate permit|request|False
+development - relate permit|requirement|False
+development - relate permit|service|False
+development - relate permit|staff report|False
+development - relate permit|staff review|False
+development - relate permit|status|False
+development - relate permit|when|False
+development - relate permit|zoning - relate permit|True
+draft proffer|affidavit|False
+draft proffer|appeal|False
+draft proffer|application|False
+draft proffer|approve proffer|True
+draft proffer|bond|False
+draft proffer|citation|False
+draft proffer|code modification|False
+draft proffer|completeness review|False
+draft proffer|consistency|False
+draft proffer|draft proffer|True
+draft proffer|fee|False
+draft proffer|fine|False
+draft proffer|formal response|False
+draft proffer|hearing calendar|False
+draft proffer|hearing decision|False
+draft proffer|hearing execution|False
+draft proffer|hold|False
+draft proffer|inspector workload|False
+draft proffer|internal note|False
+draft proffer|meet|False
+draft proffer|notice of violation|False
+draft proffer|ordinance|False
+draft proffer|outcome|False
+draft proffer|plan review meeting|False
+draft proffer|plan reviewer workload|False
+draft proffer|planning - relate report|False
+draft proffer|planning study|False
+draft proffer|property information|False
+draft proffer|request|False
+draft proffer|requirement|False
+draft proffer|service|False
+draft proffer|staff report|False
+draft proffer|staff review|False
+draft proffer|zoning - relate permit|False
+each condo unit|affidavit|False
+each condo unit|appeal|False
+each condo unit|application|False
+each condo unit|approve proffer|False
+each condo unit|bond|False
+each condo unit|building development project|False
+each condo unit|citation|False
+each condo unit|code modification|False
+each condo unit|completeness review|False
+each condo unit|completion of require plan review|False
+each condo unit|consistency|False
+each condo unit|custom query / report|False
+each condo unit|customer portal user account|False
+each condo unit|development - relate permit|False
+each condo unit|draft proffer|False
+each condo unit|each condo unit|True
+each condo unit|fee|False
+each condo unit|fine|False
+each condo unit|formal response|False
+each condo unit|hearing calendar|False
+each condo unit|hearing decision|False
+each condo unit|hearing execution|False
+each condo unit|hearing requirement|False
+each condo unit|hold|False
+each condo unit|inspection|False
+each condo unit|inspector workload|False
+each condo unit|internal note|False
+each condo unit|meet|False
+each condo unit|notice of violation|False
+each condo unit|ordinance|False
+each condo unit|outcome|False
+each condo unit|plan amendment|False
+each condo unit|plan review meeting|False
+each condo unit|plan reviewer workload|False
+each condo unit|planning - relate report|False
+each condo unit|planning study|False
+each condo unit|preapplication assistance|False
+each condo unit|property information|False
+each condo unit|request|False
+each condo unit|requirement|False
+each condo unit|service|False
+each condo unit|staff report|False
+each condo unit|staff review|False
+each condo unit|status|False
+each condo unit|when|False
+each condo unit|zoning - relate permit|False
+fee|application|False
+fee|bond|False
+fee|citation|False
+fee|code modification|False
+fee|completeness review|False
+fee|consistency|False
+fee|fee|True
+fee|fine|False
+fee|formal response|False
+fee|hearing calendar|False
+fee|hearing decision|False
+fee|hold|False
+fee|inspector workload|False
+fee|internal note|False
+fee|meet|False
+fee|notice of violation|False
+fee|ordinance|False
+fee|outcome|False
+fee|plan review meeting|False
+fee|planning - relate report|False
+fee|planning study|False
+fee|request|False
+fee|requirement|False
+fee|service|False
+fee|staff report|False
+fee|staff review|False
+fee|zoning - relate permit|False
+fine|application|False
+fine|bond|False
+fine|code modification|False
+fine|consistency|False
+fine|fine|True
+fine|hearing calendar|False
+fine|hearing decision|False
+fine|hold|False
+fine|inspector workload|False
+fine|internal note|False
+fine|meet|False
+fine|notice of violation|False
+fine|ordinance|False
+fine|plan review meeting|False
+fine|planning - relate report|False
+fine|planning study|False
+fine|request|False
+fine|requirement|False
+fine|service|False
+fine|staff report|False
+fine|staff review|False
+fine|zoning - relate permit|False
+formal response|application|False
+formal response|bond|False
+formal response|citation|False
+formal response|code modification|False
+formal response|completeness review|False
+formal response|consistency|False
+formal response|fine|False
+formal response|formal response|True
+formal response|hearing calendar|False
+formal response|hearing decision|False
+formal response|hold|False
+formal response|inspector workload|False
+formal response|internal note|False
+formal response|meet|False
+formal response|notice of violation|False
+formal response|ordinance|False
+formal response|outcome|False
+formal response|plan review meeting|False
+formal response|planning - relate report|False
+formal response|planning study|False
+formal response|request|False
+formal response|requirement|False
+formal response|service|False
+formal response|staff report|False
+formal response|staff review|False
+formal response|zoning - relate permit|False
+gis property management|affidavit|False
+gis property management|appeal|False
+gis property management|application|False
+gis property management|approve proffer|False
+gis property management|bond|False
+gis property management|building development project|False
+gis property management|citation|False
+gis property management|code modification|False
+gis property management|completeness review|False
+gis property management|completion of require plan review|False
+gis property management|consistency|False
+gis property management|custom query / report|False
+gis property management|customer portal user account|False
+gis property management|development - relate permit|False
+gis property management|draft proffer|False
+gis property management|each condo unit|False
+gis property management|fee|False
+gis property management|fine|False
+gis property management|formal response|False
+gis property management|gis property management|True
+gis property management|hearing calendar|False
+gis property management|hearing date|False
+gis property management|hearing decision|False
+gis property management|hearing execution|False
+gis property management|hearing requirement|False
+gis property management|hold|False
+gis property management|information|False
+gis property management|inspection|False
+gis property management|inspector workload|False
+gis property management|internal note|False
+gis property management|meet|False
+gis property management|notice of violation|False
+gis property management|ordinance|False
+gis property management|outcome|False
+gis property management|plan|False
+gis property management|plan amendment|False
+gis property management|plan review meeting|False
+gis property management|plan reviewer workload|False
+gis property management|planning - relate report|False
+gis property management|planning study|False
+gis property management|preapplication assistance|False
+gis property management|property information|False
+gis property management|request|False
+gis property management|requirement|False
+gis property management|service|False
+gis property management|staff report|False
+gis property management|staff review|False
+gis property management|status|False
+gis property management|when|False
+gis property management|zoning - relate permit|False
+hearing calendar|bond|False
+hearing calendar|code modification|False
+hearing calendar|consistency|False
+hearing calendar|hearing calendar|True
+hearing calendar|hearing decision|False
+hearing calendar|notice of violation|False
+hearing calendar|plan review meeting|False
+hearing calendar|planning - relate report|False
+hearing calendar|requirement|False
+hearing date|affidavit|False
+hearing date|appeal|False
+hearing date|application|False
+hearing date|approve proffer|False
+hearing date|bond|False
+hearing date|building development project|False
+hearing date|citation|False
+hearing date|code modification|False
+hearing date|completeness review|False
+hearing date|completion of require plan review|False
+hearing date|consistency|False
+hearing date|custom query / report|False
+hearing date|customer portal user account|False
+hearing date|development - relate permit|False
+hearing date|draft proffer|False
+hearing date|each condo unit|False
+hearing date|fee|False
+hearing date|fine|False
+hearing date|formal response|False
+hearing date|hearing calendar|False
+hearing date|hearing date|True
+hearing date|hearing decision|False
+hearing date|hearing execution|False
+hearing date|hearing requirement|False
+hearing date|hold|False
+hearing date|inspection|False
+hearing date|inspector workload|False
+hearing date|internal note|False
+hearing date|meet|False
+hearing date|notice of violation|False
+hearing date|ordinance|False
+hearing date|outcome|False
+hearing date|plan amendment|False
+hearing date|plan review meeting|False
+hearing date|plan reviewer workload|False
+hearing date|planning - relate report|False
+hearing date|planning study|False
+hearing date|preapplication assistance|False
+hearing date|property information|False
+hearing date|request|False
+hearing date|requirement|False
+hearing date|service|False
+hearing date|staff report|False
+hearing date|staff review|False
+hearing date|status|False
+hearing date|when|False
+hearing date|zoning - relate permit|False
+hearing decision|consistency|False
+hearing decision|hearing decision|True
+hearing decision|requirement|False
+hearing execution|application|False
+hearing execution|bond|False
+hearing execution|citation|False
+hearing execution|code modification|False
+hearing execution|completeness review|False
+hearing execution|consistency|False
+hearing execution|fee|False
+hearing execution|fine|False
+hearing execution|formal response|False
+hearing execution|hearing calendar|False
+hearing execution|hearing decision|False
+hearing execution|hearing execution|True
+hearing execution|hold|False
+hearing execution|inspector workload|False
+hearing execution|internal note|False
+hearing execution|meet|False
+hearing execution|notice of violation|False
+hearing execution|ordinance|False
+hearing execution|outcome|False
+hearing execution|plan review meeting|False
+hearing execution|planning - relate report|False
+hearing execution|planning study|False
+hearing execution|request|False
+hearing execution|requirement|False
+hearing execution|service|False
+hearing execution|staff report|False
+hearing execution|staff review|False
+hearing execution|zoning - relate permit|False
+hearing requirement|affidavit|False
+hearing requirement|appeal|False
+hearing requirement|application|False
+hearing requirement|approve proffer|False
+hearing requirement|bond|False
+hearing requirement|citation|False
+hearing requirement|code modification|False
+hearing requirement|completeness review|False
+hearing requirement|consistency|False
+hearing requirement|custom query / report|False
+hearing requirement|draft proffer|False
+hearing requirement|fee|False
+hearing requirement|fine|False
+hearing requirement|formal response|False
+hearing requirement|hearing calendar|False
+hearing requirement|hearing decision|False
+hearing requirement|hearing execution|False
+hearing requirement|hearing requirement|True
+hearing requirement|hold|False
+hearing requirement|inspector workload|False
+hearing requirement|internal note|False
+hearing requirement|meet|False
+hearing requirement|notice of violation|False
+hearing requirement|ordinance|False
+hearing requirement|outcome|False
+hearing requirement|plan review meeting|False
+hearing requirement|plan reviewer workload|False
+hearing requirement|planning - relate report|False
+hearing requirement|planning study|False
+hearing requirement|property information|False
+hearing requirement|request|False
+hearing requirement|requirement|True
+hearing requirement|service|False
+hearing requirement|staff report|False
+hearing requirement|staff review|False
+hearing requirement|when|False
+hearing requirement|zoning - relate permit|False
+hold|bond|False
+hold|code modification|False
+hold|consistency|False
+hold|hearing calendar|False
+hold|hearing decision|False
+hold|hold|True
+hold|meet|False
+hold|notice of violation|False
+hold|plan review meeting|False
+hold|planning - relate report|False
+hold|requirement|False
+information|affidavit|False
+information|appeal|False
+information|application|False
+information|approve proffer|False
+information|bond|False
+information|building development project|False
+information|citation|False
+information|code modification|False
+information|completeness review|False
+information|completion of require plan review|False
+information|consistency|False
+information|custom query / report|False
+information|customer portal user account|False
+information|development - relate permit|False
+information|draft proffer|False
+information|each condo unit|False
+information|fee|False
+information|fine|False
+information|formal response|False
+information|hearing calendar|False
+information|hearing date|False
+information|hearing decision|False
+information|hearing execution|False
+information|hearing requirement|False
+information|hold|False
+information|information|True
+information|inspection|False
+information|inspector workload|False
+information|internal note|False
+information|meet|False
+information|notice of violation|False
+information|ordinance|False
+information|outcome|False
+information|plan amendment|False
+information|plan review meeting|False
+information|plan reviewer workload|False
+information|planning - relate report|False
+information|planning study|False
+information|preapplication assistance|False
+information|property information|True
+information|request|False
+information|requirement|False
+information|service|False
+information|staff report|False
+information|staff review|False
+information|status|False
+information|when|False
+information|zoning - relate permit|False
+inspection|affidavit|False
+inspection|appeal|False
+inspection|application|False
+inspection|approve proffer|False
+inspection|bond|False
+inspection|citation|False
+inspection|code modification|False
+inspection|completeness review|True
+inspection|consistency|False
+inspection|custom query / report|False
+inspection|customer portal user account|False
+inspection|draft proffer|False
+inspection|fee|False
+inspection|fine|False
+inspection|formal response|False
+inspection|hearing calendar|False
+inspection|hearing decision|False
+inspection|hearing execution|False
+inspection|hearing requirement|False
+inspection|hold|False
+inspection|inspection|True
+inspection|inspector workload|False
+inspection|internal note|False
+inspection|meet|False
+inspection|notice of violation|False
+inspection|ordinance|False
+inspection|outcome|False
+inspection|plan review meeting|False
+inspection|plan reviewer workload|False
+inspection|planning - relate report|False
+inspection|planning study|False
+inspection|property information|False
+inspection|request|False
+inspection|requirement|False
+inspection|service|False
+inspection|staff report|False
+inspection|staff review|True
+inspection|when|False
+inspection|zoning - relate permit|False
+inspector workload|application|False
+inspector workload|bond|False
+inspector workload|code modification|False
+inspector workload|consistency|False
+inspector workload|hearing calendar|False
+inspector workload|hearing decision|False
+inspector workload|hold|False
+inspector workload|inspector workload|True
+inspector workload|internal note|False
+inspector workload|meet|False
+inspector workload|notice of violation|False
+inspector workload|ordinance|False
+inspector workload|plan review meeting|False
+inspector workload|planning - relate report|False
+inspector workload|planning study|False
+inspector workload|request|False
+inspector workload|requirement|False
+inspector workload|service|False
+inspector workload|staff report|False
+inspector workload|staff review|False
+internal note|application|False
+internal note|bond|False
+internal note|code modification|False
+internal note|consistency|False
+internal note|hearing calendar|False
+internal note|hearing decision|False
+internal note|hold|False
+internal note|internal note|True
+internal note|meet|False
+internal note|notice of violation|False
+internal note|ordinance|False
+internal note|plan review meeting|False
+internal note|planning - relate report|False
+internal note|planning study|False
+internal note|request|False
+internal note|requirement|False
+internal note|service|False
+internal note|staff report|False
+meet|bond|False
+meet|code modification|False
+meet|consistency|False
+meet|hearing calendar|False
+meet|hearing decision|False
+meet|meet|True
+meet|notice of violation|False
+meet|plan review meeting|False
+meet|planning - relate report|False
+meet|requirement|False
+notice of violation|bond|False
+notice of violation|code modification|False
+notice of violation|consistency|False
+notice of violation|hearing decision|False
+notice of violation|notice of violation|True
+notice of violation|plan review meeting|False
+notice of violation|planning - relate report|False
+notice of violation|requirement|False
+ordinance|application|False
+ordinance|bond|False
+ordinance|code modification|False
+ordinance|consistency|False
+ordinance|hearing calendar|False
+ordinance|hearing decision|False
+ordinance|hold|False
+ordinance|meet|False
+ordinance|notice of violation|False
+ordinance|ordinance|True
+ordinance|plan review meeting|False
+ordinance|planning - relate report|False
+ordinance|planning study|False
+ordinance|request|False
+ordinance|requirement|False
+ordinance|service|False
+ordinance|staff report|False
+outcome|application|False
+outcome|bond|False
+outcome|citation|False
+outcome|code modification|False
+outcome|completeness review|False
+outcome|consistency|False
+outcome|fine|False
+outcome|hearing calendar|False
+outcome|hearing decision|False
+outcome|hold|False
+outcome|inspector workload|False
+outcome|internal note|False
+outcome|meet|False
+outcome|notice of violation|False
+outcome|ordinance|False
+outcome|outcome|True
+outcome|plan review meeting|False
+outcome|planning - relate report|False
+outcome|planning study|False
+outcome|request|False
+outcome|requirement|False
+outcome|service|False
+outcome|staff report|False
+outcome|staff review|False
+outcome|zoning - relate permit|False
+plan|affidavit|False
+plan|appeal|False
+plan|application|False
+plan|approve proffer|False
+plan|bond|False
+plan|building development project|False
+plan|citation|False
+plan|code modification|False
+plan|completeness review|False
+plan|completion of require plan review|False
+plan|consistency|False
+plan|custom query / report|False
+plan|customer portal user account|False
+plan|development - relate permit|False
+plan|draft proffer|False
+plan|each condo unit|False
+plan|fee|False
+plan|fine|False
+plan|formal response|False
+plan|hearing calendar|False
+plan|hearing date|False
+plan|hearing decision|False
+plan|hearing execution|False
+plan|hearing requirement|False
+plan|hold|False
+plan|information|False
+plan|inspection|False
+plan|inspector workload|False
+plan|internal note|False
+plan|meet|False
+plan|notice of violation|False
+plan|ordinance|False
+plan|outcome|False
+plan|plan|True
+plan|plan amendment|False
+plan|plan review meeting|False
+plan|plan reviewer workload|False
+plan|planning - relate report|False
+plan|planning study|False
+plan|preapplication assistance|False
+plan|property information|False
+plan|request|False
+plan|requirement|False
+plan|service|False
+plan|staff report|False
+plan|staff review|False
+plan|status|False
+plan|when|False
+plan|zoning - relate permit|False
+plan amendment|affidavit|False
+plan amendment|appeal|False
+plan amendment|application|False
+plan amendment|approve proffer|False
+plan amendment|bond|False
+plan amendment|building development project|False
+plan amendment|citation|False
+plan amendment|code modification|False
+plan amendment|completeness review|False
+plan amendment|completion of require plan review|False
+plan amendment|consistency|False
+plan amendment|custom query / report|False
+plan amendment|customer portal user account|False
+plan amendment|draft proffer|False
+plan amendment|fee|False
+plan amendment|fine|False
+plan amendment|formal response|False
+plan amendment|hearing calendar|False
+plan amendment|hearing decision|False
+plan amendment|hearing execution|False
+plan amendment|hearing requirement|False
+plan amendment|hold|False
+plan amendment|inspection|False
+plan amendment|inspector workload|False
+plan amendment|internal note|False
+plan amendment|meet|False
+plan amendment|notice of violation|False
+plan amendment|ordinance|False
+plan amendment|outcome|False
+plan amendment|plan amendment|True
+plan amendment|plan review meeting|False
+plan amendment|plan reviewer workload|False
+plan amendment|planning - relate report|False
+plan amendment|planning study|False
+plan amendment|preapplication assistance|False
+plan amendment|property information|False
+plan amendment|request|False
+plan amendment|requirement|False
+plan amendment|service|False
+plan amendment|staff report|False
+plan amendment|staff review|False
+plan amendment|status|False
+plan amendment|when|False
+plan amendment|zoning - relate permit|False
+plan review meeting|bond|False
+plan review meeting|code modification|False
+plan review meeting|consistency|False
+plan review meeting|hearing decision|False
+plan review meeting|plan review meeting|True
+plan review meeting|planning - relate report|False
+plan review meeting|requirement|False
+plan reviewer workload|affidavit|False
+plan reviewer workload|application|False
+plan reviewer workload|bond|False
+plan reviewer workload|citation|False
+plan reviewer workload|code modification|False
+plan reviewer workload|completeness review|False
+plan reviewer workload|consistency|False
+plan reviewer workload|fee|False
+plan reviewer workload|fine|False
+plan reviewer workload|formal response|False
+plan reviewer workload|hearing calendar|False
+plan reviewer workload|hearing decision|False
+plan reviewer workload|hearing execution|False
+plan reviewer workload|hold|False
+plan reviewer workload|inspector workload|True
+plan reviewer workload|internal note|False
+plan reviewer workload|meet|False
+plan reviewer workload|notice of violation|False
+plan reviewer workload|ordinance|False
+plan reviewer workload|outcome|False
+plan reviewer workload|plan review meeting|False
+plan reviewer workload|plan reviewer workload|True
+plan reviewer workload|planning - relate report|False
+plan reviewer workload|planning study|False
+plan reviewer workload|property information|False
+plan reviewer workload|request|False
+plan reviewer workload|requirement|False
+plan reviewer workload|service|False
+plan reviewer workload|staff report|False
+plan reviewer workload|staff review|False
+plan reviewer workload|zoning - relate permit|False
+planning - relate report|bond|False
+planning - relate report|code modification|False
+planning - relate report|consistency|False
+planning - relate report|hearing decision|False
+planning - relate report|planning - relate report|True
+planning - relate report|requirement|False
+planning study|bond|False
+planning study|code modification|False
+planning study|consistency|False
+planning study|hearing calendar|False
+planning study|hearing decision|False
+planning study|hold|False
+planning study|meet|False
+planning study|notice of violation|False
+planning study|plan review meeting|False
+planning study|planning - relate report|True
+planning study|planning study|True
+planning study|request|False
+planning study|requirement|False
+planning study|service|False
+preapplication assistance|affidavit|False
+preapplication assistance|appeal|False
+preapplication assistance|application|False
+preapplication assistance|approve proffer|False
+preapplication assistance|bond|False
+preapplication assistance|building development project|False
+preapplication assistance|citation|False
+preapplication assistance|code modification|False
+preapplication assistance|completeness review|False
+preapplication assistance|completion of require plan review|False
+preapplication assistance|consistency|False
+preapplication assistance|custom query / report|False
+preapplication assistance|customer portal user account|False
+preapplication assistance|draft proffer|False
+preapplication assistance|fee|False
+preapplication assistance|fine|False
+preapplication assistance|formal response|False
+preapplication assistance|hearing calendar|False
+preapplication assistance|hearing decision|False
+preapplication assistance|hearing execution|False
+preapplication assistance|hearing requirement|False
+preapplication assistance|hold|False
+preapplication assistance|inspection|False
+preapplication assistance|inspector workload|False
+preapplication assistance|internal note|False
+preapplication assistance|meet|False
+preapplication assistance|notice of violation|False
+preapplication assistance|ordinance|False
+preapplication assistance|outcome|False
+preapplication assistance|plan review meeting|False
+preapplication assistance|plan reviewer workload|False
+preapplication assistance|planning - relate report|False
+preapplication assistance|planning study|False
+preapplication assistance|preapplication assistance|True
+preapplication assistance|property information|False
+preapplication assistance|request|False
+preapplication assistance|requirement|False
+preapplication assistance|service|True
+preapplication assistance|staff report|False
+preapplication assistance|staff review|False
+preapplication assistance|when|False
+preapplication assistance|zoning - relate permit|False
+property information|affidavit|False
+property information|application|False
+property information|bond|False
+property information|citation|False
+property information|code modification|False
+property information|completeness review|False
+property information|consistency|False
+property information|fee|False
+property information|fine|False
+property information|formal response|False
+property information|hearing calendar|False
+property information|hearing decision|False
+property information|hearing execution|False
+property information|hold|False
+property information|inspector workload|False
+property information|internal note|False
+property information|meet|False
+property information|notice of violation|False
+property information|ordinance|False
+property information|outcome|False
+property information|plan review meeting|False
+property information|planning - relate report|False
+property information|planning study|False
+property information|property information|True
+property information|request|False
+property information|requirement|False
+property information|service|False
+property information|staff report|False
+property information|staff review|False
+property information|zoning - relate permit|False
+request|bond|False
+request|code modification|False
+request|consistency|False
+request|hearing calendar|False
+request|hearing decision|False
+request|hold|False
+request|meet|False
+request|notice of violation|False
+request|plan review meeting|False
+request|planning - relate report|False
+request|request|True
+request|requirement|False
+requirement|requirement|True
+service|bond|False
+service|code modification|False
+service|consistency|False
+service|hearing calendar|False
+service|hearing decision|False
+service|hold|False
+service|meet|False
+service|notice of violation|False
+service|plan review meeting|False
+service|planning - relate report|False
+service|request|False
+service|requirement|False
+service|service|True
+staff report|bond|False
+staff report|code modification|False
+staff report|consistency|False
+staff report|hearing calendar|False
+staff report|hearing decision|False
+staff report|hold|False
+staff report|meet|False
+staff report|notice of violation|False
+staff report|plan review meeting|False
+staff report|planning - relate report|True
+staff report|planning study|True
+staff report|request|False
+staff report|requirement|False
+staff report|service|False
+staff report|staff report|True
+staff review|application|False
+staff review|bond|False
+staff review|code modification|False
+staff review|consistency|False
+staff review|hearing calendar|False
+staff review|hearing decision|False
+staff review|hold|False
+staff review|internal note|False
+staff review|meet|False
+staff review|notice of violation|False
+staff review|ordinance|False
+staff review|plan review meeting|False
+staff review|planning - relate report|False
+staff review|planning study|False
+staff review|request|False
+staff review|requirement|False
+staff review|service|False
+staff review|staff report|False
+staff review|staff review|True
+status|affidavit|False
+status|appeal|False
+status|application|False
+status|approve proffer|False
+status|bond|False
+status|building development project|False
+status|citation|False
+status|code modification|False
+status|completeness review|False
+status|completion of require plan review|False
+status|consistency|False
+status|custom query / report|False
+status|customer portal user account|False
+status|draft proffer|False
+status|fee|False
+status|fine|False
+status|formal response|False
+status|hearing calendar|False
+status|hearing decision|False
+status|hearing execution|False
+status|hearing requirement|False
+status|hold|False
+status|inspection|False
+status|inspector workload|False
+status|internal note|False
+status|meet|False
+status|notice of violation|False
+status|ordinance|False
+status|outcome|False
+status|plan review meeting|False
+status|plan reviewer workload|False
+status|planning - relate report|False
+status|planning study|False
+status|preapplication assistance|False
+status|property information|False
+status|request|False
+status|requirement|False
+status|service|False
+status|staff report|False
+status|staff review|False
+status|status|True
+status|when|False
+status|zoning - relate permit|False
+support documentation|affidavit|False
+support documentation|appeal|False
+support documentation|application|False
+support documentation|approve proffer|False
+support documentation|bond|False
+support documentation|building development project|False
+support documentation|citation|False
+support documentation|code modification|False
+support documentation|completeness review|False
+support documentation|completion of require plan review|False
+support documentation|consistency|False
+support documentation|custom query / report|False
+support documentation|customer portal user account|False
+support documentation|development - relate permit|False
+support documentation|draft proffer|False
+support documentation|each condo unit|False
+support documentation|fee|False
+support documentation|fine|False
+support documentation|formal response|False
+support documentation|gis property management|False
+support documentation|hearing calendar|False
+support documentation|hearing date|False
+support documentation|hearing decision|False
+support documentation|hearing execution|False
+support documentation|hearing requirement|False
+support documentation|hold|False
+support documentation|information|False
+support documentation|inspection|False
+support documentation|inspector workload|False
+support documentation|internal note|False
+support documentation|meet|False
+support documentation|notice of violation|False
+support documentation|ordinance|False
+support documentation|outcome|False
+support documentation|plan|False
+support documentation|plan amendment|False
+support documentation|plan review meeting|False
+support documentation|plan reviewer workload|False
+support documentation|planning - relate report|False
+support documentation|planning study|False
+support documentation|preapplication assistance|False
+support documentation|property information|False
+support documentation|request|False
+support documentation|requirement|False
+support documentation|service|False
+support documentation|staff report|False
+support documentation|staff review|False
+support documentation|status|False
+support documentation|support documentation|True
+support documentation|when|False
+support documentation|zoning - relate permit|False
+when|affidavit|False
+when|appeal|False
+when|application|False
+when|approve proffer|False
+when|bond|False
+when|citation|False
+when|code modification|False
+when|completeness review|False
+when|consistency|False
+when|custom query / report|False
+when|draft proffer|False
+when|fee|False
+when|fine|False
+when|formal response|False
+when|hearing calendar|False
+when|hearing decision|False
+when|hearing execution|False
+when|hold|False
+when|inspector workload|False
+when|internal note|False
+when|meet|False
+when|notice of violation|False
+when|ordinance|False
+when|outcome|False
+when|plan review meeting|False
+when|plan reviewer workload|False
+when|planning - relate report|False
+when|planning study|False
+when|property information|False
+when|request|False
+when|requirement|False
+when|service|False
+when|staff report|False
+when|staff review|False
+when|when|True
+when|zoning - relate permit|False
+zoning - relate permit|application|False
+zoning - relate permit|bond|False
+zoning - relate permit|code modification|False
+zoning - relate permit|consistency|False
+zoning - relate permit|hearing calendar|False
+zoning - relate permit|hearing decision|False
+zoning - relate permit|hold|False
+zoning - relate permit|inspector workload|False
+zoning - relate permit|internal note|False
+zoning - relate permit|meet|False
+zoning - relate permit|notice of violation|False
+zoning - relate permit|ordinance|False
+zoning - relate permit|plan review meeting|False
+zoning - relate permit|planning - relate report|False
+zoning - relate permit|planning study|False
+zoning - relate permit|request|False
+zoning - relate permit|requirement|False
+zoning - relate permit|service|False
+zoning - relate permit|staff report|False
+zoning - relate permit|staff review|False
+zoning - relate permit|zoning - relate permit|True

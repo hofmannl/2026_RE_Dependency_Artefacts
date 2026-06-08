@@ -1,0 +1,11 @@
+apple|fruit|true
+car|vehicle|true
+dog|animal|true
+table|furniture|true
+water|liquid|false
+book|paper|false
+phone|fruit|false
+tree|metal|true
+sky|building|false
+computer|food|false
+building|house|true

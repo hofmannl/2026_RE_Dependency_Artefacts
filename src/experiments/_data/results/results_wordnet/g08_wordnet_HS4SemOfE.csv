@@ -1,0 +1,947 @@
+Entity 1|Entity 2|Hints from Wordnet
+analysis|analysis|True
+analysis|data integration|False
+analysis|data|False
+analysis|data package|False
+analysis|doi|False
+analysis|elasticsearch integration|False
+analysis|eml dataset|False
+analysis|eprint integration|False
+analysis|excel spreadsheet|False
+analysis|general reference data|False
+analysis|hdf5 integration|False
+analysis|integration|False
+analysis|interactive preview|False
+analysis|microsoft power bi integration|False
+analysis|ml dataset|False
+analysis|mongo integration|False
+analysis|new visualization|False
+analysis|online service|False
+analysis|preview button|False
+analysis|remote - control vocabulary|False
+analysis|spss integration|False
+analysis|tool|False
+analysis|way|False
+analysis|web socket protocol|False
+app|analysis|False
+app|app|True
+app|command line tool|False
+app|data integration|False
+app|data|False
+app|data package|False
+app|doi|False
+app|dspace integration|False
+app|elasticsearch integration|False
+app|eml dataset|False
+app|eprint integration|False
+app|excel spreadsheet|False
+app|exploratory data analysis|False
+app|funding|False
+app|general reference data|False
+app|hdf5 integration|False
+app|integration|False
+app|interactive preview|False
+app|microsoft power bi integration|False
+app|ml dataset|False
+app|mongo integration|False
+app|new data column|False
+app|new visualization|False
+app|online service|False
+app|preview button|False
+app|reference data on inflation|False
+app|remote - control vocabulary|False
+app|spss integration|False
+app|tool|False
+app|type information|False
+app|useful metadata|False
+app|visualization|False
+app|way|False
+app|web socket protocol|False
+command line tool|analysis|False
+command line tool|command line tool|True
+command line tool|data integration|False
+command line tool|data|False
+command line tool|data package|False
+command line tool|doi|False
+command line tool|elasticsearch integration|False
+command line tool|eml dataset|False
+command line tool|eprint integration|False
+command line tool|excel spreadsheet|False
+command line tool|general reference data|False
+command line tool|hdf5 integration|False
+command line tool|integration|False
+command line tool|interactive preview|False
+command line tool|microsoft power bi integration|False
+command line tool|ml dataset|False
+command line tool|mongo integration|False
+command line tool|new visualization|False
+command line tool|online service|False
+command line tool|preview button|False
+command line tool|remote - control vocabulary|False
+command line tool|spss integration|False
+command line tool|tool|True
+command line tool|useful metadata|False
+command line tool|way|False
+command line tool|web socket protocol|False
+data integration|data integration|True
+data integration|microsoft power bi integration|True
+data|data integration|False
+data|data|True
+data|data package|False
+data|elasticsearch integration|False
+data|general reference data|True
+data|microsoft power bi integration|False
+data|new visualization|False
+data package|data integration|False
+data package|data package|True
+data package|elasticsearch integration|False
+data package|general reference data|False
+data package|microsoft power bi integration|False
+data package|new visualization|False
+doi|data integration|False
+doi|data|False
+doi|data package|False
+doi|doi|True
+doi|elasticsearch integration|False
+doi|excel spreadsheet|False
+doi|general reference data|False
+doi|hdf5 integration|False
+doi|integration|False
+doi|microsoft power bi integration|False
+doi|ml dataset|False
+doi|new visualization|False
+doi|online service|False
+doi|preview button|False
+doi|remote - control vocabulary|False
+doi|spss integration|False
+doi|web socket protocol|False
+dspace integration|analysis|False
+dspace integration|command line tool|False
+dspace integration|data integration|True
+dspace integration|data|False
+dspace integration|data package|False
+dspace integration|doi|False
+dspace integration|dspace integration|True
+dspace integration|elasticsearch integration|True
+dspace integration|eml dataset|False
+dspace integration|eprint integration|True
+dspace integration|excel spreadsheet|False
+dspace integration|exploratory data analysis|False
+dspace integration|funding|False
+dspace integration|general reference data|False
+dspace integration|hdf5 integration|True
+dspace integration|integration|True
+dspace integration|interactive preview|False
+dspace integration|microsoft power bi integration|True
+dspace integration|ml dataset|False
+dspace integration|mongo integration|True
+dspace integration|new data column|False
+dspace integration|new visualization|False
+dspace integration|online service|False
+dspace integration|preview button|False
+dspace integration|reference data on inflation|False
+dspace integration|remote - control vocabulary|False
+dspace integration|spss integration|True
+dspace integration|tool|False
+dspace integration|useful metadata|False
+dspace integration|visualization|False
+dspace integration|way|False
+dspace integration|web socket protocol|False
+elasticsearch integration|data integration|True
+elasticsearch integration|elasticsearch integration|True
+elasticsearch integration|general reference data|False
+elasticsearch integration|microsoft power bi integration|True
+elasticsearch integration|new visualization|False
+eml dataset|data integration|False
+eml dataset|data|False
+eml dataset|data package|False
+eml dataset|doi|False
+eml dataset|elasticsearch integration|False
+eml dataset|eml dataset|True
+eml dataset|eprint integration|False
+eml dataset|excel spreadsheet|False
+eml dataset|general reference data|False
+eml dataset|hdf5 integration|False
+eml dataset|integration|False
+eml dataset|interactive preview|False
+eml dataset|microsoft power bi integration|False
+eml dataset|ml dataset|True
+eml dataset|mongo integration|False
+eml dataset|new visualization|False
+eml dataset|online service|False
+eml dataset|preview button|False
+eml dataset|remote - control vocabulary|False
+eml dataset|spss integration|False
+eml dataset|way|False
+eml dataset|web socket protocol|False
+eprint integration|data integration|True
+eprint integration|data|False
+eprint integration|data package|False
+eprint integration|doi|False
+eprint integration|elasticsearch integration|True
+eprint integration|eprint integration|True
+eprint integration|excel spreadsheet|False
+eprint integration|general reference data|False
+eprint integration|hdf5 integration|True
+eprint integration|integration|True
+eprint integration|microsoft power bi integration|True
+eprint integration|ml dataset|False
+eprint integration|new visualization|False
+eprint integration|online service|False
+eprint integration|preview button|False
+eprint integration|remote - control vocabulary|False
+eprint integration|spss integration|True
+eprint integration|web socket protocol|False
+excel spreadsheet|data integration|False
+excel spreadsheet|data|False
+excel spreadsheet|data package|False
+excel spreadsheet|elasticsearch integration|False
+excel spreadsheet|excel spreadsheet|True
+excel spreadsheet|general reference data|False
+excel spreadsheet|hdf5 integration|False
+excel spreadsheet|microsoft power bi integration|False
+excel spreadsheet|ml dataset|False
+excel spreadsheet|new visualization|False
+excel spreadsheet|preview button|False
+excel spreadsheet|spss integration|False
+exist wizard|analysis|False
+exist wizard|app|False
+exist wizard|command line tool|False
+exist wizard|data integration|False
+exist wizard|data|False
+exist wizard|data package|False
+exist wizard|doi|False
+exist wizard|dspace integration|False
+exist wizard|elasticsearch integration|False
+exist wizard|eml dataset|False
+exist wizard|eprint integration|False
+exist wizard|excel spreadsheet|False
+exist wizard|exist wizard|True
+exist wizard|exploratory data analysis|False
+exist wizard|funding|False
+exist wizard|general country name|False
+exist wizard|general reference data|False
+exist wizard|hdf5 integration|False
+exist wizard|how many user|False
+exist wizard|integration|False
+exist wizard|interactive preview|False
+exist wizard|line|False
+exist wizard|microsoft power bi integration|False
+exist wizard|ml dataset|False
+exist wizard|mongo integration|False
+exist wizard|netcdf integration|False
+exist wizard|new data column|False
+exist wizard|new visualization|False
+exist wizard|online service|False
+exist wizard|preview button|False
+exist wizard|reference data on inflation|False
+exist wizard|remote - control vocabulary|False
+exist wizard|spss integration|False
+exist wizard|tool|False
+exist wizard|type information|False
+exist wizard|useful metadata|False
+exist wizard|visualization|False
+exist wizard|way|False
+exist wizard|web socket protocol|False
+exploratory data analysis|analysis|True
+exploratory data analysis|command line tool|False
+exploratory data analysis|data integration|False
+exploratory data analysis|data|False
+exploratory data analysis|data package|False
+exploratory data analysis|doi|False
+exploratory data analysis|elasticsearch integration|False
+exploratory data analysis|eml dataset|False
+exploratory data analysis|eprint integration|False
+exploratory data analysis|excel spreadsheet|False
+exploratory data analysis|exploratory data analysis|True
+exploratory data analysis|general reference data|False
+exploratory data analysis|hdf5 integration|False
+exploratory data analysis|integration|False
+exploratory data analysis|interactive preview|False
+exploratory data analysis|microsoft power bi integration|False
+exploratory data analysis|ml dataset|False
+exploratory data analysis|mongo integration|False
+exploratory data analysis|new visualization|False
+exploratory data analysis|online service|False
+exploratory data analysis|preview button|False
+exploratory data analysis|remote - control vocabulary|False
+exploratory data analysis|spss integration|False
+exploratory data analysis|tool|False
+exploratory data analysis|useful metadata|False
+exploratory data analysis|way|False
+exploratory data analysis|web socket protocol|False
+feather integration|analysis|False
+feather integration|app|False
+feather integration|command line tool|False
+feather integration|data integration|True
+feather integration|data|False
+feather integration|data package|False
+feather integration|doi|False
+feather integration|dspace integration|True
+feather integration|elasticsearch integration|True
+feather integration|eml dataset|False
+feather integration|eprint integration|True
+feather integration|excel spreadsheet|False
+feather integration|exist wizard|False
+feather integration|exploratory data analysis|False
+feather integration|feather integration|True
+feather integration|funding|False
+feather integration|general country name|False
+feather integration|general reference data|False
+feather integration|hdf5 integration|True
+feather integration|how many user|False
+feather integration|integration|True
+feather integration|interactive preview|False
+feather integration|jquery plugin|False
+feather integration|line|False
+feather integration|microsoft power bi integration|True
+feather integration|ml dataset|False
+feather integration|mongo integration|True
+feather integration|netcdf integration|True
+feather integration|new data column|False
+feather integration|new visualization|False
+feather integration|online service|False
+feather integration|preview button|False
+feather integration|quality of data|False
+feather integration|reference data on inflation|False
+feather integration|remote - control vocabulary|False
+feather integration|reproducible step|False
+feather integration|spss integration|True
+feather integration|tool|False
+feather integration|type information|False
+feather integration|useful metadata|False
+feather integration|visualization|False
+feather integration|way|False
+feather integration|web socket protocol|False
+funding|analysis|False
+funding|command line tool|False
+funding|data integration|False
+funding|data|False
+funding|data package|False
+funding|doi|False
+funding|elasticsearch integration|False
+funding|eml dataset|False
+funding|eprint integration|False
+funding|excel spreadsheet|False
+funding|exploratory data analysis|False
+funding|funding|True
+funding|general reference data|False
+funding|hdf5 integration|False
+funding|integration|False
+funding|interactive preview|False
+funding|microsoft power bi integration|False
+funding|ml dataset|False
+funding|mongo integration|False
+funding|new data column|False
+funding|new visualization|False
+funding|online service|False
+funding|preview button|False
+funding|remote - control vocabulary|False
+funding|spss integration|False
+funding|tool|False
+funding|useful metadata|False
+funding|way|False
+funding|web socket protocol|False
+general country name|analysis|False
+general country name|app|False
+general country name|command line tool|False
+general country name|data integration|False
+general country name|data|False
+general country name|data package|False
+general country name|doi|False
+general country name|dspace integration|False
+general country name|elasticsearch integration|False
+general country name|eml dataset|False
+general country name|eprint integration|False
+general country name|excel spreadsheet|False
+general country name|exploratory data analysis|False
+general country name|funding|False
+general country name|general country name|True
+general country name|general reference data|False
+general country name|hdf5 integration|False
+general country name|integration|False
+general country name|interactive preview|False
+general country name|line|False
+general country name|microsoft power bi integration|False
+general country name|ml dataset|False
+general country name|mongo integration|False
+general country name|new data column|False
+general country name|new visualization|False
+general country name|online service|False
+general country name|preview button|False
+general country name|reference data on inflation|False
+general country name|remote - control vocabulary|False
+general country name|spss integration|False
+general country name|tool|False
+general country name|type information|False
+general country name|useful metadata|False
+general country name|visualization|False
+general country name|way|False
+general country name|web socket protocol|False
+general reference data|data integration|False
+general reference data|general reference data|True
+general reference data|microsoft power bi integration|False
+hdf5 integration|data integration|True
+hdf5 integration|data|False
+hdf5 integration|data package|False
+hdf5 integration|elasticsearch integration|True
+hdf5 integration|general reference data|False
+hdf5 integration|hdf5 integration|True
+hdf5 integration|microsoft power bi integration|True
+hdf5 integration|ml dataset|False
+hdf5 integration|new visualization|False
+hdf5 integration|preview button|False
+hdf5 integration|spss integration|True
+how many user|analysis|False
+how many user|app|False
+how many user|command line tool|False
+how many user|data integration|False
+how many user|data|False
+how many user|data package|False
+how many user|doi|False
+how many user|dspace integration|False
+how many user|elasticsearch integration|False
+how many user|eml dataset|False
+how many user|eprint integration|False
+how many user|excel spreadsheet|False
+how many user|exploratory data analysis|False
+how many user|funding|False
+how many user|general country name|False
+how many user|general reference data|False
+how many user|hdf5 integration|False
+how many user|how many user|True
+how many user|integration|False
+how many user|interactive preview|False
+how many user|line|False
+how many user|microsoft power bi integration|False
+how many user|ml dataset|False
+how many user|mongo integration|False
+how many user|netcdf integration|False
+how many user|new data column|False
+how many user|new visualization|False
+how many user|online service|False
+how many user|preview button|False
+how many user|reference data on inflation|False
+how many user|remote - control vocabulary|False
+how many user|spss integration|False
+how many user|tool|False
+how many user|type information|False
+how many user|useful metadata|False
+how many user|visualization|False
+how many user|way|False
+how many user|web socket protocol|False
+integration|data integration|True
+integration|data|False
+integration|data package|False
+integration|elasticsearch integration|True
+integration|excel spreadsheet|False
+integration|general reference data|False
+integration|hdf5 integration|True
+integration|integration|True
+integration|microsoft power bi integration|True
+integration|ml dataset|False
+integration|new visualization|False
+integration|online service|False
+integration|preview button|False
+integration|remote - control vocabulary|False
+integration|spss integration|True
+interactive preview|data integration|False
+interactive preview|data|False
+interactive preview|data package|False
+interactive preview|doi|False
+interactive preview|elasticsearch integration|False
+interactive preview|eprint integration|False
+interactive preview|excel spreadsheet|False
+interactive preview|general reference data|False
+interactive preview|hdf5 integration|False
+interactive preview|integration|False
+interactive preview|interactive preview|True
+interactive preview|microsoft power bi integration|False
+interactive preview|ml dataset|False
+interactive preview|new visualization|False
+interactive preview|online service|False
+interactive preview|preview button|False
+interactive preview|remote - control vocabulary|False
+interactive preview|spss integration|False
+interactive preview|way|False
+interactive preview|web socket protocol|False
+jquery plugin|analysis|False
+jquery plugin|app|False
+jquery plugin|command line tool|False
+jquery plugin|data integration|False
+jquery plugin|data|False
+jquery plugin|data package|False
+jquery plugin|doi|False
+jquery plugin|dspace integration|False
+jquery plugin|elasticsearch integration|False
+jquery plugin|eml dataset|False
+jquery plugin|eprint integration|False
+jquery plugin|excel spreadsheet|False
+jquery plugin|exist wizard|False
+jquery plugin|exploratory data analysis|False
+jquery plugin|funding|False
+jquery plugin|general country name|False
+jquery plugin|general reference data|False
+jquery plugin|hdf5 integration|False
+jquery plugin|how many user|False
+jquery plugin|integration|False
+jquery plugin|interactive preview|False
+jquery plugin|jquery plugin|True
+jquery plugin|line|False
+jquery plugin|microsoft power bi integration|False
+jquery plugin|ml dataset|False
+jquery plugin|mongo integration|False
+jquery plugin|netcdf integration|False
+jquery plugin|new data column|False
+jquery plugin|new visualization|False
+jquery plugin|online service|False
+jquery plugin|preview button|False
+jquery plugin|reference data on inflation|False
+jquery plugin|remote - control vocabulary|False
+jquery plugin|spss integration|False
+jquery plugin|tool|False
+jquery plugin|type information|False
+jquery plugin|useful metadata|False
+jquery plugin|visualization|False
+jquery plugin|way|False
+jquery plugin|web socket protocol|False
+line|analysis|False
+line|app|False
+line|command line tool|False
+line|data integration|False
+line|data|False
+line|data package|False
+line|doi|False
+line|dspace integration|False
+line|elasticsearch integration|False
+line|eml dataset|False
+line|eprint integration|False
+line|excel spreadsheet|False
+line|exploratory data analysis|False
+line|funding|False
+line|general reference data|False
+line|hdf5 integration|False
+line|integration|False
+line|interactive preview|False
+line|line|True
+line|microsoft power bi integration|False
+line|ml dataset|False
+line|mongo integration|False
+line|new data column|False
+line|new visualization|False
+line|online service|False
+line|preview button|False
+line|reference data on inflation|False
+line|remote - control vocabulary|False
+line|spss integration|False
+line|tool|False
+line|type information|False
+line|useful metadata|False
+line|visualization|False
+line|way|False
+line|web socket protocol|False
+microsoft power bi integration|microsoft power bi integration|True
+ml dataset|data integration|False
+ml dataset|data|False
+ml dataset|data package|False
+ml dataset|elasticsearch integration|False
+ml dataset|general reference data|False
+ml dataset|microsoft power bi integration|False
+ml dataset|ml dataset|True
+ml dataset|new visualization|False
+ml dataset|preview button|False
+ml dataset|spss integration|False
+mongo integration|data integration|True
+mongo integration|data|False
+mongo integration|data package|False
+mongo integration|doi|False
+mongo integration|elasticsearch integration|True
+mongo integration|eprint integration|True
+mongo integration|excel spreadsheet|False
+mongo integration|general reference data|False
+mongo integration|hdf5 integration|True
+mongo integration|integration|True
+mongo integration|interactive preview|False
+mongo integration|microsoft power bi integration|True
+mongo integration|ml dataset|False
+mongo integration|mongo integration|True
+mongo integration|new visualization|False
+mongo integration|online service|False
+mongo integration|preview button|False
+mongo integration|remote - control vocabulary|False
+mongo integration|spss integration|True
+mongo integration|way|False
+mongo integration|web socket protocol|False
+netcdf integration|analysis|False
+netcdf integration|app|False
+netcdf integration|command line tool|False
+netcdf integration|data integration|True
+netcdf integration|data|False
+netcdf integration|data package|False
+netcdf integration|doi|False
+netcdf integration|dspace integration|True
+netcdf integration|elasticsearch integration|True
+netcdf integration|eml dataset|False
+netcdf integration|eprint integration|True
+netcdf integration|excel spreadsheet|False
+netcdf integration|exploratory data analysis|False
+netcdf integration|funding|False
+netcdf integration|general country name|False
+netcdf integration|general reference data|False
+netcdf integration|hdf5 integration|True
+netcdf integration|integration|True
+netcdf integration|interactive preview|False
+netcdf integration|line|False
+netcdf integration|microsoft power bi integration|True
+netcdf integration|ml dataset|False
+netcdf integration|mongo integration|True
+netcdf integration|netcdf integration|True
+netcdf integration|new data column|False
+netcdf integration|new visualization|False
+netcdf integration|online service|False
+netcdf integration|preview button|False
+netcdf integration|reference data on inflation|False
+netcdf integration|remote - control vocabulary|False
+netcdf integration|spss integration|True
+netcdf integration|tool|False
+netcdf integration|type information|False
+netcdf integration|useful metadata|False
+netcdf integration|visualization|False
+netcdf integration|way|False
+netcdf integration|web socket protocol|False
+new data column|analysis|False
+new data column|command line tool|False
+new data column|data integration|False
+new data column|data|False
+new data column|data package|False
+new data column|doi|False
+new data column|elasticsearch integration|False
+new data column|eml dataset|False
+new data column|eprint integration|False
+new data column|excel spreadsheet|False
+new data column|exploratory data analysis|False
+new data column|general reference data|False
+new data column|hdf5 integration|False
+new data column|integration|False
+new data column|interactive preview|False
+new data column|microsoft power bi integration|False
+new data column|ml dataset|False
+new data column|mongo integration|False
+new data column|new data column|True
+new data column|new visualization|False
+new data column|online service|False
+new data column|preview button|False
+new data column|remote - control vocabulary|False
+new data column|spss integration|False
+new data column|tool|False
+new data column|useful metadata|False
+new data column|way|False
+new data column|web socket protocol|False
+new visualization|data integration|False
+new visualization|general reference data|False
+new visualization|microsoft power bi integration|False
+new visualization|new visualization|True
+online service|data integration|False
+online service|data|False
+online service|data package|False
+online service|elasticsearch integration|False
+online service|excel spreadsheet|False
+online service|general reference data|False
+online service|hdf5 integration|False
+online service|microsoft power bi integration|False
+online service|ml dataset|False
+online service|new visualization|False
+online service|online service|True
+online service|preview button|False
+online service|spss integration|False
+preview button|data integration|False
+preview button|data|False
+preview button|data package|False
+preview button|elasticsearch integration|False
+preview button|general reference data|False
+preview button|microsoft power bi integration|False
+preview button|new visualization|False
+preview button|preview button|True
+preview button|spss integration|False
+quality of data|analysis|False
+quality of data|app|False
+quality of data|command line tool|False
+quality of data|data integration|False
+quality of data|data|True
+quality of data|data package|False
+quality of data|doi|False
+quality of data|dspace integration|False
+quality of data|elasticsearch integration|False
+quality of data|eml dataset|False
+quality of data|eprint integration|False
+quality of data|excel spreadsheet|False
+quality of data|exist wizard|False
+quality of data|exploratory data analysis|False
+quality of data|funding|False
+quality of data|general country name|False
+quality of data|general reference data|True
+quality of data|hdf5 integration|False
+quality of data|how many user|False
+quality of data|integration|False
+quality of data|interactive preview|False
+quality of data|jquery plugin|False
+quality of data|line|False
+quality of data|microsoft power bi integration|False
+quality of data|ml dataset|False
+quality of data|mongo integration|False
+quality of data|netcdf integration|False
+quality of data|new data column|False
+quality of data|new visualization|False
+quality of data|online service|False
+quality of data|preview button|False
+quality of data|quality of data|True
+quality of data|reference data on inflation|False
+quality of data|remote - control vocabulary|False
+quality of data|spss integration|False
+quality of data|tool|False
+quality of data|type information|True
+quality of data|useful metadata|False
+quality of data|visualization|False
+quality of data|way|False
+quality of data|web socket protocol|False
+reference data on inflation|analysis|False
+reference data on inflation|command line tool|False
+reference data on inflation|data integration|False
+reference data on inflation|data|False
+reference data on inflation|data package|False
+reference data on inflation|doi|False
+reference data on inflation|elasticsearch integration|False
+reference data on inflation|eml dataset|False
+reference data on inflation|eprint integration|False
+reference data on inflation|excel spreadsheet|False
+reference data on inflation|exploratory data analysis|False
+reference data on inflation|funding|False
+reference data on inflation|general reference data|False
+reference data on inflation|hdf5 integration|False
+reference data on inflation|integration|False
+reference data on inflation|interactive preview|False
+reference data on inflation|microsoft power bi integration|False
+reference data on inflation|ml dataset|False
+reference data on inflation|mongo integration|False
+reference data on inflation|new data column|False
+reference data on inflation|new visualization|False
+reference data on inflation|online service|False
+reference data on inflation|preview button|False
+reference data on inflation|reference data on inflation|True
+reference data on inflation|remote - control vocabulary|False
+reference data on inflation|spss integration|False
+reference data on inflation|tool|False
+reference data on inflation|useful metadata|False
+reference data on inflation|way|False
+reference data on inflation|web socket protocol|False
+remote - control vocabulary|data integration|False
+remote - control vocabulary|data|False
+remote - control vocabulary|data package|False
+remote - control vocabulary|elasticsearch integration|False
+remote - control vocabulary|excel spreadsheet|False
+remote - control vocabulary|general reference data|False
+remote - control vocabulary|hdf5 integration|False
+remote - control vocabulary|microsoft power bi integration|False
+remote - control vocabulary|ml dataset|False
+remote - control vocabulary|new visualization|False
+remote - control vocabulary|online service|False
+remote - control vocabulary|preview button|False
+remote - control vocabulary|remote - control vocabulary|True
+remote - control vocabulary|spss integration|False
+reproducible step|analysis|False
+reproducible step|app|False
+reproducible step|command line tool|False
+reproducible step|data integration|False
+reproducible step|data|False
+reproducible step|data package|False
+reproducible step|doi|False
+reproducible step|dspace integration|False
+reproducible step|elasticsearch integration|False
+reproducible step|eml dataset|False
+reproducible step|eprint integration|False
+reproducible step|excel spreadsheet|False
+reproducible step|exist wizard|False
+reproducible step|exploratory data analysis|False
+reproducible step|funding|False
+reproducible step|general country name|False
+reproducible step|general reference data|False
+reproducible step|hdf5 integration|False
+reproducible step|how many user|False
+reproducible step|integration|False
+reproducible step|interactive preview|False
+reproducible step|jquery plugin|False
+reproducible step|line|False
+reproducible step|microsoft power bi integration|False
+reproducible step|ml dataset|False
+reproducible step|mongo integration|False
+reproducible step|netcdf integration|False
+reproducible step|new data column|False
+reproducible step|new visualization|False
+reproducible step|online service|False
+reproducible step|preview button|False
+reproducible step|quality of data|False
+reproducible step|reference data on inflation|False
+reproducible step|remote - control vocabulary|False
+reproducible step|reproducible step|True
+reproducible step|spss integration|False
+reproducible step|tool|False
+reproducible step|type information|False
+reproducible step|useful metadata|False
+reproducible step|visualization|False
+reproducible step|way|False
+reproducible step|web socket protocol|False
+spss integration|data integration|True
+spss integration|data|False
+spss integration|data package|False
+spss integration|elasticsearch integration|True
+spss integration|general reference data|False
+spss integration|microsoft power bi integration|True
+spss integration|new visualization|False
+spss integration|spss integration|True
+tool|data integration|False
+tool|data|False
+tool|data package|False
+tool|doi|False
+tool|elasticsearch integration|False
+tool|eml dataset|False
+tool|eprint integration|False
+tool|excel spreadsheet|False
+tool|general reference data|False
+tool|hdf5 integration|False
+tool|integration|False
+tool|interactive preview|False
+tool|microsoft power bi integration|False
+tool|ml dataset|False
+tool|mongo integration|False
+tool|new visualization|False
+tool|online service|False
+tool|preview button|False
+tool|remote - control vocabulary|False
+tool|spss integration|False
+tool|tool|True
+tool|way|False
+tool|web socket protocol|False
+type information|analysis|False
+type information|command line tool|False
+type information|data integration|False
+type information|data|False
+type information|data package|False
+type information|doi|False
+type information|dspace integration|False
+type information|elasticsearch integration|False
+type information|eml dataset|False
+type information|eprint integration|False
+type information|excel spreadsheet|False
+type information|exploratory data analysis|False
+type information|funding|False
+type information|general reference data|False
+type information|hdf5 integration|False
+type information|integration|False
+type information|interactive preview|False
+type information|microsoft power bi integration|False
+type information|ml dataset|False
+type information|mongo integration|False
+type information|new data column|False
+type information|new visualization|False
+type information|online service|False
+type information|preview button|False
+type information|reference data on inflation|False
+type information|remote - control vocabulary|False
+type information|spss integration|False
+type information|tool|False
+type information|type information|True
+type information|useful metadata|False
+type information|visualization|False
+type information|way|False
+type information|web socket protocol|False
+useful metadata|analysis|False
+useful metadata|data integration|False
+useful metadata|data|False
+useful metadata|data package|False
+useful metadata|doi|False
+useful metadata|elasticsearch integration|False
+useful metadata|eml dataset|False
+useful metadata|eprint integration|False
+useful metadata|excel spreadsheet|False
+useful metadata|general reference data|False
+useful metadata|hdf5 integration|False
+useful metadata|integration|False
+useful metadata|interactive preview|False
+useful metadata|microsoft power bi integration|False
+useful metadata|ml dataset|False
+useful metadata|mongo integration|False
+useful metadata|new visualization|False
+useful metadata|online service|False
+useful metadata|preview button|False
+useful metadata|remote - control vocabulary|False
+useful metadata|spss integration|False
+useful metadata|tool|False
+useful metadata|useful metadata|True
+useful metadata|way|False
+useful metadata|web socket protocol|False
+visualization|analysis|False
+visualization|command line tool|False
+visualization|data integration|False
+visualization|data|False
+visualization|data package|False
+visualization|doi|False
+visualization|elasticsearch integration|False
+visualization|eml dataset|False
+visualization|eprint integration|False
+visualization|excel spreadsheet|False
+visualization|exploratory data analysis|False
+visualization|funding|False
+visualization|general reference data|False
+visualization|hdf5 integration|False
+visualization|integration|False
+visualization|interactive preview|False
+visualization|microsoft power bi integration|False
+visualization|ml dataset|False
+visualization|mongo integration|False
+visualization|new data column|False
+visualization|new visualization|True
+visualization|online service|False
+visualization|preview button|False
+visualization|reference data on inflation|False
+visualization|remote - control vocabulary|False
+visualization|spss integration|False
+visualization|tool|False
+visualization|useful metadata|False
+visualization|visualization|True
+visualization|way|False
+visualization|web socket protocol|False
+way|data integration|False
+way|data|False
+way|data package|False
+way|doi|False
+way|elasticsearch integration|False
+way|eprint integration|False
+way|excel spreadsheet|False
+way|general reference data|False
+way|hdf5 integration|False
+way|integration|False
+way|microsoft power bi integration|False
+way|ml dataset|False
+way|new visualization|False
+way|online service|False
+way|preview button|False
+way|remote - control vocabulary|False
+way|spss integration|False
+way|way|True
+way|web socket protocol|False
+web socket protocol|data integration|False
+web socket protocol|data|False
+web socket protocol|data package|False
+web socket protocol|elasticsearch integration|False
+web socket protocol|excel spreadsheet|False
+web socket protocol|general reference data|False
+web socket protocol|hdf5 integration|False
+web socket protocol|integration|False
+web socket protocol|microsoft power bi integration|False
+web socket protocol|ml dataset|False
+web socket protocol|new visualization|False
+web socket protocol|online service|False
+web socket protocol|preview button|False
+web socket protocol|remote - control vocabulary|False
+web socket protocol|spss integration|False
+web socket protocol|web socket protocol|True

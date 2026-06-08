@@ -1,0 +1,67 @@
+Entity 1|Entity 2|Mapping
+role of another user|role of another user|1
+role of another user|user|0
+role of another user|appointment|0
+role of another user|meeting|0
+role of another user|project|0
+role of another user|status of project|0
+role of another user|type of appointment|0
+role of another user|developer|0
+role of another user|deadline|0
+role of another user|files|0
+role of another user|data|0
+user|user|1
+user|appointment|0
+user|meeting|0
+user|project|0
+user|status of project|0
+user|type of appointment|0
+user|developer|0
+user|deadline|0
+user|files|0
+user|data|0
+appointment|appointment|1
+appointment|meeting|1
+appointment|project|0
+appointment|status of project|0
+appointment|type of appointment|0
+appointment|developer|0
+appointment|deadline|0
+appointment|files|0
+appointment|data|0
+meeting|meeting|1
+meeting|project|0
+meeting|status of project|0
+meeting|type of appointment|0
+meeting|developer|0
+meeting|deadline|0
+meeting|files|0
+meeting|data|0
+project|project|1
+project|status of project|0
+project|type of appointment|0
+project|developer|0
+project|deadline|0
+project|files|0
+project|data|0
+status of project|status of project|1
+status of project|type of appointment|0
+status of project|developer|0
+status of project|deadline|0
+status of project|files|0
+status of project|data|0
+type of appointment|type of appointment|1
+type of appointment|developer|0
+type of appointment|deadline|0
+type of appointment|files|0
+type of appointment|data|0
+developer|developer|1
+developer|deadline|0
+developer|files|0
+developer|data|0
+deadline|deadline|1
+deadline|files|0
+deadline|data|0
+files|files|1
+files|data|0
+data|data|1

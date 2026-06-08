@@ -1,0 +1,161 @@
+story|action|classified_action|similarity
+As a user, I want to sign up for a new account so that I can access the platform.|sign up|create|0.4729110896587372
+As a project manager, I want to establish a new project so that work can begin.|establish|create|0.6088552474975586
+As an administrator, I want to provision a new user profile so that the employee can log in.|provision|read|0.48735952377319336
+As a customer, I want to file a support ticket so that my issue can be tracked.|file|read|0.4616822898387909
+As a user, I want to generate a report so that I can analyze my data.|generate|create|0.5540070533752441
+As a editor, I want to compose a new article so that it can be published.|compose|create|0.5611523389816284
+As a developer, I want to instantiate a new service so that the system can scale.|instantiate|create|0.5114343166351318
+As a team leader, I want to form a new group so that members can collaborate.|form|create|0.4788496196269989
+As a user, I want to register a account so that I can use the application.|register|read|0.5267558693885803
+As a customer, I want to place a order so that I can purchase a product.|place|read|0.3845036029815674
+As a administrator, I want to issue a new access token so that the integration can authenticate.|issue|read|0.5468112826347351
+As a user, I want to add a new address so that I can receive deliveries.|add|create|0.564630925655365
+As a moderator, I want to originate a new discussion thread so that users can talk about a topic.|originate|read|0.49849802255630493
+As a teacher, I want to set up a new course so that students can enroll.|set up|create|0.4734681248664856
+As a user, I want to upload a file so that it is stored in the system.|upload|read|0.5743792653083801
+As a developer, I want to spawn a new instance so that the workload is distributed.|spawn|create|0.47978517413139343
+As a manager, I want to launch a new campaign so that customers are informed.|launch|create|0.45055779814720154
+As a user, I want to submit a form so that my request is recorded.|submit|read|0.5460097789764404
+As a system, I want to produce a daily summary so that users stay informed.|produce|create|0.493679404258728
+As a administrator, I want to allocate a new workspace so that a team can collaborate.|allocate|create|0.5448290109634399
+As a user, I want to book a calendar event so that I remember my appointment.|book|read|0.4182156026363373
+As a designer, I want to craft a new template so that others can reuse it.|craft|create|0.4552992880344391
+As a developer, I want to initialize a database so that the application can store data.|initialize|create|0.5278244614601135
+As a user, I want to post a message so that others can see it.|post|create|0.40840741991996765
+As a administrator, I want to enroll a new user so that they gain system access.|enroll|create|0.4925934970378876
+As a user, I want to record a new expense so that my budget is accurate.|record|read|0.40536898374557495
+As a project manager, I want to schedule a new task so that work is assigned.|schedule|read|0.4263668954372406
+As a user, I want to curate a playlist so that I can organize my music.|curate|read|0.45002347230911255
+As a system, I want to log a new event so that activity is tracked.|log|read|0.5594651103019714
+As a administrator, I want to deploy a new environment so that testing can begin.|deploy|create|0.5264293551445007
+As a user, I want to start a new conversation so that I can contact support.|start|create|0.45900771021842957
+As a developer, I want to construct a new object so that the feature works correctly.|construct|create|0.5934098362922668
+As a user, I want to enter a new contact so that I can reach them later.|enter|create|0.5362343192100525
+As a administrator, I want to assign a new role so that permissions are defined.|assign|create|0.5622063279151917
+As a user, I want to draft a new message so that I can send it later.|draft|read|0.40930694341659546
+As a team leader, I want to organize a new meeting so that we can plan the sprint.|organize|create|0.5326092839241028
+As a user, I want to create a bookmark so that I can return to the page quickly.|create|create|0.580633282661438
+As a developer, I want to compile a new build so that the software can be released.|compile|read|0.596352756023407
+As a customer, I want to initiate a return request so that I can send the product back.|initiate|create|0.5271748900413513
+As an administrator, I want to enact a new policy so that rules are enforced.|enact|create|0.5295513272285461
+As a user, I want to peruse my profile so that I can check my personal information.|peruse|read|0.5848617553710938
+As a customer, I want to see my order history so that I can track past purchases.|see|read|0.5023626089096069
+As an administrator, I want to scrutinize system logs so that I can detect issues.|scrutinize|read|0.6018312573432922
+As a project manager, I want to survey the project timeline so that I know the current status.|survey|read|0.39362844824790955
+As a user, I want to glance at my notifications so that I stay informed.|glance at|read|0.4797148108482361
+As a support agent, I want to assess a ticket so that I understand the problem.|assess|read|0.5387676954269409
+As a user, I want to look through messages so that I can stay in touch with others.|look through|read|0.5240728259086609
+As a manager, I want to analyze performance reports so that I can make decisions.|analyze|read|0.5425102114677429
+As a user, I want to check out available products so that I can choose what to buy.|check out|read|0.6195548176765442
+As an administrator, I want to oversee user activities so that I can ensure compliance.|oversee|read|0.5164642333984375
+As a user, I want to access a document so that I can read its content.|access|read|0.5350903272628784
+As a team member, I want to consult the project notes so that I understand the context.|consult|read|0.5330684781074524
+As a user, I want to display my saved items so that I can access them quickly.|display|read|0.4644808769226074
+As a developer, I want to trace application logs so that I can diagnose errors.|trace|read|0.5519515872001648
+As a user, I want to preview an image so that I know if it is the right one.|preview|read|0.5138968229293823
+As a moderator, I want to screen reported posts so that I can take action if needed.|screen|read|0.46627819538116455
+As a user, I want to look up a contact so that I can reach them.|look up|read|0.5057607889175415
+As a administrator, I want to monitor system status so that I can ensure uptime.|monitor|read|0.5524752736091614
+As a customer, I want to track my shipment so that I know when it will arrive.|track|read|0.4327051341533661
+As a user, I want to explore categories so that I can discover new content.|explore|read|0.5322116017341614
+As a manager, I want to evaluate sales data so that I can adjust strategy.|evaluate|read|0.5456716418266296
+As a user, I want to verify my account balance so that I know how much I have.|verify|read|0.5789400935173035
+As a support agent, I want to read through a conversation history so that I understand the issue.|read through|read|0.5212839841842651
+As a user, I want to reference my calendar so that I can see upcoming events.|reference|read|0.4219338297843933
+As an administrator, I want to check configuration settings against the security baseline so that I can confirm compliance.|check|read|0.566308856010437
+As a user, I want to browse through my photo gallery so that I can find a picture.|browse through|read|0.6228528022766113
+As a developer, I want to observe system metrics so that I can detect anomalies.|observe|read|0.5266290903091431
+As a user, I want to open my saved draft so that I can read it.|open|read|0.4162096381187439
+As a moderator, I want to probe flagged content so that I can better understand potential violations.|probe|read|0.4359044134616852
+As a technician, I want to ascertain the current system status so that I can perform the correct maintenance task.|ascertain|read|0.5594105124473572
+As a administrator, I want to examine access records so that I can verify activity.|examine|read|0.6828130483627319
+As a user, I want to scan my inbox so that I can find important messages.|scan|read|0.5799728035926819
+As a manager, I want to study team performance charts so that I can guide improvements.|study|read|0.4186621308326721
+As a user, I want to look over my recent activity so that I stay aware.|look over|read|0.4644167423248291
+As a developer, I want to inspect API responses so that I can debug issues.|inspect|read|0.5031810402870178
+As a user, I want to review my saved preferences so that I know my settings.|review|read|0.49779513478279114
+As a support agent, I want to check a user profile so that I can assist them.|check|read|0.5868639349937439
+As a user, I want to view my loyalty points so that I know my rewards.|view|read|0.4441702961921692
+As a administrator, I want to audit permission assignments so that access stays controlled.|audit|read|0.46126922965049744
+As a user, I want to read the terms of service so that I understand the rules.|read|read|0.4951472580432892
+As a user, I want to polish my profile information so that it stays accurate.|polish|read|0.44064879417419434
+As a customer, I want to alter my delivery address so that my order arrives at the correct place.|alter|update|0.5022422075271606
+As a administrator, I want to realign user permissions so that access rights are correct.|realign|update|0.5651425719261169
+As a project manager, I want to reschedule the project deadline so that it reflects new priorities.|reschedule|create|0.46374577283859253
+As a user, I want to revamp my saved draft so that I can improve the message.|revamp|update|0.4686167240142822
+As a user, I want to correct my phone number so that I can receive notifications.|correct|read|0.4699382483959198
+As a manager, I want to reforecast the sales forecast so that it matches current data.|reforecast|read|0.4307684600353241
+As a user, I want to retitle a file so that it is easier to identify.|retitle|read|0.4109971523284912
+As a administrator, I want to reconfigure system settings so that performance improves.|reconfigure|update|0.5825780630111694
+As a user, I want to replace my profile picture so that it reflects my current look.|replace|read|0.4660131335258484
+As a team member, I want to redefine task details so that expectations are clear.|redefine|update|0.49838653206825256
+As a user, I want to renew my password so that my account stays secure.|renew|read|0.4506117105484009
+As a developer, I want to refactor a module so that the code is easier to maintain.|refactor|read|0.457402765750885
+As a user, I want to toggle my notification preferences so that I only receive relevant alerts.|toggle|read|0.5150508880615234
+As a moderator, I want to alter post visibility settings so that content follows guidelines.|alter|update|0.5242875814437866
+As a user, I want to rectify my contact information so that others can reach me.|rectify|read|0.5331553220748901
+As a administrator, I want to restructure role definitions so that permissions are clear.|restructure|update|0.43974921107292175
+As a customer, I want to amend my order details so that they reflect my needs.|amend|update|0.480879545211792
+As a support agent, I want to recalibrate ticket details so that the issue description accurately reflects the current situation.|recalibrate|update|0.49210530519485474
+As a user, I want to customize my dashboard layout so that it suits my workflow.|customize|read|0.5758580565452576
+As a manager, I want to reframe team goals so that they reflect new targets.|reframe|create|0.45083087682724
+As a user, I want to switch my subscription plan so that it matches my usage.|switch|read|0.49210324883461
+As a support agent, I want to reprioritize ticket priority so that urgent issues are handled first.|reprioritize|read|0.4524143934249878
+As a user, I want to rearrange my calendar event so that the time is correct.|rearrange|read|0.5085896253585815
+As a administrator, I want to reassign a role so that responsibilities are accurate.|reassign|delete|0.4558635652065277
+As a user, I want to refine privacy settings so that my data is protected.|refine|read|0.5287089943885803
+As a developer, I want to optimize configuration parameters so that performance improves.|optimize|update|0.5286237597465515
+As a user, I want to overhaul a saved template so that it contains updated content.|overhaul|update|0.4409846365451813
+As a moderator, I want to retouch a post title so that it is accurate.|retouch|create|0.48783788084983826
+As a user, I want to refresh my payment details so that transactions can be processed successfully.|refresh|read|0.5087850689888
+As a administrator, I want to modify system thresholds so that alerts trigger correctly.|modify|update|0.574763298034668
+As a user, I want to rename a folder so that it is easier to find.|rename|create|0.46519505977630615
+As a manager, I want to reallocate budget allocations so that spending stays balanced.|reallocate|update|0.4816379249095917
+As a user, I want to correct a typo in my message so that it reads properly.|correct|read|0.419560045003891
+As a developer, I want to tune application settings so that response time improves.|tune|read|0.45694711804389954
+As a user, I want to edit my saved address so that deliveries reach me.|edit|read|0.4925291836261749
+As a support agent, I want to revise customer notes so that they stay accurate.|revise|update|0.5389600396156311
+As a user, I want to change my username so that it reflects my identity.|change|update|0.43870779871940613
+As a administrator, I want to update security policies so that the system stays protected.|update|read|0.5064393877983093
+As a user, I want to adjust reminder times so that they fit my schedule.|adjust|read|0.518187940120697
+As an administrator, I want to expunge a user account permanently so that former employees no longer have access.|expunge|read|0.5569978356361389
+As a user, I want to close my account so that my data is no longer stored.|close|read|0.40878355503082275
+As a moderator, I want to remove an inappropriate comment so that discussions stay respectful.|remove|delete|0.568358302116394
+As a project manager, I want to decommission an unused project so that the workspace remains organized.|decommission|create|0.49464282393455505
+As a support agent, I want to nullify a duplicate ticket so that confusion is avoided.|nullify|create|0.5775558948516846
+As a team leader, I want to oust an inactive member so that only active users remain.|oust|delete|0.49809929728507996
+As a administrator, I want to invalidate an expired API key so that it can no longer be used.|invalidate|delete|0.4754319489002228
+As a user, I want to eradicate a saved payment method so that it is not available anymore.|eradicate|delete|0.5056042075157166
+As a editor, I want to retract an incorrect article so that it is no longer visible.|retract|delete|0.42371052503585815
+As a administrator, I want to truncate old logs so that storage is freed.|truncate|delete|0.46433791518211365
+As a user, I want to obliterate an uploaded file so that it is no longer present.|obliterate|create|0.5808329582214355
+As a administrator, I want to cull unconfirmed registrations so that the database stays clean.|cull|read|0.4363267123699188
+As a moderator, I want to take down a reported post so that platform guidelines are enforced.|take down|read|0.4838374853134155
+As a project member, I want to scrap an outdated task so that only relevant work remains.|scrap|create|0.46697649359703064
+As a user, I want to delete permanently a saved draft so that it cannot be found anymore.|delete permanently|delete|0.5952655673027039
+As a administrator, I want to wipe a deactivated account so that it cannot be restored.|wipe|delete|0.6182041764259338
+As a team leader, I want to exclude a former member so that they are no longer listed.|exclude|read|0.4325142502784729
+As a user, I want to delete a saved address so that it is not used accidentally.|delete|delete|0.5670351982116699
+As an administrator, I want to deprecate obsolete configurations so that only valid ones remain.|deprecate|delete|0.416211873292923
+As a moderator, I want to exterminate spam messages so that users are not disturbed.|exterminate|delete|0.47145092487335205
+As a user, I want to exterminate a bookmarked item so that my list stays relevant.|exterminate|read|0.5234835743904114
+As an administrator, I want to dismantle unused roles so that the permission structure stays simple.|dismantle|delete|0.5713258981704712
+As a support agent, I want to discard resolved tickets so that the queue stays manageable.|discard|delete|0.5484850406646729
+As a user, I want to disconnect a linked device so that it no longer has access.|disconnect|read|0.4512975811958313
+As a moderator, I want to strip offensive usernames so that community standards are maintained.|strip|delete|0.3732013404369354
+As a administrator, I want to terminate expired sessions so that security risks are minimized.|terminate|delete|0.5292543172836304
+As a user, I want to dismiss a notification so that my inbox stays tidy.|dismiss|delete|0.4738937318325043
+As a project manager, I want to extirpate an archived milestone so that only active ones are shown.|extirpate|read|0.517091691493988
+As an administrator, I want to excise invalid data entries so that reports stay accurate.|excise|read|0.4407814145088196
+As a user, I want to revoke a shared link so that others can no longer access the content.|revoke|delete|0.5162330269813538
+As a moderator, I want to purge permanently duplicate posts so that discussions remain clear.|purge permanently|delete|0.6276676654815674
+As a team leader, I want to dissolve an empty group so that the structure stays clean.|dissolve|delete|0.5130729675292969
+As a user, I want to clear a saved search so that my list only contains useful ones.|clear|read|0.4139487147331238
+As a administrator, I want to retire outdated templates so that only current ones are available.|retire|update|0.4517497718334198
+As a user, I want to erase a profile picture so that it is no longer displayed.|erase|create|0.49260273575782776
+As a moderator, I want to withdraw policy-violating content so that the platform stays safe.|withdraw|delete|0.5055549740791321
+As a administrator, I want to purge orphaned records so that the database remains consistent.|purge|delete|0.4739294648170471
+As a user, I want to unlink a connected social account so that it is no longer linked.|unlink|read|0.4798479974269867
+As a support agent, I want to eliminate test tickets so that real issues are easier to find.|eliminate|create|0.5296897888183594
+As a administrator, I want to abolish obsolete user groups so that the structure stays maintainable.|abolish|delete|0.5491666793823242

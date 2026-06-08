@@ -1,0 +1,142 @@
+Persona 1 | Persona 2 | Result | Score 
+government publisher|civic tech activist|True|0.7024747729301453
+researcher|civic tech activist|True|0.796019434928894
+repository manager|researcherpublisher|True|0.8254196047782898
+researcherdeveloper|developerwrangler|True|0.9083568453788757
+machine learn expert|government publisher|True|0.6516174077987671
+machine learn expert|repositorymanagerresearcher|True|0.7967604398727417
+researcher|government publisher|True|0.7453968524932861
+civic tech activist|researcher|True|0.692656934261322
+researcher|developerwrangler|True|0.8660363554954529
+civic tech activist|developerdatawrangler|True|0.6776962280273438
+researcher|repositorymanagerresearcher|True|0.9167355895042419
+researchergovernment publisher|researcher|True|0.7272616624832153
+publisher|researcherdeveloper|True|0.826282262802124
+repository manager|civic tech activist|True|0.707740306854248
+publisher|repository manager|True|0.7859850525856018
+researcherdeveloper|researcherpublisher|True|0.812743067741394
+government publisher|researcherpublisher|True|0.829370379447937
+developer|researcherdeveloper|True|0.919221043586731
+developerpublisher|developer|True|0.7237308621406555
+developerpublisher|publisher|True|0.9339121580123901
+developer|repository manager|True|0.8568366169929504
+researchergovernment publisher|repository manager|True|0.5446380972862244
+repository manager|government publisher|True|0.7379750609397888
+developerwrangler|developer|True|0.9189010262489319
+repository manager|developerwrangler|True|0.8487027287483215
+developerwrangler|publisher|True|0.8168070912361145
+repository manager|repositorymanagerresearcher|True|0.9554077386856079
+researcherpublisher|researcherdeveloper|True|0.8721714019775391
+developerwrangler|developerdatawrangler|True|0.9159789085388184
+researcherpublisher|repository manager|True|0.8425098061561584
+machine learn expert|researcherdeveloper|True|0.8050304651260376
+publisher|developer|True|0.7630219459533691
+researcher|researcherdeveloper|True|0.8960874676704407
+machine learn expert|repository manager|True|0.747656524181366
+publisher|researcher|True|0.7648793458938599
+publisher|developerdatawrangler|True|0.7358196377754211
+developerpublisher|repositorymanagerresearcher|True|0.8708913922309875
+researcherdeveloper|government publisher|True|0.7132003903388977
+civic tech activist|developer|True|0.7201956510543823
+civic tech activist|publisher|True|0.640751838684082
+researcherdeveloper|repositorymanagerresearcher|True|0.8954440951347351
+developerwrangler|developerpublisher|True|0.8796484470367432
+developer|developer|True|1.0
+researchergovernment publisher|developer|True|0.5190010666847229
+government publisher|repositorymanagerresearcher|True|0.7515925765037537
+researchergovernment publisher|publisher|True|0.8968843817710876
+developer|researcher|True|0.8299010992050171
+developer|developerdatawrangler|True|0.8116229176521301
+researchergovernment publisher|developerdatawrangler|True|0.5874535441398621
+researchergovernment publisher|researchergovernment publisher|True|1.0
+publisher|developerpublisher|True|0.9213700890541077
+developerpublisher|researcherpublisher|True|0.9011091589927673
+researcherpublisher|researcher|True|0.8418230414390564
+researcherpublisher|developerdatawrangler|True|0.827448308467865
+developerdatawrangler|developer|True|0.7877575159072876
+developerwrangler|researcherpublisher|True|0.860418438911438
+civic tech activist|developerpublisher|True|0.665216863155365
+developerdatawrangler|researcher|True|0.7087060809135437
+machine learn expert|researcher|True|0.7912057042121887
+developer|developerpublisher|True|0.8049988150596619
+machine learn expert|developerdatawrangler|True|0.7976799607276917
+researchergovernment publisher|developerpublisher|True|0.7447137832641602
+researcher|researcher|True|1.0
+researcher|developerdatawrangler|True|0.7815573215484619
+publisher|researcherpublisher|True|0.8961194157600403
+publisher|machine learn expert|True|0.7447185516357422
+developerwrangler|civic tech activist|True|0.7807502746582031
+researcherpublisher|developerpublisher|True|0.9156467318534851
+repositorymanagerresearcher|developer|True|0.8697847723960876
+civic tech activist|researcherpublisher|True|0.6373462677001953
+publisher|publisher|True|1.0
+researcherdeveloper|repository manager|True|0.8248735070228577
+developerdatawrangler|developerpublisher|True|0.8461949229240417
+developer|researcherpublisher|True|0.7812602519989014
+researchergovernment publisher|researcherpublisher|True|0.8427049517631531
+publisher|civic tech activist|True|0.7340297102928162
+developer|machine learn expert|True|0.8053869605064392
+researcher|repository manager|True|0.8353596329689026
+publisher|researchergovernment publisher|True|0.9154619574546814
+developerwrangler|government publisher|True|0.7432956695556641
+developerwrangler|repositorymanagerresearcher|True|0.8921219706535339
+repository manager|researcher|True|0.8124527931213379
+developer|publisher|True|0.7765259742736816
+researcherpublisher|machine learn expert|True|0.7135390043258667
+developer|civic tech activist|True|0.8069085478782654
+developerdatawrangler|researcherpublisher|True|0.799932062625885
+researchergovernment publisher|civic tech activist|True|0.5530630946159363
+developer|researchergovernment publisher|True|0.6602358818054199
+publisher|government publisher|True|0.8493244647979736
+publisher|developerwrangler|True|0.8296386003494263
+researcherpublisher|developer|True|0.7207826972007751
+researcherpublisher|publisher|True|0.9338674545288086
+publisher|repositorymanagerresearcher|True|0.8406159281730652
+researcher|machine learn expert|True|0.7979646325111389
+researcherpublisher|civic tech activist|True|0.6693733334541321
+researcherpublisher|researchergovernment publisher|True|0.9166399836540222
+machine learn expert|developer|True|0.7915708422660828
+developerdatawrangler|publisher|True|0.6636179685592651
+machine learn expert|publisher|True|0.7276021838188171
+civic tech activist|repositorymanagerresearcher|True|0.7182663679122925
+researcherdeveloper|researcher|True|0.9029399156570435
+researcher|developer|True|0.8359854817390442
+developer|government publisher|True|0.741429328918457
+researcher|publisher|True|0.7830793261528015
+researcherdeveloper|developerdatawrangler|True|0.8688023686408997
+developer|developerwrangler|True|0.8889337778091431
+machine learn expert|civic tech activist|True|0.7499023675918579
+researchergovernment publisher|government publisher|True|0.9354340434074402
+researchergovernment publisher|developerwrangler|True|0.6344436407089233
+developer|repositorymanagerresearcher|True|0.8737500309944153
+government publisher|researcher|True|0.6921427249908447
+repositorymanagerresearcher|researcherpublisher|True|0.8894336223602295
+machine learn expert|researchergovernment publisher|True|0.6893023252487183
+researchergovernment publisher|repositorymanagerresearcher|True|0.6570099592208862
+government publisher|developerdatawrangler|True|0.6499377489089966
+researcher|researchergovernment publisher|True|0.7959067225456238
+researcherpublisher|government publisher|True|0.833069384098053
+researcherpublisher|developerwrangler|True|0.873270571231842
+researcherpublisher|repositorymanagerresearcher|True|0.8862196207046509
+repositorymanagerresearcher|publisher|True|0.8089005351066589
+researcherdeveloper|developerpublisher|True|0.8369622826576233
+machine learn expert|developerwrangler|True|0.7937725186347961
+developerdatawrangler|repositorymanagerresearcher|True|0.8947105407714844
+machine learn expert|developerpublisher|True|0.7226735353469849
+government publisher|developerpublisher|True|0.8181201219558716
+researcher|developerpublisher|True|0.818594217300415
+repository manager|developer|True|0.8259453773498535
+repository manager|publisher|True|0.7674968242645264
+researcherpublisher|researcherpublisher|True|1.0
+repository manager|developerdatawrangler|True|0.8351233005523682
+machine learn expert|researcherpublisher|True|0.7142235636711121
+researcher|researcherpublisher|True|0.8146050572395325
+researchergovernment publisher|researcherdeveloper|True|0.6768918633460999
+researcherdeveloper|developer|True|0.9259170889854431
+researcherdeveloper|publisher|True|0.7775477766990662
+developerpublisher|researcher|True|0.7787821292877197
+repository manager|developerpublisher|True|0.836983859539032
+government publisher|developer|True|0.6685761213302612
+government publisher|publisher|True|0.8641185164451599
+researcherdeveloper|civic tech activist|True|0.7358604669570923
+developerwrangler|researcher|True|0.8580556511878967

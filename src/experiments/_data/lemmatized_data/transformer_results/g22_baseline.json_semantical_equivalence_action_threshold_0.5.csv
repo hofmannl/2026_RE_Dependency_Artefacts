@@ -1,0 +1,441 @@
+Action 1 | Action 2 | Result | Score 
+clarify|record|True|0.7434868216514587
+extract|extract|True|1.0
+want|ensure|True|0.8106545209884644
+know in advance|ensure|True|0.8044914603233337
+have|check|True|0.7737893462181091
+import|ensure|True|0.7031792402267456
+ensure|get|True|0.7796946167945862
+access|extract|True|0.8799105882644653
+know|plan|True|0.7730445265769958
+indicate|clarify|True|0.8123980760574341
+properly record|plan|True|0.5941558480262756
+reuse|know|True|0.5959632992744446
+document|check|True|0.7390558123588562
+store|need|False|0.48836320638656616
+have|be inform|True|0.7410279512405396
+link|have|True|0.6264611482620239
+get|check|True|0.8359636664390564
+indicate|reuse|True|0.865759015083313
+want|need|True|0.8389986753463745
+receive|see|True|0.7806224822998047
+know in advance|need|True|0.6306633949279785
+document|be inform|True|0.7327396869659424
+plan|receive|True|0.871766209602356
+have|import|True|0.5949854850769043
+need|record|True|0.6941345930099487
+import|need|True|0.6356635093688965
+check|get|True|0.8594056367874146
+read|check|True|0.8289258480072021
+have|see|True|0.680355429649353
+know|want|True|0.7126568555831909
+ensure|know|True|0.6269438862800598
+be inform|check|True|0.8321952819824219
+properly record|want|True|0.5548202395439148
+document|import|True|0.5786424875259399
+plan|check|True|0.8303238153457642
+properly record|know|False|0.465251088142395
+link|make sure|True|0.7111710906028748
+get|have|True|0.7958996891975403
+document|see|True|0.6294915676116943
+have|link|True|0.5774039030075073
+read|be inform|True|0.8142021894454956
+link|clarify|True|0.7341558337211609
+link|store|True|0.5830743908882141
+import|know in advance|True|0.7511922717094421
+record|plan|True|0.6347501873970032
+know in advance|document|True|0.5095970034599304
+import|document|True|0.5188296437263489
+plan|be inform|True|0.7126610279083252
+know|ensure|True|0.7706758379936218
+read|import|True|0.7104969620704651
+check|know|True|0.7604228854179382
+read|see|True|0.8331004977226257
+be inform|see|True|0.7623593807220459
+get|make sure|True|0.7771050333976746
+have|access|True|0.7517881989479065
+plan|import|True|0.6708073616027832
+need|extract|True|0.8239017724990845
+record|want|True|0.531039297580719
+document|access|True|0.7061705589294434
+import|be inform|True|0.6911225914955139
+store|see|True|0.6105716228485107
+plan|link|True|0.5996341705322266
+indicate|plan|True|0.7983987927436829
+know|need|True|0.579907238483429
+extract|have|True|0.677788257598877
+receive|get|True|0.9273683428764343
+want|see|True|0.771905243396759
+have|get|True|0.8411887884140015
+import|see|True|0.5197404026985168
+receive|record|True|0.8369286060333252
+reuse|check|True|0.6996219754219055
+access|have|True|0.789959192276001
+have|record|True|0.7034515142440796
+record|ensure|True|0.6512483954429626
+know|know in advance|True|0.7971229553222656
+plan|access|True|0.7724829912185669
+document|get|True|0.7169458270072937
+properly record|know in advance|True|0.6685587763786316
+know|document|False|0.4773244261741638
+indicate|want|True|0.7808088660240173
+reuse|be inform|True|0.6753543615341187
+extract|make sure|True|0.6585582494735718
+indicate|know|True|0.6499572992324829
+document|record|True|0.8024581670761108
+access|link|True|0.7621039748191833
+extract|clarify|True|0.7206206917762756
+receive|know|True|0.7292261719703674
+ensure|check|True|0.8659160137176514
+extract|store|True|0.7076752781867981
+link|plan|True|0.7014069557189941
+make sure|extract|True|0.7928808331489563
+access|make sure|True|0.8162238001823425
+have|read|True|0.8006815910339355
+read|get|True|0.8547276258468628
+see|clarify|True|0.8263386487960815
+properly record|check|True|0.7019386887550354
+access|clarify|True|0.8259358406066895
+reuse|see|True|0.5994163751602173
+clarify|have|True|0.6700713634490967
+record|need|False|0.47587352991104126
+be inform|get|True|0.8337805867195129
+extract|reuse|True|0.732823371887207
+access|store|True|0.7941539883613586
+read|record|True|0.8475726842880249
+check|receive|True|0.8945519924163818
+document|read|True|0.8360700607299805
+be inform|record|True|0.7988806366920471
+access|reuse|True|0.8318279981613159
+properly record|be inform|True|0.7138946056365967
+plan|record|True|0.7475340962409973
+have|extract|True|0.791342556476593
+check|check|True|1.0
+record|know in advance|True|0.6745246648788452
+document|extract|True|0.77308589220047
+record|document|True|0.6371421217918396
+properly record|import|True|0.5591908693313599
+properly record|see|False|0.4892747402191162
+get|extract|True|0.8405070900917053
+know in advance|plan|True|0.8083427548408508
+import|get|True|0.7298476696014404
+need|have|True|0.7247874736785889
+plan|read|True|0.8288970589637756
+link|ensure|True|0.6332185864448547
+check|import|True|0.7172542214393616
+store|know|True|0.5303120613098145
+properly record|indicate|True|0.6269466280937195
+be inform|extract|True|0.7943858504295349
+record|be inform|True|0.691933810710907
+plan|extract|True|0.8172522783279419
+indicate|know in advance|True|0.7464959621429443
+ensure|access|True|0.6834672093391418
+want|know|True|0.763063371181488
+need|make sure|True|0.8010960221290588
+know in advance|know|True|0.8206102848052979
+check|link|True|0.6749052405357361
+need|clarify|True|0.7860507369041443
+import|know|True|0.5688134431838989
+reuse|get|True|0.6832396984100342
+extract|plan|True|0.6438085436820984
+receive|receive|True|1.0
+record|import|True|0.5729276537895203
+record|see|True|0.5770021080970764
+reuse|record|True|0.6426419615745544
+link|need|True|0.6014871001243591
+indicate|check|True|0.8015163540840149
+see|plan|True|0.8213105201721191
+receive|check|True|0.8308202624320984
+document|receive|True|0.8031002879142761
+check|access|True|0.8198167681694031
+indicate|be inform|True|0.8369694948196411
+make sure|have|True|0.8157646059989929
+extract|want|True|0.5820765495300293
+properly record|get|True|0.6858159303665161
+ensure|record|True|0.6941002607345581
+indicate|import|True|0.7046651244163513
+properly record|record|True|0.7419746518135071
+read|receive|True|0.9092748761177063
+indicate|see|True|0.6646333932876587
+access|want|True|0.7377192378044128
+receive|have|True|0.7738394737243652
+see|know|True|0.7137346267700195
+clarify|plan|True|0.7437821626663208
+be inform|receive|True|0.8802006840705872
+have|have|True|1.0
+reuse|extract|True|0.7738200426101685
+make sure|clarify|True|0.8693087100982666
+extract|ensure|True|0.6485989093780518
+know|know|True|1.0
+document|have|True|0.614579975605011
+check|record|True|0.8482820987701416
+properly record|read|True|0.7584725618362427
+store|receive|True|0.8225401639938354
+receive|make sure|True|0.774100661277771
+access|ensure|True|0.7834113240242004
+have|make sure|True|0.7482296228408813
+want|receive|True|0.8864672183990479
+record|get|True|0.7739084362983704
+ensure|extract|True|0.7546674013137817
+store|check|True|0.7771175503730774
+have|clarify|True|0.7437852621078491
+read|have|True|0.7443605661392212
+import|receive|True|0.8364514708518982
+document|link|True|0.541391909122467
+need|plan|True|0.7798655033111572
+have|store|True|0.668915331363678
+properly record|extract|True|0.710105299949646
+check|read|True|0.8786656260490417
+be inform|have|True|0.7600904703140259
+receive|access|True|0.8214275240898132
+document|make sure|True|0.710585355758667
+extract|need|True|0.6297658085823059
+want|check|True|0.8445323705673218
+know in advance|check|True|0.8323670625686646
+plan|have|True|0.7842980623245239
+document|clarify|True|0.7718456387519836
+store|be inform|True|0.6660938262939453
+import|check|True|0.7380963563919067
+have|reuse|True|0.7637944221496582
+document|store|True|0.628765344619751
+get|clarify|True|0.7639166116714478
+access|need|True|0.6982027888298035
+read|link|True|0.7137427926063538
+want|be inform|True|0.7679427266120911
+check|extract|True|0.8396478295326233
+know in advance|be inform|True|0.8326709270477295
+document|reuse|True|0.6515859365463257
+read|make sure|True|0.742842972278595
+record|know|True|0.5567840933799744
+extract|know in advance|True|0.559006929397583
+indicate|get|True|0.77728271484375
+be inform|make sure|True|0.849504292011261
+reuse|receive|True|0.7685227394104004
+read|store|True|0.7658736705780029
+extract|document|True|0.5837181210517883
+plan|make sure|True|0.8172370791435242
+want|import|True|0.754571795463562
+indicate|record|True|0.7180260419845581
+know in advance|import|True|0.666587769985199
+plan|clarify|True|0.7865549921989441
+know in advance|see|True|0.7327681183815002
+import|import|True|1.0
+read|access|True|0.8517490029335022
+plan|store|True|0.6874991059303284
+be inform|access|True|0.7969177961349487
+want|link|True|0.6609984636306763
+plan|reuse|True|0.784956157207489
+need|ensure|True|0.7806708216667175
+know|receive|True|0.8533022999763489
+import|link|True|0.5913272500038147
+make sure|plan|True|0.8481941223144531
+extract|be inform|True|0.6568753123283386
+properly record|receive|True|0.7757973074913025
+store|access|True|0.7317564487457275
+know|check|True|0.8367927670478821
+reuse|have|True|0.631679892539978
+extract|import|True|0.7628318071365356
+want|access|True|0.7774060964584351
+extract|see|True|0.5772714018821716
+know in advance|access|True|0.808934211730957
+have|plan|True|0.7549639344215393
+import|access|True|0.7108036279678345
+know|be inform|True|0.8321123719215393
+receive|extract|True|0.8638044595718384
+see|see|True|1.0
+reuse|link|True|0.6164673566818237
+ensure|have|True|0.6532813310623169
+get|plan|True|0.7718150615692139
+store|get|True|0.7747814655303955
+reuse|make sure|True|0.7841331362724304
+know|import|True|0.6439234018325806
+reuse|clarify|True|0.7797094583511353
+properly record|have|True|0.528243362903595
+know|see|True|0.7750048637390137
+link|know|True|0.5827223658561707
+store|record|True|0.776608407497406
+reuse|store|True|0.6683149337768555
+record|receive|True|0.8317478895187378
+want|get|True|0.913551390171051
+have|want|True|0.7551894783973694
+know in advance|get|True|0.817923367023468
+make sure|ensure|True|0.9325049519538879
+want|record|True|0.7674343585968018
+reuse|access|True|0.7047557830810547
+know|link|True|0.6060093641281128
+know in advance|record|True|0.7218042612075806
+record|check|True|0.7632675170898438
+document|want|True|0.5618457198143005
+import|record|True|0.6778455376625061
+plan|plan|True|1.0
+ensure|make sure|True|0.9363689422607422
+properly record|link|False|0.44927388429641724
+check|have|True|0.7539891004562378
+read|extract|True|0.8296483159065247
+ensure|clarify|True|0.8336763978004456
+properly record|make sure|True|0.7676613926887512
+get|know|True|0.6915133595466614
+have|ensure|True|0.7083011865615845
+properly record|store|True|0.6371753811836243
+know|access|True|0.7808254957199097
+know in advance|read|True|0.7737100124359131
+indicate|receive|True|0.8437138199806213
+import|read|True|0.753951370716095
+properly record|access|True|0.606359601020813
+store|extract|True|0.7860090732574463
+document|ensure|True|0.5893971920013428
+extract|get|True|0.8273325562477112
+check|make sure|True|0.8944343328475952
+plan|want|True|0.7540903091430664
+get|ensure|True|0.7036257386207581
+check|clarify|True|0.8511987924575806
+check|store|True|0.797766923904419
+need|see|True|0.6799747943878174
+want|extract|True|0.8353314995765686
+access|plan|True|0.824806809425354
+know in advance|extract|True|0.6975549459457397
+import|extract|True|0.8322901129722595
+have|need|True|0.6856551170349121
+see|record|True|0.8048511147499084
+record|link|True|0.519888162612915
+read|ensure|True|0.7252804636955261
+check|reuse|True|0.7850370407104492
+know|get|True|0.8282840251922607
+be inform|ensure|True|0.7952128648757935
+document|need|True|0.5396453142166138
+plan|ensure|True|0.7781898975372314
+know|record|True|0.7472147345542908
+extract|know|True|0.5534083843231201
+indicate|have|True|0.7135255336761475
+link|receive|True|0.7998796701431274
+have|know in advance|True|0.735377848148346
+record|access|True|0.6952189803123474
+have|document|False|0.45069995522499084
+access|know|True|0.77433842420578
+link|check|True|0.7112729549407959
+read|need|True|0.6255249381065369
+indicate|link|True|0.6315581798553467
+be inform|need|True|0.6796875596046448
+know|read|True|0.8525984287261963
+plan|need|True|0.6740856766700745
+indicate|make sure|True|0.8192026615142822
+ensure|plan|True|0.8203045129776001
+link|be inform|True|0.6890193223953247
+indicate|store|True|0.6432816386222839
+make sure|see|True|0.8064020276069641
+receive|clarify|True|0.7980469465255737
+know|extract|True|0.7715045213699341
+know in advance|receive|True|0.8430493474006653
+clarify|know|True|0.6190333962440491
+indicate|access|True|0.7285401225090027
+need|get|True|0.8465666770935059
+plan|know in advance|True|0.8132734298706055
+link|see|True|0.5909104347229004
+record|record|True|1.0
+plan|document|True|0.546065628528595
+check|plan|True|0.8340139985084534
+reuse|ensure|True|0.7072116136550903
+store|have|True|0.5660046935081482
+record|read|True|0.8276308178901672
+get|see|True|0.8064448833465576
+read|clarify|True|0.8199975490570068
+want|have|True|0.8339115381240845
+need|know|True|0.6925904750823975
+extract|receive|True|0.8527248501777649
+know in advance|have|True|0.7756103277206421
+be inform|clarify|True|0.8391733169555664
+import|have|True|0.6048561930656433
+check|want|True|0.7427669167518616
+ensure|ensure|True|1.0
+link|access|True|0.7201859951019287
+reuse|need|True|0.5916967391967773
+read|reuse|True|0.8092503547668457
+record|extract|True|0.7943932414054871
+access|receive|True|0.912658154964447
+properly record|ensure|True|0.578255832195282
+extract|check|True|0.711262583732605
+store|make sure|True|0.6794516444206238
+plan|see|True|0.7028279304504395
+store|clarify|True|0.7615508437156677
+know in advance|link|True|0.5604270100593567
+access|check|True|0.8595431447029114
+want|make sure|True|0.8740488290786743
+indicate|read|True|0.8037654161453247
+know in advance|make sure|True|0.8676122426986694
+want|clarify|True|0.8035770058631897
+import|make sure|True|0.6848284006118774
+check|ensure|True|0.863060712814331
+know in advance|clarify|True|0.8221815228462219
+make sure|record|True|0.8512771129608154
+want|store|True|0.6967775225639343
+import|clarify|True|0.7414126396179199
+know in advance|store|True|0.5998105406761169
+link|get|True|0.7546241879463196
+import|store|True|0.6544529795646667
+access|be inform|True|0.8096504807472229
+properly record|need|True|0.5144200325012207
+receive|plan|True|0.7340058088302612
+want|reuse|True|0.8069760799407959
+link|record|True|0.6149093508720398
+know in advance|reuse|True|0.7795091271400452
+indicate|extract|True|0.7665754556655884
+see|have|True|0.7374668717384338
+import|reuse|True|0.7316606640815735
+access|import|True|0.7728855609893799
+access|see|True|0.78375643491745
+make sure|know|True|0.8380768299102783
+document|plan|True|0.6649835109710693
+extract|link|True|0.5704568028450012
+check|need|True|0.7091963887214661
+know|have|True|0.669369637966156
+properly record|document|True|0.5260521769523621
+get|record|True|0.8069155812263489
+read|plan|True|0.783632755279541
+have|know|True|0.6800282597541809
+need|receive|True|0.8467286825180054
+check|know in advance|True|0.7933115363121033
+extract|access|True|0.748731791973114
+be inform|plan|True|0.7181961536407471
+link|extract|True|0.775743305683136
+check|document|True|0.6611649990081787
+plan|get|True|0.849768340587616
+indicate|ensure|True|0.7715686559677124
+know|make sure|True|0.8266903162002563
+document|know|True|0.5224493741989136
+need|check|True|0.8079814910888672
+know|clarify|True|0.8059188723564148
+access|access|True|1.0
+receive|ensure|True|0.7527299523353577
+know|store|True|0.6956836581230164
+properly record|clarify|True|0.7321368455886841
+store|plan|True|0.6230273842811584
+ensure|see|True|0.6218395233154297
+read|want|True|0.6973190903663635
+know|reuse|True|0.7985983490943909
+read|know|True|0.6865032911300659
+record|have|True|0.5831844806671143
+want|plan|True|0.8708851933479309
+properly record|reuse|True|0.6964250802993774
+check|be inform|True|0.8476585745811462
+be inform|know|True|0.747835099697113
+import|plan|True|0.6921611428260803
+indicate|need|True|0.7110885381698608
+plan|know|True|0.6982196569442749
+extract|record|True|0.7440178394317627
+access|get|True|0.905026376247406
+check|see|True|0.7978505492210388
+access|record|True|0.8430047035217285
+record|make sure|True|0.734643816947937
+record|clarify|True|0.7583968043327332
+know in advance|want|True|0.6805204749107361
+indicate|document|True|0.530925452709198
+import|want|True|0.6682440638542175
+record|store|True|0.6928625702857971
+extract|read|True|0.8078213930130005
+make sure|check|True|0.8996699452400208
+reuse|plan|True|0.7067930698394775
+record|reuse|True|0.6953991055488586
+access|read|True|0.895575761795044
+store|ensure|True|0.6355534791946411
+have|receive|True|0.8567895293235779
+need|access|True|0.763134777545929

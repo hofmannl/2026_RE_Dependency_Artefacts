@@ -1,0 +1,6 @@
+
+=== Ergebnis: g08_hierarchical_order_dependencies gegen gt_g08_hierarchical_order_dependencies ===
+Anzahl potentielle Abhängigkeiten für g08_hierarchical_order_dependencies: 4290
+g08_hierarchical_order_dependencies gesamt:           404
+g08_hierarchical_order_dependencies in gt_g08_hierarchical_order_dependencies:         387
+g08_hierarchical_order_dependencies nicht in gt_g08_hierarchical_order_dependencies:   17

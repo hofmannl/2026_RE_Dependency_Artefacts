@@ -1,0 +1,6 @@
+
+=== Ergebnis: gt_g08_order_dependencies gegen g08_order_dependencies ===
+Anzahl potentielle Abhängigkeiten für gt_g08_order_dependencies: 4290
+gt_g08_order_dependencies gesamt:           540
+gt_g08_order_dependencies in g08_order_dependencies:         149
+gt_g08_order_dependencies nicht in g08_order_dependencies:   391

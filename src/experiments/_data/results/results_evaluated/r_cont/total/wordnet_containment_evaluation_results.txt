@@ -1,0 +1,30 @@
+==================================================
+CLASSIFIER EVALUATION RESULTS - MULTIPLE DATASETS
+==================================================
+
+Total File Pairs Entered: 3
+Pairs Processed:         3
+Pairs Skipped:           0
+Total Matched Samples:   7475
+
+Coverage across datasets (pair identity, order matters):
+  Total GT pairs:        7475
+  Total Pred pairs:      7475
+  Total Missed pairs:    0  (in GT, not in Pred)
+  Total Extra pairs:     0   (in Pred, not in GT)
+
+Prediction duplicate conflict handling:
+  Conflicting duplicate pairs total:      0
+  Resolved using ground truth:            0
+  Unresolved (pair not in ground truth):  0
+
+Accuracy:  0.6631
+Precision: 0.3333
+Recall:    0.0008
+F1-Score:  0.0016
+F2-Score:  0.0010
+TP: 2  FP: 4  FN: 2514  TN: 4955
+
+Confusion Matrix (labels=[False, True]):
+[[4955    4]
+ [2514    2]]

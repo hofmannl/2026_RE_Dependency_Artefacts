@@ -1,0 +1,106 @@
+Persona 1|Persona 2
+machine learning expert|machine learning expert
+machine learning expert|developerwrangler
+machine learning expert|repository manager
+machine learning expert|researcherdeveloper
+machine learning expert|researcher
+machine learning expert|researcherpublisher
+machine learning expert|developerpublisher
+machine learning expert|researchergovernment publisher
+machine learning expert|developer
+machine learning expert|publisher
+machine learning expert|repositorymanagerresearcher
+machine learning expert|civic tech activist
+machine learning expert|developerdatawrangler
+machine learning expert|government publisher
+developerwrangler|developerwrangler
+developerwrangler|repository manager
+developerwrangler|researcherdeveloper
+developerwrangler|researcher
+developerwrangler|researcherpublisher
+developerwrangler|developerpublisher
+developerwrangler|researchergovernment publisher
+developerwrangler|developer
+developerwrangler|publisher
+developerwrangler|repositorymanagerresearcher
+developerwrangler|civic tech activist
+developerwrangler|developerdatawrangler
+developerwrangler|government publisher
+repository manager|repository manager
+repository manager|researcherdeveloper
+repository manager|researcher
+repository manager|researcherpublisher
+repository manager|developerpublisher
+repository manager|researchergovernment publisher
+repository manager|developer
+repository manager|publisher
+repository manager|repositorymanagerresearcher
+repository manager|civic tech activist
+repository manager|developerdatawrangler
+repository manager|government publisher
+researcherdeveloper|researcherdeveloper
+researcherdeveloper|researcher
+researcherdeveloper|researcherpublisher
+researcherdeveloper|developerpublisher
+researcherdeveloper|researchergovernment publisher
+researcherdeveloper|developer
+researcherdeveloper|publisher
+researcherdeveloper|repositorymanagerresearcher
+researcherdeveloper|civic tech activist
+researcherdeveloper|developerdatawrangler
+researcherdeveloper|government publisher
+researcher|researcher
+researcher|researcherpublisher
+researcher|developerpublisher
+researcher|researchergovernment publisher
+researcher|developer
+researcher|publisher
+researcher|repositorymanagerresearcher
+researcher|civic tech activist
+researcher|developerdatawrangler
+researcher|government publisher
+researcherpublisher|researcherpublisher
+researcherpublisher|developerpublisher
+researcherpublisher|researchergovernment publisher
+researcherpublisher|developer
+researcherpublisher|publisher
+researcherpublisher|repositorymanagerresearcher
+researcherpublisher|civic tech activist
+researcherpublisher|developerdatawrangler
+researcherpublisher|government publisher
+developerpublisher|developerpublisher
+developerpublisher|researchergovernment publisher
+developerpublisher|developer
+developerpublisher|publisher
+developerpublisher|repositorymanagerresearcher
+developerpublisher|civic tech activist
+developerpublisher|developerdatawrangler
+developerpublisher|government publisher
+researchergovernment publisher|researchergovernment publisher
+researchergovernment publisher|developer
+researchergovernment publisher|publisher
+researchergovernment publisher|repositorymanagerresearcher
+researchergovernment publisher|civic tech activist
+researchergovernment publisher|developerdatawrangler
+researchergovernment publisher|government publisher
+developer|developer
+developer|publisher
+developer|repositorymanagerresearcher
+developer|civic tech activist
+developer|developerdatawrangler
+developer|government publisher
+publisher|publisher
+publisher|repositorymanagerresearcher
+publisher|civic tech activist
+publisher|developerdatawrangler
+publisher|government publisher
+repositorymanagerresearcher|repositorymanagerresearcher
+repositorymanagerresearcher|civic tech activist
+repositorymanagerresearcher|developerdatawrangler
+repositorymanagerresearcher|government publisher
+civic tech activist|civic tech activist
+civic tech activist|developerdatawrangler
+civic tech activist|government publisher
+developerdatawrangler|developerdatawrangler
+developerdatawrangler|government publisher
+government publisher|government publisher

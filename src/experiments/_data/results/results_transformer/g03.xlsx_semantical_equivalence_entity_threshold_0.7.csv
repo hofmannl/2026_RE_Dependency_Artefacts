@@ -1,0 +1,1327 @@
+Entity 1 | Entity 2 | Result | Score 
+affidavit|affidavit|True|1.0
+affidavit|application|True|0.7731928825378418
+affidavit|bond|True|0.7815194725990295
+affidavit|citation|True|0.8096559047698975
+affidavit|code modification|False|0.646406888961792
+affidavit|completeness review|True|0.7854018807411194
+affidavit|consistency|True|0.8564910292625427
+affidavit|fee|False|0.6872327923774719
+affidavit|fine|False|0.6493799686431885
+affidavit|formal response|True|0.7980548143386841
+affidavit|hearing calendar|False|0.6513094902038574
+affidavit|hearing decision|True|0.7889237403869629
+affidavit|hearing execution|False|0.6525903344154358
+affidavit|hold|True|0.7637820243835449
+affidavit|inspector workload|True|0.7534011602401733
+affidavit|internal note|True|0.7288913130760193
+affidavit|meet|True|0.7477836012840271
+affidavit|notice of violation|True|0.7986021041870117
+affidavit|ordinance|True|0.7307952642440796
+affidavit|outcome|False|0.6883111000061035
+affidavit|plan review meeting|False|0.6180613040924072
+affidavit|planning - relate report|False|0.6968198418617249
+affidavit|planning study|False|0.6162179708480835
+affidavit|request|True|0.7684643268585205
+affidavit|requirement|True|0.7972986698150635
+affidavit|service|True|0.7385610938072205
+affidavit|staff report|True|0.7028924822807312
+affidavit|staff review|False|0.6888700127601624
+affidavit|zoning - relate permit|True|0.8079774379730225
+appeal|affidavit|True|0.8981934785842896
+appeal|appeal|True|1.0
+appeal|application|True|0.8847391605377197
+appeal|approve proffer|True|0.9334941506385803
+appeal|bond|True|0.8656662702560425
+appeal|citation|True|0.8508513569831848
+appeal|code modification|True|0.7582829594612122
+appeal|completeness review|True|0.828134298324585
+appeal|consistency|True|0.9203385710716248
+appeal|fee|True|0.7498795986175537
+appeal|fine|True|0.8363077640533447
+appeal|formal response|True|0.8468784689903259
+appeal|hearing calendar|True|0.712966799736023
+appeal|hearing decision|True|0.8053929209709167
+appeal|hearing execution|False|0.637247622013092
+appeal|hold|True|0.8376225233078003
+appeal|inspector workload|True|0.7430983185768127
+appeal|internal note|True|0.8077910542488098
+appeal|meet|True|0.817355751991272
+appeal|notice of violation|True|0.7484419345855713
+appeal|ordinance|True|0.823950469493866
+appeal|outcome|True|0.8402620553970337
+appeal|plan review meeting|True|0.7308396100997925
+appeal|plan reviewer workload|True|0.7936984300613403
+appeal|planning - relate report|True|0.7457852959632874
+appeal|planning study|True|0.7481017112731934
+appeal|property information|True|0.8457660675048828
+appeal|request|True|0.8452335000038147
+appeal|requirement|True|0.8450256586074829
+appeal|service|True|0.8117321729660034
+appeal|staff report|False|0.6657266020774841
+appeal|staff review|True|0.7416608333587646
+appeal|zoning - relate permit|True|0.8434990644454956
+application|application|True|1.0
+application|bond|True|0.8878749012947083
+application|code modification|True|0.7877169847488403
+application|consistency|True|0.9407961368560791
+application|hearing calendar|True|0.7978925704956055
+application|hearing decision|True|0.828926146030426
+application|hold|True|0.9057963490486145
+application|meet|True|0.871970534324646
+application|notice of violation|True|0.7883445024490356
+application|plan review meeting|True|0.7879368662834167
+application|planning - relate report|True|0.8591561913490295
+application|planning study|True|0.8527470827102661
+application|request|True|0.8903770446777344
+application|requirement|True|0.8984006643295288
+application|service|True|0.920436680316925
+application|staff report|True|0.7334508299827576
+approve proffer|affidavit|True|0.9104553461074829
+approve proffer|application|True|0.8815295100212097
+approve proffer|approve proffer|True|1.0
+approve proffer|bond|True|0.8123297095298767
+approve proffer|citation|True|0.878562867641449
+approve proffer|code modification|True|0.7728842496871948
+approve proffer|completeness review|True|0.8932626843452454
+approve proffer|consistency|True|0.9117928147315979
+approve proffer|fee|True|0.7775088548660278
+approve proffer|fine|True|0.8052138090133667
+approve proffer|formal response|True|0.8973120450973511
+approve proffer|hearing calendar|False|0.640017032623291
+approve proffer|hearing decision|True|0.8012917041778564
+approve proffer|hearing execution|True|0.7246454954147339
+approve proffer|hold|True|0.8114650845527649
+approve proffer|inspector workload|True|0.8005483746528625
+approve proffer|internal note|True|0.8189401626586914
+approve proffer|meet|True|0.8082764148712158
+approve proffer|notice of violation|True|0.7243075966835022
+approve proffer|ordinance|True|0.802751362323761
+approve proffer|outcome|True|0.8637493252754211
+approve proffer|plan review meeting|True|0.8127183318138123
+approve proffer|plan reviewer workload|True|0.8513007760047913
+approve proffer|planning - relate report|True|0.8554384708404541
+approve proffer|planning study|True|0.7305017709732056
+approve proffer|property information|True|0.817927360534668
+approve proffer|request|True|0.8836919665336609
+approve proffer|requirement|True|0.8818647861480713
+approve proffer|service|True|0.8756269216537476
+approve proffer|staff report|True|0.8076624870300293
+approve proffer|staff review|True|0.8145262002944946
+approve proffer|zoning - relate permit|True|0.9113704562187195
+bond|bond|True|1.0
+bond|consistency|True|0.8951015472412109
+bond|hearing decision|True|0.7479407787322998
+bond|requirement|True|0.806383490562439
+building development project|affidavit|False|0.680111289024353
+building development project|appeal|False|0.6651431322097778
+building development project|application|True|0.8240024447441101
+building development project|approve proffer|True|0.821977436542511
+building development project|bond|True|0.7071049213409424
+building development project|building development project|True|1.0
+building development project|citation|True|0.7682523727416992
+building development project|code modification|True|0.7098568677902222
+building development project|completeness review|True|0.7595335245132446
+building development project|consistency|True|0.827847957611084
+building development project|custom query / report|True|0.7284242510795593
+building development project|customer portal user account|False|0.6750715374946594
+building development project|draft proffer|True|0.8351474404335022
+building development project|fee|True|0.7147579789161682
+building development project|fine|False|0.6661459803581238
+building development project|formal response|True|0.7461496591567993
+building development project|hearing calendar|False|0.5858127474784851
+building development project|hearing decision|False|0.5865902900695801
+building development project|hearing execution|False|0.6504722237586975
+building development project|hearing requirement|True|0.723251461982727
+building development project|hold|True|0.7782935500144958
+building development project|inspection|True|0.7268093228340149
+building development project|inspector workload|False|0.6708046197891235
+building development project|internal note|False|0.679533064365387
+building development project|meet|True|0.7369197010993958
+building development project|notice of violation|False|0.6273750066757202
+building development project|ordinance|False|0.6676704287528992
+building development project|outcome|True|0.8478123545646667
+building development project|plan review meeting|True|0.820422887802124
+building development project|plan reviewer workload|True|0.7937352657318115
+building development project|planning - relate report|True|0.819673478603363
+building development project|planning study|True|0.8719877600669861
+building development project|property information|True|0.799665629863739
+building development project|request|True|0.7747933864593506
+building development project|requirement|True|0.8234142065048218
+building development project|service|True|0.749941885471344
+building development project|staff report|False|0.6225915551185608
+building development project|staff review|False|0.6524516344070435
+building development project|when|True|0.7824915647506714
+building development project|zoning - relate permit|True|0.9296608567237854
+citation|application|True|0.9054843783378601
+citation|bond|True|0.8741819262504578
+citation|citation|True|1.0
+citation|code modification|True|0.7706205248832703
+citation|completeness review|True|0.8719115257263184
+citation|consistency|True|0.9183865189552307
+citation|fine|True|0.8201091885566711
+citation|hearing calendar|True|0.7597365379333496
+citation|hearing decision|True|0.7784029841423035
+citation|hold|True|0.8533385992050171
+citation|inspector workload|True|0.7919325232505798
+citation|internal note|True|0.8555095195770264
+citation|meet|True|0.8279848694801331
+citation|notice of violation|True|0.7805455327033997
+citation|ordinance|True|0.8297901749610901
+citation|plan review meeting|False|0.6541775465011597
+citation|planning - relate report|True|0.8312230110168457
+citation|planning study|True|0.8086694478988647
+citation|request|True|0.8067992329597473
+citation|requirement|True|0.8513486385345459
+citation|service|True|0.8562089800834656
+citation|staff report|True|0.7750841975212097
+citation|staff review|True|0.7737545967102051
+citation|zoning - relate permit|True|0.8660532236099243
+code modification|bond|False|0.6619872450828552
+code modification|code modification|True|1.0
+code modification|consistency|True|0.7582098841667175
+code modification|hearing decision|False|0.6231297850608826
+code modification|requirement|True|0.7755745649337769
+completeness review|application|True|0.8491718173027039
+completeness review|bond|True|0.7955769896507263
+completeness review|code modification|True|0.740526556968689
+completeness review|completeness review|True|1.0
+completeness review|consistency|True|0.8894422054290771
+completeness review|fine|True|0.7701258659362793
+completeness review|hearing calendar|True|0.7626267671585083
+completeness review|hearing decision|True|0.7975851893424988
+completeness review|hold|True|0.7938269972801208
+completeness review|inspector workload|True|0.8630214333534241
+completeness review|internal note|True|0.8237635493278503
+completeness review|meet|True|0.815438449382782
+completeness review|notice of violation|True|0.7497323751449585
+completeness review|ordinance|True|0.76714026927948
+completeness review|plan review meeting|True|0.8849928379058838
+completeness review|planning - relate report|True|0.8604879975318909
+completeness review|planning study|True|0.8518062233924866
+completeness review|request|True|0.850089967250824
+completeness review|requirement|True|0.8434678912162781
+completeness review|service|True|0.8085861206054688
+completeness review|staff report|True|0.7983421683311462
+completeness review|staff review|True|0.8689743280410767
+completeness review|zoning - relate permit|True|0.8550946712493896
+completion of require plan review|affidavit|True|0.7240433096885681
+completion of require plan review|appeal|False|0.6695680618286133
+completion of require plan review|application|True|0.781531810760498
+completion of require plan review|approve proffer|True|0.8484178781509399
+completion of require plan review|bond|True|0.7177253365516663
+completion of require plan review|building development project|False|0.6941094398498535
+completion of require plan review|citation|True|0.7861716747283936
+completion of require plan review|code modification|False|0.674965500831604
+completion of require plan review|completeness review|True|0.9312339425086975
+completion of require plan review|completion of require plan review|True|1.0
+completion of require plan review|consistency|True|0.8462525606155396
+completion of require plan review|custom query / report|True|0.8206779956817627
+completion of require plan review|customer portal user account|True|0.7018759846687317
+completion of require plan review|draft proffer|True|0.7605735063552856
+completion of require plan review|fee|False|0.6104082465171814
+completion of require plan review|fine|False|0.6774588227272034
+completion of require plan review|formal response|True|0.8027788400650024
+completion of require plan review|hearing calendar|False|0.6572121381759644
+completion of require plan review|hearing decision|True|0.7163153886795044
+completion of require plan review|hearing execution|True|0.7274658679962158
+completion of require plan review|hearing requirement|True|0.7534847259521484
+completion of require plan review|hold|True|0.7106672525405884
+completion of require plan review|inspection|True|0.7328618168830872
+completion of require plan review|inspector workload|True|0.7032659649848938
+completion of require plan review|internal note|True|0.7083393335342407
+completion of require plan review|meet|False|0.6948067545890808
+completion of require plan review|notice of violation|False|0.6137824058532715
+completion of require plan review|ordinance|True|0.701434314250946
+completion of require plan review|outcome|True|0.8689996004104614
+completion of require plan review|plan review meeting|True|0.8765407204627991
+completion of require plan review|plan reviewer workload|True|0.8758460879325867
+completion of require plan review|planning - relate report|True|0.8941963911056519
+completion of require plan review|planning study|True|0.8819438815116882
+completion of require plan review|property information|True|0.7627065777778625
+completion of require plan review|request|True|0.7504194378852844
+completion of require plan review|requirement|True|0.9572492837905884
+completion of require plan review|service|True|0.7937839031219482
+completion of require plan review|staff report|False|0.6775832772254944
+completion of require plan review|staff review|False|0.6396282911300659
+completion of require plan review|when|True|0.8069343566894531
+completion of require plan review|zoning - relate permit|True|0.8938194513320923
+consistency|consistency|True|1.0
+consistency|requirement|True|0.8870134353637695
+custom query / report|affidavit|True|0.831093430519104
+custom query / report|appeal|True|0.8179914355278015
+custom query / report|application|True|0.9068589806556702
+custom query / report|approve proffer|True|0.9281079769134521
+custom query / report|bond|True|0.8195095062255859
+custom query / report|citation|True|0.9006271362304688
+custom query / report|code modification|True|0.7807385921478271
+custom query / report|completeness review|True|0.9025487303733826
+custom query / report|consistency|True|0.9043132066726685
+custom query / report|custom query / report|True|1.0
+custom query / report|draft proffer|True|0.9151730537414551
+custom query / report|fee|True|0.7640126943588257
+custom query / report|fine|True|0.8239144682884216
+custom query / report|formal response|True|0.9063318371772766
+custom query / report|hearing calendar|True|0.7793014645576477
+custom query / report|hearing decision|True|0.8076855540275574
+custom query / report|hearing execution|True|0.8607783913612366
+custom query / report|hold|True|0.832923173904419
+custom query / report|inspector workload|True|0.8092095255851746
+custom query / report|internal note|True|0.8327483534812927
+custom query / report|meet|True|0.8199313282966614
+custom query / report|notice of violation|True|0.7860063910484314
+custom query / report|ordinance|True|0.7697782516479492
+custom query / report|outcome|True|0.8876039981842041
+custom query / report|plan review meeting|True|0.8193555474281311
+custom query / report|plan reviewer workload|True|0.9021151065826416
+custom query / report|planning - relate report|True|0.9402536749839783
+custom query / report|planning study|True|0.8318201303482056
+custom query / report|property information|True|0.8875540494918823
+custom query / report|request|True|0.9155415892601013
+custom query / report|requirement|True|0.8766674995422363
+custom query / report|service|True|0.8924475312232971
+custom query / report|staff report|True|0.8572764992713928
+custom query / report|staff review|True|0.8163959980010986
+custom query / report|zoning - relate permit|True|0.8624179363250732
+customer portal user account|affidavit|False|0.6380517482757568
+customer portal user account|appeal|True|0.727316677570343
+customer portal user account|application|True|0.916317880153656
+customer portal user account|approve proffer|True|0.8888077139854431
+customer portal user account|bond|False|0.6997758150100708
+customer portal user account|citation|True|0.8313982486724854
+customer portal user account|code modification|False|0.6856992244720459
+customer portal user account|completeness review|True|0.7664467096328735
+customer portal user account|consistency|True|0.8593408465385437
+customer portal user account|custom query / report|True|0.9125773310661316
+customer portal user account|customer portal user account|True|1.0
+customer portal user account|draft proffer|True|0.8286941647529602
+customer portal user account|fee|True|0.7176681756973267
+customer portal user account|fine|False|0.5890635251998901
+customer portal user account|formal response|True|0.8219985961914062
+customer portal user account|hearing calendar|False|0.6688977479934692
+customer portal user account|hearing decision|False|0.6020894050598145
+customer portal user account|hearing execution|False|0.6282629370689392
+customer portal user account|hearing requirement|True|0.7290486693382263
+customer portal user account|hold|False|0.6233729720115662
+customer portal user account|inspector workload|False|0.594245433807373
+customer portal user account|internal note|False|0.6539943814277649
+customer portal user account|meet|False|0.690192699432373
+customer portal user account|notice of violation|False|0.5753541588783264
+customer portal user account|ordinance|False|0.5531827211380005
+customer portal user account|outcome|True|0.8477677702903748
+customer portal user account|plan review meeting|False|0.6373668313026428
+customer portal user account|plan reviewer workload|True|0.8272551894187927
+customer portal user account|planning - relate report|True|0.8095489740371704
+customer portal user account|planning study|False|0.6586874127388
+customer portal user account|property information|True|0.8082594871520996
+customer portal user account|request|True|0.8459627032279968
+customer portal user account|requirement|True|0.7684397101402283
+customer portal user account|service|True|0.8844333291053772
+customer portal user account|staff report|False|0.6539880037307739
+customer portal user account|staff review|False|0.5947571396827698
+customer portal user account|when|True|0.797552764415741
+customer portal user account|zoning - relate permit|True|0.7668002247810364
+development - relate permit|affidavit|True|0.8038650155067444
+development - relate permit|appeal|True|0.7919674515724182
+development - relate permit|application|True|0.8727508783340454
+development - relate permit|approve proffer|True|0.9369016885757446
+development - relate permit|bond|True|0.8149654865264893
+development - relate permit|building development project|True|0.9410654306411743
+development - relate permit|citation|True|0.886559009552002
+development - relate permit|code modification|True|0.7556053996086121
+development - relate permit|completeness review|True|0.8557350635528564
+development - relate permit|completion of require plan review|True|0.9240803122520447
+development - relate permit|consistency|True|0.9137787222862244
+development - relate permit|custom query / report|True|0.8311811685562134
+development - relate permit|customer portal user account|True|0.7264634966850281
+development - relate permit|development - relate permit|True|1.0
+development - relate permit|draft proffer|True|0.8990285396575928
+development - relate permit|fee|False|0.6739493608474731
+development - relate permit|fine|True|0.7926140427589417
+development - relate permit|formal response|True|0.8704180121421814
+development - relate permit|hearing calendar|True|0.7128345966339111
+development - relate permit|hearing decision|True|0.7702842950820923
+development - relate permit|hearing execution|True|0.7255539894104004
+development - relate permit|hearing requirement|True|0.8246634006500244
+development - relate permit|hold|True|0.8543443083763123
+development - relate permit|inspection|True|0.8058182001113892
+development - relate permit|inspector workload|True|0.7194886803627014
+development - relate permit|internal note|True|0.8170284628868103
+development - relate permit|meet|True|0.8108376860618591
+development - relate permit|notice of violation|True|0.71598219871521
+development - relate permit|ordinance|True|0.7975415587425232
+development - relate permit|outcome|True|0.9092103838920593
+development - relate permit|plan amendment|True|0.829355776309967
+development - relate permit|plan review meeting|True|0.8274721503257751
+development - relate permit|plan reviewer workload|True|0.7805932760238647
+development - relate permit|planning - relate report|True|0.9284993410110474
+development - relate permit|planning study|True|0.8855545520782471
+development - relate permit|preapplication assistance|True|0.823833167552948
+development - relate permit|property information|True|0.8396545648574829
+development - relate permit|request|True|0.8024715781211853
+development - relate permit|requirement|True|0.872153639793396
+development - relate permit|service|True|0.8435198664665222
+development - relate permit|staff report|True|0.7170526385307312
+development - relate permit|staff review|False|0.6702476143836975
+development - relate permit|status|True|0.8837242722511292
+development - relate permit|when|True|0.8720278143882751
+development - relate permit|zoning - relate permit|True|0.971412718296051
+draft proffer|affidavit|True|0.8247002363204956
+draft proffer|appeal|True|0.7321276664733887
+draft proffer|application|True|0.7572991251945496
+draft proffer|approve proffer|True|0.8527844548225403
+draft proffer|bond|False|0.6657652258872986
+draft proffer|citation|True|0.7906066179275513
+draft proffer|code modification|False|0.6810126304626465
+draft proffer|completeness review|True|0.8228559494018555
+draft proffer|consistency|True|0.7999598383903503
+draft proffer|draft proffer|True|1.0
+draft proffer|fee|False|0.6547263264656067
+draft proffer|fine|False|0.6719101667404175
+draft proffer|formal response|True|0.8097416162490845
+draft proffer|hearing calendar|False|0.5866819024085999
+draft proffer|hearing decision|False|0.6290023326873779
+draft proffer|hearing execution|False|0.6552326679229736
+draft proffer|hold|True|0.7173091769218445
+draft proffer|inspector workload|True|0.7116263508796692
+draft proffer|internal note|True|0.7958101630210876
+draft proffer|meet|False|0.6663118600845337
+draft proffer|notice of violation|True|0.7106627225875854
+draft proffer|ordinance|False|0.5722301602363586
+draft proffer|outcome|True|0.7115696668624878
+draft proffer|plan review meeting|True|0.7481598854064941
+draft proffer|plan reviewer workload|True|0.7824973464012146
+draft proffer|planning - relate report|True|0.8187946081161499
+draft proffer|planning study|True|0.7781264781951904
+draft proffer|property information|True|0.7453438639640808
+draft proffer|request|True|0.7632651925086975
+draft proffer|requirement|True|0.7503870129585266
+draft proffer|service|True|0.7158022522926331
+draft proffer|staff report|True|0.7359995245933533
+draft proffer|staff review|True|0.7636891007423401
+draft proffer|zoning - relate permit|True|0.8284569978713989
+each condo unit|affidavit|False|0.5207083821296692
+each condo unit|appeal|False|0.582442581653595
+each condo unit|application|False|0.6994537711143494
+each condo unit|approve proffer|True|0.7338871955871582
+each condo unit|bond|False|0.6552067399024963
+each condo unit|building development project|True|0.751713216304779
+each condo unit|citation|False|0.680530309677124
+each condo unit|code modification|False|0.5036829113960266
+each condo unit|completeness review|False|0.5732825398445129
+each condo unit|completion of require plan review|True|0.7707812190055847
+each condo unit|consistency|True|0.8349953889846802
+each condo unit|custom query / report|False|0.6382942795753479
+each condo unit|customer portal user account|False|0.6543117761611938
+each condo unit|development - relate permit|True|0.8009117245674133
+each condo unit|draft proffer|False|0.5909165143966675
+each condo unit|each condo unit|True|1.0
+each condo unit|fee|False|0.5381415486335754
+each condo unit|fine|False|0.6398970484733582
+each condo unit|formal response|False|0.6082068085670471
+each condo unit|hearing calendar|False|0.49846169352531433
+each condo unit|hearing decision|False|0.5102494359016418
+each condo unit|hearing execution|False|0.5430864691734314
+each condo unit|hearing requirement|False|0.6626501679420471
+each condo unit|hold|True|0.7026877403259277
+each condo unit|inspection|False|0.5311396718025208
+each condo unit|inspector workload|False|0.5020594596862793
+each condo unit|internal note|False|0.5612245798110962
+each condo unit|meet|False|0.6834986209869385
+each condo unit|notice of violation|False|0.4961901605129242
+each condo unit|ordinance|False|0.5774029493331909
+each condo unit|outcome|True|0.7107543349266052
+each condo unit|plan amendment|False|0.5105453729629517
+each condo unit|plan review meeting|False|0.5430623888969421
+each condo unit|plan reviewer workload|False|0.6317638754844666
+each condo unit|planning - relate report|False|0.5457315444946289
+each condo unit|planning study|False|0.5831863880157471
+each condo unit|preapplication assistance|False|0.6129869818687439
+each condo unit|property information|True|0.7472292184829712
+each condo unit|request|False|0.6050004959106445
+each condo unit|requirement|False|0.6963462233543396
+each condo unit|service|False|0.6804126501083374
+each condo unit|staff report|False|0.440835177898407
+each condo unit|staff review|False|0.4446776509284973
+each condo unit|status|True|0.7258293628692627
+each condo unit|when|True|0.7780773639678955
+each condo unit|zoning - relate permit|True|0.8186327219009399
+fee|application|True|0.8008924126625061
+fee|bond|True|0.7622309327125549
+fee|citation|True|0.7804290056228638
+fee|code modification|False|0.5979692339897156
+fee|completeness review|True|0.7250872254371643
+fee|consistency|True|0.8224986791610718
+fee|fee|True|1.0
+fee|fine|True|0.7982566952705383
+fee|formal response|True|0.7702639698982239
+fee|hearing calendar|False|0.6408595442771912
+fee|hearing decision|True|0.7429248690605164
+fee|hold|True|0.7329058647155762
+fee|inspector workload|True|0.7363384962081909
+fee|internal note|False|0.6640769243240356
+fee|meet|True|0.7659087181091309
+fee|notice of violation|True|0.701530396938324
+fee|ordinance|True|0.7081431150436401
+fee|outcome|True|0.7344455122947693
+fee|plan review meeting|True|0.7112055420875549
+fee|planning - relate report|True|0.7204808592796326
+fee|planning study|False|0.6559122204780579
+fee|request|True|0.7531473636627197
+fee|requirement|True|0.831549346446991
+fee|service|True|0.8092617392539978
+fee|staff report|False|0.5637099146842957
+fee|staff review|False|0.6411685943603516
+fee|zoning - relate permit|True|0.8622524738311768
+fine|application|True|0.8836931586265564
+fine|bond|True|0.8127473592758179
+fine|code modification|True|0.704988956451416
+fine|consistency|True|0.9210394620895386
+fine|fine|True|1.0
+fine|hearing calendar|False|0.6850025653839111
+fine|hearing decision|True|0.7546701431274414
+fine|hold|True|0.778712809085846
+fine|inspector workload|True|0.7355611324310303
+fine|internal note|True|0.7794405817985535
+fine|meet|True|0.8163292407989502
+fine|notice of violation|True|0.8544743061065674
+fine|ordinance|True|0.7718111276626587
+fine|plan review meeting|False|0.68397057056427
+fine|planning - relate report|True|0.7302401661872864
+fine|planning study|True|0.7547451853752136
+fine|request|True|0.7488987445831299
+fine|requirement|True|0.8275027871131897
+fine|service|True|0.8325762152671814
+fine|staff report|False|0.6481441855430603
+fine|staff review|False|0.6652370691299438
+fine|zoning - relate permit|True|0.8198216557502747
+formal response|application|True|0.9040510058403015
+formal response|bond|True|0.8572003841400146
+formal response|citation|True|0.8970931768417358
+formal response|code modification|True|0.8126813769340515
+formal response|completeness review|True|0.8996628522872925
+formal response|consistency|True|0.9167086482048035
+formal response|fine|True|0.8401756286621094
+formal response|formal response|True|1.0
+formal response|hearing calendar|True|0.7626422643661499
+formal response|hearing decision|True|0.8306861519813538
+formal response|hold|True|0.8670880794525146
+formal response|inspector workload|True|0.874026358127594
+formal response|internal note|True|0.8664911985397339
+formal response|meet|True|0.8321092128753662
+formal response|notice of violation|True|0.7996596097946167
+formal response|ordinance|True|0.863186240196228
+formal response|outcome|True|0.8850294351577759
+formal response|plan review meeting|True|0.8501889109611511
+formal response|planning - relate report|True|0.8858463764190674
+formal response|planning study|True|0.8705044388771057
+formal response|request|True|0.8597926497459412
+formal response|requirement|True|0.8866248726844788
+formal response|service|True|0.866599977016449
+formal response|staff report|True|0.8430041670799255
+formal response|staff review|True|0.851639449596405
+formal response|zoning - relate permit|True|0.8734836578369141
+gis property management|affidavit|True|0.7099466323852539
+gis property management|appeal|True|0.7521551251411438
+gis property management|application|True|0.8559195399284363
+gis property management|approve proffer|True|0.8770413994789124
+gis property management|bond|True|0.7606916427612305
+gis property management|building development project|True|0.838229238986969
+gis property management|citation|True|0.8358759880065918
+gis property management|code modification|True|0.7325363755226135
+gis property management|completeness review|True|0.794890820980072
+gis property management|completion of require plan review|True|0.8915224671363831
+gis property management|consistency|True|0.8708771467208862
+gis property management|custom query / report|True|0.8639562129974365
+gis property management|customer portal user account|True|0.8059284090995789
+gis property management|development - relate permit|True|0.8687365055084229
+gis property management|draft proffer|True|0.8177457451820374
+gis property management|each condo unit|True|0.7562435865402222
+gis property management|fee|True|0.7806050181388855
+gis property management|fine|True|0.7478728890419006
+gis property management|formal response|True|0.8160489201545715
+gis property management|gis property management|True|1.0
+gis property management|hearing calendar|False|0.6827754974365234
+gis property management|hearing date|False|0.6184331178665161
+gis property management|hearing decision|True|0.7053110599517822
+gis property management|hearing execution|True|0.7619655132293701
+gis property management|hearing requirement|True|0.8002713322639465
+gis property management|hold|True|0.7925034165382385
+gis property management|information|True|0.8290050625801086
+gis property management|inspection|True|0.7004133462905884
+gis property management|inspector workload|True|0.766864538192749
+gis property management|internal note|True|0.7519201040267944
+gis property management|meet|True|0.764951765537262
+gis property management|notice of violation|True|0.7406659126281738
+gis property management|ordinance|False|0.686048686504364
+gis property management|outcome|True|0.8407365679740906
+gis property management|plan|False|0.6653538942337036
+gis property management|plan amendment|False|0.6730954647064209
+gis property management|plan review meeting|True|0.737186849117279
+gis property management|plan reviewer workload|True|0.8004290461540222
+gis property management|planning - relate report|True|0.7788220047950745
+gis property management|planning study|True|0.8070477843284607
+gis property management|preapplication assistance|True|0.8467175960540771
+gis property management|property information|True|0.9247654676437378
+gis property management|request|True|0.7482607960700989
+gis property management|requirement|True|0.804419755935669
+gis property management|service|True|0.8526203632354736
+gis property management|staff report|False|0.6364366412162781
+gis property management|staff review|False|0.648999035358429
+gis property management|status|True|0.849029541015625
+gis property management|when|True|0.8242598176002502
+gis property management|zoning - relate permit|True|0.876282274723053
+hearing calendar|bond|False|0.5477225184440613
+hearing calendar|code modification|False|0.5309336185455322
+hearing calendar|consistency|True|0.777445912361145
+hearing calendar|hearing calendar|True|1.0
+hearing calendar|hearing decision|True|0.7939029932022095
+hearing calendar|notice of violation|False|0.5884630680084229
+hearing calendar|plan review meeting|True|0.7734605669975281
+hearing calendar|planning - relate report|True|0.7152363657951355
+hearing calendar|requirement|False|0.6545841693878174
+hearing date|affidavit|True|0.814918041229248
+hearing date|appeal|False|0.6256542205810547
+hearing date|application|True|0.723521888256073
+hearing date|approve proffer|True|0.803938090801239
+hearing date|bond|False|0.6033169627189636
+hearing date|building development project|False|0.4616958498954773
+hearing date|citation|False|0.6785528659820557
+hearing date|code modification|False|0.5206629037857056
+hearing date|completeness review|False|0.6737338900566101
+hearing date|completion of require plan review|True|0.820056676864624
+hearing date|consistency|True|0.7783308625221252
+hearing date|custom query / report|True|0.726809561252594
+hearing date|customer portal user account|False|0.5233338475227356
+hearing date|development - relate permit|True|0.7443729639053345
+hearing date|draft proffer|True|0.7828125357627869
+hearing date|each condo unit|False|0.45788490772247314
+hearing date|fee|False|0.5915263295173645
+hearing date|fine|False|0.634212076663971
+hearing date|formal response|True|0.7495419383049011
+hearing date|hearing calendar|True|0.9205368757247925
+hearing date|hearing date|True|1.0
+hearing date|hearing decision|True|0.855743408203125
+hearing date|hearing execution|True|0.7558033466339111
+hearing date|hearing requirement|True|0.9080235362052917
+hearing date|hold|True|0.7112656831741333
+hearing date|inspection|True|0.704916775226593
+hearing date|inspector workload|False|0.6551494002342224
+hearing date|internal note|True|0.7050450444221497
+hearing date|meet|False|0.6867367625236511
+hearing date|notice of violation|True|0.7087664008140564
+hearing date|ordinance|False|0.5966366529464722
+hearing date|outcome|False|0.6724575757980347
+hearing date|plan amendment|False|0.673779308795929
+hearing date|plan review meeting|True|0.8085789680480957
+hearing date|plan reviewer workload|False|0.6573721170425415
+hearing date|planning - relate report|True|0.7299898266792297
+hearing date|planning study|False|0.5945478677749634
+hearing date|preapplication assistance|False|0.68660968542099
+hearing date|property information|False|0.6556800603866577
+hearing date|request|True|0.7164928913116455
+hearing date|requirement|False|0.6993615031242371
+hearing date|service|False|0.6739976406097412
+hearing date|staff report|False|0.6479462385177612
+hearing date|staff review|False|0.6961650252342224
+hearing date|status|False|0.6690353751182556
+hearing date|when|False|0.6719627380371094
+hearing date|zoning - relate permit|True|0.8409677743911743
+hearing decision|consistency|True|0.8376877903938293
+hearing decision|hearing decision|True|1.0
+hearing decision|requirement|True|0.8005592226982117
+hearing execution|application|True|0.7524369955062866
+hearing execution|bond|False|0.4739018678665161
+hearing execution|citation|False|0.6435404419898987
+hearing execution|code modification|False|0.6221535205841064
+hearing execution|completeness review|False|0.6556574106216431
+hearing execution|consistency|True|0.7611386775970459
+hearing execution|fee|False|0.48841509222984314
+hearing execution|fine|False|0.5785765647888184
+hearing execution|formal response|True|0.769523561000824
+hearing execution|hearing calendar|True|0.7632948160171509
+hearing execution|hearing decision|True|0.8031565546989441
+hearing execution|hearing execution|True|1.0
+hearing execution|hold|False|0.5569385886192322
+hearing execution|inspector workload|False|0.6806833148002625
+hearing execution|internal note|True|0.7495216727256775
+hearing execution|meet|False|0.559467613697052
+hearing execution|notice of violation|False|0.6818913221359253
+hearing execution|ordinance|False|0.6019085645675659
+hearing execution|outcome|True|0.719151496887207
+hearing execution|plan review meeting|False|0.5812503099441528
+hearing execution|planning - relate report|False|0.6805914640426636
+hearing execution|planning study|False|0.5776666402816772
+hearing execution|request|False|0.6859164834022522
+hearing execution|requirement|True|0.7844589948654175
+hearing execution|service|False|0.5907890796661377
+hearing execution|staff report|False|0.4724356234073639
+hearing execution|staff review|False|0.5685700178146362
+hearing execution|zoning - relate permit|True|0.77285236120224
+hearing requirement|affidavit|True|0.8677583336830139
+hearing requirement|appeal|True|0.7671796679496765
+hearing requirement|application|True|0.8466891646385193
+hearing requirement|approve proffer|True|0.899738609790802
+hearing requirement|bond|True|0.7081249356269836
+hearing requirement|citation|True|0.8172510266304016
+hearing requirement|code modification|True|0.7203897833824158
+hearing requirement|completeness review|True|0.7883549928665161
+hearing requirement|consistency|True|0.8462153673171997
+hearing requirement|custom query / report|True|0.783987283706665
+hearing requirement|draft proffer|True|0.878924548625946
+hearing requirement|fee|True|0.7542428970336914
+hearing requirement|fine|True|0.7634197473526001
+hearing requirement|formal response|True|0.8525101542472839
+hearing requirement|hearing calendar|True|0.9067826271057129
+hearing requirement|hearing decision|True|0.9295636415481567
+hearing requirement|hearing execution|True|0.8855244517326355
+hearing requirement|hearing requirement|True|1.0
+hearing requirement|hold|True|0.774622917175293
+hearing requirement|inspector workload|True|0.8040887117385864
+hearing requirement|internal note|True|0.7857678532600403
+hearing requirement|meet|True|0.799169659614563
+hearing requirement|notice of violation|True|0.8488647937774658
+hearing requirement|ordinance|True|0.7621223330497742
+hearing requirement|outcome|True|0.7648117542266846
+hearing requirement|plan review meeting|True|0.8030049204826355
+hearing requirement|plan reviewer workload|True|0.7620103359222412
+hearing requirement|planning - relate report|True|0.787619411945343
+hearing requirement|planning study|False|0.6648337841033936
+hearing requirement|property information|True|0.7714037895202637
+hearing requirement|request|True|0.8311207890510559
+hearing requirement|requirement|True|0.9471604824066162
+hearing requirement|service|True|0.8061615228652954
+hearing requirement|staff report|True|0.7422598004341125
+hearing requirement|staff review|True|0.8217106461524963
+hearing requirement|when|True|0.7914721965789795
+hearing requirement|zoning - relate permit|True|0.9083600640296936
+hold|bond|True|0.8471799492835999
+hold|code modification|True|0.734656810760498
+hold|consistency|True|0.9019150137901306
+hold|hearing calendar|False|0.6359840035438538
+hold|hearing decision|True|0.7740983963012695
+hold|hold|True|1.0
+hold|meet|True|0.7861912846565247
+hold|notice of violation|True|0.7563002705574036
+hold|plan review meeting|True|0.7073292136192322
+hold|planning - relate report|True|0.8012025952339172
+hold|requirement|True|0.8368189334869385
+information|affidavit|True|0.8212576508522034
+information|appeal|True|0.8362158536911011
+information|application|True|0.9235019087791443
+information|approve proffer|True|0.8957042098045349
+information|bond|True|0.867395281791687
+information|building development project|False|0.6843327879905701
+information|citation|True|0.9068793058395386
+information|code modification|True|0.7508742213249207
+information|completeness review|True|0.8542910218238831
+information|completion of require plan review|True|0.9084073305130005
+information|consistency|True|0.9325351119041443
+information|custom query / report|True|0.9188231825828552
+information|customer portal user account|True|0.8840929865837097
+information|development - relate permit|True|0.8690323829650879
+information|draft proffer|True|0.8827131986618042
+information|each condo unit|False|0.664972722530365
+information|fee|True|0.8059244751930237
+information|fine|True|0.813901960849762
+information|formal response|True|0.8860941529273987
+information|hearing calendar|True|0.7028350830078125
+information|hearing date|True|0.7499970197677612
+information|hearing decision|True|0.8289272785186768
+information|hearing execution|True|0.8291732668876648
+information|hearing requirement|True|0.8636381030082703
+information|hold|True|0.8481805324554443
+information|information|True|1.0
+information|inspection|True|0.8080456852912903
+information|inspector workload|True|0.7970339059829712
+information|internal note|True|0.8091566562652588
+information|meet|True|0.8190820813179016
+information|notice of violation|True|0.746239185333252
+information|ordinance|True|0.7925930023193359
+information|outcome|True|0.8989986181259155
+information|plan amendment|False|0.577721893787384
+information|plan review meeting|False|0.6388257741928101
+information|plan reviewer workload|True|0.8183209896087646
+information|planning - relate report|True|0.8715757131576538
+information|planning study|True|0.7905492782592773
+information|preapplication assistance|True|0.8640741109848022
+information|property information|True|0.9402344822883606
+information|request|True|0.8237485289573669
+information|requirement|True|0.860443651676178
+information|service|True|0.8850292563438416
+information|staff report|True|0.711013674736023
+information|staff review|False|0.6405755877494812
+information|status|True|0.9072624444961548
+information|when|True|0.8774188756942749
+information|zoning - relate permit|True|0.8345667123794556
+inspection|affidavit|True|0.847889244556427
+inspection|appeal|True|0.8236780166625977
+inspection|application|True|0.8483006954193115
+inspection|approve proffer|True|0.8968209028244019
+inspection|bond|True|0.812273383140564
+inspection|citation|True|0.8566753268241882
+inspection|code modification|True|0.743883490562439
+inspection|completeness review|True|0.8764260411262512
+inspection|consistency|True|0.8917179703712463
+inspection|custom query / report|True|0.8904113173484802
+inspection|customer portal user account|True|0.7904966473579407
+inspection|draft proffer|True|0.8898586630821228
+inspection|fee|True|0.7726647257804871
+inspection|fine|True|0.8170791864395142
+inspection|formal response|True|0.8533947467803955
+inspection|hearing calendar|True|0.7622002363204956
+inspection|hearing decision|True|0.805466890335083
+inspection|hearing execution|True|0.7918203473091125
+inspection|hearing requirement|True|0.8534196019172668
+inspection|hold|True|0.8297502398490906
+inspection|inspection|True|1.0
+inspection|inspector workload|True|0.9370750784873962
+inspection|internal note|True|0.8207705616950989
+inspection|meet|True|0.8083431124687195
+inspection|notice of violation|True|0.8289090991020203
+inspection|ordinance|True|0.7610809803009033
+inspection|outcome|True|0.8196704387664795
+inspection|plan review meeting|True|0.7993983626365662
+inspection|plan reviewer workload|True|0.8689945340156555
+inspection|planning - relate report|True|0.843716561794281
+inspection|planning study|True|0.8035154342651367
+inspection|property information|True|0.8764792084693909
+inspection|request|True|0.8292554020881653
+inspection|requirement|True|0.8578216433525085
+inspection|service|True|0.8100743293762207
+inspection|staff report|True|0.7399055361747742
+inspection|staff review|True|0.7874487042427063
+inspection|when|True|0.8168772459030151
+inspection|zoning - relate permit|True|0.8901948928833008
+inspector workload|application|True|0.7935721278190613
+inspector workload|bond|True|0.7090977430343628
+inspector workload|code modification|True|0.7420766353607178
+inspector workload|consistency|True|0.8633333444595337
+inspector workload|hearing calendar|True|0.7529575228691101
+inspector workload|hearing decision|True|0.7182874083518982
+inspector workload|hold|True|0.7142255902290344
+inspector workload|inspector workload|True|1.0
+inspector workload|internal note|True|0.8111664652824402
+inspector workload|meet|True|0.7314953804016113
+inspector workload|notice of violation|True|0.8209390640258789
+inspector workload|ordinance|True|0.7505778074264526
+inspector workload|plan review meeting|True|0.74711012840271
+inspector workload|planning - relate report|True|0.8300597667694092
+inspector workload|planning study|True|0.7256172299385071
+inspector workload|request|True|0.7777546048164368
+inspector workload|requirement|True|0.8355249166488647
+inspector workload|service|True|0.773499608039856
+inspector workload|staff report|True|0.7979514598846436
+inspector workload|staff review|True|0.8150350451469421
+internal note|application|True|0.7683024406433105
+internal note|bond|True|0.7741401195526123
+internal note|code modification|True|0.7517169713973999
+internal note|consistency|True|0.8843103647232056
+internal note|hearing calendar|False|0.6997302174568176
+internal note|hearing decision|False|0.6943147778511047
+internal note|hold|True|0.7823595404624939
+internal note|internal note|True|1.0
+internal note|meet|True|0.728591799736023
+internal note|notice of violation|True|0.7588063478469849
+internal note|ordinance|True|0.7166768312454224
+internal note|plan review meeting|False|0.6651002168655396
+internal note|planning - relate report|True|0.7705804705619812
+internal note|planning study|True|0.708045244216919
+internal note|request|True|0.7148798108100891
+internal note|requirement|True|0.7802029252052307
+internal note|service|True|0.741101861000061
+internal note|staff report|False|0.6942135095596313
+meet|bond|True|0.8506077527999878
+meet|code modification|True|0.7401172518730164
+meet|consistency|True|0.9102743864059448
+meet|hearing calendar|False|0.6645186543464661
+meet|hearing decision|True|0.7872849702835083
+meet|meet|True|1.0
+meet|notice of violation|False|0.6743855476379395
+meet|plan review meeting|True|0.9077001810073853
+meet|planning - relate report|True|0.7421871423721313
+meet|requirement|True|0.8439807295799255
+notice of violation|bond|False|0.6340392827987671
+notice of violation|code modification|True|0.7142767310142517
+notice of violation|consistency|False|0.6511525511741638
+notice of violation|hearing decision|True|0.7382532954216003
+notice of violation|notice of violation|True|1.0
+notice of violation|plan review meeting|False|0.6089099049568176
+notice of violation|planning - relate report|True|0.7364762425422668
+notice of violation|requirement|True|0.7560995221138
+ordinance|application|False|0.6964160799980164
+ordinance|bond|False|0.646423876285553
+ordinance|code modification|False|0.6876916289329529
+ordinance|consistency|True|0.8387483358383179
+ordinance|hearing calendar|False|0.6155370473861694
+ordinance|hearing decision|True|0.7469385862350464
+ordinance|hold|False|0.6954763531684875
+ordinance|meet|False|0.6887384653091431
+ordinance|notice of violation|True|0.7679080963134766
+ordinance|ordinance|True|1.0
+ordinance|plan review meeting|False|0.6788579225540161
+ordinance|planning - relate report|False|0.6677561402320862
+ordinance|planning study|False|0.642303466796875
+ordinance|request|False|0.6593602299690247
+ordinance|requirement|True|0.7632956504821777
+ordinance|service|False|0.6335590481758118
+ordinance|staff report|False|0.45389649271965027
+outcome|application|True|0.9099291563034058
+outcome|bond|True|0.8354976773262024
+outcome|citation|True|0.8515600562095642
+outcome|code modification|True|0.7187495827674866
+outcome|completeness review|True|0.8034008145332336
+outcome|consistency|True|0.9161065220832825
+outcome|fine|True|0.8018447756767273
+outcome|hearing calendar|False|0.6732705235481262
+outcome|hearing decision|True|0.797880232334137
+outcome|hold|True|0.8695792555809021
+outcome|inspector workload|True|0.7315136790275574
+outcome|internal note|True|0.7430256605148315
+outcome|meet|True|0.7843823432922363
+outcome|notice of violation|True|0.7255983352661133
+outcome|ordinance|True|0.7904101014137268
+outcome|outcome|True|1.0
+outcome|plan review meeting|True|0.7031329274177551
+outcome|planning - relate report|True|0.8422496318817139
+outcome|planning study|True|0.7823569178581238
+outcome|request|True|0.8217896819114685
+outcome|requirement|True|0.8636772632598877
+outcome|service|True|0.861527144908905
+outcome|staff report|False|0.6408898234367371
+outcome|staff review|False|0.6454434990882874
+outcome|zoning - relate permit|True|0.8623368144035339
+plan|affidavit|False|0.6940795183181763
+plan|appeal|False|0.6655942797660828
+plan|application|True|0.7920485734939575
+plan|approve proffer|True|0.8589126467704773
+plan|bond|True|0.7076033353805542
+plan|building development project|True|0.803693950176239
+plan|citation|True|0.7037964463233948
+plan|code modification|False|0.647438645362854
+plan|completeness review|True|0.7199422121047974
+plan|completion of require plan review|True|0.905241847038269
+plan|consistency|True|0.8575624823570251
+plan|custom query / report|True|0.7196628451347351
+plan|customer portal user account|True|0.7448353171348572
+plan|development - relate permit|True|0.8462968468666077
+plan|draft proffer|True|0.76338791847229
+plan|each condo unit|False|0.6126590967178345
+plan|fee|False|0.5542578101158142
+plan|fine|False|0.6666957139968872
+plan|formal response|True|0.8204907774925232
+plan|hearing calendar|False|0.6880883574485779
+plan|hearing date|True|0.7187141180038452
+plan|hearing decision|True|0.7479555010795593
+plan|hearing execution|True|0.7235997319221497
+plan|hearing requirement|True|0.7958624362945557
+plan|hold|True|0.7243236899375916
+plan|information|False|0.6613699793815613
+plan|inspection|False|0.6528170704841614
+plan|inspector workload|False|0.6723339557647705
+plan|internal note|False|0.6162103414535522
+plan|meet|True|0.7735956311225891
+plan|notice of violation|False|0.44218236207962036
+plan|ordinance|True|0.772946298122406
+plan|outcome|True|0.8574564456939697
+plan|plan|True|1.0
+plan|plan amendment|False|0.6924177408218384
+plan|plan review meeting|True|0.7842580676078796
+plan|plan reviewer workload|True|0.7335371971130371
+plan|planning - relate report|True|0.8238571882247925
+plan|planning study|True|0.8772618770599365
+plan|preapplication assistance|True|0.7720862627029419
+plan|property information|False|0.6862871050834656
+plan|request|False|0.6548422574996948
+plan|requirement|True|0.7457023859024048
+plan|service|True|0.8019839525222778
+plan|staff report|False|0.5352301001548767
+plan|staff review|False|0.5876685380935669
+plan|status|True|0.7337586879730225
+plan|when|True|0.774872899055481
+plan|zoning - relate permit|True|0.8536960482597351
+plan amendment|affidavit|False|0.6553286910057068
+plan amendment|appeal|False|0.5330093502998352
+plan amendment|application|True|0.7439521551132202
+plan amendment|approve proffer|True|0.8234081268310547
+plan amendment|bond|False|0.5638108849525452
+plan amendment|building development project|True|0.7832458019256592
+plan amendment|citation|False|0.6463978290557861
+plan amendment|code modification|True|0.7218509316444397
+plan amendment|completeness review|True|0.7277608513832092
+plan amendment|completion of require plan review|True|0.8736491203308105
+plan amendment|consistency|True|0.7526035904884338
+plan amendment|custom query / report|True|0.7097671627998352
+plan amendment|customer portal user account|False|0.6032983660697937
+plan amendment|draft proffer|True|0.7595828771591187
+plan amendment|fee|False|0.5417421460151672
+plan amendment|fine|False|0.5703858137130737
+plan amendment|formal response|True|0.7447543740272522
+plan amendment|hearing calendar|False|0.6054796576499939
+plan amendment|hearing decision|False|0.6745028495788574
+plan amendment|hearing execution|False|0.5912244319915771
+plan amendment|hearing requirement|True|0.7337321043014526
+plan amendment|hold|False|0.6140415668487549
+plan amendment|inspection|False|0.666466474533081
+plan amendment|inspector workload|False|0.6049421429634094
+plan amendment|internal note|False|0.6498395204544067
+plan amendment|meet|False|0.6389716267585754
+plan amendment|notice of violation|False|0.5672958493232727
+plan amendment|ordinance|False|0.6360990405082703
+plan amendment|outcome|True|0.7344616651535034
+plan amendment|plan amendment|True|1.0
+plan amendment|plan review meeting|True|0.8073610067367554
+plan amendment|plan reviewer workload|True|0.7312590479850769
+plan amendment|planning - relate report|True|0.7465419173240662
+plan amendment|planning study|True|0.830085277557373
+plan amendment|preapplication assistance|True|0.7204824090003967
+plan amendment|property information|False|0.6288528442382812
+plan amendment|request|False|0.6806508302688599
+plan amendment|requirement|False|0.6954789757728577
+plan amendment|service|False|0.6437202095985413
+plan amendment|staff report|False|0.5618959069252014
+plan amendment|staff review|False|0.6412041187286377
+plan amendment|status|False|0.6403974890708923
+plan amendment|when|False|0.6541290283203125
+plan amendment|zoning - relate permit|True|0.8857777118682861
+plan review meeting|bond|False|0.552644670009613
+plan review meeting|code modification|False|0.5957141518592834
+plan review meeting|consistency|True|0.7298600077629089
+plan review meeting|hearing decision|False|0.6973671317100525
+plan review meeting|plan review meeting|True|1.0
+plan review meeting|planning - relate report|True|0.85396409034729
+plan review meeting|requirement|False|0.666034996509552
+plan reviewer workload|affidavit|False|0.5984129309654236
+plan reviewer workload|application|True|0.7004472613334656
+plan reviewer workload|bond|False|0.5649424195289612
+plan reviewer workload|citation|True|0.7186018228530884
+plan reviewer workload|code modification|False|0.5705229043960571
+plan reviewer workload|completeness review|True|0.8439565896987915
+plan reviewer workload|consistency|True|0.7937004566192627
+plan reviewer workload|fee|False|0.47111251950263977
+plan reviewer workload|fine|False|0.5266544818878174
+plan reviewer workload|formal response|True|0.7222946882247925
+plan reviewer workload|hearing calendar|False|0.6463667154312134
+plan reviewer workload|hearing decision|False|0.6292672753334045
+plan reviewer workload|hearing execution|False|0.6324544548988342
+plan reviewer workload|hold|False|0.5550695061683655
+plan reviewer workload|inspector workload|True|0.791626513004303
+plan reviewer workload|internal note|False|0.6387774348258972
+plan reviewer workload|meet|False|0.5679529905319214
+plan reviewer workload|notice of violation|False|0.58067786693573
+plan reviewer workload|ordinance|False|0.5982454419136047
+plan reviewer workload|outcome|False|0.6991522908210754
+plan reviewer workload|plan review meeting|True|0.8912421464920044
+plan reviewer workload|plan reviewer workload|True|1.0
+plan reviewer workload|planning - relate report|True|0.8550212383270264
+plan reviewer workload|planning study|True|0.8434790372848511
+plan reviewer workload|property information|False|0.6211037635803223
+plan reviewer workload|request|False|0.6614843010902405
+plan reviewer workload|requirement|True|0.7442637085914612
+plan reviewer workload|service|False|0.66832035779953
+plan reviewer workload|staff report|True|0.7193099856376648
+plan reviewer workload|staff review|True|0.7984300255775452
+plan reviewer workload|zoning - relate permit|True|0.7003017067909241
+planning - relate report|bond|False|0.6519989371299744
+planning - relate report|code modification|False|0.6006562113761902
+planning - relate report|consistency|True|0.8143143653869629
+planning - relate report|hearing decision|False|0.6613140106201172
+planning - relate report|planning - relate report|True|1.0
+planning - relate report|requirement|True|0.7459993958473206
+planning study|bond|True|0.712906002998352
+planning study|code modification|False|0.6384850740432739
+planning study|consistency|True|0.8436248898506165
+planning study|hearing calendar|True|0.7280279397964478
+planning study|hearing decision|False|0.6968114972114563
+planning study|hold|True|0.7163701057434082
+planning study|meet|True|0.7140237092971802
+planning study|notice of violation|False|0.6418542861938477
+planning study|plan review meeting|True|0.9024853110313416
+planning study|planning - relate report|True|0.91080242395401
+planning study|planning study|True|1.0
+planning study|request|True|0.772417426109314
+planning study|requirement|True|0.7886742949485779
+planning study|service|True|0.7141990065574646
+preapplication assistance|affidavit|True|0.8406743407249451
+preapplication assistance|appeal|True|0.8693063259124756
+preapplication assistance|application|True|0.9121057391166687
+preapplication assistance|approve proffer|True|0.9369468688964844
+preapplication assistance|bond|True|0.8221045136451721
+preapplication assistance|building development project|True|0.7799462080001831
+preapplication assistance|citation|True|0.8880702257156372
+preapplication assistance|code modification|True|0.8331594467163086
+preapplication assistance|completeness review|True|0.8708903789520264
+preapplication assistance|completion of require plan review|True|0.915562093257904
+preapplication assistance|consistency|True|0.8995389342308044
+preapplication assistance|custom query / report|True|0.9048052430152893
+preapplication assistance|customer portal user account|True|0.9017097353935242
+preapplication assistance|draft proffer|True|0.9177421927452087
+preapplication assistance|fee|True|0.7643386125564575
+preapplication assistance|fine|True|0.787227988243103
+preapplication assistance|formal response|True|0.8850135207176208
+preapplication assistance|hearing calendar|True|0.7444720268249512
+preapplication assistance|hearing decision|True|0.7742326259613037
+preapplication assistance|hearing execution|True|0.8373587131500244
+preapplication assistance|hearing requirement|True|0.8472551703453064
+preapplication assistance|hold|True|0.849437952041626
+preapplication assistance|inspection|True|0.831057608127594
+preapplication assistance|inspector workload|True|0.7967829704284668
+preapplication assistance|internal note|True|0.8404982089996338
+preapplication assistance|meet|True|0.8109304308891296
+preapplication assistance|notice of violation|True|0.775056004524231
+preapplication assistance|ordinance|True|0.7849063873291016
+preapplication assistance|outcome|True|0.8899681568145752
+preapplication assistance|plan review meeting|True|0.7848420739173889
+preapplication assistance|plan reviewer workload|True|0.8286235332489014
+preapplication assistance|planning - relate report|True|0.8451651930809021
+preapplication assistance|planning study|True|0.8173916339874268
+preapplication assistance|preapplication assistance|True|1.0
+preapplication assistance|property information|True|0.8754785656929016
+preapplication assistance|request|True|0.8659607768058777
+preapplication assistance|requirement|True|0.8718122839927673
+preapplication assistance|service|True|0.8925918340682983
+preapplication assistance|staff report|True|0.7106022238731384
+preapplication assistance|staff review|True|0.7553018927574158
+preapplication assistance|when|True|0.8246324062347412
+preapplication assistance|zoning - relate permit|True|0.911944568157196
+property information|affidavit|True|0.806124746799469
+property information|application|True|0.9212777018547058
+property information|bond|True|0.8425395488739014
+property information|citation|True|0.9143927693367004
+property information|code modification|True|0.7538923621177673
+property information|completeness review|True|0.877564013004303
+property information|consistency|True|0.9311781525611877
+property information|fee|True|0.7690202593803406
+property information|fine|True|0.815126895904541
+property information|formal response|True|0.89565509557724
+property information|hearing calendar|True|0.7336677312850952
+property information|hearing decision|True|0.8044771552085876
+property information|hearing execution|True|0.840356171131134
+property information|hold|True|0.8677447438240051
+property information|inspector workload|True|0.8344239592552185
+property information|internal note|True|0.8560247421264648
+property information|meet|True|0.822146475315094
+property information|notice of violation|True|0.807215690612793
+property information|ordinance|True|0.7813588380813599
+property information|outcome|True|0.8940759301185608
+property information|plan review meeting|True|0.7215892672538757
+property information|planning - relate report|True|0.8482210040092468
+property information|planning study|True|0.8402374982833862
+property information|property information|True|1.0
+property information|request|True|0.7846068143844604
+property information|requirement|True|0.8842435479164124
+property information|service|True|0.8637807965278625
+property information|staff report|True|0.7009081244468689
+property information|staff review|False|0.6840218901634216
+property information|zoning - relate permit|True|0.890203595161438
+request|bond|True|0.7355436086654663
+request|code modification|False|0.6745575070381165
+request|consistency|True|0.8435084223747253
+request|hearing calendar|False|0.6217644214630127
+request|hearing decision|True|0.7853478789329529
+request|hold|True|0.7851284146308899
+request|meet|True|0.8123526573181152
+request|notice of violation|False|0.6956746578216553
+request|plan review meeting|True|0.7388432025909424
+request|planning - relate report|True|0.7912208437919617
+request|request|True|1.0
+request|requirement|True|0.885698676109314
+requirement|requirement|True|1.0
+service|bond|True|0.7842016816139221
+service|code modification|False|0.6720624566078186
+service|consistency|True|0.9067285060882568
+service|hearing calendar|False|0.6790806651115417
+service|hearing decision|True|0.7738730311393738
+service|hold|True|0.7888870239257812
+service|meet|True|0.802395761013031
+service|notice of violation|False|0.6983212828636169
+service|plan review meeting|False|0.6612728834152222
+service|planning - relate report|True|0.7981334924697876
+service|request|True|0.8311527967453003
+service|requirement|True|0.8544752597808838
+service|service|True|1.0
+staff report|bond|False|0.5722472667694092
+staff report|code modification|False|0.5969412326812744
+staff report|consistency|True|0.768892228603363
+staff report|hearing calendar|False|0.5724319219589233
+staff report|hearing decision|False|0.6810192465782166
+staff report|hold|False|0.5897872447967529
+staff report|meet|False|0.6435849666595459
+staff report|notice of violation|False|0.6892195343971252
+staff report|plan review meeting|True|0.715129554271698
+staff report|planning - relate report|True|0.868022620677948
+staff report|planning study|True|0.7063619494438171
+staff report|request|True|0.7272360324859619
+staff report|requirement|False|0.6949565410614014
+staff report|service|True|0.7076438069343567
+staff report|staff report|True|1.0
+staff review|application|True|0.7821707129478455
+staff review|bond|False|0.6892013549804688
+staff review|code modification|True|0.7237050533294678
+staff review|consistency|True|0.8362997770309448
+staff review|hearing calendar|False|0.6889352202415466
+staff review|hearing decision|True|0.8051993250846863
+staff review|hold|True|0.7016203999519348
+staff review|internal note|True|0.7967512607574463
+staff review|meet|True|0.7702692151069641
+staff review|notice of violation|True|0.7657528519630432
+staff review|ordinance|False|0.6370359659194946
+staff review|plan review meeting|True|0.8753051161766052
+staff review|planning - relate report|True|0.8410308957099915
+staff review|planning study|True|0.8083493113517761
+staff review|request|True|0.8137989640235901
+staff review|requirement|True|0.804099977016449
+staff review|service|True|0.7748522758483887
+staff review|staff report|True|0.9104257225990295
+staff review|staff review|True|1.0
+status|affidavit|True|0.8530723452568054
+status|appeal|True|0.8350899815559387
+status|application|True|0.9029515385627747
+status|approve proffer|True|0.9225789308547974
+status|bond|True|0.8595557808876038
+status|building development project|True|0.7522104978561401
+status|citation|True|0.8761871457099915
+status|code modification|True|0.7049216628074646
+status|completeness review|True|0.8539440035820007
+status|completion of require plan review|True|0.8700202703475952
+status|consistency|True|0.9269479513168335
+status|custom query / report|True|0.8945740461349487
+status|customer portal user account|True|0.8879826068878174
+status|draft proffer|True|0.8316001892089844
+status|fee|True|0.7913895845413208
+status|fine|True|0.845043420791626
+status|formal response|True|0.889723002910614
+status|hearing calendar|True|0.7430979013442993
+status|hearing decision|True|0.7973441481590271
+status|hearing execution|True|0.7491136789321899
+status|hearing requirement|True|0.8424369692802429
+status|hold|True|0.8546350002288818
+status|inspection|True|0.8145490288734436
+status|inspector workload|True|0.7910744547843933
+status|internal note|True|0.7882211208343506
+status|meet|True|0.8530511260032654
+status|notice of violation|True|0.7115365862846375
+status|ordinance|True|0.8218187093734741
+status|outcome|True|0.8841809034347534
+status|plan review meeting|True|0.7565567493438721
+status|plan reviewer workload|True|0.8123055696487427
+status|planning - relate report|True|0.8486247062683105
+status|planning study|True|0.7772076725959778
+status|preapplication assistance|True|0.8372296690940857
+status|property information|True|0.8713616132736206
+status|request|True|0.8347445130348206
+status|requirement|True|0.8624915480613708
+status|service|True|0.8804671168327332
+status|staff report|True|0.7014662027359009
+status|staff review|False|0.6883828639984131
+status|status|True|1.0
+status|when|True|0.8723902702331543
+status|zoning - relate permit|True|0.8661180138587952
+support documentation|affidavit|True|0.8457013964653015
+support documentation|appeal|True|0.7336367964744568
+support documentation|application|True|0.8510453104972839
+support documentation|approve proffer|True|0.8877413868904114
+support documentation|bond|True|0.7307628393173218
+support documentation|building development project|True|0.7242876291275024
+support documentation|citation|True|0.8795186281204224
+support documentation|code modification|True|0.7206323146820068
+support documentation|completeness review|True|0.8163079619407654
+support documentation|completion of require plan review|True|0.8977807760238647
+support documentation|consistency|True|0.8761852383613586
+support documentation|custom query / report|True|0.8400465250015259
+support documentation|customer portal user account|True|0.8249176144599915
+support documentation|development - relate permit|True|0.849298357963562
+support documentation|draft proffer|True|0.877257227897644
+support documentation|each condo unit|False|0.5971983671188354
+support documentation|fee|False|0.6617063283920288
+support documentation|fine|False|0.6958640217781067
+support documentation|formal response|True|0.8390660881996155
+support documentation|gis property management|True|0.8242335319519043
+support documentation|hearing calendar|True|0.7044581770896912
+support documentation|hearing date|False|0.6620693206787109
+support documentation|hearing decision|True|0.7198761701583862
+support documentation|hearing execution|True|0.7684323787689209
+support documentation|hearing requirement|True|0.8149036765098572
+support documentation|hold|True|0.712195098400116
+support documentation|information|True|0.8363604545593262
+support documentation|inspection|True|0.738339364528656
+support documentation|inspector workload|True|0.7596125602722168
+support documentation|internal note|True|0.8116888403892517
+support documentation|meet|True|0.7479862570762634
+support documentation|notice of violation|True|0.7580190300941467
+support documentation|ordinance|False|0.6922367811203003
+support documentation|outcome|True|0.8092019557952881
+support documentation|plan|True|0.7008054852485657
+support documentation|plan amendment|False|0.6668964624404907
+support documentation|plan review meeting|True|0.7502022981643677
+support documentation|plan reviewer workload|True|0.8578996062278748
+support documentation|planning - relate report|True|0.8243515491485596
+support documentation|planning study|True|0.7980488538742065
+support documentation|preapplication assistance|True|0.821549117565155
+support documentation|property information|True|0.8681544065475464
+support documentation|request|True|0.7902326583862305
+support documentation|requirement|True|0.8254742622375488
+support documentation|service|True|0.7949761152267456
+support documentation|staff report|True|0.764374852180481
+support documentation|staff review|True|0.7368351221084595
+support documentation|status|True|0.8186460733413696
+support documentation|support documentation|True|1.0
+support documentation|when|True|0.8088189363479614
+support documentation|zoning - relate permit|True|0.8491896986961365
+when|affidavit|True|0.8498790264129639
+when|appeal|True|0.8479201197624207
+when|application|True|0.9239464998245239
+when|approve proffer|True|0.9216156601905823
+when|bond|True|0.877145528793335
+when|citation|True|0.8680810928344727
+when|code modification|True|0.7615395784378052
+when|completeness review|True|0.8428207039833069
+when|consistency|True|0.9317091703414917
+when|custom query / report|True|0.8835717439651489
+when|draft proffer|True|0.8524147272109985
+when|fee|True|0.8002604246139526
+when|fine|True|0.8546226620674133
+when|formal response|True|0.8928815126419067
+when|hearing calendar|True|0.7318359017372131
+when|hearing decision|True|0.8299463987350464
+when|hearing execution|True|0.7460951209068298
+when|hold|True|0.8623043894767761
+when|inspector workload|True|0.7731329798698425
+when|internal note|True|0.8121599555015564
+when|meet|True|0.8106817603111267
+when|notice of violation|False|0.6981621384620667
+when|ordinance|True|0.8186826705932617
+when|outcome|True|0.904861569404602
+when|plan review meeting|True|0.7137430310249329
+when|plan reviewer workload|True|0.8309552669525146
+when|planning - relate report|True|0.8282318115234375
+when|planning study|True|0.7321088910102844
+when|property information|True|0.893137514591217
+when|request|True|0.839982271194458
+when|requirement|True|0.870644211769104
+when|service|True|0.8903419971466064
+when|staff report|False|0.6716386675834656
+when|staff review|False|0.6329663991928101
+when|when|True|1.0
+when|zoning - relate permit|True|0.8424059152603149
+zoning - relate permit|application|True|0.8939034938812256
+zoning - relate permit|bond|False|0.6746373176574707
+zoning - relate permit|code modification|True|0.8445066213607788
+zoning - relate permit|consistency|True|0.8382911086082458
+zoning - relate permit|hearing calendar|True|0.7154267430305481
+zoning - relate permit|hearing decision|True|0.7590600848197937
+zoning - relate permit|hold|True|0.7972474098205566
+zoning - relate permit|inspector workload|False|0.6965034008026123
+zoning - relate permit|internal note|True|0.7199429869651794
+zoning - relate permit|meet|False|0.673422634601593
+zoning - relate permit|notice of violation|True|0.7782025337219238
+zoning - relate permit|ordinance|True|0.8326138257980347
+zoning - relate permit|plan review meeting|True|0.8650587797164917
+zoning - relate permit|planning - relate report|True|0.9242402911186218
+zoning - relate permit|planning study|True|0.8958885669708252
+zoning - relate permit|request|True|0.7924647331237793
+zoning - relate permit|requirement|True|0.8719953298568726
+zoning - relate permit|service|True|0.7891789674758911
+zoning - relate permit|staff report|False|0.6026613116264343
+zoning - relate permit|staff review|False|0.660541296005249
+zoning - relate permit|zoning - relate permit|True|1.0

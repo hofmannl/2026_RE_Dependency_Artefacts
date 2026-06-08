@@ -1,0 +1,46 @@
+Persona 1 | Persona 2 | Result | Score 
+pipeline designer|pipeline designer|True|1.0
+pipeline designer|pipeline developer|True|0.945482075214386
+pipeline designer|dataset developer|True|0.8083555102348328
+pipeline designer|user|True|0.729559063911438
+pipeline designer|app developer|True|0.7534255981445312
+pipeline designer|hydrator user|True|0.7275123000144958
+pipeline designer|developer|True|0.8174879550933838
+pipeline designer|plugin developer|True|0.7653065919876099
+pipeline designer|data scientist|True|0.7929216623306274
+pipeline developer|pipeline developer|True|1.0
+pipeline developer|dataset developer|True|0.8342138528823853
+pipeline developer|user|True|0.7188710570335388
+pipeline developer|app developer|True|0.796085774898529
+pipeline developer|hydrator user|True|0.7012962102890015
+pipeline developer|developer|True|0.9062382578849792
+pipeline developer|plugin developer|True|0.8118399381637573
+pipeline developer|data scientist|True|0.8080930709838867
+dataset developer|dataset developer|True|1.0
+dataset developer|user|True|0.7484391927719116
+dataset developer|app developer|True|0.8141456246376038
+dataset developer|hydrator user|True|0.7031975388526917
+dataset developer|developer|True|0.9332703351974487
+dataset developer|plugin developer|True|0.7849287390708923
+dataset developer|data scientist|True|0.9043712019920349
+user|user|True|1.0
+user|app developer|True|0.7857410311698914
+user|hydrator user|True|0.9157792925834656
+user|developer|True|0.8176593780517578
+user|plugin developer|True|0.7703275084495544
+user|data scientist|True|0.7827239632606506
+app developer|app developer|True|1.0
+app developer|hydrator user|False|0.6674192547798157
+app developer|developer|True|0.8900398015975952
+app developer|plugin developer|True|0.8103348016738892
+app developer|data scientist|True|0.8136564493179321
+hydrator user|hydrator user|True|1.0
+hydrator user|developer|False|0.5846683979034424
+hydrator user|plugin developer|False|0.6708529591560364
+hydrator user|data scientist|False|0.5776204466819763
+developer|developer|True|1.0
+developer|plugin developer|True|0.8535783290863037
+developer|data scientist|True|0.8576408624649048
+plugin developer|plugin developer|True|1.0
+plugin developer|data scientist|True|0.7762030363082886
+data scientist|data scientist|True|1.0

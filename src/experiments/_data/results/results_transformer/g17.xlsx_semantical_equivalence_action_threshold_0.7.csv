@@ -1,0 +1,466 @@
+Action 1 | Action 2 | Result | Score 
+allow|allow|True|1.0
+assign|allow|False|0.6963072419166565
+assign|assign|True|1.0
+assign|create|True|0.7994665503501892
+assign|deploy|True|0.859815776348114
+assign|enable|True|0.7262119650840759
+assign|get|True|0.77814781665802
+assign|implement|True|0.8600825667381287
+assign|see|False|0.5256509780883789
+assign|specify|False|0.6014596223831177
+assign|take|True|0.8476144075393677
+assign|upgrade|True|0.7166905999183655
+assign|use|True|0.7810935974121094
+configure|allow|True|0.7937383651733398
+configure|assign|True|0.8489401936531067
+configure|configure|True|1.0
+configure|create|True|0.8807156682014465
+configure|delete|False|0.6782885789871216
+configure|deploy|True|0.8813877105712891
+configure|disable|True|0.751300573348999
+configure|enable|True|0.8546377420425415
+configure|ensure|True|0.7955107688903809
+configure|explore|True|0.801737368106842
+configure|get|True|0.8010938167572021
+configure|have|True|0.7218167185783386
+configure|implement|True|0.8855178356170654
+configure|list|False|0.6693096160888672
+configure|only depend|False|0.676616907119751
+configure|perform|True|0.8948785066604614
+configure|remove|True|0.7238796949386597
+configure|see|False|0.6316416263580322
+configure|separate|True|0.7516392469406128
+configure|share|True|0.7206655740737915
+configure|specify|True|0.7608254551887512
+configure|take|True|0.8520277142524719
+configure|tolerate|True|0.8197014927864075
+configure|trigger|True|0.7582150101661682
+configure|update|True|0.8522953987121582
+configure|upgrade|True|0.8182235360145569
+configure|use|True|0.8311347365379333
+configure|write|True|0.8022833466529846
+create|allow|True|0.7174117565155029
+create|create|True|1.0
+create|deploy|True|0.8357967138290405
+create|see|False|0.6140132546424866
+create|upgrade|True|0.7522665858268738
+create|use|True|0.7962157130241394
+delete|allow|False|0.39380180835723877
+delete|assign|False|0.4362781345844269
+delete|create|False|0.3804582357406616
+delete|delete|True|1.0
+delete|deploy|False|0.6149700880050659
+delete|enable|False|0.4236791431903839
+delete|get|False|0.4419328570365906
+delete|implement|False|0.42591217160224915
+delete|see|False|0.309885710477829
+delete|specify|False|0.29067832231521606
+delete|take|False|0.49535852670669556
+delete|upgrade|False|0.5781128406524658
+delete|use|False|0.3965100944042206
+deploy|allow|False|0.6343668699264526
+deploy|deploy|True|1.0
+disable|allow|False|0.595678985118866
+disable|assign|False|0.6129680871963501
+disable|create|False|0.4849587678909302
+disable|delete|False|0.5972790122032166
+disable|deploy|True|0.7431707382202148
+disable|disable|True|1.0
+disable|enable|False|0.6776600480079651
+disable|ensure|False|0.5340846180915833
+disable|explore|False|0.5184531807899475
+disable|get|False|0.5418127179145813
+disable|implement|False|0.6413686275482178
+disable|list|False|0.39780572056770325
+disable|perform|False|0.6003021597862244
+disable|remove|True|0.7169272303581238
+disable|see|False|0.31569787859916687
+disable|share|False|0.42663902044296265
+disable|specify|False|0.31475555896759033
+disable|take|False|0.6114046573638916
+disable|tolerate|False|0.6142394542694092
+disable|trigger|False|0.5905839800834656
+disable|update|False|0.6326708793640137
+disable|upgrade|False|0.6910315752029419
+disable|use|False|0.5817333459854126
+disable|write|False|0.48544642329216003
+enable|allow|True|0.8321171998977661
+enable|create|True|0.7521034479141235
+enable|deploy|True|0.8462332487106323
+enable|enable|True|1.0
+enable|implement|True|0.8498316407203674
+enable|see|False|0.6429163813591003
+enable|specify|False|0.6943051815032959
+enable|take|True|0.8317341804504395
+enable|upgrade|True|0.7745116949081421
+enable|use|True|0.822379469871521
+ensure|allow|True|0.7308751344680786
+ensure|assign|True|0.7796568274497986
+ensure|create|True|0.7791359424591064
+ensure|delete|False|0.5070906281471252
+ensure|deploy|True|0.8166951537132263
+ensure|enable|True|0.7991841435432434
+ensure|ensure|True|1.0
+ensure|get|True|0.7796946167945862
+ensure|implement|True|0.855491042137146
+ensure|list|False|0.6382318139076233
+ensure|remove|False|0.596671462059021
+ensure|see|False|0.6218395233154297
+ensure|share|False|0.6977134943008423
+ensure|specify|True|0.8418914079666138
+ensure|take|True|0.8610550761222839
+ensure|trigger|False|0.6011704206466675
+ensure|update|True|0.7976723909378052
+ensure|upgrade|True|0.7534869909286499
+ensure|use|True|0.83997642993927
+explore|allow|True|0.8318125009536743
+explore|assign|True|0.8233180642127991
+explore|create|True|0.84418785572052
+explore|delete|False|0.6682252287864685
+explore|deploy|True|0.8556178212165833
+explore|enable|True|0.8666148781776428
+explore|ensure|True|0.8010613918304443
+explore|explore|True|1.0
+explore|get|True|0.8860301375389099
+explore|implement|True|0.846541702747345
+explore|list|True|0.772864818572998
+explore|remove|False|0.6971615552902222
+explore|see|True|0.8094985485076904
+explore|share|True|0.7611047625541687
+explore|specify|True|0.7012964487075806
+explore|take|True|0.8914057016372681
+explore|trigger|True|0.77407306432724
+explore|update|True|0.815815806388855
+explore|upgrade|True|0.7386760711669922
+explore|use|True|0.8488985300064087
+find out|allow|True|0.7898557186126709
+find out|assign|True|0.8394442796707153
+find out|configure|True|0.8439831733703613
+find out|create|True|0.8369799256324768
+find out|delete|False|0.605450451374054
+find out|deploy|True|0.8342841863632202
+find out|disable|False|0.6456586122512817
+find out|enable|True|0.8578527569770813
+find out|ensure|True|0.8212432265281677
+find out|explore|True|0.8974385857582092
+find out|find out|True|1.0
+find out|get|True|0.9122324585914612
+find out|have|True|0.8279770016670227
+find out|implement|True|0.8615301251411438
+find out|list|True|0.8141779899597168
+find out|only depend|True|0.7797849774360657
+find out|perform|True|0.925243616104126
+find out|remove|True|0.7022614479064941
+find out|see|True|0.8649166822433472
+find out|separate|True|0.746353805065155
+find out|share|True|0.7414603233337402
+find out|specify|True|0.7284213304519653
+find out|take|True|0.9115175008773804
+find out|tolerate|True|0.8092337250709534
+find out|trigger|True|0.7608305215835571
+find out|update|True|0.8863195180892944
+find out|upgrade|True|0.7371872067451477
+find out|use|True|0.8749027848243713
+find out|write|True|0.8493442535400391
+get|allow|True|0.7016779780387878
+get|create|True|0.8103893995285034
+get|deploy|True|0.8219813704490662
+get|enable|True|0.7354499101638794
+get|get|True|1.0
+get|implement|True|0.7956122756004333
+get|see|True|0.8064448833465576
+get|specify|False|0.5305320620536804
+get|take|True|0.9103506803512573
+get|upgrade|True|0.7424024343490601
+get|use|True|0.8443974256515503
+have|allow|True|0.7024964690208435
+have|assign|True|0.7337464094161987
+have|create|True|0.7294557690620422
+have|delete|False|0.5151336789131165
+have|deploy|True|0.7952963709831238
+have|disable|False|0.4984428286552429
+have|enable|True|0.7321189045906067
+have|ensure|True|0.7083011865615845
+have|explore|True|0.7124531865119934
+have|get|True|0.8411887884140015
+have|have|True|1.0
+have|implement|True|0.7644342184066772
+have|list|False|0.6755548715591431
+have|only depend|False|0.5718429684638977
+have|perform|True|0.8880304098129272
+have|remove|False|0.5894755721092224
+have|see|False|0.680355429649353
+have|separate|False|0.657453715801239
+have|share|False|0.699250340461731
+have|specify|False|0.5656749606132507
+have|take|True|0.8672182559967041
+have|tolerate|True|0.7395721673965454
+have|trigger|False|0.6382479071617126
+have|update|True|0.7830244898796082
+have|upgrade|True|0.7187425494194031
+have|use|True|0.8081327676773071
+have|write|True|0.7398222088813782
+implement|allow|True|0.7154445648193359
+implement|create|True|0.7948521375656128
+implement|deploy|True|0.8394450545310974
+implement|implement|True|1.0
+implement|see|False|0.5764373540878296
+implement|specify|False|0.6490718126296997
+implement|take|True|0.8363383412361145
+implement|upgrade|True|0.7769891023635864
+implement|use|True|0.8070099353790283
+include|allow|True|0.7758299708366394
+include|assign|True|0.8120100498199463
+include|configure|True|0.8047768473625183
+include|create|True|0.7354381084442139
+include|delete|False|0.6276780366897583
+include|deploy|True|0.8564999103546143
+include|disable|False|0.6103019714355469
+include|enable|True|0.816992998123169
+include|ensure|True|0.8026890754699707
+include|explore|True|0.795685350894928
+include|find out|True|0.7754501104354858
+include|get|True|0.7923735976219177
+include|have|True|0.7058119177818298
+include|implement|True|0.8819993734359741
+include|include|True|1.0
+include|list|True|0.8057607412338257
+include|only depend|False|0.5877219438552856
+include|perform|True|0.9176254272460938
+include|remove|False|0.6085465550422668
+include|see|False|0.6486256122589111
+include|separate|True|0.729638397693634
+include|share|True|0.7394459843635559
+include|specify|True|0.7045554518699646
+include|take|True|0.8588885068893433
+include|tolerate|True|0.7895207405090332
+include|trigger|False|0.6765232086181641
+include|update|True|0.8272348642349243
+include|upgrade|True|0.7625333666801453
+include|use|True|0.8515723943710327
+include|write|True|0.7877344489097595
+list|allow|True|0.7209135293960571
+list|assign|True|0.8099234104156494
+list|create|True|0.7508247494697571
+list|delete|False|0.6255759000778198
+list|deploy|True|0.8120115399360657
+list|enable|True|0.7794876098632812
+list|get|True|0.8118457794189453
+list|implement|True|0.7939983010292053
+list|list|True|1.0
+list|see|False|0.6781514286994934
+list|specify|False|0.5679961442947388
+list|take|True|0.8429668545722961
+list|upgrade|True|0.7361496090888977
+list|use|True|0.7965874075889587
+only depend|allow|False|0.6164076328277588
+only depend|assign|False|0.5859010815620422
+only depend|create|False|0.5396683812141418
+only depend|delete|False|0.2731267213821411
+only depend|deploy|False|0.642035186290741
+only depend|disable|False|0.44056135416030884
+only depend|enable|False|0.6555825471878052
+only depend|ensure|False|0.5640626549720764
+only depend|explore|False|0.6006767749786377
+only depend|get|False|0.6483579277992249
+only depend|implement|False|0.6539259552955627
+only depend|list|False|0.49749013781547546
+only depend|only depend|True|1.0
+only depend|perform|True|0.7132831811904907
+only depend|remove|False|0.3617338538169861
+only depend|see|False|0.4927588403224945
+only depend|share|False|0.5179026126861572
+only depend|specify|False|0.44079020619392395
+only depend|take|True|0.7006425261497498
+only depend|tolerate|False|0.5870770812034607
+only depend|trigger|False|0.42954021692276
+only depend|update|False|0.5919987559318542
+only depend|upgrade|False|0.5627365708351135
+only depend|use|False|0.6335569024085999
+only depend|write|False|0.5272588729858398
+perform|allow|True|0.7323319911956787
+perform|assign|True|0.8081672787666321
+perform|create|True|0.8175414204597473
+perform|delete|False|0.5104973912239075
+perform|deploy|True|0.8186514973640442
+perform|enable|True|0.8282369375228882
+perform|ensure|True|0.8244364261627197
+perform|explore|True|0.7859086394309998
+perform|get|True|0.8533579707145691
+perform|implement|True|0.8922511339187622
+perform|list|False|0.6921727657318115
+perform|perform|True|1.0
+perform|remove|False|0.5505096316337585
+perform|see|True|0.7073801159858704
+perform|share|True|0.7094553709030151
+perform|specify|True|0.7949424982070923
+perform|take|True|0.9071073532104492
+perform|trigger|False|0.6201993823051453
+perform|update|True|0.8522166609764099
+perform|upgrade|True|0.7483865022659302
+perform|use|True|0.8612410426139832
+remove|allow|False|0.4548301696777344
+remove|assign|False|0.5176631212234497
+remove|create|False|0.42406556010246277
+remove|delete|False|0.6237156391143799
+remove|deploy|False|0.5789780616760254
+remove|enable|False|0.4513576030731201
+remove|get|False|0.5838500261306763
+remove|implement|False|0.45407649874687195
+remove|list|False|0.34808623790740967
+remove|remove|True|1.0
+remove|see|False|0.35808536410331726
+remove|share|False|0.39803680777549744
+remove|specify|False|0.3140951991081238
+remove|take|False|0.5740224719047546
+remove|trigger|False|0.4216432273387909
+remove|update|False|0.5392850637435913
+remove|upgrade|False|0.5793189406394958
+remove|use|False|0.43663012981414795
+see|allow|True|0.7045621275901794
+see|deploy|True|0.8108396530151367
+see|see|True|1.0
+see|upgrade|True|0.727969229221344
+see|use|True|0.8426841497421265
+separate|allow|False|0.5569089651107788
+separate|assign|False|0.5171067118644714
+separate|create|False|0.5444748401641846
+separate|delete|False|0.33304494619369507
+separate|deploy|False|0.5759398937225342
+separate|disable|False|0.28061574697494507
+separate|enable|False|0.590779185295105
+separate|ensure|False|0.510683000087738
+separate|explore|False|0.49009427428245544
+separate|get|False|0.6051174998283386
+separate|implement|False|0.6788206696510315
+separate|list|False|0.39383387565612793
+separate|only depend|False|0.38760119676589966
+separate|perform|True|0.7811871767044067
+separate|remove|False|0.4736725389957428
+separate|see|False|0.41494813561439514
+separate|separate|True|1.0
+separate|share|False|0.5425668358802795
+separate|specify|False|0.30598151683807373
+separate|take|True|0.7093654274940491
+separate|tolerate|False|0.5670278668403625
+separate|trigger|False|0.286955326795578
+separate|update|False|0.6071791052818298
+separate|upgrade|False|0.5814428925514221
+separate|use|False|0.6696836948394775
+separate|write|False|0.5208603143692017
+share|allow|True|0.7337871789932251
+share|assign|True|0.7683398723602295
+share|create|True|0.754375159740448
+share|delete|False|0.6625370979309082
+share|deploy|True|0.828042209148407
+share|enable|True|0.7729416489601135
+share|get|True|0.8271231055259705
+share|implement|True|0.7844420075416565
+share|list|True|0.7909272909164429
+share|see|False|0.6696341633796692
+share|share|True|1.0
+share|specify|False|0.6414092779159546
+share|take|True|0.8079320788383484
+share|upgrade|True|0.7386865615844727
+share|use|True|0.8031830787658691
+specify|allow|False|0.5940085649490356
+specify|create|False|0.609710693359375
+specify|deploy|False|0.622856855392456
+specify|see|False|0.5228105187416077
+specify|specify|True|1.0
+specify|take|True|0.7360616326332092
+specify|upgrade|False|0.6178926825523376
+specify|use|True|0.8045633435249329
+take|allow|True|0.7640309929847717
+take|create|True|0.8038972020149231
+take|deploy|True|0.8408259153366089
+take|see|True|0.7568380832672119
+take|take|True|1.0
+take|upgrade|True|0.7273903489112854
+take|use|True|0.8508505821228027
+tolerate|allow|True|0.7564429640769958
+tolerate|assign|True|0.7226007580757141
+tolerate|create|True|0.7301421165466309
+tolerate|delete|False|0.4841916263103485
+tolerate|deploy|True|0.7922292947769165
+tolerate|enable|True|0.7814928293228149
+tolerate|ensure|False|0.6925503611564636
+tolerate|explore|True|0.7206844091415405
+tolerate|get|True|0.7153871059417725
+tolerate|implement|True|0.7869154214859009
+tolerate|list|False|0.5554102659225464
+tolerate|perform|True|0.8657626509666443
+tolerate|remove|False|0.5720418095588684
+tolerate|see|False|0.5786855220794678
+tolerate|share|False|0.648125410079956
+tolerate|specify|False|0.6137644648551941
+tolerate|take|True|0.8322588801383972
+tolerate|tolerate|True|1.0
+tolerate|trigger|False|0.6442703604698181
+tolerate|update|True|0.7397321462631226
+tolerate|upgrade|True|0.724748432636261
+tolerate|use|True|0.7431129813194275
+tolerate|write|True|0.7089407444000244
+trigger|allow|False|0.6163958311080933
+trigger|assign|False|0.6296497583389282
+trigger|create|False|0.6203051209449768
+trigger|delete|False|0.4601152241230011
+trigger|deploy|True|0.7589213848114014
+trigger|enable|False|0.6869622468948364
+trigger|get|False|0.659966766834259
+trigger|implement|False|0.6568955183029175
+trigger|list|False|0.4407080113887787
+trigger|see|False|0.4205860495567322
+trigger|share|False|0.5385236740112305
+trigger|specify|False|0.3637254536151886
+trigger|take|False|0.6937108635902405
+trigger|trigger|True|1.0
+trigger|upgrade|False|0.5980872511863708
+trigger|use|False|0.6323006749153137
+update|allow|False|0.6934844851493835
+update|assign|True|0.7597069144248962
+update|create|True|0.7846546769142151
+update|delete|True|0.7529142498970032
+update|deploy|True|0.8438151478767395
+update|enable|True|0.7646834850311279
+update|get|True|0.7969607710838318
+update|implement|True|0.7981588840484619
+update|list|True|0.7261559367179871
+update|see|False|0.648440420627594
+update|share|True|0.7300614714622498
+update|specify|False|0.5717687010765076
+update|take|True|0.8240522742271423
+update|trigger|False|0.6757810711860657
+update|update|True|1.0
+update|upgrade|True|0.8654540181159973
+update|use|True|0.722590446472168
+upgrade|allow|True|0.7401670813560486
+upgrade|deploy|True|0.8447514772415161
+upgrade|upgrade|True|1.0
+upgrade|use|True|0.7544484734535217
+use|allow|True|0.7891467809677124
+use|deploy|True|0.8966500759124756
+use|use|True|1.0
+write|allow|True|0.7901841998100281
+write|assign|True|0.855964183807373
+write|create|True|0.8564475178718567
+write|delete|True|0.7573459148406982
+write|deploy|True|0.8589091300964355
+write|enable|True|0.8188391327857971
+write|ensure|True|0.7775183916091919
+write|explore|True|0.8384649753570557
+write|get|True|0.8541595339775085
+write|implement|True|0.8467665314674377
+write|list|True|0.838995099067688
+write|perform|True|0.9084360003471375
+write|remove|True|0.7136877179145813
+write|see|True|0.8430173993110657
+write|share|True|0.8204135894775391
+write|specify|False|0.6056635975837708
+write|take|True|0.8843395709991455
+write|trigger|True|0.7305179238319397
+write|update|True|0.906004786491394
+write|upgrade|True|0.8153579831123352
+write|use|True|0.8631128668785095
+write|write|True|1.0

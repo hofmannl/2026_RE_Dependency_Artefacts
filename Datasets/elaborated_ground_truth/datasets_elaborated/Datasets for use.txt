@@ -1,0 +1,19 @@
+Datasets:
+
+1. g03-loudoun (58 entries): User Story Sammlung für ein Verwaltungs- und Genehmigungsportal
+2. g08-frictionless (66 entries): Data Packaging & Data Validation Workflows in Research
+3. g17-cask - (64 entries): Developer Versioning Platform
+4. g22-rdadmp (83 entries): Applikation für Forschungsdatenmanagement
+
+---
+
+Further Optional: 
+g21-badcamp (69 entries): 
+g26-racdam (100 entries): 
+g23-archiviespsace (57 entries):
+g19-alfred (138 entries):  
+
+
+
+
+

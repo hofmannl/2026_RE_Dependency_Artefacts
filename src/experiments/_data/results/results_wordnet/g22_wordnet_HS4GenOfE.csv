@@ -1,0 +1,3026 @@
+Entity 1|Entity 2|Hints from Wordnet
+administrative information|administrative information|False
+administrative information|agreement|False
+administrative information|all datum|True
+administrative information|all metadata|True
+administrative information|all resource|False
+administrative information|all right|False
+administrative information|anonymization of datum|True
+administrative information|compliance|False
+administrative information|conservation period|False
+administrative information|content|False
+administrative information|cost|False
+administrative information|creation process|False
+administrative information|data set|False
+administrative information|datum|True
+administrative information|datum sensitivity|False
+administrative information|description|False
+administrative information|detail|True
+administrative information|dmp|False
+administrative information|estimate|False
+administrative information|format|True
+administrative information|how|False
+administrative information|how long|False
+administrative information|how many|False
+administrative information|how secure|False
+administrative information|information|False
+administrative information|intention|False
+administrative information|it resource requirement|False
+administrative information|kind of data|True
+administrative information|kind of data I want to record / store|False
+administrative information|kind of data I want to store|False
+administrative information|kind of datum type|False
+administrative information|legal status|False
+administrative information|metadata|True
+administrative information|necessary right|False
+administrative information|persistent identifier|False
+administrative information|plan provenance|False
+administrative information|pointer|False
+administrative information|privacy|False
+administrative information|reference|False
+administrative information|regular summary report|True
+administrative information|report|True
+administrative information|repository mention|False
+administrative information|research publication|False
+administrative information|section|False
+administrative information|security requirement|False
+administrative information|service use|False
+administrative information|short description|False
+administrative information|software|False
+administrative information|technology|False
+administrative information|time plan|False
+administrative information|topic|False
+administrative information|when|False
+administrative information|my data|True
+administrative information|who|False
+administrative information|who be responsible|False
+agreement|administrative information|False
+agreement|agreement|False
+agreement|all datum|False
+agreement|all metadata|False
+agreement|all resource|False
+agreement|all right|False
+agreement|anonymization of datum|False
+agreement|compliance|False
+agreement|conservation period|False
+agreement|content|False
+agreement|cost|False
+agreement|creation process|False
+agreement|data set|False
+agreement|datum|False
+agreement|datum sensitivity|False
+agreement|description|False
+agreement|detail|False
+agreement|dmp|False
+agreement|estimate|False
+agreement|format|False
+agreement|how|False
+agreement|how long|False
+agreement|how many|False
+agreement|how secure|False
+agreement|information|False
+agreement|intention|False
+agreement|it resource requirement|False
+agreement|kind of data|False
+agreement|kind of data I want to record / store|False
+agreement|kind of data I want to store|False
+agreement|kind of datum type|False
+agreement|legal status|False
+agreement|metadata|False
+agreement|necessary right|False
+agreement|persistent identifier|False
+agreement|plan provenance|False
+agreement|pointer|False
+agreement|privacy|False
+agreement|reference|False
+agreement|regular summary report|False
+agreement|report|False
+agreement|repository mention|False
+agreement|research publication|False
+agreement|section|False
+agreement|security requirement|False
+agreement|service use|False
+agreement|short description|False
+agreement|software|False
+agreement|technology|False
+agreement|time plan|False
+agreement|topic|False
+agreement|when|False
+agreement|my data|False
+agreement|who|False
+agreement|who be responsible|False
+all datum|administrative information|False
+all datum|agreement|False
+all datum|all datum|False
+all datum|all metadata|False
+all datum|all resource|False
+all datum|all right|False
+all datum|anonymization of datum|False
+all datum|compliance|False
+all datum|conservation period|False
+all datum|content|False
+all datum|cost|False
+all datum|creation process|False
+all datum|data set|False
+all datum|datum|False
+all datum|datum sensitivity|False
+all datum|description|False
+all datum|detail|False
+all datum|dmp|False
+all datum|estimate|False
+all datum|format|False
+all datum|how|False
+all datum|how long|False
+all datum|how many|False
+all datum|how secure|False
+all datum|information|False
+all datum|intention|False
+all datum|it resource requirement|False
+all datum|kind of data|False
+all datum|kind of data I want to record / store|False
+all datum|kind of data I want to store|False
+all datum|kind of datum type|False
+all datum|legal status|False
+all datum|metadata|False
+all datum|necessary right|False
+all datum|persistent identifier|False
+all datum|plan provenance|False
+all datum|pointer|False
+all datum|privacy|False
+all datum|reference|False
+all datum|regular summary report|False
+all datum|report|False
+all datum|repository mention|False
+all datum|research publication|False
+all datum|section|False
+all datum|security requirement|False
+all datum|service use|False
+all datum|short description|False
+all datum|software|False
+all datum|technology|False
+all datum|time plan|False
+all datum|topic|False
+all datum|when|False
+all datum|my data|False
+all datum|who|False
+all datum|who be responsible|False
+all metadata|administrative information|False
+all metadata|agreement|False
+all metadata|all datum|False
+all metadata|all metadata|False
+all metadata|all resource|False
+all metadata|all right|False
+all metadata|anonymization of datum|False
+all metadata|compliance|False
+all metadata|conservation period|False
+all metadata|content|False
+all metadata|cost|False
+all metadata|creation process|False
+all metadata|data set|False
+all metadata|datum|False
+all metadata|datum sensitivity|False
+all metadata|description|False
+all metadata|detail|False
+all metadata|dmp|False
+all metadata|estimate|False
+all metadata|format|False
+all metadata|how|False
+all metadata|how long|False
+all metadata|how many|False
+all metadata|how secure|False
+all metadata|information|False
+all metadata|intention|False
+all metadata|it resource requirement|False
+all metadata|kind of data|False
+all metadata|kind of data I want to record / store|False
+all metadata|kind of data I want to store|False
+all metadata|kind of datum type|False
+all metadata|legal status|False
+all metadata|metadata|False
+all metadata|necessary right|False
+all metadata|persistent identifier|False
+all metadata|plan provenance|False
+all metadata|pointer|False
+all metadata|privacy|False
+all metadata|reference|False
+all metadata|regular summary report|False
+all metadata|report|False
+all metadata|repository mention|False
+all metadata|research publication|False
+all metadata|section|False
+all metadata|security requirement|False
+all metadata|service use|False
+all metadata|short description|False
+all metadata|software|False
+all metadata|technology|False
+all metadata|time plan|False
+all metadata|topic|False
+all metadata|when|False
+all metadata|my data|False
+all metadata|who|False
+all metadata|who be responsible|False
+all resource|administrative information|False
+all resource|agreement|False
+all resource|all datum|False
+all resource|all metadata|False
+all resource|all resource|False
+all resource|all right|False
+all resource|anonymization of datum|False
+all resource|compliance|False
+all resource|conservation period|False
+all resource|content|False
+all resource|cost|False
+all resource|creation process|False
+all resource|data set|False
+all resource|datum|False
+all resource|datum sensitivity|False
+all resource|description|False
+all resource|detail|False
+all resource|dmp|False
+all resource|estimate|False
+all resource|format|False
+all resource|how|False
+all resource|how long|False
+all resource|how many|False
+all resource|how secure|False
+all resource|information|False
+all resource|intention|False
+all resource|it resource requirement|False
+all resource|kind of data|False
+all resource|kind of data I want to record / store|False
+all resource|kind of data I want to store|False
+all resource|kind of datum type|False
+all resource|legal status|False
+all resource|metadata|False
+all resource|necessary right|False
+all resource|persistent identifier|False
+all resource|plan provenance|False
+all resource|pointer|False
+all resource|privacy|False
+all resource|reference|False
+all resource|regular summary report|False
+all resource|report|False
+all resource|repository mention|False
+all resource|research publication|False
+all resource|section|False
+all resource|security requirement|False
+all resource|service use|False
+all resource|short description|False
+all resource|software|False
+all resource|technology|False
+all resource|time plan|False
+all resource|topic|False
+all resource|when|False
+all resource|my data|False
+all resource|who|False
+all resource|who be responsible|False
+all right|administrative information|False
+all right|agreement|False
+all right|all datum|False
+all right|all metadata|False
+all right|all resource|False
+all right|all right|False
+all right|anonymization of datum|False
+all right|compliance|False
+all right|conservation period|False
+all right|content|False
+all right|cost|False
+all right|creation process|False
+all right|data set|False
+all right|datum|False
+all right|datum sensitivity|False
+all right|description|False
+all right|detail|False
+all right|dmp|False
+all right|estimate|False
+all right|format|False
+all right|how|False
+all right|how long|False
+all right|how many|False
+all right|how secure|False
+all right|information|False
+all right|intention|False
+all right|it resource requirement|False
+all right|kind of data|False
+all right|kind of data I want to record / store|False
+all right|kind of data I want to store|False
+all right|kind of datum type|False
+all right|legal status|False
+all right|metadata|False
+all right|necessary right|False
+all right|persistent identifier|False
+all right|plan provenance|False
+all right|pointer|False
+all right|privacy|False
+all right|reference|False
+all right|regular summary report|False
+all right|report|False
+all right|repository mention|False
+all right|research publication|False
+all right|section|False
+all right|security requirement|False
+all right|service use|True
+all right|short description|False
+all right|software|False
+all right|technology|False
+all right|time plan|False
+all right|topic|False
+all right|when|False
+all right|my data|False
+all right|who|False
+all right|who be responsible|False
+anonymization of datum|administrative information|False
+anonymization of datum|agreement|False
+anonymization of datum|all datum|False
+anonymization of datum|all metadata|False
+anonymization of datum|all resource|False
+anonymization of datum|all right|False
+anonymization of datum|anonymization of datum|False
+anonymization of datum|compliance|False
+anonymization of datum|conservation period|False
+anonymization of datum|content|False
+anonymization of datum|cost|False
+anonymization of datum|creation process|False
+anonymization of datum|data set|False
+anonymization of datum|datum|False
+anonymization of datum|datum sensitivity|False
+anonymization of datum|description|False
+anonymization of datum|detail|False
+anonymization of datum|dmp|False
+anonymization of datum|estimate|False
+anonymization of datum|format|False
+anonymization of datum|how|False
+anonymization of datum|how long|False
+anonymization of datum|how many|False
+anonymization of datum|how secure|False
+anonymization of datum|information|False
+anonymization of datum|intention|False
+anonymization of datum|it resource requirement|False
+anonymization of datum|kind of data|False
+anonymization of datum|kind of data I want to record / store|False
+anonymization of datum|kind of data I want to store|False
+anonymization of datum|kind of datum type|False
+anonymization of datum|legal status|False
+anonymization of datum|metadata|False
+anonymization of datum|necessary right|False
+anonymization of datum|persistent identifier|False
+anonymization of datum|plan provenance|False
+anonymization of datum|pointer|False
+anonymization of datum|privacy|False
+anonymization of datum|reference|False
+anonymization of datum|regular summary report|False
+anonymization of datum|report|False
+anonymization of datum|repository mention|False
+anonymization of datum|research publication|False
+anonymization of datum|section|False
+anonymization of datum|security requirement|False
+anonymization of datum|service use|False
+anonymization of datum|short description|False
+anonymization of datum|software|False
+anonymization of datum|technology|False
+anonymization of datum|time plan|False
+anonymization of datum|topic|False
+anonymization of datum|when|False
+anonymization of datum|my data|False
+anonymization of datum|who|False
+anonymization of datum|who be responsible|False
+compliance|administrative information|False
+compliance|agreement|False
+compliance|all datum|False
+compliance|all metadata|False
+compliance|all resource|False
+compliance|all right|False
+compliance|anonymization of datum|False
+compliance|compliance|False
+compliance|conservation period|False
+compliance|content|False
+compliance|cost|False
+compliance|creation process|False
+compliance|data set|False
+compliance|datum|False
+compliance|datum sensitivity|False
+compliance|description|False
+compliance|detail|False
+compliance|dmp|False
+compliance|estimate|False
+compliance|format|False
+compliance|how|False
+compliance|how long|False
+compliance|how many|False
+compliance|how secure|False
+compliance|information|False
+compliance|intention|False
+compliance|it resource requirement|False
+compliance|kind of data|False
+compliance|kind of data I want to record / store|False
+compliance|kind of data I want to store|False
+compliance|kind of datum type|False
+compliance|legal status|False
+compliance|metadata|False
+compliance|necessary right|False
+compliance|persistent identifier|False
+compliance|plan provenance|False
+compliance|pointer|False
+compliance|privacy|False
+compliance|reference|False
+compliance|regular summary report|False
+compliance|report|False
+compliance|repository mention|False
+compliance|research publication|False
+compliance|section|False
+compliance|security requirement|False
+compliance|service use|False
+compliance|short description|False
+compliance|software|False
+compliance|technology|False
+compliance|time plan|False
+compliance|topic|False
+compliance|when|False
+compliance|my data|False
+compliance|who|False
+compliance|who be responsible|False
+conservation period|administrative information|False
+conservation period|agreement|False
+conservation period|all datum|False
+conservation period|all metadata|False
+conservation period|all resource|False
+conservation period|all right|False
+conservation period|anonymization of datum|False
+conservation period|compliance|False
+conservation period|conservation period|False
+conservation period|content|False
+conservation period|cost|False
+conservation period|creation process|False
+conservation period|data set|False
+conservation period|datum|False
+conservation period|datum sensitivity|False
+conservation period|description|False
+conservation period|detail|False
+conservation period|dmp|False
+conservation period|estimate|False
+conservation period|format|False
+conservation period|how|False
+conservation period|how long|False
+conservation period|how many|False
+conservation period|how secure|False
+conservation period|information|False
+conservation period|intention|False
+conservation period|it resource requirement|False
+conservation period|kind of data|False
+conservation period|kind of data I want to record / store|False
+conservation period|kind of data I want to store|False
+conservation period|kind of datum type|False
+conservation period|legal status|False
+conservation period|metadata|False
+conservation period|necessary right|False
+conservation period|persistent identifier|False
+conservation period|plan provenance|False
+conservation period|pointer|False
+conservation period|privacy|False
+conservation period|reference|False
+conservation period|regular summary report|False
+conservation period|report|False
+conservation period|repository mention|False
+conservation period|research publication|False
+conservation period|section|False
+conservation period|security requirement|False
+conservation period|service use|False
+conservation period|short description|False
+conservation period|software|False
+conservation period|technology|False
+conservation period|time plan|False
+conservation period|topic|False
+conservation period|when|False
+conservation period|my data|False
+conservation period|who|False
+conservation period|who be responsible|False
+content|administrative information|True
+content|agreement|True
+content|all datum|False
+content|all metadata|False
+content|all resource|False
+content|all right|True
+content|anonymization of datum|False
+content|compliance|False
+content|conservation period|True
+content|content|False
+content|cost|False
+content|creation process|False
+content|data set|False
+content|datum|False
+content|datum sensitivity|False
+content|description|True
+content|detail|False
+content|dmp|False
+content|estimate|True
+content|format|True
+content|how|False
+content|how long|False
+content|how many|False
+content|how secure|False
+content|information|True
+content|intention|True
+content|it resource requirement|False
+content|kind of data|False
+content|kind of data I want to record / store|False
+content|kind of data I want to store|False
+content|kind of datum type|True
+content|legal status|False
+content|metadata|False
+content|necessary right|True
+content|persistent identifier|False
+content|plan provenance|False
+content|pointer|False
+content|privacy|False
+content|reference|True
+content|regular summary report|True
+content|report|True
+content|repository mention|True
+content|research publication|False
+content|section|True
+content|security requirement|False
+content|service use|True
+content|short description|True
+content|software|False
+content|technology|True
+content|time plan|True
+content|topic|True
+content|when|False
+content|my data|False
+content|who|False
+content|who be responsible|False
+cost|administrative information|False
+cost|agreement|False
+cost|all datum|False
+cost|all metadata|False
+cost|all resource|False
+cost|all right|False
+cost|anonymization of datum|False
+cost|compliance|False
+cost|conservation period|False
+cost|content|False
+cost|cost|False
+cost|creation process|False
+cost|data set|False
+cost|datum|False
+cost|datum sensitivity|False
+cost|description|False
+cost|detail|False
+cost|dmp|False
+cost|estimate|False
+cost|format|False
+cost|how|False
+cost|how long|False
+cost|how many|False
+cost|how secure|False
+cost|information|False
+cost|intention|False
+cost|it resource requirement|False
+cost|kind of data|False
+cost|kind of data I want to record / store|False
+cost|kind of data I want to store|False
+cost|kind of datum type|False
+cost|legal status|False
+cost|metadata|False
+cost|necessary right|False
+cost|persistent identifier|False
+cost|plan provenance|False
+cost|pointer|False
+cost|privacy|False
+cost|reference|False
+cost|regular summary report|False
+cost|report|False
+cost|repository mention|False
+cost|research publication|False
+cost|section|False
+cost|security requirement|False
+cost|service use|False
+cost|short description|False
+cost|software|False
+cost|technology|False
+cost|time plan|False
+cost|topic|False
+cost|when|False
+cost|my data|False
+cost|who|False
+cost|who be responsible|False
+creation process|administrative information|False
+creation process|agreement|True
+creation process|all datum|False
+creation process|all metadata|False
+creation process|all resource|False
+creation process|all right|False
+creation process|anonymization of datum|False
+creation process|compliance|False
+creation process|conservation period|True
+creation process|content|False
+creation process|cost|False
+creation process|creation process|False
+creation process|data set|True
+creation process|datum|False
+creation process|datum sensitivity|False
+creation process|description|False
+creation process|detail|False
+creation process|dmp|False
+creation process|estimate|True
+creation process|format|False
+creation process|how|False
+creation process|how long|False
+creation process|how many|False
+creation process|how secure|False
+creation process|information|False
+creation process|intention|False
+creation process|it resource requirement|False
+creation process|kind of data|False
+creation process|kind of data I want to record / store|False
+creation process|kind of data I want to store|False
+creation process|kind of datum type|False
+creation process|legal status|False
+creation process|metadata|False
+creation process|necessary right|False
+creation process|persistent identifier|False
+creation process|plan provenance|False
+creation process|pointer|False
+creation process|privacy|False
+creation process|reference|False
+creation process|regular summary report|False
+creation process|report|False
+creation process|repository mention|False
+creation process|research publication|False
+creation process|section|False
+creation process|security requirement|False
+creation process|service use|True
+creation process|short description|False
+creation process|software|False
+creation process|technology|False
+creation process|time plan|False
+creation process|topic|False
+creation process|when|False
+creation process|my data|False
+creation process|who|False
+creation process|who be responsible|False
+data set|administrative information|False
+data set|agreement|False
+data set|all datum|False
+data set|all metadata|False
+data set|all resource|False
+data set|all right|True
+data set|anonymization of datum|False
+data set|compliance|False
+data set|conservation period|False
+data set|content|False
+data set|cost|False
+data set|creation process|False
+data set|data set|False
+data set|datum|False
+data set|datum sensitivity|False
+data set|description|False
+data set|detail|False
+data set|dmp|False
+data set|estimate|False
+data set|format|False
+data set|how|False
+data set|how long|False
+data set|how many|False
+data set|how secure|False
+data set|information|False
+data set|intention|False
+data set|it resource requirement|False
+data set|kind of data|False
+data set|kind of data I want to record / store|False
+data set|kind of data I want to store|False
+data set|kind of datum type|False
+data set|legal status|False
+data set|metadata|False
+data set|necessary right|True
+data set|persistent identifier|False
+data set|plan provenance|False
+data set|pointer|False
+data set|privacy|False
+data set|reference|False
+data set|regular summary report|False
+data set|report|False
+data set|repository mention|False
+data set|research publication|False
+data set|section|False
+data set|security requirement|False
+data set|service use|False
+data set|short description|False
+data set|software|False
+data set|technology|False
+data set|time plan|False
+data set|topic|False
+data set|when|False
+data set|my data|False
+data set|who|False
+data set|who be responsible|False
+datum|administrative information|False
+datum|agreement|False
+datum|all datum|False
+datum|all metadata|False
+datum|all resource|False
+datum|all right|False
+datum|anonymization of datum|False
+datum|compliance|False
+datum|conservation period|False
+datum|content|False
+datum|cost|False
+datum|creation process|False
+datum|data set|False
+datum|datum|False
+datum|datum sensitivity|False
+datum|description|False
+datum|detail|False
+datum|dmp|False
+datum|estimate|False
+datum|format|False
+datum|how|False
+datum|how long|False
+datum|how many|False
+datum|how secure|False
+datum|information|False
+datum|intention|False
+datum|it resource requirement|False
+datum|kind of data|False
+datum|kind of data I want to record / store|False
+datum|kind of data I want to store|False
+datum|kind of datum type|False
+datum|legal status|False
+datum|metadata|False
+datum|necessary right|False
+datum|persistent identifier|False
+datum|plan provenance|False
+datum|pointer|False
+datum|privacy|False
+datum|reference|False
+datum|regular summary report|False
+datum|report|False
+datum|repository mention|False
+datum|research publication|False
+datum|section|False
+datum|security requirement|False
+datum|service use|False
+datum|short description|False
+datum|software|False
+datum|technology|False
+datum|time plan|False
+datum|topic|False
+datum|when|False
+datum|my data|False
+datum|who|False
+datum|who be responsible|False
+datum sensitivity|administrative information|False
+datum sensitivity|agreement|False
+datum sensitivity|all datum|False
+datum sensitivity|all metadata|False
+datum sensitivity|all resource|False
+datum sensitivity|all right|False
+datum sensitivity|anonymization of datum|False
+datum sensitivity|compliance|False
+datum sensitivity|conservation period|False
+datum sensitivity|content|False
+datum sensitivity|cost|False
+datum sensitivity|creation process|False
+datum sensitivity|data set|False
+datum sensitivity|datum|False
+datum sensitivity|datum sensitivity|False
+datum sensitivity|description|False
+datum sensitivity|detail|False
+datum sensitivity|dmp|False
+datum sensitivity|estimate|False
+datum sensitivity|format|False
+datum sensitivity|how|False
+datum sensitivity|how long|False
+datum sensitivity|how many|False
+datum sensitivity|how secure|False
+datum sensitivity|information|False
+datum sensitivity|intention|False
+datum sensitivity|it resource requirement|False
+datum sensitivity|kind of data|False
+datum sensitivity|kind of data I want to record / store|False
+datum sensitivity|kind of data I want to store|False
+datum sensitivity|kind of datum type|False
+datum sensitivity|legal status|False
+datum sensitivity|metadata|False
+datum sensitivity|necessary right|False
+datum sensitivity|persistent identifier|False
+datum sensitivity|plan provenance|False
+datum sensitivity|pointer|False
+datum sensitivity|privacy|False
+datum sensitivity|reference|False
+datum sensitivity|regular summary report|False
+datum sensitivity|report|False
+datum sensitivity|repository mention|False
+datum sensitivity|research publication|False
+datum sensitivity|section|False
+datum sensitivity|security requirement|False
+datum sensitivity|service use|False
+datum sensitivity|short description|False
+datum sensitivity|software|False
+datum sensitivity|technology|False
+datum sensitivity|time plan|False
+datum sensitivity|topic|False
+datum sensitivity|when|False
+datum sensitivity|my data|False
+datum sensitivity|who|False
+datum sensitivity|who be responsible|False
+description|administrative information|False
+description|agreement|False
+description|all datum|False
+description|all metadata|False
+description|all resource|False
+description|all right|False
+description|anonymization of datum|False
+description|compliance|False
+description|conservation period|False
+description|content|False
+description|cost|False
+description|creation process|False
+description|data set|False
+description|datum|False
+description|datum sensitivity|False
+description|description|False
+description|detail|False
+description|dmp|False
+description|estimate|False
+description|format|False
+description|how|False
+description|how long|False
+description|how many|False
+description|how secure|False
+description|information|False
+description|intention|False
+description|it resource requirement|False
+description|kind of data|False
+description|kind of data I want to record / store|False
+description|kind of data I want to store|False
+description|kind of datum type|False
+description|legal status|False
+description|metadata|False
+description|necessary right|False
+description|persistent identifier|False
+description|plan provenance|False
+description|pointer|False
+description|privacy|False
+description|reference|False
+description|regular summary report|False
+description|report|False
+description|repository mention|False
+description|research publication|False
+description|section|False
+description|security requirement|False
+description|service use|False
+description|short description|False
+description|software|False
+description|technology|False
+description|time plan|False
+description|topic|False
+description|when|False
+description|my data|False
+description|who|False
+description|who be responsible|False
+detail|administrative information|False
+detail|agreement|False
+detail|all datum|False
+detail|all metadata|False
+detail|all resource|False
+detail|all right|False
+detail|anonymization of datum|False
+detail|compliance|False
+detail|conservation period|False
+detail|content|False
+detail|cost|False
+detail|creation process|False
+detail|data set|False
+detail|datum|False
+detail|datum sensitivity|False
+detail|description|False
+detail|detail|False
+detail|dmp|False
+detail|estimate|False
+detail|format|False
+detail|how|False
+detail|how long|False
+detail|how many|False
+detail|how secure|False
+detail|information|False
+detail|intention|False
+detail|it resource requirement|False
+detail|kind of data|False
+detail|kind of data I want to record / store|False
+detail|kind of data I want to store|False
+detail|kind of datum type|False
+detail|legal status|False
+detail|metadata|False
+detail|necessary right|False
+detail|persistent identifier|False
+detail|plan provenance|False
+detail|pointer|False
+detail|privacy|False
+detail|reference|False
+detail|regular summary report|False
+detail|report|False
+detail|repository mention|False
+detail|research publication|False
+detail|section|False
+detail|security requirement|False
+detail|service use|False
+detail|short description|False
+detail|software|False
+detail|technology|False
+detail|time plan|False
+detail|topic|False
+detail|when|False
+detail|my data|False
+detail|who|False
+detail|who be responsible|False
+dmp|administrative information|False
+dmp|agreement|False
+dmp|all datum|False
+dmp|all metadata|False
+dmp|all resource|False
+dmp|all right|False
+dmp|anonymization of datum|False
+dmp|compliance|False
+dmp|conservation period|False
+dmp|content|False
+dmp|cost|False
+dmp|creation process|False
+dmp|data set|False
+dmp|datum|False
+dmp|datum sensitivity|False
+dmp|description|False
+dmp|detail|False
+dmp|dmp|False
+dmp|estimate|False
+dmp|format|False
+dmp|how|False
+dmp|how long|False
+dmp|how many|False
+dmp|how secure|False
+dmp|information|False
+dmp|intention|False
+dmp|it resource requirement|False
+dmp|kind of data|False
+dmp|kind of data I want to record / store|False
+dmp|kind of data I want to store|False
+dmp|kind of datum type|False
+dmp|legal status|False
+dmp|metadata|False
+dmp|necessary right|False
+dmp|persistent identifier|False
+dmp|plan provenance|False
+dmp|pointer|False
+dmp|privacy|False
+dmp|reference|False
+dmp|regular summary report|False
+dmp|report|False
+dmp|repository mention|False
+dmp|research publication|False
+dmp|section|False
+dmp|security requirement|False
+dmp|service use|False
+dmp|short description|False
+dmp|software|False
+dmp|technology|False
+dmp|time plan|False
+dmp|topic|False
+dmp|when|False
+dmp|my data|False
+dmp|who|False
+dmp|who be responsible|False
+estimate|administrative information|False
+estimate|agreement|False
+estimate|all datum|False
+estimate|all metadata|False
+estimate|all resource|False
+estimate|all right|False
+estimate|anonymization of datum|False
+estimate|compliance|False
+estimate|conservation period|False
+estimate|content|False
+estimate|cost|False
+estimate|creation process|False
+estimate|data set|False
+estimate|datum|False
+estimate|datum sensitivity|False
+estimate|description|False
+estimate|detail|False
+estimate|dmp|False
+estimate|estimate|False
+estimate|format|False
+estimate|how|False
+estimate|how long|False
+estimate|how many|False
+estimate|how secure|False
+estimate|information|False
+estimate|intention|False
+estimate|it resource requirement|False
+estimate|kind of data|False
+estimate|kind of data I want to record / store|False
+estimate|kind of data I want to store|False
+estimate|kind of datum type|False
+estimate|legal status|False
+estimate|metadata|False
+estimate|necessary right|False
+estimate|persistent identifier|False
+estimate|plan provenance|False
+estimate|pointer|False
+estimate|privacy|False
+estimate|reference|False
+estimate|regular summary report|True
+estimate|report|True
+estimate|repository mention|False
+estimate|research publication|False
+estimate|section|False
+estimate|security requirement|False
+estimate|service use|False
+estimate|short description|False
+estimate|software|False
+estimate|technology|False
+estimate|time plan|False
+estimate|topic|False
+estimate|when|False
+estimate|my data|False
+estimate|who|False
+estimate|who be responsible|False
+format|administrative information|False
+format|agreement|False
+format|all datum|False
+format|all metadata|False
+format|all resource|False
+format|all right|False
+format|anonymization of datum|False
+format|compliance|False
+format|conservation period|False
+format|content|False
+format|cost|False
+format|creation process|False
+format|data set|False
+format|datum|False
+format|datum sensitivity|False
+format|description|False
+format|detail|False
+format|dmp|False
+format|estimate|False
+format|format|False
+format|how|False
+format|how long|False
+format|how many|False
+format|how secure|False
+format|information|False
+format|intention|False
+format|it resource requirement|False
+format|kind of data|False
+format|kind of data I want to record / store|False
+format|kind of data I want to store|False
+format|kind of datum type|False
+format|legal status|False
+format|metadata|False
+format|necessary right|False
+format|persistent identifier|False
+format|plan provenance|False
+format|pointer|False
+format|privacy|False
+format|reference|False
+format|regular summary report|False
+format|report|False
+format|repository mention|False
+format|research publication|False
+format|section|False
+format|security requirement|False
+format|service use|False
+format|short description|False
+format|software|False
+format|technology|False
+format|time plan|False
+format|topic|False
+format|when|False
+format|my data|False
+format|who|False
+format|who be responsible|False
+how|administrative information|False
+how|agreement|False
+how|all datum|False
+how|all metadata|False
+how|all resource|False
+how|all right|False
+how|anonymization of datum|False
+how|compliance|False
+how|conservation period|False
+how|content|False
+how|cost|False
+how|creation process|False
+how|data set|False
+how|datum|False
+how|datum sensitivity|False
+how|description|False
+how|detail|False
+how|dmp|False
+how|estimate|False
+how|format|False
+how|how|False
+how|how long|False
+how|how many|False
+how|how secure|False
+how|information|False
+how|intention|False
+how|it resource requirement|False
+how|kind of data|False
+how|kind of data I want to record / store|False
+how|kind of data I want to store|False
+how|kind of datum type|False
+how|legal status|False
+how|metadata|False
+how|necessary right|False
+how|persistent identifier|False
+how|plan provenance|False
+how|pointer|False
+how|privacy|False
+how|reference|False
+how|regular summary report|False
+how|report|False
+how|repository mention|False
+how|research publication|False
+how|section|False
+how|security requirement|False
+how|service use|False
+how|short description|False
+how|software|False
+how|technology|False
+how|time plan|False
+how|topic|False
+how|when|False
+how|my data|False
+how|who|False
+how|who be responsible|False
+how long|administrative information|False
+how long|agreement|False
+how long|all datum|False
+how long|all metadata|False
+how long|all resource|False
+how long|all right|False
+how long|anonymization of datum|False
+how long|compliance|False
+how long|conservation period|False
+how long|content|False
+how long|cost|False
+how long|creation process|False
+how long|data set|False
+how long|datum|False
+how long|datum sensitivity|False
+how long|description|False
+how long|detail|False
+how long|dmp|False
+how long|estimate|False
+how long|format|False
+how long|how|False
+how long|how long|False
+how long|how many|False
+how long|how secure|False
+how long|information|False
+how long|intention|False
+how long|it resource requirement|False
+how long|kind of data|False
+how long|kind of data I want to record / store|False
+how long|kind of data I want to store|False
+how long|kind of datum type|False
+how long|legal status|False
+how long|metadata|False
+how long|necessary right|False
+how long|persistent identifier|False
+how long|plan provenance|False
+how long|pointer|False
+how long|privacy|False
+how long|reference|False
+how long|regular summary report|False
+how long|report|False
+how long|repository mention|False
+how long|research publication|False
+how long|section|False
+how long|security requirement|False
+how long|service use|False
+how long|short description|False
+how long|software|False
+how long|technology|False
+how long|time plan|False
+how long|topic|False
+how long|when|False
+how long|my data|False
+how long|who|False
+how long|who be responsible|False
+how many|administrative information|False
+how many|agreement|False
+how many|all datum|False
+how many|all metadata|False
+how many|all resource|False
+how many|all right|False
+how many|anonymization of datum|False
+how many|compliance|False
+how many|conservation period|False
+how many|content|False
+how many|cost|False
+how many|creation process|False
+how many|data set|False
+how many|datum|False
+how many|datum sensitivity|False
+how many|description|False
+how many|detail|False
+how many|dmp|False
+how many|estimate|False
+how many|format|False
+how many|how|False
+how many|how long|False
+how many|how many|False
+how many|how secure|False
+how many|information|False
+how many|intention|False
+how many|it resource requirement|False
+how many|kind of data|False
+how many|kind of data I want to record / store|False
+how many|kind of data I want to store|False
+how many|kind of datum type|False
+how many|legal status|False
+how many|metadata|False
+how many|necessary right|False
+how many|persistent identifier|False
+how many|plan provenance|False
+how many|pointer|False
+how many|privacy|False
+how many|reference|False
+how many|regular summary report|False
+how many|report|False
+how many|repository mention|False
+how many|research publication|False
+how many|section|False
+how many|security requirement|False
+how many|service use|False
+how many|short description|False
+how many|software|False
+how many|technology|False
+how many|time plan|False
+how many|topic|False
+how many|when|False
+how many|my data|False
+how many|who|False
+how many|who be responsible|False
+how secure|administrative information|False
+how secure|agreement|False
+how secure|all datum|False
+how secure|all metadata|False
+how secure|all resource|False
+how secure|all right|False
+how secure|anonymization of datum|False
+how secure|compliance|False
+how secure|conservation period|False
+how secure|content|False
+how secure|cost|False
+how secure|creation process|False
+how secure|data set|False
+how secure|datum|False
+how secure|datum sensitivity|False
+how secure|description|False
+how secure|detail|False
+how secure|dmp|False
+how secure|estimate|False
+how secure|format|False
+how secure|how|False
+how secure|how long|False
+how secure|how many|False
+how secure|how secure|False
+how secure|information|False
+how secure|intention|False
+how secure|it resource requirement|False
+how secure|kind of data|False
+how secure|kind of data I want to record / store|False
+how secure|kind of data I want to store|False
+how secure|kind of datum type|False
+how secure|legal status|False
+how secure|metadata|False
+how secure|necessary right|False
+how secure|persistent identifier|False
+how secure|plan provenance|False
+how secure|pointer|False
+how secure|privacy|False
+how secure|reference|False
+how secure|regular summary report|False
+how secure|report|False
+how secure|repository mention|False
+how secure|research publication|False
+how secure|section|False
+how secure|security requirement|False
+how secure|service use|False
+how secure|short description|False
+how secure|software|False
+how secure|technology|False
+how secure|time plan|False
+how secure|topic|False
+how secure|when|False
+how secure|my data|False
+how secure|who|False
+how secure|who be responsible|False
+information|administrative information|False
+information|agreement|False
+information|all datum|True
+information|all metadata|True
+information|all resource|False
+information|all right|False
+information|anonymization of datum|True
+information|compliance|False
+information|conservation period|False
+information|content|False
+information|cost|False
+information|creation process|False
+information|data set|False
+information|datum|True
+information|datum sensitivity|False
+information|description|False
+information|detail|True
+information|dmp|False
+information|estimate|False
+information|format|True
+information|how|False
+information|how long|False
+information|how many|False
+information|how secure|False
+information|information|False
+information|intention|False
+information|it resource requirement|False
+information|kind of data|True
+information|kind of data I want to record / store|False
+information|kind of data I want to store|False
+information|kind of datum type|False
+information|legal status|False
+information|metadata|True
+information|necessary right|False
+information|persistent identifier|False
+information|plan provenance|False
+information|pointer|False
+information|privacy|False
+information|reference|False
+information|regular summary report|True
+information|report|True
+information|repository mention|False
+information|research publication|False
+information|section|False
+information|security requirement|False
+information|service use|False
+information|short description|False
+information|software|False
+information|technology|False
+information|time plan|False
+information|topic|False
+information|when|False
+information|my data|True
+information|who|False
+information|who be responsible|False
+intention|administrative information|False
+intention|agreement|False
+intention|all datum|False
+intention|all metadata|False
+intention|all resource|False
+intention|all right|False
+intention|anonymization of datum|False
+intention|compliance|False
+intention|conservation period|False
+intention|content|False
+intention|cost|False
+intention|creation process|False
+intention|data set|False
+intention|datum|False
+intention|datum sensitivity|False
+intention|description|False
+intention|detail|False
+intention|dmp|False
+intention|estimate|False
+intention|format|False
+intention|how|False
+intention|how long|False
+intention|how many|False
+intention|how secure|False
+intention|information|False
+intention|intention|False
+intention|it resource requirement|False
+intention|kind of data|False
+intention|kind of data I want to record / store|False
+intention|kind of data I want to store|False
+intention|kind of datum type|False
+intention|legal status|False
+intention|metadata|False
+intention|necessary right|False
+intention|persistent identifier|False
+intention|plan provenance|False
+intention|pointer|False
+intention|privacy|False
+intention|reference|False
+intention|regular summary report|False
+intention|report|False
+intention|repository mention|False
+intention|research publication|False
+intention|section|False
+intention|security requirement|False
+intention|service use|False
+intention|short description|False
+intention|software|False
+intention|technology|False
+intention|time plan|False
+intention|topic|False
+intention|when|False
+intention|my data|False
+intention|who|False
+intention|who be responsible|False
+it resource requirement|administrative information|False
+it resource requirement|agreement|False
+it resource requirement|all datum|False
+it resource requirement|all metadata|False
+it resource requirement|all resource|False
+it resource requirement|all right|False
+it resource requirement|anonymization of datum|False
+it resource requirement|compliance|False
+it resource requirement|conservation period|False
+it resource requirement|content|False
+it resource requirement|cost|False
+it resource requirement|creation process|False
+it resource requirement|data set|False
+it resource requirement|datum|False
+it resource requirement|datum sensitivity|False
+it resource requirement|description|False
+it resource requirement|detail|False
+it resource requirement|dmp|False
+it resource requirement|estimate|False
+it resource requirement|format|False
+it resource requirement|how|False
+it resource requirement|how long|False
+it resource requirement|how many|False
+it resource requirement|how secure|False
+it resource requirement|information|False
+it resource requirement|intention|False
+it resource requirement|it resource requirement|False
+it resource requirement|kind of data|False
+it resource requirement|kind of data I want to record / store|False
+it resource requirement|kind of data I want to store|False
+it resource requirement|kind of datum type|False
+it resource requirement|legal status|False
+it resource requirement|metadata|False
+it resource requirement|necessary right|False
+it resource requirement|persistent identifier|False
+it resource requirement|plan provenance|False
+it resource requirement|pointer|False
+it resource requirement|privacy|False
+it resource requirement|reference|False
+it resource requirement|regular summary report|False
+it resource requirement|report|False
+it resource requirement|repository mention|False
+it resource requirement|research publication|False
+it resource requirement|section|False
+it resource requirement|security requirement|False
+it resource requirement|service use|False
+it resource requirement|short description|False
+it resource requirement|software|False
+it resource requirement|technology|False
+it resource requirement|time plan|False
+it resource requirement|topic|False
+it resource requirement|when|False
+it resource requirement|my data|False
+it resource requirement|who|False
+it resource requirement|who be responsible|False
+kind of data|administrative information|False
+kind of data|agreement|False
+kind of data|all datum|True
+kind of data|all metadata|True
+kind of data|all resource|False
+kind of data|all right|False
+kind of data|anonymization of datum|True
+kind of data|compliance|False
+kind of data|conservation period|False
+kind of data|content|False
+kind of data|cost|False
+kind of data|creation process|False
+kind of data|data set|False
+kind of data|datum|True
+kind of data|datum sensitivity|False
+kind of data|description|False
+kind of data|detail|False
+kind of data|dmp|False
+kind of data|estimate|False
+kind of data|format|False
+kind of data|how|False
+kind of data|how long|False
+kind of data|how many|False
+kind of data|how secure|False
+kind of data|information|False
+kind of data|intention|False
+kind of data|it resource requirement|False
+kind of data|kind of data|False
+kind of data|kind of data I want to record / store|False
+kind of data|kind of data I want to store|False
+kind of data|kind of datum type|False
+kind of data|legal status|False
+kind of data|metadata|True
+kind of data|necessary right|False
+kind of data|persistent identifier|False
+kind of data|plan provenance|False
+kind of data|pointer|False
+kind of data|privacy|False
+kind of data|reference|False
+kind of data|regular summary report|False
+kind of data|report|False
+kind of data|repository mention|False
+kind of data|research publication|False
+kind of data|section|False
+kind of data|security requirement|False
+kind of data|service use|False
+kind of data|short description|False
+kind of data|software|False
+kind of data|technology|False
+kind of data|time plan|False
+kind of data|topic|False
+kind of data|when|False
+kind of data|my data|False
+kind of data|who|False
+kind of data|who be responsible|False
+kind of data I want to record / store|administrative information|False
+kind of data I want to record / store|agreement|False
+kind of data I want to record / store|all datum|False
+kind of data I want to record / store|all metadata|False
+kind of data I want to record / store|all resource|False
+kind of data I want to record / store|all right|False
+kind of data I want to record / store|anonymization of datum|False
+kind of data I want to record / store|compliance|False
+kind of data I want to record / store|conservation period|False
+kind of data I want to record / store|content|False
+kind of data I want to record / store|cost|False
+kind of data I want to record / store|creation process|False
+kind of data I want to record / store|data set|False
+kind of data I want to record / store|datum|False
+kind of data I want to record / store|datum sensitivity|False
+kind of data I want to record / store|description|False
+kind of data I want to record / store|detail|False
+kind of data I want to record / store|dmp|False
+kind of data I want to record / store|estimate|False
+kind of data I want to record / store|format|False
+kind of data I want to record / store|how|False
+kind of data I want to record / store|how long|False
+kind of data I want to record / store|how many|False
+kind of data I want to record / store|how secure|False
+kind of data I want to record / store|information|False
+kind of data I want to record / store|intention|False
+kind of data I want to record / store|it resource requirement|False
+kind of data I want to record / store|kind of data|False
+kind of data I want to record / store|kind of data I want to record / store|False
+kind of data I want to record / store|kind of data I want to store|False
+kind of data I want to record / store|kind of datum type|False
+kind of data I want to record / store|legal status|False
+kind of data I want to record / store|metadata|False
+kind of data I want to record / store|necessary right|False
+kind of data I want to record / store|persistent identifier|False
+kind of data I want to record / store|plan provenance|False
+kind of data I want to record / store|pointer|False
+kind of data I want to record / store|privacy|False
+kind of data I want to record / store|reference|False
+kind of data I want to record / store|regular summary report|False
+kind of data I want to record / store|report|False
+kind of data I want to record / store|repository mention|False
+kind of data I want to record / store|research publication|False
+kind of data I want to record / store|section|False
+kind of data I want to record / store|security requirement|False
+kind of data I want to record / store|service use|False
+kind of data I want to record / store|short description|False
+kind of data I want to record / store|software|False
+kind of data I want to record / store|technology|False
+kind of data I want to record / store|time plan|False
+kind of data I want to record / store|topic|False
+kind of data I want to record / store|when|False
+kind of data I want to record / store|my data|False
+kind of data I want to record / store|who|False
+kind of data I want to record / store|who be responsible|False
+kind of data I want to store|administrative information|False
+kind of data I want to store|agreement|False
+kind of data I want to store|all datum|False
+kind of data I want to store|all metadata|False
+kind of data I want to store|all resource|False
+kind of data I want to store|all right|False
+kind of data I want to store|anonymization of datum|False
+kind of data I want to store|compliance|False
+kind of data I want to store|conservation period|False
+kind of data I want to store|content|False
+kind of data I want to store|cost|False
+kind of data I want to store|creation process|False
+kind of data I want to store|data set|False
+kind of data I want to store|datum|False
+kind of data I want to store|datum sensitivity|False
+kind of data I want to store|description|False
+kind of data I want to store|detail|False
+kind of data I want to store|dmp|False
+kind of data I want to store|estimate|False
+kind of data I want to store|format|False
+kind of data I want to store|how|False
+kind of data I want to store|how long|False
+kind of data I want to store|how many|False
+kind of data I want to store|how secure|False
+kind of data I want to store|information|False
+kind of data I want to store|intention|False
+kind of data I want to store|it resource requirement|False
+kind of data I want to store|kind of data|False
+kind of data I want to store|kind of data I want to record / store|False
+kind of data I want to store|kind of data I want to store|False
+kind of data I want to store|kind of datum type|False
+kind of data I want to store|legal status|False
+kind of data I want to store|metadata|False
+kind of data I want to store|necessary right|False
+kind of data I want to store|persistent identifier|False
+kind of data I want to store|plan provenance|False
+kind of data I want to store|pointer|False
+kind of data I want to store|privacy|False
+kind of data I want to store|reference|False
+kind of data I want to store|regular summary report|False
+kind of data I want to store|report|False
+kind of data I want to store|repository mention|False
+kind of data I want to store|research publication|False
+kind of data I want to store|section|False
+kind of data I want to store|security requirement|False
+kind of data I want to store|service use|False
+kind of data I want to store|short description|False
+kind of data I want to store|software|False
+kind of data I want to store|technology|False
+kind of data I want to store|time plan|False
+kind of data I want to store|topic|False
+kind of data I want to store|when|False
+kind of data I want to store|my data|False
+kind of data I want to store|who|False
+kind of data I want to store|who be responsible|False
+kind of datum type|administrative information|False
+kind of datum type|agreement|False
+kind of datum type|all datum|False
+kind of datum type|all metadata|False
+kind of datum type|all resource|False
+kind of datum type|all right|False
+kind of datum type|anonymization of datum|False
+kind of datum type|compliance|False
+kind of datum type|conservation period|False
+kind of datum type|content|False
+kind of datum type|cost|False
+kind of datum type|creation process|False
+kind of datum type|data set|False
+kind of datum type|datum|False
+kind of datum type|datum sensitivity|False
+kind of datum type|description|False
+kind of datum type|detail|False
+kind of datum type|dmp|False
+kind of datum type|estimate|False
+kind of datum type|format|False
+kind of datum type|how|False
+kind of datum type|how long|False
+kind of datum type|how many|False
+kind of datum type|how secure|False
+kind of datum type|information|False
+kind of datum type|intention|False
+kind of datum type|it resource requirement|False
+kind of datum type|kind of data|False
+kind of datum type|kind of data I want to record / store|False
+kind of datum type|kind of data I want to store|False
+kind of datum type|kind of datum type|False
+kind of datum type|legal status|False
+kind of datum type|metadata|False
+kind of datum type|necessary right|False
+kind of datum type|persistent identifier|False
+kind of datum type|plan provenance|False
+kind of datum type|pointer|False
+kind of datum type|privacy|False
+kind of datum type|reference|False
+kind of datum type|regular summary report|False
+kind of datum type|report|False
+kind of datum type|repository mention|False
+kind of datum type|research publication|False
+kind of datum type|section|False
+kind of datum type|security requirement|False
+kind of datum type|service use|False
+kind of datum type|short description|False
+kind of datum type|software|False
+kind of datum type|technology|False
+kind of datum type|time plan|False
+kind of datum type|topic|False
+kind of datum type|when|False
+kind of datum type|my data|False
+kind of datum type|who|False
+kind of datum type|who be responsible|False
+legal status|administrative information|False
+legal status|agreement|False
+legal status|all datum|False
+legal status|all metadata|False
+legal status|all resource|False
+legal status|all right|False
+legal status|anonymization of datum|False
+legal status|compliance|False
+legal status|conservation period|False
+legal status|content|False
+legal status|cost|False
+legal status|creation process|False
+legal status|data set|True
+legal status|datum|False
+legal status|datum sensitivity|True
+legal status|description|False
+legal status|detail|False
+legal status|dmp|False
+legal status|estimate|False
+legal status|format|False
+legal status|how|False
+legal status|how long|False
+legal status|how many|False
+legal status|how secure|False
+legal status|information|False
+legal status|intention|False
+legal status|it resource requirement|False
+legal status|kind of data|False
+legal status|kind of data I want to record / store|False
+legal status|kind of data I want to store|False
+legal status|kind of datum type|False
+legal status|legal status|False
+legal status|metadata|False
+legal status|necessary right|False
+legal status|persistent identifier|False
+legal status|plan provenance|False
+legal status|pointer|False
+legal status|privacy|False
+legal status|reference|False
+legal status|regular summary report|False
+legal status|report|False
+legal status|repository mention|False
+legal status|research publication|False
+legal status|section|False
+legal status|security requirement|False
+legal status|service use|False
+legal status|short description|False
+legal status|software|False
+legal status|technology|False
+legal status|time plan|False
+legal status|topic|False
+legal status|when|False
+legal status|my data|False
+legal status|who|False
+legal status|who be responsible|False
+metadata|administrative information|False
+metadata|agreement|False
+metadata|all datum|False
+metadata|all metadata|False
+metadata|all resource|False
+metadata|all right|False
+metadata|anonymization of datum|False
+metadata|compliance|False
+metadata|conservation period|False
+metadata|content|False
+metadata|cost|False
+metadata|creation process|False
+metadata|data set|False
+metadata|datum|False
+metadata|datum sensitivity|False
+metadata|description|False
+metadata|detail|False
+metadata|dmp|False
+metadata|estimate|False
+metadata|format|False
+metadata|how|False
+metadata|how long|False
+metadata|how many|False
+metadata|how secure|False
+metadata|information|False
+metadata|intention|False
+metadata|it resource requirement|False
+metadata|kind of data|False
+metadata|kind of data I want to record / store|False
+metadata|kind of data I want to store|False
+metadata|kind of datum type|False
+metadata|legal status|False
+metadata|metadata|False
+metadata|necessary right|False
+metadata|persistent identifier|False
+metadata|plan provenance|False
+metadata|pointer|False
+metadata|privacy|False
+metadata|reference|False
+metadata|regular summary report|False
+metadata|report|False
+metadata|repository mention|False
+metadata|research publication|False
+metadata|section|False
+metadata|security requirement|False
+metadata|service use|False
+metadata|short description|False
+metadata|software|False
+metadata|technology|False
+metadata|time plan|False
+metadata|topic|False
+metadata|when|False
+metadata|my data|False
+metadata|who|False
+metadata|who be responsible|False
+necessary right|administrative information|False
+necessary right|agreement|False
+necessary right|all datum|False
+necessary right|all metadata|False
+necessary right|all resource|False
+necessary right|all right|False
+necessary right|anonymization of datum|False
+necessary right|compliance|False
+necessary right|conservation period|False
+necessary right|content|False
+necessary right|cost|False
+necessary right|creation process|False
+necessary right|data set|False
+necessary right|datum|False
+necessary right|datum sensitivity|False
+necessary right|description|False
+necessary right|detail|False
+necessary right|dmp|False
+necessary right|estimate|False
+necessary right|format|False
+necessary right|how|False
+necessary right|how long|False
+necessary right|how many|False
+necessary right|how secure|False
+necessary right|information|False
+necessary right|intention|False
+necessary right|it resource requirement|False
+necessary right|kind of data|False
+necessary right|kind of data I want to record / store|False
+necessary right|kind of data I want to store|False
+necessary right|kind of datum type|False
+necessary right|legal status|False
+necessary right|metadata|False
+necessary right|necessary right|False
+necessary right|persistent identifier|False
+necessary right|plan provenance|False
+necessary right|pointer|False
+necessary right|privacy|False
+necessary right|reference|False
+necessary right|regular summary report|False
+necessary right|report|False
+necessary right|repository mention|False
+necessary right|research publication|False
+necessary right|section|False
+necessary right|security requirement|False
+necessary right|service use|True
+necessary right|short description|False
+necessary right|software|False
+necessary right|technology|False
+necessary right|time plan|False
+necessary right|topic|False
+necessary right|when|False
+necessary right|my data|False
+necessary right|who|False
+necessary right|who be responsible|False
+persistent identifier|administrative information|False
+persistent identifier|agreement|False
+persistent identifier|all datum|False
+persistent identifier|all metadata|False
+persistent identifier|all resource|False
+persistent identifier|all right|False
+persistent identifier|anonymization of datum|False
+persistent identifier|compliance|False
+persistent identifier|conservation period|False
+persistent identifier|content|False
+persistent identifier|cost|False
+persistent identifier|creation process|False
+persistent identifier|data set|False
+persistent identifier|datum|False
+persistent identifier|datum sensitivity|False
+persistent identifier|description|False
+persistent identifier|detail|False
+persistent identifier|dmp|False
+persistent identifier|estimate|False
+persistent identifier|format|False
+persistent identifier|how|False
+persistent identifier|how long|False
+persistent identifier|how many|False
+persistent identifier|how secure|False
+persistent identifier|information|False
+persistent identifier|intention|False
+persistent identifier|it resource requirement|False
+persistent identifier|kind of data|False
+persistent identifier|kind of data I want to record / store|False
+persistent identifier|kind of data I want to store|False
+persistent identifier|kind of datum type|False
+persistent identifier|legal status|False
+persistent identifier|metadata|False
+persistent identifier|necessary right|False
+persistent identifier|persistent identifier|False
+persistent identifier|plan provenance|False
+persistent identifier|pointer|False
+persistent identifier|privacy|False
+persistent identifier|reference|False
+persistent identifier|regular summary report|False
+persistent identifier|report|False
+persistent identifier|repository mention|False
+persistent identifier|research publication|False
+persistent identifier|section|False
+persistent identifier|security requirement|False
+persistent identifier|service use|False
+persistent identifier|short description|False
+persistent identifier|software|False
+persistent identifier|technology|False
+persistent identifier|time plan|False
+persistent identifier|topic|False
+persistent identifier|when|False
+persistent identifier|my data|False
+persistent identifier|who|False
+persistent identifier|who be responsible|False
+plan provenance|administrative information|False
+plan provenance|agreement|False
+plan provenance|all datum|False
+plan provenance|all metadata|False
+plan provenance|all resource|False
+plan provenance|all right|False
+plan provenance|anonymization of datum|False
+plan provenance|compliance|False
+plan provenance|conservation period|False
+plan provenance|content|False
+plan provenance|cost|False
+plan provenance|creation process|False
+plan provenance|data set|False
+plan provenance|datum|False
+plan provenance|datum sensitivity|False
+plan provenance|description|False
+plan provenance|detail|False
+plan provenance|dmp|False
+plan provenance|estimate|False
+plan provenance|format|False
+plan provenance|how|False
+plan provenance|how long|False
+plan provenance|how many|False
+plan provenance|how secure|False
+plan provenance|information|False
+plan provenance|intention|False
+plan provenance|it resource requirement|False
+plan provenance|kind of data|False
+plan provenance|kind of data I want to record / store|False
+plan provenance|kind of data I want to store|False
+plan provenance|kind of datum type|False
+plan provenance|legal status|False
+plan provenance|metadata|False
+plan provenance|necessary right|False
+plan provenance|persistent identifier|False
+plan provenance|plan provenance|False
+plan provenance|pointer|False
+plan provenance|privacy|False
+plan provenance|reference|False
+plan provenance|regular summary report|False
+plan provenance|report|False
+plan provenance|repository mention|False
+plan provenance|research publication|False
+plan provenance|section|False
+plan provenance|security requirement|False
+plan provenance|service use|False
+plan provenance|short description|False
+plan provenance|software|False
+plan provenance|technology|False
+plan provenance|time plan|False
+plan provenance|topic|False
+plan provenance|when|False
+plan provenance|my data|False
+plan provenance|who|False
+plan provenance|who be responsible|False
+pointer|administrative information|False
+pointer|agreement|False
+pointer|all datum|False
+pointer|all metadata|False
+pointer|all resource|False
+pointer|all right|False
+pointer|anonymization of datum|False
+pointer|compliance|False
+pointer|conservation period|False
+pointer|content|False
+pointer|cost|False
+pointer|creation process|False
+pointer|data set|False
+pointer|datum|False
+pointer|datum sensitivity|False
+pointer|description|False
+pointer|detail|False
+pointer|dmp|False
+pointer|estimate|False
+pointer|format|False
+pointer|how|False
+pointer|how long|False
+pointer|how many|False
+pointer|how secure|False
+pointer|information|False
+pointer|intention|False
+pointer|it resource requirement|False
+pointer|kind of data|False
+pointer|kind of data I want to record / store|False
+pointer|kind of data I want to store|False
+pointer|kind of datum type|False
+pointer|legal status|False
+pointer|metadata|False
+pointer|necessary right|False
+pointer|persistent identifier|False
+pointer|plan provenance|False
+pointer|pointer|False
+pointer|privacy|False
+pointer|reference|False
+pointer|regular summary report|False
+pointer|report|False
+pointer|repository mention|False
+pointer|research publication|False
+pointer|section|False
+pointer|security requirement|False
+pointer|service use|False
+pointer|short description|False
+pointer|software|False
+pointer|technology|False
+pointer|time plan|False
+pointer|topic|False
+pointer|when|False
+pointer|my data|False
+pointer|who|False
+pointer|who be responsible|False
+privacy|administrative information|False
+privacy|agreement|False
+privacy|all datum|False
+privacy|all metadata|False
+privacy|all resource|False
+privacy|all right|False
+privacy|anonymization of datum|False
+privacy|compliance|False
+privacy|conservation period|False
+privacy|content|False
+privacy|cost|False
+privacy|creation process|False
+privacy|data set|False
+privacy|datum|False
+privacy|datum sensitivity|False
+privacy|description|False
+privacy|detail|False
+privacy|dmp|False
+privacy|estimate|False
+privacy|format|False
+privacy|how|False
+privacy|how long|False
+privacy|how many|False
+privacy|how secure|False
+privacy|information|False
+privacy|intention|False
+privacy|it resource requirement|False
+privacy|kind of data|False
+privacy|kind of data I want to record / store|False
+privacy|kind of data I want to store|False
+privacy|kind of datum type|False
+privacy|legal status|False
+privacy|metadata|False
+privacy|necessary right|False
+privacy|persistent identifier|False
+privacy|plan provenance|False
+privacy|pointer|False
+privacy|privacy|False
+privacy|reference|False
+privacy|regular summary report|False
+privacy|report|False
+privacy|repository mention|False
+privacy|research publication|False
+privacy|section|False
+privacy|security requirement|False
+privacy|service use|False
+privacy|short description|False
+privacy|software|False
+privacy|technology|False
+privacy|time plan|False
+privacy|topic|False
+privacy|when|False
+privacy|my data|False
+privacy|who|False
+privacy|who be responsible|False
+reference|administrative information|False
+reference|agreement|False
+reference|all datum|False
+reference|all metadata|False
+reference|all resource|False
+reference|all right|False
+reference|anonymization of datum|False
+reference|compliance|False
+reference|conservation period|False
+reference|content|False
+reference|cost|False
+reference|creation process|False
+reference|data set|False
+reference|datum|False
+reference|datum sensitivity|False
+reference|description|False
+reference|detail|False
+reference|dmp|False
+reference|estimate|False
+reference|format|False
+reference|how|False
+reference|how long|False
+reference|how many|False
+reference|how secure|False
+reference|information|False
+reference|intention|False
+reference|it resource requirement|False
+reference|kind of data|False
+reference|kind of data I want to record / store|False
+reference|kind of data I want to store|False
+reference|kind of datum type|False
+reference|legal status|False
+reference|metadata|False
+reference|necessary right|False
+reference|persistent identifier|False
+reference|plan provenance|False
+reference|pointer|False
+reference|privacy|False
+reference|reference|False
+reference|regular summary report|False
+reference|report|False
+reference|repository mention|False
+reference|research publication|False
+reference|section|False
+reference|security requirement|False
+reference|service use|False
+reference|short description|False
+reference|software|False
+reference|technology|False
+reference|time plan|False
+reference|topic|False
+reference|when|False
+reference|my data|False
+reference|who|False
+reference|who be responsible|False
+regular summary report|administrative information|False
+regular summary report|agreement|False
+regular summary report|all datum|False
+regular summary report|all metadata|False
+regular summary report|all resource|False
+regular summary report|all right|False
+regular summary report|anonymization of datum|False
+regular summary report|compliance|False
+regular summary report|conservation period|False
+regular summary report|content|False
+regular summary report|cost|False
+regular summary report|creation process|False
+regular summary report|data set|False
+regular summary report|datum|False
+regular summary report|datum sensitivity|False
+regular summary report|description|False
+regular summary report|detail|False
+regular summary report|dmp|False
+regular summary report|estimate|False
+regular summary report|format|False
+regular summary report|how|False
+regular summary report|how long|False
+regular summary report|how many|False
+regular summary report|how secure|False
+regular summary report|information|False
+regular summary report|intention|False
+regular summary report|it resource requirement|False
+regular summary report|kind of data|False
+regular summary report|kind of data I want to record / store|False
+regular summary report|kind of data I want to store|False
+regular summary report|kind of datum type|False
+regular summary report|legal status|False
+regular summary report|metadata|False
+regular summary report|necessary right|False
+regular summary report|persistent identifier|False
+regular summary report|plan provenance|False
+regular summary report|pointer|False
+regular summary report|privacy|False
+regular summary report|reference|False
+regular summary report|regular summary report|False
+regular summary report|report|False
+regular summary report|repository mention|False
+regular summary report|research publication|False
+regular summary report|section|False
+regular summary report|security requirement|False
+regular summary report|service use|False
+regular summary report|short description|False
+regular summary report|software|False
+regular summary report|technology|False
+regular summary report|time plan|False
+regular summary report|topic|False
+regular summary report|when|False
+regular summary report|my data|False
+regular summary report|who|False
+regular summary report|who be responsible|False
+report|administrative information|False
+report|agreement|False
+report|all datum|False
+report|all metadata|False
+report|all resource|False
+report|all right|False
+report|anonymization of datum|False
+report|compliance|False
+report|conservation period|False
+report|content|False
+report|cost|False
+report|creation process|False
+report|data set|False
+report|datum|False
+report|datum sensitivity|False
+report|description|False
+report|detail|False
+report|dmp|False
+report|estimate|False
+report|format|False
+report|how|False
+report|how long|False
+report|how many|False
+report|how secure|False
+report|information|False
+report|intention|False
+report|it resource requirement|False
+report|kind of data|False
+report|kind of data I want to record / store|False
+report|kind of data I want to store|False
+report|kind of datum type|False
+report|legal status|False
+report|metadata|False
+report|necessary right|False
+report|persistent identifier|False
+report|plan provenance|False
+report|pointer|False
+report|privacy|False
+report|reference|False
+report|regular summary report|False
+report|report|False
+report|repository mention|False
+report|research publication|False
+report|section|False
+report|security requirement|False
+report|service use|False
+report|short description|False
+report|software|False
+report|technology|False
+report|time plan|False
+report|topic|False
+report|when|False
+report|my data|False
+report|who|False
+report|who be responsible|False
+repository mention|administrative information|False
+repository mention|agreement|False
+repository mention|all datum|False
+repository mention|all metadata|False
+repository mention|all resource|False
+repository mention|all right|False
+repository mention|anonymization of datum|False
+repository mention|compliance|False
+repository mention|conservation period|False
+repository mention|content|False
+repository mention|cost|False
+repository mention|creation process|False
+repository mention|data set|False
+repository mention|datum|False
+repository mention|datum sensitivity|False
+repository mention|description|False
+repository mention|detail|False
+repository mention|dmp|False
+repository mention|estimate|False
+repository mention|format|False
+repository mention|how|False
+repository mention|how long|False
+repository mention|how many|False
+repository mention|how secure|False
+repository mention|information|False
+repository mention|intention|False
+repository mention|it resource requirement|False
+repository mention|kind of data|False
+repository mention|kind of data I want to record / store|False
+repository mention|kind of data I want to store|False
+repository mention|kind of datum type|False
+repository mention|legal status|False
+repository mention|metadata|False
+repository mention|necessary right|False
+repository mention|persistent identifier|False
+repository mention|plan provenance|False
+repository mention|pointer|False
+repository mention|privacy|False
+repository mention|reference|False
+repository mention|regular summary report|False
+repository mention|report|False
+repository mention|repository mention|False
+repository mention|research publication|False
+repository mention|section|False
+repository mention|security requirement|False
+repository mention|service use|False
+repository mention|short description|False
+repository mention|software|False
+repository mention|technology|False
+repository mention|time plan|False
+repository mention|topic|False
+repository mention|when|False
+repository mention|my data|False
+repository mention|who|False
+repository mention|who be responsible|False
+research publication|administrative information|False
+research publication|agreement|False
+research publication|all datum|False
+research publication|all metadata|False
+research publication|all resource|False
+research publication|all right|False
+research publication|anonymization of datum|False
+research publication|compliance|False
+research publication|conservation period|False
+research publication|content|False
+research publication|cost|False
+research publication|creation process|False
+research publication|data set|False
+research publication|datum|False
+research publication|datum sensitivity|False
+research publication|description|False
+research publication|detail|False
+research publication|dmp|False
+research publication|estimate|False
+research publication|format|False
+research publication|how|False
+research publication|how long|False
+research publication|how many|False
+research publication|how secure|False
+research publication|information|False
+research publication|intention|False
+research publication|it resource requirement|False
+research publication|kind of data|False
+research publication|kind of data I want to record / store|False
+research publication|kind of data I want to store|False
+research publication|kind of datum type|False
+research publication|legal status|False
+research publication|metadata|False
+research publication|necessary right|False
+research publication|persistent identifier|False
+research publication|plan provenance|False
+research publication|pointer|False
+research publication|privacy|False
+research publication|reference|True
+research publication|regular summary report|False
+research publication|report|False
+research publication|repository mention|False
+research publication|research publication|False
+research publication|section|False
+research publication|security requirement|False
+research publication|service use|False
+research publication|short description|False
+research publication|software|False
+research publication|technology|False
+research publication|time plan|False
+research publication|topic|False
+research publication|when|False
+research publication|my data|False
+research publication|who|False
+research publication|who be responsible|False
+section|administrative information|False
+section|agreement|False
+section|all datum|False
+section|all metadata|False
+section|all resource|False
+section|all right|False
+section|anonymization of datum|False
+section|compliance|False
+section|conservation period|True
+section|content|False
+section|cost|False
+section|creation process|False
+section|data set|False
+section|datum|False
+section|datum sensitivity|False
+section|description|False
+section|detail|False
+section|dmp|False
+section|estimate|False
+section|format|False
+section|how|False
+section|how long|False
+section|how many|False
+section|how secure|False
+section|information|False
+section|intention|False
+section|it resource requirement|False
+section|kind of data|False
+section|kind of data I want to record / store|False
+section|kind of data I want to store|False
+section|kind of datum type|False
+section|legal status|False
+section|metadata|False
+section|necessary right|False
+section|persistent identifier|False
+section|plan provenance|False
+section|pointer|False
+section|privacy|False
+section|reference|False
+section|regular summary report|False
+section|report|False
+section|repository mention|False
+section|research publication|False
+section|section|False
+section|security requirement|False
+section|service use|False
+section|short description|False
+section|software|False
+section|technology|False
+section|time plan|False
+section|topic|False
+section|when|False
+section|my data|False
+section|who|False
+section|who be responsible|False
+security requirement|administrative information|False
+security requirement|agreement|False
+security requirement|all datum|False
+security requirement|all metadata|False
+security requirement|all resource|False
+security requirement|all right|False
+security requirement|anonymization of datum|False
+security requirement|compliance|False
+security requirement|conservation period|False
+security requirement|content|False
+security requirement|cost|False
+security requirement|creation process|False
+security requirement|data set|False
+security requirement|datum|False
+security requirement|datum sensitivity|False
+security requirement|description|False
+security requirement|detail|False
+security requirement|dmp|False
+security requirement|estimate|False
+security requirement|format|False
+security requirement|how|False
+security requirement|how long|False
+security requirement|how many|False
+security requirement|how secure|False
+security requirement|information|False
+security requirement|intention|False
+security requirement|it resource requirement|False
+security requirement|kind of data|False
+security requirement|kind of data I want to record / store|False
+security requirement|kind of data I want to store|False
+security requirement|kind of datum type|False
+security requirement|legal status|False
+security requirement|metadata|False
+security requirement|necessary right|False
+security requirement|persistent identifier|False
+security requirement|plan provenance|False
+security requirement|pointer|False
+security requirement|privacy|False
+security requirement|reference|False
+security requirement|regular summary report|False
+security requirement|report|False
+security requirement|repository mention|False
+security requirement|research publication|False
+security requirement|section|False
+security requirement|security requirement|False
+security requirement|service use|False
+security requirement|short description|False
+security requirement|software|False
+security requirement|technology|False
+security requirement|time plan|False
+security requirement|topic|False
+security requirement|when|False
+security requirement|my data|False
+security requirement|who|False
+security requirement|who be responsible|False
+service use|administrative information|False
+service use|agreement|False
+service use|all datum|False
+service use|all metadata|False
+service use|all resource|False
+service use|all right|False
+service use|anonymization of datum|False
+service use|compliance|False
+service use|conservation period|False
+service use|content|False
+service use|cost|False
+service use|creation process|False
+service use|data set|False
+service use|datum|False
+service use|datum sensitivity|False
+service use|description|False
+service use|detail|False
+service use|dmp|False
+service use|estimate|False
+service use|format|False
+service use|how|False
+service use|how long|False
+service use|how many|False
+service use|how secure|False
+service use|information|False
+service use|intention|False
+service use|it resource requirement|False
+service use|kind of data|False
+service use|kind of data I want to record / store|False
+service use|kind of data I want to store|False
+service use|kind of datum type|False
+service use|legal status|False
+service use|metadata|False
+service use|necessary right|False
+service use|persistent identifier|False
+service use|plan provenance|False
+service use|pointer|False
+service use|privacy|False
+service use|reference|False
+service use|regular summary report|False
+service use|report|False
+service use|repository mention|False
+service use|research publication|False
+service use|section|False
+service use|security requirement|False
+service use|service use|False
+service use|short description|False
+service use|software|False
+service use|technology|True
+service use|time plan|False
+service use|topic|False
+service use|when|False
+service use|my data|False
+service use|who|False
+service use|who be responsible|False
+short description|administrative information|False
+short description|agreement|False
+short description|all datum|False
+short description|all metadata|False
+short description|all resource|False
+short description|all right|False
+short description|anonymization of datum|False
+short description|compliance|False
+short description|conservation period|False
+short description|content|False
+short description|cost|False
+short description|creation process|False
+short description|data set|False
+short description|datum|False
+short description|datum sensitivity|False
+short description|description|False
+short description|detail|False
+short description|dmp|False
+short description|estimate|False
+short description|format|False
+short description|how|False
+short description|how long|False
+short description|how many|False
+short description|how secure|False
+short description|information|False
+short description|intention|False
+short description|it resource requirement|False
+short description|kind of data|False
+short description|kind of data I want to record / store|False
+short description|kind of data I want to store|False
+short description|kind of datum type|False
+short description|legal status|False
+short description|metadata|False
+short description|necessary right|False
+short description|persistent identifier|False
+short description|plan provenance|False
+short description|pointer|False
+short description|privacy|False
+short description|reference|False
+short description|regular summary report|False
+short description|report|False
+short description|repository mention|False
+short description|research publication|False
+short description|section|False
+short description|security requirement|False
+short description|service use|False
+short description|short description|False
+short description|software|False
+short description|technology|False
+short description|time plan|False
+short description|topic|False
+short description|when|False
+short description|my data|False
+short description|who|False
+short description|who be responsible|False
+software|administrative information|False
+software|agreement|False
+software|all datum|False
+software|all metadata|False
+software|all resource|False
+software|all right|False
+software|anonymization of datum|False
+software|compliance|False
+software|conservation period|False
+software|content|False
+software|cost|False
+software|creation process|False
+software|data set|False
+software|datum|False
+software|datum sensitivity|False
+software|description|False
+software|detail|False
+software|dmp|False
+software|estimate|False
+software|format|False
+software|how|False
+software|how long|False
+software|how many|False
+software|how secure|False
+software|information|False
+software|intention|False
+software|it resource requirement|False
+software|kind of data|False
+software|kind of data I want to record / store|False
+software|kind of data I want to store|False
+software|kind of datum type|False
+software|legal status|False
+software|metadata|False
+software|necessary right|False
+software|persistent identifier|False
+software|plan provenance|False
+software|pointer|False
+software|privacy|False
+software|reference|False
+software|regular summary report|False
+software|report|False
+software|repository mention|False
+software|research publication|False
+software|section|False
+software|security requirement|False
+software|service use|False
+software|short description|False
+software|software|False
+software|technology|False
+software|time plan|False
+software|topic|False
+software|when|False
+software|my data|False
+software|who|False
+software|who be responsible|False
+technology|administrative information|False
+technology|agreement|False
+technology|all datum|False
+technology|all metadata|False
+technology|all resource|False
+technology|all right|False
+technology|anonymization of datum|False
+technology|compliance|False
+technology|conservation period|False
+technology|content|False
+technology|cost|False
+technology|creation process|False
+technology|data set|False
+technology|datum|False
+technology|datum sensitivity|False
+technology|description|False
+technology|detail|False
+technology|dmp|False
+technology|estimate|False
+technology|format|False
+technology|how|False
+technology|how long|False
+technology|how many|False
+technology|how secure|False
+technology|information|False
+technology|intention|False
+technology|it resource requirement|False
+technology|kind of data|False
+technology|kind of data I want to record / store|False
+technology|kind of data I want to store|False
+technology|kind of datum type|False
+technology|legal status|False
+technology|metadata|False
+technology|necessary right|False
+technology|persistent identifier|False
+technology|plan provenance|False
+technology|pointer|False
+technology|privacy|False
+technology|reference|False
+technology|regular summary report|False
+technology|report|False
+technology|repository mention|False
+technology|research publication|False
+technology|section|False
+technology|security requirement|False
+technology|service use|False
+technology|short description|False
+technology|software|False
+technology|technology|False
+technology|time plan|False
+technology|topic|False
+technology|when|False
+technology|my data|False
+technology|who|False
+technology|who be responsible|False
+time plan|administrative information|False
+time plan|agreement|False
+time plan|all datum|False
+time plan|all metadata|False
+time plan|all resource|False
+time plan|all right|False
+time plan|anonymization of datum|False
+time plan|compliance|False
+time plan|conservation period|False
+time plan|content|False
+time plan|cost|False
+time plan|creation process|False
+time plan|data set|False
+time plan|datum|False
+time plan|datum sensitivity|False
+time plan|description|False
+time plan|detail|False
+time plan|dmp|False
+time plan|estimate|False
+time plan|format|False
+time plan|how|False
+time plan|how long|False
+time plan|how many|False
+time plan|how secure|False
+time plan|information|False
+time plan|intention|False
+time plan|it resource requirement|False
+time plan|kind of data|False
+time plan|kind of data I want to record / store|False
+time plan|kind of data I want to store|False
+time plan|kind of datum type|False
+time plan|legal status|False
+time plan|metadata|False
+time plan|necessary right|False
+time plan|persistent identifier|False
+time plan|plan provenance|False
+time plan|pointer|False
+time plan|privacy|False
+time plan|reference|False
+time plan|regular summary report|False
+time plan|report|False
+time plan|repository mention|False
+time plan|research publication|False
+time plan|section|False
+time plan|security requirement|False
+time plan|service use|False
+time plan|short description|False
+time plan|software|False
+time plan|technology|False
+time plan|time plan|False
+time plan|topic|False
+time plan|when|False
+time plan|my data|False
+time plan|who|False
+time plan|who be responsible|False
+topic|administrative information|False
+topic|agreement|False
+topic|all datum|False
+topic|all metadata|False
+topic|all resource|False
+topic|all right|False
+topic|anonymization of datum|False
+topic|compliance|False
+topic|conservation period|False
+topic|content|False
+topic|cost|False
+topic|creation process|False
+topic|data set|False
+topic|datum|False
+topic|datum sensitivity|False
+topic|description|False
+topic|detail|False
+topic|dmp|False
+topic|estimate|False
+topic|format|False
+topic|how|False
+topic|how long|False
+topic|how many|False
+topic|how secure|False
+topic|information|False
+topic|intention|False
+topic|it resource requirement|False
+topic|kind of data|False
+topic|kind of data I want to record / store|False
+topic|kind of data I want to store|False
+topic|kind of datum type|False
+topic|legal status|False
+topic|metadata|False
+topic|necessary right|False
+topic|persistent identifier|False
+topic|plan provenance|False
+topic|pointer|False
+topic|privacy|False
+topic|reference|False
+topic|regular summary report|False
+topic|report|False
+topic|repository mention|False
+topic|research publication|False
+topic|section|False
+topic|security requirement|False
+topic|service use|False
+topic|short description|False
+topic|software|False
+topic|technology|False
+topic|time plan|False
+topic|topic|False
+topic|when|False
+topic|my data|False
+topic|who|False
+topic|who be responsible|False
+when|administrative information|False
+when|agreement|False
+when|all datum|False
+when|all metadata|False
+when|all resource|False
+when|all right|False
+when|anonymization of datum|False
+when|compliance|False
+when|conservation period|False
+when|content|False
+when|cost|False
+when|creation process|False
+when|data set|False
+when|datum|False
+when|datum sensitivity|False
+when|description|False
+when|detail|False
+when|dmp|False
+when|estimate|False
+when|format|False
+when|how|False
+when|how long|False
+when|how many|False
+when|how secure|False
+when|information|False
+when|intention|False
+when|it resource requirement|False
+when|kind of data|False
+when|kind of data I want to record / store|False
+when|kind of data I want to store|False
+when|kind of datum type|False
+when|legal status|False
+when|metadata|False
+when|necessary right|False
+when|persistent identifier|False
+when|plan provenance|False
+when|pointer|False
+when|privacy|False
+when|reference|False
+when|regular summary report|False
+when|report|False
+when|repository mention|False
+when|research publication|False
+when|section|False
+when|security requirement|False
+when|service use|False
+when|short description|False
+when|software|False
+when|technology|False
+when|time plan|False
+when|topic|False
+when|when|False
+when|my data|False
+when|who|False
+when|who be responsible|False
+my data|administrative information|False
+my data|agreement|False
+my data|all datum|True
+my data|all metadata|True
+my data|all resource|False
+my data|all right|False
+my data|anonymization of datum|True
+my data|compliance|False
+my data|conservation period|False
+my data|content|False
+my data|cost|False
+my data|creation process|False
+my data|data set|False
+my data|datum|True
+my data|datum sensitivity|False
+my data|description|False
+my data|detail|False
+my data|dmp|False
+my data|estimate|False
+my data|format|False
+my data|how|False
+my data|how long|False
+my data|how many|False
+my data|how secure|False
+my data|information|False
+my data|intention|False
+my data|it resource requirement|False
+my data|kind of data|False
+my data|kind of data I want to record / store|False
+my data|kind of data I want to store|False
+my data|kind of datum type|False
+my data|legal status|False
+my data|metadata|True
+my data|necessary right|False
+my data|persistent identifier|False
+my data|plan provenance|False
+my data|pointer|False
+my data|privacy|False
+my data|reference|False
+my data|regular summary report|False
+my data|report|False
+my data|repository mention|False
+my data|research publication|False
+my data|section|False
+my data|security requirement|False
+my data|service use|False
+my data|short description|False
+my data|software|False
+my data|technology|False
+my data|time plan|False
+my data|topic|False
+my data|when|False
+my data|my data|False
+my data|who|False
+my data|who be responsible|False
+who|administrative information|False
+who|agreement|False
+who|all datum|False
+who|all metadata|False
+who|all resource|False
+who|all right|False
+who|anonymization of datum|False
+who|compliance|False
+who|conservation period|False
+who|content|False
+who|cost|False
+who|creation process|False
+who|data set|False
+who|datum|False
+who|datum sensitivity|False
+who|description|False
+who|detail|False
+who|dmp|False
+who|estimate|False
+who|format|False
+who|how|False
+who|how long|False
+who|how many|False
+who|how secure|False
+who|information|False
+who|intention|False
+who|it resource requirement|False
+who|kind of data|False
+who|kind of data I want to record / store|False
+who|kind of data I want to store|False
+who|kind of datum type|False
+who|legal status|False
+who|metadata|False
+who|necessary right|False
+who|persistent identifier|False
+who|plan provenance|False
+who|pointer|False
+who|privacy|False
+who|reference|False
+who|regular summary report|False
+who|report|False
+who|repository mention|False
+who|research publication|False
+who|section|False
+who|security requirement|False
+who|service use|False
+who|short description|False
+who|software|False
+who|technology|False
+who|time plan|False
+who|topic|False
+who|when|False
+who|my data|False
+who|who|False
+who|who be responsible|False
+who be responsible|administrative information|False
+who be responsible|agreement|False
+who be responsible|all datum|False
+who be responsible|all metadata|False
+who be responsible|all resource|False
+who be responsible|all right|False
+who be responsible|anonymization of datum|False
+who be responsible|compliance|False
+who be responsible|conservation period|False
+who be responsible|content|False
+who be responsible|cost|False
+who be responsible|creation process|False
+who be responsible|data set|False
+who be responsible|datum|False
+who be responsible|datum sensitivity|False
+who be responsible|description|False
+who be responsible|detail|False
+who be responsible|dmp|False
+who be responsible|estimate|False
+who be responsible|format|False
+who be responsible|how|False
+who be responsible|how long|False
+who be responsible|how many|False
+who be responsible|how secure|False
+who be responsible|information|False
+who be responsible|intention|False
+who be responsible|it resource requirement|False
+who be responsible|kind of data|False
+who be responsible|kind of data I want to record / store|False
+who be responsible|kind of data I want to store|False
+who be responsible|kind of datum type|False
+who be responsible|legal status|False
+who be responsible|metadata|False
+who be responsible|necessary right|False
+who be responsible|persistent identifier|False
+who be responsible|plan provenance|False
+who be responsible|pointer|False
+who be responsible|privacy|False
+who be responsible|reference|False
+who be responsible|regular summary report|False
+who be responsible|report|False
+who be responsible|repository mention|False
+who be responsible|research publication|False
+who be responsible|section|False
+who be responsible|security requirement|False
+who be responsible|service use|False
+who be responsible|short description|False
+who be responsible|software|False
+who be responsible|technology|False
+who be responsible|time plan|False
+who be responsible|topic|False
+who be responsible|when|False
+who be responsible|my data|False
+who be responsible|who|False
+who be responsible|who be responsible|False

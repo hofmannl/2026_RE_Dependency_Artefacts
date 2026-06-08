@@ -1,0 +1,947 @@
+Entity 1 | Entity 2 | Result | Score 
+analysis|analysis|True|1.0
+analysis|dat integration|True|0.8934712409973145
+analysis|datum|True|0.8581780195236206
+analysis|datum package|True|0.8400430679321289
+analysis|doi|True|0.9037224650382996
+analysis|elasticsearch integration|True|0.9344110488891602
+analysis|eml dataset|True|0.8050719499588013
+analysis|eprint integration|True|0.8162221908569336
+analysis|excel spreadsheet|True|0.7332566380500793
+analysis|general reference datum|True|0.8916024565696716
+analysis|hdf5 integration|True|0.871442973613739
+analysis|integration|True|0.8734543323516846
+analysis|interactive preview|True|0.8683005571365356
+analysis|microsoft power bi integration|True|0.8537308573722839
+analysis|ml dataset|True|0.729945719242096
+analysis|mongo integration|True|0.870914876461029
+analysis|new visualization|True|0.8190302848815918
+analysis|online service|True|0.8215380311012268
+analysis|preview button|True|0.8322450518608093
+analysis|remote - control vocabulary|True|0.8131617903709412
+analysis|spss integration|True|0.8976430296897888
+analysis|tool|True|0.7854228019714355
+analysis|way|True|0.8331602811813354
+analysis|web socket protocol|True|0.7901914119720459
+app|analysis|True|0.6330600380897522
+app|app|True|1.0
+app|command line tool|True|0.7099097967147827
+app|dat integration|True|0.7698533535003662
+app|datum|True|0.6425942182540894
+app|datum package|True|0.6902217864990234
+app|doi|True|0.7475882172584534
+app|dspace integration|True|0.6307845115661621
+app|elasticsearch integration|True|0.7860045433044434
+app|eml dataset|True|0.562075138092041
+app|eprint integration|True|0.6134576201438904
+app|excel spreadsheet|True|0.629758894443512
+app|exploratory data analysis|True|0.7385228276252747
+app|funding|False|0.3594970703125
+app|general reference datum|True|0.7215918302536011
+app|hdf5 integration|True|0.6619715690612793
+app|integration|True|0.7660133838653564
+app|interactive preview|True|0.8006153702735901
+app|microsoft power bi integration|True|0.7784604430198669
+app|ml dataset|False|0.49341848492622375
+app|mongo integration|True|0.6970764994621277
+app|new data column|True|0.5861073136329651
+app|new visualization|True|0.6646441221237183
+app|online service|True|0.8420442938804626
+app|preview button|True|0.7327960133552551
+app|reference datum on inflation|False|0.33288124203681946
+app|remote - control vocabulary|True|0.7899979948997498
+app|spss integration|True|0.7431600689888
+app|tool|True|0.6187856197357178
+app|type information|True|0.737270176410675
+app|useful metadata|True|0.6333504319190979
+app|visualization|True|0.700360894203186
+app|way|True|0.643435001373291
+app|web socket protocol|True|0.7643218040466309
+command line tool|analysis|True|0.6547284722328186
+command line tool|command line tool|True|1.0
+command line tool|dat integration|True|0.7477642893791199
+command line tool|datum|True|0.5902658104896545
+command line tool|datum package|True|0.7249653339385986
+command line tool|doi|True|0.7344440221786499
+command line tool|elasticsearch integration|True|0.7897518873214722
+command line tool|eml dataset|True|0.5945683717727661
+command line tool|eprint integration|True|0.6425226926803589
+command line tool|excel spreadsheet|True|0.6716883182525635
+command line tool|general reference datum|True|0.7715571522712708
+command line tool|hdf5 integration|True|0.7124260663986206
+command line tool|integration|True|0.706658661365509
+command line tool|interactive preview|True|0.761002779006958
+command line tool|microsoft power bi integration|True|0.8517670631408691
+command line tool|ml dataset|True|0.5521150231361389
+command line tool|mongo integration|True|0.6668424606323242
+command line tool|new visualization|True|0.6735190749168396
+command line tool|online service|True|0.7592841982841492
+command line tool|preview button|True|0.7510586380958557
+command line tool|remote - control vocabulary|True|0.8289691805839539
+command line tool|spss integration|True|0.7441478371620178
+command line tool|tool|True|0.9212750792503357
+command line tool|useful metadata|True|0.6753992438316345
+command line tool|way|True|0.5227854251861572
+command line tool|web socket protocol|True|0.7493888139724731
+dat integration|dat integration|True|1.0
+dat integration|microsoft power bi integration|True|0.8940467238426208
+datum|dat integration|True|0.8806787729263306
+datum|datum|True|1.0
+datum|datum package|True|0.8982933163642883
+datum|elasticsearch integration|True|0.786713719367981
+datum|general reference datum|True|0.9502887725830078
+datum|microsoft power bi integration|True|0.7244883179664612
+datum|new visualization|True|0.6666976809501648
+datum package|dat integration|True|0.8624451160430908
+datum package|datum package|True|1.0
+datum package|elasticsearch integration|True|0.7569980025291443
+datum package|general reference datum|True|0.9154934287071228
+datum package|microsoft power bi integration|True|0.7739019989967346
+datum package|new visualization|True|0.6147719621658325
+doi|dat integration|True|0.7730427384376526
+doi|datum|True|0.7949835658073425
+doi|datum package|True|0.711615264415741
+doi|doi|True|1.0
+doi|elasticsearch integration|True|0.8268608450889587
+doi|excel spreadsheet|False|0.40852534770965576
+doi|general reference datum|True|0.8659122586250305
+doi|hdf5 integration|True|0.7723926901817322
+doi|integration|True|0.8196537494659424
+doi|microsoft power bi integration|True|0.7495419383049011
+doi|ml dataset|True|0.5663144588470459
+doi|new visualization|True|0.690315842628479
+doi|online service|True|0.6345803141593933
+doi|preview button|True|0.6914350390434265
+doi|remote - control vocabulary|True|0.6838676929473877
+doi|spss integration|True|0.83584064245224
+doi|web socket protocol|True|0.6983755826950073
+dspace integration|analysis|True|0.7735140919685364
+dspace integration|command line tool|True|0.6475286483764648
+dspace integration|dat integration|True|0.8822163939476013
+dspace integration|datum|True|0.7849254608154297
+dspace integration|datum package|True|0.7887139916419983
+dspace integration|doi|True|0.8525053262710571
+dspace integration|dspace integration|True|1.0
+dspace integration|elasticsearch integration|True|0.8708600997924805
+dspace integration|eml dataset|True|0.770475447177887
+dspace integration|eprint integration|True|0.7225839495658875
+dspace integration|excel spreadsheet|True|0.525100588798523
+dspace integration|exploratory data analysis|True|0.8195753693580627
+dspace integration|funding|False|0.4131433963775635
+dspace integration|general reference datum|True|0.876702070236206
+dspace integration|hdf5 integration|True|0.8633925318717957
+dspace integration|integration|True|0.9335702657699585
+dspace integration|interactive preview|True|0.7905011177062988
+dspace integration|microsoft power bi integration|True|0.811640739440918
+dspace integration|ml dataset|True|0.7066440582275391
+dspace integration|mongo integration|True|0.7334704399108887
+dspace integration|new data column|True|0.725469708442688
+dspace integration|new visualization|True|0.7837628722190857
+dspace integration|online service|True|0.7405892014503479
+dspace integration|preview button|True|0.7051679491996765
+dspace integration|reference datum on inflation|True|0.5791175961494446
+dspace integration|remote - control vocabulary|True|0.7962192893028259
+dspace integration|spss integration|True|0.9135679602622986
+dspace integration|tool|True|0.593885064125061
+dspace integration|useful metadata|True|0.78464275598526
+dspace integration|visualization|True|0.7379653453826904
+dspace integration|way|True|0.698405385017395
+dspace integration|web socket protocol|True|0.7923819422721863
+elasticsearch integration|dat integration|True|0.8352649807929993
+elasticsearch integration|elasticsearch integration|True|1.0
+elasticsearch integration|general reference datum|True|0.8726460933685303
+elasticsearch integration|microsoft power bi integration|True|0.8801119923591614
+elasticsearch integration|new visualization|True|0.7901507616043091
+eml dataset|dat integration|True|0.8091660737991333
+eml dataset|datum|True|0.8060274124145508
+eml dataset|datum package|True|0.8182541131973267
+eml dataset|doi|True|0.7190272212028503
+eml dataset|elasticsearch integration|True|0.8083660006523132
+eml dataset|eml dataset|True|1.0
+eml dataset|eprint integration|True|0.7512419819831848
+eml dataset|excel spreadsheet|True|0.6351463198661804
+eml dataset|general reference datum|True|0.8402668237686157
+eml dataset|hdf5 integration|True|0.7514137625694275
+eml dataset|integration|True|0.7858132123947144
+eml dataset|interactive preview|True|0.7503741979598999
+eml dataset|microsoft power bi integration|True|0.7677735686302185
+eml dataset|ml dataset|True|0.868903636932373
+eml dataset|mongo integration|True|0.7065723538398743
+eml dataset|new visualization|True|0.6754844784736633
+eml dataset|online service|True|0.6975898146629333
+eml dataset|preview button|True|0.6957983374595642
+eml dataset|remote - control vocabulary|True|0.692535936832428
+eml dataset|spss integration|True|0.7955725193023682
+eml dataset|way|True|0.5743017196655273
+eml dataset|web socket protocol|True|0.7389732003211975
+eprint integration|dat integration|True|0.8368949294090271
+eprint integration|datum|True|0.7766143679618835
+eprint integration|datum package|True|0.812265157699585
+eprint integration|doi|True|0.8309107422828674
+eprint integration|elasticsearch integration|True|0.8757672309875488
+eprint integration|eprint integration|True|1.0
+eprint integration|excel spreadsheet|True|0.7219093441963196
+eprint integration|general reference datum|True|0.8747655153274536
+eprint integration|hdf5 integration|True|0.7503144145011902
+eprint integration|integration|True|0.9422345757484436
+eprint integration|microsoft power bi integration|True|0.8472131490707397
+eprint integration|ml dataset|True|0.6973900198936462
+eprint integration|new visualization|True|0.7920680046081543
+eprint integration|online service|True|0.8530152440071106
+eprint integration|preview button|True|0.8236635327339172
+eprint integration|remote - control vocabulary|True|0.8419157266616821
+eprint integration|spss integration|True|0.8263510465621948
+eprint integration|web socket protocol|True|0.8631980419158936
+excel spreadsheet|dat integration|True|0.7050299048423767
+excel spreadsheet|datum|True|0.663090169429779
+excel spreadsheet|datum package|True|0.7238286733627319
+excel spreadsheet|elasticsearch integration|True|0.786413848400116
+excel spreadsheet|excel spreadsheet|True|1.0
+excel spreadsheet|general reference datum|True|0.6642515659332275
+excel spreadsheet|hdf5 integration|True|0.6503377556800842
+excel spreadsheet|microsoft power bi integration|True|0.8147405982017517
+excel spreadsheet|ml dataset|True|0.6440653800964355
+excel spreadsheet|new visualization|True|0.614784300327301
+excel spreadsheet|preview button|True|0.6851273775100708
+excel spreadsheet|spss integration|True|0.6374385356903076
+exist wizard|analysis|True|0.6531040072441101
+exist wizard|app|True|0.7149478197097778
+exist wizard|command line tool|True|0.6677631735801697
+exist wizard|dat integration|True|0.705012857913971
+exist wizard|datum|True|0.6333298087120056
+exist wizard|datum package|True|0.6296853423118591
+exist wizard|doi|True|0.7230364680290222
+exist wizard|dspace integration|True|0.6672675013542175
+exist wizard|elasticsearch integration|True|0.8160915374755859
+exist wizard|eml dataset|True|0.6157472729682922
+exist wizard|eprint integration|True|0.694162130355835
+exist wizard|excel spreadsheet|True|0.5621017813682556
+exist wizard|exist wizard|True|1.0
+exist wizard|exploratory data analysis|True|0.7203301191329956
+exist wizard|funding|False|0.311265230178833
+exist wizard|general country name|False|0.4974168837070465
+exist wizard|general reference datum|True|0.7628838419914246
+exist wizard|hdf5 integration|True|0.6911496520042419
+exist wizard|how many user|True|0.7496786713600159
+exist wizard|integration|True|0.7406629323959351
+exist wizard|interactive preview|True|0.7756630778312683
+exist wizard|line|True|0.6846942901611328
+exist wizard|microsoft power bi integration|True|0.8127867579460144
+exist wizard|ml dataset|False|0.4920476973056793
+exist wizard|mongo integration|True|0.6964991688728333
+exist wizard|netcdf integration|True|0.7346685528755188
+exist wizard|new data column|True|0.6620302200317383
+exist wizard|new visualization|True|0.7163926362991333
+exist wizard|online service|True|0.7377675175666809
+exist wizard|preview button|True|0.7704693078994751
+exist wizard|reference datum on inflation|False|0.37624606490135193
+exist wizard|remote - control vocabulary|True|0.7111731171607971
+exist wizard|spss integration|True|0.7504014372825623
+exist wizard|tool|True|0.5896084904670715
+exist wizard|type information|True|0.7623225450515747
+exist wizard|useful metadata|True|0.731037437915802
+exist wizard|visualization|True|0.6750726103782654
+exist wizard|way|True|0.6665067672729492
+exist wizard|web socket protocol|True|0.749787449836731
+exploratory data analysis|analysis|True|0.9491764307022095
+exploratory data analysis|command line tool|True|0.7954754829406738
+exploratory data analysis|dat integration|True|0.8952723145484924
+exploratory data analysis|datum|True|0.830565869808197
+exploratory data analysis|datum package|True|0.8618189692497253
+exploratory data analysis|doi|True|0.8775792717933655
+exploratory data analysis|elasticsearch integration|True|0.9200521111488342
+exploratory data analysis|eml dataset|True|0.8535687327384949
+exploratory data analysis|eprint integration|True|0.842570960521698
+exploratory data analysis|excel spreadsheet|True|0.8266483545303345
+exploratory data analysis|exploratory data analysis|True|1.0
+exploratory data analysis|general reference datum|True|0.8801364898681641
+exploratory data analysis|hdf5 integration|True|0.8754366636276245
+exploratory data analysis|integration|True|0.8643715977668762
+exploratory data analysis|interactive preview|True|0.8764437437057495
+exploratory data analysis|microsoft power bi integration|True|0.886031985282898
+exploratory data analysis|ml dataset|True|0.8160195350646973
+exploratory data analysis|mongo integration|True|0.8398869037628174
+exploratory data analysis|new visualization|True|0.8409574031829834
+exploratory data analysis|online service|True|0.8705388903617859
+exploratory data analysis|preview button|True|0.8634293079376221
+exploratory data analysis|remote - control vocabulary|True|0.807838499546051
+exploratory data analysis|spss integration|True|0.8802198767662048
+exploratory data analysis|tool|True|0.7807809114456177
+exploratory data analysis|useful metadata|True|0.845109760761261
+exploratory data analysis|way|True|0.701410710811615
+exploratory data analysis|web socket protocol|True|0.8366593718528748
+feather integration|analysis|True|0.5877932906150818
+feather integration|app|True|0.553268313407898
+feather integration|command line tool|False|0.4442514181137085
+feather integration|dat integration|True|0.512755811214447
+feather integration|datum|True|0.5124278664588928
+feather integration|datum package|True|0.5082350969314575
+feather integration|doi|True|0.676465630531311
+feather integration|dspace integration|True|0.6140114665031433
+feather integration|elasticsearch integration|True|0.7324661612510681
+feather integration|eml dataset|True|0.515335202217102
+feather integration|eprint integration|True|0.5342397689819336
+feather integration|excel spreadsheet|False|0.39898067712783813
+feather integration|exist wizard|True|0.631427526473999
+feather integration|exploratory data analysis|True|0.5647680163383484
+feather integration|feather integration|True|1.0
+feather integration|funding|False|0.3207547068595886
+feather integration|general country name|True|0.509955644607544
+feather integration|general reference datum|True|0.6581181287765503
+feather integration|hdf5 integration|True|0.6702352166175842
+feather integration|how many user|True|0.6502319574356079
+feather integration|integration|True|0.8342238068580627
+feather integration|interactive preview|True|0.7262045741081238
+feather integration|jquery plugin|True|0.5631862282752991
+feather integration|line|True|0.6851119995117188
+feather integration|microsoft power bi integration|True|0.7616957426071167
+feather integration|ml dataset|False|0.38519689440727234
+feather integration|mongo integration|True|0.6447510123252869
+feather integration|netcdf integration|True|0.5949701070785522
+feather integration|new data column|True|0.5056846141815186
+feather integration|new visualization|True|0.6728635430335999
+feather integration|online service|True|0.6083080172538757
+feather integration|preview button|True|0.6358058452606201
+feather integration|quality of data|True|0.5464968085289001
+feather integration|reference datum on inflation|False|0.32502418756484985
+feather integration|remote - control vocabulary|True|0.6617105007171631
+feather integration|reproducible step|True|0.7155901193618774
+feather integration|spss integration|True|0.7415614128112793
+feather integration|tool|True|0.5444725751876831
+feather integration|type information|True|0.6762421131134033
+feather integration|useful metadata|True|0.6981667280197144
+feather integration|visualization|True|0.6806897521018982
+feather integration|way|True|0.6199390888214111
+feather integration|web socket protocol|True|0.6567624807357788
+funding|analysis|True|0.5976864099502563
+funding|command line tool|False|0.476820707321167
+funding|dat integration|True|0.670032799243927
+funding|datum|True|0.6333202123641968
+funding|datum package|True|0.551064670085907
+funding|doi|True|0.6673427820205688
+funding|elasticsearch integration|True|0.8031416535377502
+funding|eml dataset|True|0.5248562693595886
+funding|eprint integration|True|0.6485965847969055
+funding|excel spreadsheet|False|0.42174163460731506
+funding|exploratory data analysis|True|0.7080453038215637
+funding|funding|True|1.0
+funding|general reference datum|True|0.728201687335968
+funding|hdf5 integration|True|0.6755699515342712
+funding|integration|True|0.7654080390930176
+funding|interactive preview|True|0.6512466073036194
+funding|microsoft power bi integration|True|0.6699051856994629
+funding|ml dataset|False|0.4414903521537781
+funding|mongo integration|True|0.6693397164344788
+funding|new data column|True|0.5351253151893616
+funding|new visualization|True|0.6138324737548828
+funding|online service|True|0.6207279562950134
+funding|preview button|True|0.6322427988052368
+funding|remote - control vocabulary|True|0.6057112812995911
+funding|spss integration|True|0.7229539752006531
+funding|tool|True|0.5134304761886597
+funding|useful metadata|True|0.6291781067848206
+funding|way|True|0.6119855046272278
+funding|web socket protocol|True|0.5898603796958923
+general country name|analysis|True|0.5658295750617981
+general country name|app|True|0.6147401332855225
+general country name|command line tool|False|0.4464123845100403
+general country name|dat integration|True|0.621024489402771
+general country name|datum|True|0.6461566090583801
+general country name|datum package|True|0.5715152025222778
+general country name|doi|True|0.8081933856010437
+general country name|dspace integration|True|0.530249297618866
+general country name|elasticsearch integration|True|0.6565172672271729
+general country name|eml dataset|True|0.6304247379302979
+general country name|eprint integration|True|0.5641173124313354
+general country name|excel spreadsheet|False|0.38080498576164246
+general country name|exploratory data analysis|True|0.6634454727172852
+general country name|funding|False|0.34485936164855957
+general country name|general country name|True|1.0
+general country name|general reference datum|True|0.8076648712158203
+general country name|hdf5 integration|True|0.6104833483695984
+general country name|integration|True|0.6424517035484314
+general country name|interactive preview|True|0.5416750311851501
+general country name|line|True|0.6499839425086975
+general country name|microsoft power bi integration|True|0.5795061588287354
+general country name|ml dataset|False|0.48900091648101807
+general country name|mongo integration|True|0.658182680606842
+general country name|new data column|True|0.5663590431213379
+general country name|new visualization|True|0.5553605556488037
+general country name|online service|True|0.6347863674163818
+general country name|preview button|True|0.5562532544136047
+general country name|reference datum on inflation|False|0.4350118935108185
+general country name|remote - control vocabulary|True|0.6049798130989075
+general country name|spss integration|True|0.637332558631897
+general country name|tool|False|0.4563416540622711
+general country name|type information|True|0.7297307252883911
+general country name|useful metadata|True|0.6438600420951843
+general country name|visualization|True|0.5092073678970337
+general country name|way|True|0.6489560008049011
+general country name|web socket protocol|True|0.6535913944244385
+general reference datum|dat integration|True|0.9266652464866638
+general reference datum|general reference datum|True|1.0
+general reference datum|microsoft power bi integration|True|0.8591811060905457
+hdf5 integration|dat integration|True|0.8250489234924316
+hdf5 integration|datum|True|0.7574374079704285
+hdf5 integration|datum package|True|0.7747749090194702
+hdf5 integration|elasticsearch integration|True|0.875542402267456
+hdf5 integration|general reference datum|True|0.8806688189506531
+hdf5 integration|hdf5 integration|True|1.0
+hdf5 integration|microsoft power bi integration|True|0.8845136165618896
+hdf5 integration|ml dataset|True|0.7505150437355042
+hdf5 integration|new visualization|True|0.7765841484069824
+hdf5 integration|preview button|True|0.7710139155387878
+hdf5 integration|spss integration|True|0.9008827805519104
+how many user|analysis|True|0.7755129337310791
+how many user|app|True|0.813353419303894
+how many user|command line tool|True|0.7331942915916443
+how many user|dat integration|True|0.8182532787322998
+how many user|datum|True|0.8479107022285461
+how many user|datum package|True|0.7648657560348511
+how many user|doi|True|0.8060981035232544
+how many user|dspace integration|True|0.684873104095459
+how many user|elasticsearch integration|True|0.7998996376991272
+how many user|eml dataset|True|0.778434157371521
+how many user|eprint integration|True|0.7273257374763489
+how many user|excel spreadsheet|True|0.7241571545600891
+how many user|exploratory data analysis|True|0.8018669486045837
+how many user|funding|False|0.49874773621559143
+how many user|general country name|True|0.7145245671272278
+how many user|general reference datum|True|0.8902245759963989
+how many user|hdf5 integration|True|0.7705972790718079
+how many user|how many user|True|1.0
+how many user|integration|True|0.8132643699645996
+how many user|interactive preview|True|0.8460444808006287
+how many user|line|True|0.8261294960975647
+how many user|microsoft power bi integration|True|0.8248326182365417
+how many user|ml dataset|True|0.6999555230140686
+how many user|mongo integration|True|0.7307959198951721
+how many user|netcdf integration|True|0.7364871501922607
+how many user|new data column|True|0.8096246719360352
+how many user|new visualization|True|0.7715746760368347
+how many user|online service|True|0.8229014873504639
+how many user|preview button|True|0.8584696650505066
+how many user|reference datum on inflation|False|0.4595201015472412
+how many user|remote - control vocabulary|True|0.80866938829422
+how many user|spss integration|True|0.7735008597373962
+how many user|tool|True|0.6373441815376282
+how many user|type information|True|0.9064466953277588
+how many user|useful metadata|True|0.8314622044563293
+how many user|visualization|True|0.7557795643806458
+how many user|way|True|0.7224969863891602
+how many user|web socket protocol|True|0.7953138947486877
+integration|dat integration|True|0.9163472652435303
+integration|datum|True|0.8148855566978455
+integration|datum package|True|0.7943971157073975
+integration|elasticsearch integration|True|0.9298178553581238
+integration|excel spreadsheet|True|0.6680200099945068
+integration|general reference datum|True|0.8663293123245239
+integration|hdf5 integration|True|0.8933836817741394
+integration|integration|True|1.0
+integration|microsoft power bi integration|True|0.9372468590736389
+integration|ml dataset|True|0.6928791999816895
+integration|new visualization|True|0.8149489760398865
+integration|online service|True|0.836736798286438
+integration|preview button|True|0.813532292842865
+integration|remote - control vocabulary|True|0.8398881554603577
+integration|spss integration|True|0.926435112953186
+interactive preview|dat integration|True|0.903051495552063
+interactive preview|datum|True|0.8620511293411255
+interactive preview|datum package|True|0.8642538189888
+interactive preview|doi|True|0.9098179340362549
+interactive preview|elasticsearch integration|True|0.9331920146942139
+interactive preview|eprint integration|True|0.897236168384552
+interactive preview|excel spreadsheet|True|0.8439012765884399
+interactive preview|general reference datum|True|0.9018274545669556
+interactive preview|hdf5 integration|True|0.9095144271850586
+interactive preview|integration|True|0.9083973169326782
+interactive preview|interactive preview|True|1.0
+interactive preview|microsoft power bi integration|True|0.9216458201408386
+interactive preview|ml dataset|True|0.8445208072662354
+interactive preview|new visualization|True|0.940371036529541
+interactive preview|online service|True|0.9340541362762451
+interactive preview|preview button|True|0.9683254361152649
+interactive preview|remote - control vocabulary|True|0.8978222012519836
+interactive preview|spss integration|True|0.926749050617218
+interactive preview|way|True|0.8516278266906738
+interactive preview|web socket protocol|True|0.8919516205787659
+jquery plugin|analysis|True|0.6804930567741394
+jquery plugin|app|True|0.8059859275817871
+jquery plugin|command line tool|True|0.8154704570770264
+jquery plugin|dat integration|True|0.7805028557777405
+jquery plugin|datum|True|0.6649124026298523
+jquery plugin|datum package|True|0.7561842799186707
+jquery plugin|doi|True|0.786341667175293
+jquery plugin|dspace integration|True|0.7761749029159546
+jquery plugin|elasticsearch integration|True|0.843016505241394
+jquery plugin|eml dataset|True|0.7061740159988403
+jquery plugin|eprint integration|True|0.7522620558738708
+jquery plugin|excel spreadsheet|True|0.7564237713813782
+jquery plugin|exist wizard|True|0.7650361061096191
+jquery plugin|exploratory data analysis|True|0.7756455540657043
+jquery plugin|funding|False|0.33937230706214905
+jquery plugin|general country name|True|0.5766918659210205
+jquery plugin|general reference datum|True|0.7980718016624451
+jquery plugin|hdf5 integration|True|0.8148084282875061
+jquery plugin|how many user|True|0.7625847458839417
+jquery plugin|integration|True|0.7905763387680054
+jquery plugin|interactive preview|True|0.8497086763381958
+jquery plugin|jquery plugin|True|1.0
+jquery plugin|line|True|0.7192778587341309
+jquery plugin|microsoft power bi integration|True|0.9071844220161438
+jquery plugin|ml dataset|True|0.7050559520721436
+jquery plugin|mongo integration|True|0.8046533465385437
+jquery plugin|netcdf integration|True|0.8084917664527893
+jquery plugin|new data column|True|0.7679917812347412
+jquery plugin|new visualization|True|0.7816408276557922
+jquery plugin|online service|True|0.8277928233146667
+jquery plugin|preview button|True|0.8433325886726379
+jquery plugin|reference datum on inflation|False|0.4802822172641754
+jquery plugin|remote - control vocabulary|True|0.7628565430641174
+jquery plugin|spss integration|True|0.8374334573745728
+jquery plugin|tool|True|0.7288092970848083
+jquery plugin|type information|True|0.8288938403129578
+jquery plugin|useful metadata|True|0.7727910280227661
+jquery plugin|visualization|True|0.7570045590400696
+jquery plugin|way|True|0.6467723250389099
+jquery plugin|web socket protocol|True|0.8341678380966187
+line|analysis|True|0.7533173561096191
+line|app|True|0.747596263885498
+line|command line tool|True|0.8357619047164917
+line|dat integration|True|0.7270756959915161
+line|datum|True|0.7682986259460449
+line|datum package|True|0.6774385571479797
+line|doi|True|0.7966225147247314
+line|dspace integration|True|0.7191514372825623
+line|elasticsearch integration|True|0.8301526308059692
+line|eml dataset|True|0.6045306921005249
+line|eprint integration|True|0.7077032923698425
+line|excel spreadsheet|True|0.616889238357544
+line|exploratory data analysis|True|0.7926841378211975
+line|funding|False|0.4623040556907654
+line|general reference datum|True|0.8438039422035217
+line|hdf5 integration|True|0.7269513010978699
+line|integration|True|0.8196563720703125
+line|interactive preview|True|0.8387041687965393
+line|line|True|1.0
+line|microsoft power bi integration|True|0.724098801612854
+line|ml dataset|True|0.5894541144371033
+line|mongo integration|True|0.7175727486610413
+line|new data column|True|0.7349061965942383
+line|new visualization|True|0.7837249636650085
+line|online service|True|0.7488873600959778
+line|preview button|True|0.7848988771438599
+line|reference datum on inflation|True|0.5308476686477661
+line|remote - control vocabulary|True|0.8007256388664246
+line|spss integration|True|0.7812661528587341
+line|tool|True|0.6582866311073303
+line|type information|True|0.8237965703010559
+line|useful metadata|True|0.7363675832748413
+line|visualization|True|0.8005750775337219
+line|way|True|0.8232027292251587
+line|web socket protocol|True|0.7852504253387451
+microsoft power bi integration|microsoft power bi integration|True|1.0
+ml dataset|dat integration|True|0.6633137464523315
+ml dataset|datum|True|0.7188579440116882
+ml dataset|datum package|True|0.7270449995994568
+ml dataset|elasticsearch integration|True|0.6303282976150513
+ml dataset|general reference datum|True|0.6765432357788086
+ml dataset|microsoft power bi integration|True|0.7677051424980164
+ml dataset|ml dataset|True|1.0
+ml dataset|new visualization|True|0.5060022473335266
+ml dataset|preview button|True|0.5665229558944702
+ml dataset|spss integration|True|0.7185459136962891
+mongo integration|dat integration|True|0.745955765247345
+mongo integration|datum|True|0.7380499243736267
+mongo integration|datum package|True|0.7650988698005676
+mongo integration|doi|True|0.8439203500747681
+mongo integration|elasticsearch integration|True|0.8529276251792908
+mongo integration|eprint integration|True|0.6730159521102905
+mongo integration|excel spreadsheet|True|0.5460681915283203
+mongo integration|general reference datum|True|0.855503499507904
+mongo integration|hdf5 integration|True|0.7274380326271057
+mongo integration|integration|True|0.8560790419578552
+mongo integration|interactive preview|True|0.8154206871986389
+mongo integration|microsoft power bi integration|True|0.7809550166130066
+mongo integration|ml dataset|True|0.776146411895752
+mongo integration|mongo integration|True|1.0
+mongo integration|new visualization|True|0.7782530188560486
+mongo integration|online service|True|0.7572891116142273
+mongo integration|preview button|True|0.7767048478126526
+mongo integration|remote - control vocabulary|True|0.8227068185806274
+mongo integration|spss integration|True|0.8121770024299622
+mongo integration|way|True|0.7045437693595886
+mongo integration|web socket protocol|True|0.8449245095252991
+netcdf integration|analysis|True|0.7988470792770386
+netcdf integration|app|True|0.762020468711853
+netcdf integration|command line tool|True|0.7529609203338623
+netcdf integration|dat integration|True|0.8713786602020264
+netcdf integration|datum|True|0.7763956785202026
+netcdf integration|datum package|True|0.8080583214759827
+netcdf integration|doi|True|0.8158541917800903
+netcdf integration|dspace integration|True|0.8481420278549194
+netcdf integration|elasticsearch integration|True|0.8844441175460815
+netcdf integration|eml dataset|True|0.8158618807792664
+netcdf integration|eprint integration|True|0.7580181956291199
+netcdf integration|excel spreadsheet|True|0.686524510383606
+netcdf integration|exploratory data analysis|True|0.8845206499099731
+netcdf integration|funding|True|0.5056836009025574
+netcdf integration|general country name|True|0.6386120319366455
+netcdf integration|general reference datum|True|0.8929694890975952
+netcdf integration|hdf5 integration|True|0.9053224325180054
+netcdf integration|integration|True|0.9356383681297302
+netcdf integration|interactive preview|True|0.8402309417724609
+netcdf integration|line|True|0.7289616465568542
+netcdf integration|microsoft power bi integration|True|0.8820464611053467
+netcdf integration|ml dataset|True|0.777354896068573
+netcdf integration|mongo integration|True|0.7501347661018372
+netcdf integration|netcdf integration|True|1.0
+netcdf integration|new data column|True|0.8058300018310547
+netcdf integration|new visualization|True|0.8031425476074219
+netcdf integration|online service|True|0.8417975902557373
+netcdf integration|preview button|True|0.7860360741615295
+netcdf integration|reference datum on inflation|True|0.5878663063049316
+netcdf integration|remote - control vocabulary|True|0.8442390561103821
+netcdf integration|spss integration|True|0.9197147488594055
+netcdf integration|tool|True|0.6627210378646851
+netcdf integration|type information|True|0.8789465427398682
+netcdf integration|useful metadata|True|0.8318177461624146
+netcdf integration|visualization|True|0.782782256603241
+netcdf integration|way|True|0.6968252062797546
+netcdf integration|web socket protocol|True|0.8494451642036438
+new data column|analysis|True|0.7863955497741699
+new data column|command line tool|True|0.618593156337738
+new data column|dat integration|True|0.8461577892303467
+new data column|datum|True|0.8258820176124573
+new data column|datum package|True|0.8038862943649292
+new data column|doi|True|0.8173839449882507
+new data column|elasticsearch integration|True|0.844549298286438
+new data column|eml dataset|True|0.7834190130233765
+new data column|eprint integration|True|0.7439765334129333
+new data column|excel spreadsheet|True|0.7550202012062073
+new data column|exploratory data analysis|True|0.8569544553756714
+new data column|general reference datum|True|0.8465459942817688
+new data column|hdf5 integration|True|0.8265635967254639
+new data column|integration|True|0.8382684588432312
+new data column|interactive preview|True|0.843298077583313
+new data column|microsoft power bi integration|True|0.8209269046783447
+new data column|ml dataset|True|0.7319312691688538
+new data column|mongo integration|True|0.755890429019928
+new data column|new data column|True|1.0
+new data column|new visualization|True|0.8020832538604736
+new data column|online service|True|0.7590571641921997
+new data column|preview button|True|0.8261210322380066
+new data column|remote - control vocabulary|True|0.7243797779083252
+new data column|spss integration|True|0.8135954737663269
+new data column|tool|True|0.594367504119873
+new data column|useful metadata|True|0.8143343925476074
+new data column|way|True|0.6817339658737183
+new data column|web socket protocol|True|0.7717636823654175
+new visualization|dat integration|True|0.8497744202613831
+new visualization|general reference datum|True|0.8430125117301941
+new visualization|microsoft power bi integration|True|0.8591903448104858
+new visualization|new visualization|True|1.0
+online service|dat integration|True|0.874786913394928
+online service|datum|True|0.7808385491371155
+online service|datum package|True|0.8155426383018494
+online service|elasticsearch integration|True|0.8927831649780273
+online service|excel spreadsheet|True|0.7737399339675903
+online service|general reference datum|True|0.8618593811988831
+online service|hdf5 integration|True|0.830112874507904
+online service|microsoft power bi integration|True|0.8905230760574341
+online service|ml dataset|True|0.7079201936721802
+online service|new visualization|True|0.7989384531974792
+online service|online service|True|1.0
+online service|preview button|True|0.8545867800712585
+online service|spss integration|True|0.8618324398994446
+preview button|dat integration|True|0.7812385559082031
+preview button|datum|True|0.7176588773727417
+preview button|datum package|True|0.7300382256507874
+preview button|elasticsearch integration|True|0.8458178043365479
+preview button|general reference datum|True|0.8100839853286743
+preview button|microsoft power bi integration|True|0.8316262364387512
+preview button|new visualization|True|0.8828988075256348
+preview button|preview button|True|1.0
+preview button|spss integration|True|0.8314276933670044
+quality of data|analysis|True|0.8514227867126465
+quality of data|app|True|0.825797975063324
+quality of data|command line tool|True|0.6947478652000427
+quality of data|dat integration|True|0.8976305723190308
+quality of data|datum|True|0.897148847579956
+quality of data|datum package|True|0.8931400179862976
+quality of data|doi|True|0.8726451396942139
+quality of data|dspace integration|True|0.8308053612709045
+quality of data|elasticsearch integration|True|0.8943681716918945
+quality of data|eml dataset|True|0.8636559247970581
+quality of data|eprint integration|True|0.8101391792297363
+quality of data|excel spreadsheet|True|0.7771274447441101
+quality of data|exist wizard|True|0.7374206781387329
+quality of data|exploratory data analysis|True|0.9055676460266113
+quality of data|funding|False|0.4713047444820404
+quality of data|general country name|True|0.6615850329399109
+quality of data|general reference datum|True|0.9308887124061584
+quality of data|hdf5 integration|True|0.8705882430076599
+quality of data|how many user|True|0.8313130736351013
+quality of data|integration|True|0.8707699179649353
+quality of data|interactive preview|True|0.8600391149520874
+quality of data|jquery plugin|True|0.7178835272789001
+quality of data|line|True|0.8363345265388489
+quality of data|microsoft power bi integration|True|0.8526695370674133
+quality of data|ml dataset|True|0.7795413732528687
+quality of data|mongo integration|True|0.8294242024421692
+quality of data|netcdf integration|True|0.8578430414199829
+quality of data|new data column|True|0.8596099615097046
+quality of data|new visualization|True|0.8228409886360168
+quality of data|online service|True|0.8421786427497864
+quality of data|preview button|True|0.8054817318916321
+quality of data|quality of data|True|1.0
+quality of data|reference datum on inflation|True|0.6104583144187927
+quality of data|remote - control vocabulary|True|0.8185035586357117
+quality of data|spss integration|True|0.8680984973907471
+quality of data|tool|True|0.7484891414642334
+quality of data|type information|True|0.9381240606307983
+quality of data|useful metadata|True|0.8783435225486755
+quality of data|visualization|True|0.8575904965400696
+quality of data|way|True|0.7724770307540894
+quality of data|web socket protocol|True|0.8553650975227356
+reference datum on inflation|analysis|False|0.46973374485969543
+reference datum on inflation|command line tool|False|0.39090242981910706
+reference datum on inflation|dat integration|True|0.5901197791099548
+reference datum on inflation|datum|True|0.5954478979110718
+reference datum on inflation|datum package|True|0.5890798568725586
+reference datum on inflation|doi|True|0.5727766156196594
+reference datum on inflation|elasticsearch integration|True|0.6677418947219849
+reference datum on inflation|eml dataset|False|0.46027591824531555
+reference datum on inflation|eprint integration|False|0.4973548352718353
+reference datum on inflation|excel spreadsheet|False|0.3263256847858429
+reference datum on inflation|exploratory data analysis|True|0.5201535224914551
+reference datum on inflation|funding|False|0.27063074707984924
+reference datum on inflation|general reference datum|True|0.5803434252738953
+reference datum on inflation|hdf5 integration|True|0.5273063778877258
+reference datum on inflation|integration|True|0.5651289224624634
+reference datum on inflation|interactive preview|False|0.45157837867736816
+reference datum on inflation|microsoft power bi integration|False|0.4911171495914459
+reference datum on inflation|ml dataset|False|0.3501143455505371
+reference datum on inflation|mongo integration|False|0.488781213760376
+reference datum on inflation|new data column|False|0.4349250793457031
+reference datum on inflation|new visualization|False|0.4400721490383148
+reference datum on inflation|online service|False|0.35396629571914673
+reference datum on inflation|preview button|False|0.45515114068984985
+reference datum on inflation|reference datum on inflation|True|1.0
+reference datum on inflation|remote - control vocabulary|False|0.4579222798347473
+reference datum on inflation|spss integration|True|0.5635868906974792
+reference datum on inflation|tool|False|0.3648090660572052
+reference datum on inflation|useful metadata|True|0.5495006442070007
+reference datum on inflation|way|False|0.3589712977409363
+reference datum on inflation|web socket protocol|True|0.5314046144485474
+remote - control vocabulary|dat integration|True|0.732116162776947
+remote - control vocabulary|datum|True|0.6128910779953003
+remote - control vocabulary|datum package|True|0.6795794367790222
+remote - control vocabulary|elasticsearch integration|True|0.8335809707641602
+remote - control vocabulary|excel spreadsheet|False|0.444120854139328
+remote - control vocabulary|general reference datum|True|0.8332191109657288
+remote - control vocabulary|hdf5 integration|True|0.761677086353302
+remote - control vocabulary|microsoft power bi integration|True|0.8130137324333191
+remote - control vocabulary|ml dataset|True|0.5495598912239075
+remote - control vocabulary|new visualization|True|0.6727594137191772
+remote - control vocabulary|online service|True|0.7155395746231079
+remote - control vocabulary|preview button|True|0.7478418350219727
+remote - control vocabulary|remote - control vocabulary|True|1.0
+remote - control vocabulary|spss integration|True|0.814171552658081
+reproducible step|analysis|True|0.8148102760314941
+reproducible step|app|True|0.8104737401008606
+reproducible step|command line tool|True|0.80243980884552
+reproducible step|dat integration|True|0.8973380923271179
+reproducible step|datum|True|0.865347683429718
+reproducible step|datum package|True|0.839424729347229
+reproducible step|doi|True|0.8923230171203613
+reproducible step|dspace integration|True|0.9021946787834167
+reproducible step|elasticsearch integration|True|0.9434705376625061
+reproducible step|eml dataset|True|0.8312996029853821
+reproducible step|eprint integration|True|0.9063320755958557
+reproducible step|excel spreadsheet|True|0.77286696434021
+reproducible step|exist wizard|True|0.8140326738357544
+reproducible step|exploratory data analysis|True|0.8797921538352966
+reproducible step|funding|True|0.6620675325393677
+reproducible step|general country name|True|0.746128261089325
+reproducible step|general reference datum|True|0.8902769088745117
+reproducible step|hdf5 integration|True|0.9008436799049377
+reproducible step|how many user|True|0.8651223182678223
+reproducible step|integration|True|0.8620643019676208
+reproducible step|interactive preview|True|0.9064750671386719
+reproducible step|jquery plugin|True|0.727237343788147
+reproducible step|line|True|0.8936069011688232
+reproducible step|microsoft power bi integration|True|0.8677065968513489
+reproducible step|ml dataset|True|0.815331757068634
+reproducible step|mongo integration|True|0.8849105834960938
+reproducible step|netcdf integration|True|0.8938580751419067
+reproducible step|new data column|True|0.8515179753303528
+reproducible step|new visualization|True|0.8276576995849609
+reproducible step|online service|True|0.826603353023529
+reproducible step|preview button|True|0.9070992469787598
+reproducible step|quality of data|True|0.7817744016647339
+reproducible step|reference datum on inflation|True|0.696536123752594
+reproducible step|remote - control vocabulary|True|0.8920791149139404
+reproducible step|reproducible step|True|1.0
+reproducible step|spss integration|True|0.9301831126213074
+reproducible step|tool|True|0.790575385093689
+reproducible step|type information|True|0.9135023951530457
+reproducible step|useful metadata|True|0.8608796000480652
+reproducible step|visualization|True|0.8314034342765808
+reproducible step|way|True|0.8363741636276245
+reproducible step|web socket protocol|True|0.8751915693283081
+spss integration|dat integration|True|0.8871368169784546
+spss integration|datum|True|0.8186034560203552
+spss integration|datum package|True|0.8432341814041138
+spss integration|elasticsearch integration|True|0.9214438796043396
+spss integration|general reference datum|True|0.9097046852111816
+spss integration|microsoft power bi integration|True|0.8955554366111755
+spss integration|new visualization|True|0.8481920957565308
+spss integration|spss integration|True|1.0
+tool|dat integration|True|0.7353493571281433
+tool|datum|True|0.714828610420227
+tool|datum package|True|0.713560938835144
+tool|doi|True|0.8112278580665588
+tool|elasticsearch integration|True|0.8339806795120239
+tool|eml dataset|True|0.621555745601654
+tool|eprint integration|True|0.6666997075080872
+tool|excel spreadsheet|True|0.6833780407905579
+tool|general reference datum|True|0.7899602055549622
+tool|hdf5 integration|True|0.710157036781311
+tool|integration|True|0.7996491193771362
+tool|interactive preview|True|0.8196170330047607
+tool|microsoft power bi integration|True|0.8220746517181396
+tool|ml dataset|True|0.5306879281997681
+tool|mongo integration|True|0.753273606300354
+tool|new visualization|True|0.7290377616882324
+tool|online service|True|0.7057011723518372
+tool|preview button|True|0.7986618876457214
+tool|remote - control vocabulary|True|0.7904317378997803
+tool|spss integration|True|0.7759003639221191
+tool|tool|True|1.0
+tool|way|True|0.7762330770492554
+tool|web socket protocol|True|0.6912970542907715
+type information|analysis|True|0.8405819535255432
+type information|command line tool|True|0.7501989006996155
+type information|dat integration|True|0.9143915772438049
+type information|datum|True|0.8943705558776855
+type information|datum package|True|0.8971330523490906
+type information|doi|True|0.9000042676925659
+type information|dspace integration|True|0.8561887145042419
+type information|elasticsearch integration|True|0.9196558594703674
+type information|eml dataset|True|0.8503230214118958
+type information|eprint integration|True|0.8789665699005127
+type information|excel spreadsheet|True|0.7842349410057068
+type information|exploratory data analysis|True|0.8897115588188171
+type information|funding|False|0.44269704818725586
+type information|general reference datum|True|0.9422863721847534
+type information|hdf5 integration|True|0.8830929398536682
+type information|integration|True|0.8997803330421448
+type information|interactive preview|True|0.8951973915100098
+type information|microsoft power bi integration|True|0.8784108757972717
+type information|ml dataset|True|0.7617394328117371
+type information|mongo integration|True|0.8590620160102844
+type information|new data column|True|0.8778263926506042
+type information|new visualization|True|0.8516886234283447
+type information|online service|True|0.8590898513793945
+type information|preview button|True|0.8618135452270508
+type information|reference datum on inflation|True|0.6235003471374512
+type information|remote - control vocabulary|True|0.823043704032898
+type information|spss integration|True|0.9050938487052917
+type information|tool|True|0.7233287692070007
+type information|type information|True|1.0
+type information|useful metadata|True|0.913733184337616
+type information|visualization|True|0.8372862339019775
+type information|way|True|0.8232678174972534
+type information|web socket protocol|True|0.8690020442008972
+useful metadata|analysis|True|0.757796585559845
+useful metadata|dat integration|True|0.8565343618392944
+useful metadata|datum|True|0.8633344173431396
+useful metadata|datum package|True|0.8629488945007324
+useful metadata|doi|True|0.813544750213623
+useful metadata|elasticsearch integration|True|0.8234162926673889
+useful metadata|eml dataset|True|0.7864177823066711
+useful metadata|eprint integration|True|0.7773115634918213
+useful metadata|excel spreadsheet|True|0.6185203194618225
+useful metadata|general reference datum|True|0.9096312522888184
+useful metadata|hdf5 integration|True|0.7924379706382751
+useful metadata|integration|True|0.8571149706840515
+useful metadata|interactive preview|True|0.8442200422286987
+useful metadata|microsoft power bi integration|True|0.8271761536598206
+useful metadata|ml dataset|True|0.7204121351242065
+useful metadata|mongo integration|True|0.7992802858352661
+useful metadata|new visualization|True|0.8057647943496704
+useful metadata|online service|True|0.7913532853126526
+useful metadata|preview button|True|0.8176417350769043
+useful metadata|remote - control vocabulary|True|0.7708911299705505
+useful metadata|spss integration|True|0.8646054267883301
+useful metadata|tool|True|0.6988202929496765
+useful metadata|useful metadata|True|1.0
+useful metadata|way|True|0.7720099687576294
+useful metadata|web socket protocol|True|0.733126163482666
+visualization|analysis|True|0.7826336026191711
+visualization|command line tool|True|0.7321956753730774
+visualization|dat integration|True|0.8324678540229797
+visualization|datum|True|0.8069567084312439
+visualization|datum package|True|0.7959019541740417
+visualization|doi|True|0.827972948551178
+visualization|elasticsearch integration|True|0.8770511150360107
+visualization|eml dataset|True|0.7456094622612
+visualization|eprint integration|True|0.7831739783287048
+visualization|excel spreadsheet|True|0.697793185710907
+visualization|exploratory data analysis|True|0.8693917989730835
+visualization|funding|False|0.3572322130203247
+visualization|general reference datum|True|0.8418760299682617
+visualization|hdf5 integration|True|0.8089661598205566
+visualization|integration|True|0.8351358771324158
+visualization|interactive preview|True|0.8938196301460266
+visualization|microsoft power bi integration|True|0.8205358982086182
+visualization|ml dataset|True|0.6785147190093994
+visualization|mongo integration|True|0.8070107102394104
+visualization|new data column|True|0.7568630576133728
+visualization|new visualization|True|0.8275899887084961
+visualization|online service|True|0.7932036519050598
+visualization|preview button|True|0.8125957250595093
+visualization|reference datum on inflation|False|0.4855942130088806
+visualization|remote - control vocabulary|True|0.7732837796211243
+visualization|spss integration|True|0.8482957482337952
+visualization|tool|True|0.7394186854362488
+visualization|useful metadata|True|0.7914606332778931
+visualization|visualization|True|1.0
+visualization|way|True|0.7595810294151306
+visualization|web socket protocol|True|0.7505485415458679
+way|dat integration|True|0.8796616196632385
+way|datum|True|0.8529049754142761
+way|datum package|True|0.7997595071792603
+way|doi|True|0.8899592161178589
+way|elasticsearch integration|True|0.9101079702377319
+way|eprint integration|True|0.807942271232605
+way|excel spreadsheet|True|0.6011930704116821
+way|general reference datum|True|0.9325941801071167
+way|hdf5 integration|True|0.862834632396698
+way|integration|True|0.9026902318000793
+way|microsoft power bi integration|True|0.8494679927825928
+way|ml dataset|True|0.6958633661270142
+way|new visualization|True|0.849977433681488
+way|online service|True|0.7845818996429443
+way|preview button|True|0.8402462005615234
+way|remote - control vocabulary|True|0.8511279821395874
+way|spss integration|True|0.892543375492096
+way|way|True|1.0
+way|web socket protocol|True|0.8401831984519958
+web socket protocol|dat integration|True|0.844203770160675
+web socket protocol|datum|True|0.7833923101425171
+web socket protocol|datum package|True|0.7968045473098755
+web socket protocol|elasticsearch integration|True|0.8128016591072083
+web socket protocol|excel spreadsheet|True|0.6096195578575134
+web socket protocol|general reference datum|True|0.8724564909934998
+web socket protocol|hdf5 integration|True|0.8236620426177979
+web socket protocol|integration|True|0.8076700568199158
+web socket protocol|microsoft power bi integration|True|0.8602187633514404
+web socket protocol|ml dataset|True|0.6940686106681824
+web socket protocol|new visualization|True|0.7121170163154602
+web socket protocol|online service|True|0.9128199219703674
+web socket protocol|preview button|True|0.8101075887680054
+web socket protocol|remote - control vocabulary|True|0.8123506307601929
+web socket protocol|spss integration|True|0.8757078051567078
+web socket protocol|web socket protocol|True|1.0

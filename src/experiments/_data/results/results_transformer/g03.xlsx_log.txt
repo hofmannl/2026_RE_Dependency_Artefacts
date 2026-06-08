@@ -1,0 +1,20 @@
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Persona pairs | Threshold 0.5 | 357.2746832370758 seconds
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Persona pairs | Threshold 0.7 | 356.71336340904236 seconds
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Persona pairs | Threshold 0.9 | 356.89364433288574 seconds
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Action pairs | Threshold 0.5 | 1129.9883074760437 seconds
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Action pairs | Threshold 0.7 | 1129.4590451717377 seconds
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Action pairs | Threshold 0.9 | 1129.8906960487366 seconds
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Entity pairs | Threshold 0.5 | 1966.603785276413 seconds
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Entity pairs | Threshold 0.7 | 1963.4607236385345 seconds
+Generalisation Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Entity pairs | Threshold 0.9 | 1963.9803686141968 seconds
+Containment Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Entity pairs | Threshold 0.5 | 1946.7641515731812 seconds
+Containment Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Entity pairs | Threshold 0.7 | 1946.3109714984894 seconds
+Containment Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Entity pairs | Threshold 0.9 | 1946.099704504013 seconds
+Semantical Equivalence Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Persona pairs | Threshold 0.5 | 140.28961038589478 seconds
+Semantical Equivalence Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Persona pairs | Threshold 0.7 | 139.89065384864807 seconds
+Semantical Equivalence Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Persona pairs | Threshold 0.9 | 140.0936734676361 seconds
+Semantical Equivalence Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Action pairs | Threshold 0.5 | 405.4463222026825 seconds
+Semantical Equivalence Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Action pairs | Threshold 0.9 | 405.42473435401917 seconds
+Semantical Equivalence Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Entity pairs | Threshold 0.5 | 1181.3750355243683 seconds
+Semantical Equivalence Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Entity pairs | Threshold 0.7 | 1186.6333827972412 seconds
+Semantical Equivalence Analyser Transformer | C:\lukas\dependencyanalyseandsynergyofuserstories\src\experiments\_data\pre_computed_pairs_data\g03.xlsx | Entity pairs | Threshold 0.9 | 1186.7542369365692 seconds

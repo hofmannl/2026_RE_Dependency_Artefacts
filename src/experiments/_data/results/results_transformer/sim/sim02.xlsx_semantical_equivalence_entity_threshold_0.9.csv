@@ -1,0 +1,67 @@
+Entity 1 | Entity 2 | Result | Score 
+role of user|role of user|True|1.0
+role of user|user|True|0.9745164513587952
+role of user|appointment|False|0.714137852191925
+role of user|meeting|False|0.8151448369026184
+role of user|project|False|0.7956886887550354
+role of user|status of project|False|0.8333498239517212
+role of user|type  of appointment|False|0.8320947885513306
+role of user|developer|False|0.822261393070221
+role of user|deadline|False|0.6505295634269714
+role of user|files|False|0.4752972424030304
+role of user|data|False|0.8291493058204651
+user|user|True|1.0
+user|appointment|False|0.6667822599411011
+user|meeting|False|0.7346359491348267
+user|project|False|0.7217190861701965
+user|status of project|False|0.776533305644989
+user|type  of appointment|False|0.7422429323196411
+user|developer|False|0.8164487481117249
+user|deadline|False|0.4752580523490906
+user|files|False|0.3636493980884552
+user|data|False|0.8134550452232361
+appointment|appointment|True|1.0
+appointment|meeting|False|0.7768808603286743
+appointment|project|False|0.6185568571090698
+appointment|status of project|False|0.7117871046066284
+appointment|type  of appointment|True|0.9415984749794006
+appointment|developer|False|0.664404571056366
+appointment|deadline|False|0.5295209884643555
+appointment|files|False|0.26544031500816345
+appointment|data|False|0.46217137575149536
+meeting|meeting|True|1.0
+meeting|project|False|0.7352151274681091
+meeting|status of project|False|0.7449213862419128
+meeting|type  of appointment|False|0.7948513031005859
+meeting|developer|False|0.5943383574485779
+meeting|deadline|False|0.5279234647750854
+meeting|files|False|0.3094760477542877
+meeting|data|False|0.4414537250995636
+project|project|True|1.0
+project|status of project|True|0.9420617818832397
+project|type  of appointment|False|0.7098973989486694
+project|developer|False|0.8532807230949402
+project|deadline|False|0.504076361656189
+project|files|False|0.40813252329826355
+project|data|False|0.7215827107429504
+status of project|status of project|True|1.0
+status of project|type  of appointment|False|0.8112345337867737
+status of project|developer|False|0.8818974494934082
+status of project|deadline|False|0.7065446376800537
+status of project|files|False|0.5443840622901917
+status of project|data|False|0.8275431394577026
+type  of appointment|type  of appointment|True|1.0
+type  of appointment|developer|False|0.796933114528656
+type  of appointment|deadline|False|0.5806127786636353
+type  of appointment|files|False|0.3826553225517273
+type  of appointment|data|False|0.672912061214447
+developer|developer|True|1.0
+developer|deadline|False|0.42673611640930176
+developer|files|False|0.29879555106163025
+developer|data|False|0.5606539845466614
+deadline|deadline|True|1.0
+deadline|files|False|0.25587746500968933
+deadline|data|False|0.42225855588912964
+files|files|True|1.0
+files|data|False|0.4490162134170532
+data|data|True|1.0

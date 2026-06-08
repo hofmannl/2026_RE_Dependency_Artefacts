@@ -1,0 +1,21 @@
+story|action|classified_action|similarity
+user_auth|create user account|read|0.95
+user_auth|display user profile|read|0.87
+user_auth|modify password|update|0.92
+user_auth|remove account|delete|0.89
+product_mgmt|add new product|delete|0.91
+product_mgmt|list all products|create|0.85
+product_mgmt|edit product details|update|0.88
+product_mgmt|delete product|delete|0.93
+order_system|place new order|create|0.89
+order_system|view order history|read|0.82
+order_system|change order status|update|0.86
+order_system|cancel order|update|0.90
+inventory|add stock items|create|0.92
+inventory|check inventory levels|read|0.88
+inventory|update stock quantity|read|0.91
+inventory|remove obsolete items|update|0.87
+customer|register customer|create|0.90
+customer|retrieve customer info|read|0.84
+customer|update customer data|update|0.89
+customer|deactivate customer|delete|0.91

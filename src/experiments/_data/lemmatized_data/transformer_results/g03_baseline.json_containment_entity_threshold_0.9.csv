@@ -1,0 +1,2560 @@
+Entity 1 | Entity 2 | Result | Score 
+draft proffer|hear requirement|False|0.5995132327079773
+bond|citation|True|0.9942854642868042
+customer portal user account|when|False|0.5017109513282776
+preapplication assistance|hear requirement|False|0.8399701118469238
+fee|custom query|False|0.6820955872535706
+appeal|staff review|False|0.7346953749656677
+requirement|property information|True|0.9932482838630676
+consistency|hear requirement|True|0.9189413785934448
+staff review|code modification|False|0.6939476132392883
+property information|statu|True|0.9869553446769714
+approve proffer|citation|True|0.9755300283432007
+hold|fee|True|0.9448901414871216
+information|completion of required plan review|True|0.9806382656097412
+internal note|statu|False|0.6323033571243286
+planning report|fine|False|0.48899203538894653
+completenes review|hear decision|False|0.8948549032211304
+plan amendment|property information|True|0.9879980087280273
+support documentation|hear requirement|False|0.8699576258659363
+hear decision|ordinance|False|0.7588188648223877
+plan review meet|consistency|True|0.9142166972160339
+request|completion of required plan review|True|0.975874125957489
+affidavit|statu|False|0.39823058247566223
+inspector workload|hear decision|False|0.6455411911010742
+statu|hear requirement|False|0.7932312488555908
+draft proffer|plan reviewer workload|False|0.7333211302757263
+gis property management|support documentation|False|0.8544489741325378
+customer portal user account|application|False|0.5622120499610901
+hear calendar|ordinance|False|0.18459492921829224
+zoning permit|completion of required plan review|False|0.33489561080932617
+planning study|formal response|True|0.9503219127655029
+requirement|completenes review|True|0.9934714436531067
+plan review meet|staff review|False|0.5778706669807434
+service|outcome|True|0.9952800869941711
+request|planning study|True|0.9528789520263672
+requirement|planning report|True|0.9847416877746582
+request|draft proffer|False|0.7878977656364441
+plan amendment|completenes review|True|0.9252000451087952
+hold|hear requirement|False|0.8150133490562439
+staff review|appeal|False|0.6511956453323364
+application|ordinance|True|0.9397637844085693
+plan amendment|planning report|False|0.8180930614471436
+draft proffer|formal response|True|0.9373719692230225
+staff review|inspector workload|False|0.8093600869178772
+request|staff report|False|0.8149849772453308
+preapplication assistance|formal response|True|0.9894680976867676
+planning report|completion of required plan review|False|0.7523983120918274
+gis property management|information|False|0.8191126585006714
+information|consistency|True|0.996819257736206
+meet|planning study|False|0.730868935585022
+meet|draft proffer|False|0.5052611231803894
+hear requirement|each condo unit|False|0.27686265110969543
+request|consistency|True|0.9884745478630066
+citation|code modification|True|0.9682531952857971
+statu|formal response|True|0.9758617281913757
+meet|staff report|False|0.813796877861023
+information|staff review|False|0.8845968246459961
+zoning permit|consistency|False|0.40964147448539734
+planning report|staff report|False|0.33246979117393494
+plan|outcome|True|0.9829625487327576
+requirement|gis property management|True|0.9804126024246216
+request|staff review|False|0.7606207728385925
+completion of required plan review|request|False|0.5919826030731201
+staff report|development permit|False|0.29383963346481323
+development permit|outcome|False|0.7537652850151062
+customer portal user account|service|False|0.6426163911819458
+draft proffer|hear execution|False|0.6224996447563171
+ordinance|each condo unit|False|0.1264730989933014
+code modification|fine|True|0.917106568813324
+zoning permit|staff review|False|0.31700754165649414
+plan amendment|gis property management|True|0.9310197234153748
+meet|consistency|True|0.9740757942199707
+plan reviewer workload|appeal|False|0.4999716579914093
+planning report|consistency|False|0.7297552824020386
+fee|when|False|0.8319790959358215
+requirement|citation|True|0.9971678853034973
+staff report|zoning permit|False|0.09357062727212906
+staff review|internal note|False|0.3470832407474518
+citation|appeal|False|0.8852782845497131
+plan reviewer workload|building development project|False|0.6604179739952087
+customer portal user account|preapplication assistance|False|0.5004763007164001
+service|fee|True|0.9408122301101685
+planning report|staff review|False|0.3976208567619324
+fine|development permit|False|0.7350167036056519
+plan amendment|citation|True|0.9857770800590515
+citation|inspector workload|False|0.8126044273376465
+property information|hear decision|True|0.9730390906333923
+property information|plan reviewer workload|True|0.9581881761550903
+when|meet|True|0.9502105712890625
+appeal|custom query|False|0.8578405380249023
+each condo unit|code modification|False|0.24406000971794128
+citation|building development project|True|0.9341225028038025
+internal note|hear decision|True|0.9104512333869934
+internal note|plan reviewer workload|False|0.8600121736526489
+formal response|information|True|0.9958215951919556
+custom query|each condo unit|False|0.18480288982391357
+code modification|completion of required plan review|True|0.9772777557373047
+affidavit|plan reviewer workload|False|0.37565284967422485
+bond|each condo unit|False|0.43890100717544556
+hear date|plan amendment|False|0.7065041065216064
+staff report|meet|False|0.3400529623031616
+property information|bond|True|0.9908718466758728
+hear date|each condo unit|False|0.28745800256729126
+inspection|zoning permit|False|0.15632788836956024
+internal note|bond|True|0.9300872683525085
+approve proffer|each condo unit|False|0.3174743056297302
+plan reviewer workload|plan|False|0.5606510043144226
+gis property management|property information|False|0.7843796014785767
+plan reviewer workload|hear calendar|False|0.40374132990837097
+completenes review|ordinance|False|0.617648720741272
+plan review meet|custom query|False|0.7415429353713989
+affidavit|bond|False|0.7426306009292603
+hear execution|statu|False|0.7837687730789185
+citation|hear calendar|False|0.5874143838882446
+plan|fee|True|0.9203115105628967
+each condo unit|appeal|False|0.3456134498119354
+fine|affidavit|False|0.3947460651397705
+plan reviewer workload|internal note|False|0.6038976907730103
+each condo unit|inspector workload|False|0.25392410159111023
+staff review|requirement|False|0.3925870656967163
+each condo unit|building development project|False|0.4980531930923462
+plan amendment|customer portal user account|False|0.44614025950431824
+inspection|meet|False|0.860922634601593
+gis property management|completenes review|False|0.8671404123306274
+citation|internal note|False|0.7874296307563782
+hear requirement|planning study|True|0.9045288562774658
+information|notice of violation|False|0.7650856375694275
+hear requirement|draft proffer|False|0.7833797335624695
+customer portal user account|hear requirement|False|0.35091927647590637
+code modification|consistency|True|0.9801979064941406
+gis property management|planning report|False|0.7694936394691467
+property information|hear execution|True|0.9343925714492798
+fine|citation|True|0.9774348735809326
+planning study|ordinance|False|0.4232367277145386
+request|notice of violation|False|0.5666224956512451
+staff review|hear date|False|0.346331387758255
+notice of violation|ordinance|False|0.4382048547267914
+completion of required plan review|fine|False|0.6945027709007263
+information|custom query|True|0.9508944749832153
+code modification|staff review|False|0.8705304265022278
+request|hold|False|0.8776720762252808
+affidavit|hear execution|False|0.38307368755340576
+fee|statu|False|0.5743063688278198
+building development project|ordinance|False|0.48873406648635864
+hear calendar|development permit|False|0.37297961115837097
+plan reviewer workload|plan review meet|False|0.7177984714508057
+preapplication assistance|ordinance|False|0.7370480298995972
+consistency|ordinance|False|0.7353936433792114
+staff review|when|False|0.44794145226478577
+zoning permit|custom query|False|0.2070092260837555
+plan reviewer workload|approve proffer|False|0.523550271987915
+meet|notice of violation|False|0.23597250878810883
+hear decision|zoning permit|False|0.3702189028263092
+planning report|notice of violation|False|0.2829495072364807
+citation|approve proffer|False|0.8668267130851746
+support documentation|ordinance|False|0.6987610459327698
+draft proffer|support documentation|False|0.7859134674072266
+meet|hold|False|0.824901819229126
+application|development permit|True|0.9009993672370911
+hear calendar|zoning permit|False|0.10444208234548569
+appeal|when|True|0.9617322683334351
+each condo unit|internal note|False|0.28201043605804443
+customer portal user account|formal response|False|0.6789044737815857
+staff report|request|False|0.3861362636089325
+outcome|completenes review|True|0.9945359826087952
+planning report|custom query|False|0.4366806745529175
+plan review meet|hear date|False|0.43768733739852905
+staff review|application|False|0.4401872456073761
+citation|requirement|False|0.847382664680481
+fine|customer portal user account|False|0.3635525703430176
+requirement|each condo unit|False|0.4622878432273865
+application|zoning permit|False|0.42655178904533386
+hear decision|meet|True|0.9273374676704407
+hold|ordinance|False|0.8556301593780518
+hear requirement|building development project|True|0.9395985007286072
+gis property management|citation|True|0.9246701598167419
+hear calendar|affidavit|False|0.06064246594905853
+plan amendment|each condo unit|False|0.2894273102283478
+plan review meet|when|False|0.663352370262146
+hear calendar|meet|False|0.4565476179122925
+draft proffer|information|False|0.7892500758171082
+citation|hear date|False|0.6942917108535767
+ordinance|appeal|False|0.8768921494483948
+formal response|meet|True|0.9883588552474976
+fine|request|False|0.8605992197990417
+ordinance|inspector workload|False|0.6234821677207947
+hear execution|hear decision|False|0.7991918921470642
+hear execution|plan reviewer workload|False|0.7302975654602051
+development permit|hear decision|False|0.47259199619293213
+each condo unit|approve proffer|False|0.29207539558410645
+application|affidavit|False|0.8324698805809021
+ordinance|building development project|False|0.8451319932937622
+hear date|code modification|False|0.7842275500297546
+customer portal user account|hear execution|False|0.3327001631259918
+plan review meet|application|False|0.8132503628730774
+hear requirement|plan|True|0.9393737316131592
+completion of required plan review|consistency|False|0.8427224159240723
+hear requirement|hear calendar|False|0.8589812517166138
+outcome|gis property management|True|0.9802283048629761
+each condo unit|requirement|False|0.26358145475387573
+when|inspection|True|0.932117760181427
+hear execution|bond|False|0.891839325428009
+staff review|service|False|0.469341903924942
+completion of required plan review|staff review|False|0.5819715261459351
+information|when|True|0.9958208799362183
+code modification|notice of violation|False|0.8417385220527649
+custom query|appeal|False|0.8647053837776184
+citation|application|True|0.9625899791717529
+bond|appeal|True|0.961259663105011
+each condo unit|hear date|False|0.2746816873550415
+ordinance|plan|False|0.8422039747238159
+ordinance|hear calendar|False|0.5134851336479187
+when|plan amendment|False|0.8972105979919434
+outcome|citation|True|0.9974560141563416
+custom query|building development project|False|0.693278968334198
+hear date|appeal|False|0.6939109563827515
+bond|inspector workload|False|0.8633288145065308
+fee|plan reviewer workload|False|0.5270605087280273
+code modification|custom query|True|0.9532932043075562
+property information|support documentation|True|0.9947898387908936
+zoning permit|when|False|0.32932907342910767
+approve proffer|appeal|False|0.8816159963607788
+bond|building development project|True|0.9239381551742554
+hear date|inspector workload|False|0.7112401723861694
+internal note|support documentation|True|0.9311392307281494
+when|fine|True|0.945259153842926
+appeal|statu|True|0.9661841988563538
+approve proffer|inspector workload|False|0.655644416809082
+hear date|building development project|False|0.8104065656661987
+staff review|preapplication assistance|False|0.6557666063308716
+approve proffer|building development project|False|0.8676344752311707
+ordinance|internal note|False|0.8957567811012268
+affidavit|support documentation|False|0.6252938508987427
+request|outcome|True|0.9863157272338867
+fee|bond|False|0.7432305216789246
+hear requirement|hold|False|0.8854565620422363
+hear decision|request|True|0.93172287940979
+staff report|fine|False|0.4378366470336914
+zoning permit|application|False|0.4559200704097748
+hear requirement|plan review meet|True|0.9313437342643738
+draft proffer|property information|False|0.8986984491348267
+application|customer portal user account|False|0.8749041557312012
+completenes review|zoning permit|False|0.3525264859199524
+custom query|plan|False|0.8721044063568115
+hear requirement|approve proffer|True|0.9189088344573975
+custom query|hear calendar|False|0.6972513198852539
+property information|information|True|0.9935087561607361
+hear calendar|request|False|0.5523932576179504
+planning study|completenes review|False|0.7877793908119202
+bond|plan|True|0.9824604988098145
+service|ordinance|False|0.611878514289856
+bond|hear calendar|False|0.807359516620636
+internal note|information|True|0.9432879686355591
+each condo unit|application|False|0.38213276863098145
+plan reviewer workload|service|False|0.45147138833999634
+hear date|plan|False|0.7282137274742126
+inspector workload|zoning permit|False|0.22872743010520935
+hear date|hear calendar|False|0.7966938018798828
+meet|outcome|True|0.9724375009536743
+approve proffer|plan|True|0.9212677478790283
+approve proffer|hear calendar|False|0.6450130939483643
+planning study|development permit|False|0.348751962184906
+plan amendment|draft proffer|False|0.7102000713348389
+ordinance|plan review meet|False|0.7327855825424194
+affidavit|information|False|0.8667420744895935
+citation|service|True|0.9138001203536987
+custom query|internal note|False|0.8572896718978882
+outcome|customer portal user account|True|0.9350622892379761
+application|request|True|0.9783024191856384
+plan review meet|preapplication assistance|False|0.7118502259254456
+notice of violation|development permit|False|0.7544413208961487
+ordinance|approve proffer|False|0.8825899958610535
+bond|internal note|True|0.9568066596984863
+draft proffer|completenes review|False|0.7499014735221863
+requirement|code modification|True|0.9933079481124878
+preapplication assistance|completenes review|True|0.9547187089920044
+inspection|fine|False|0.822167694568634
+hear date|internal note|False|0.6520393490791321
+completenes review|meet|False|0.8538687229156494
+fee|hear execution|False|0.6280167698860168
+draft proffer|planning report|False|0.6889904737472534
+approve proffer|internal note|False|0.838557779788971
+staff report|completion of required plan review|False|0.49383309483528137
+building development project|development permit|False|0.7590298056602478
+preapplication assistance|development permit|False|0.5609471797943115
+consistency|development permit|False|0.7552098035812378
+gis property management|each condo unit|False|0.3527619540691376
+inspector workload|meet|False|0.589205801486969
+citation|preapplication assistance|False|0.887508749961853
+staff review|hear requirement|False|0.31585031747817993
+information|statu|True|0.9855225682258606
+statu|completenes review|False|0.8830878734588623
+support documentation|development permit|False|0.6462795734405518
+plan|ordinance|False|0.7946681380271912
+building development project|zoning permit|False|0.31958138942718506
+completion of required plan review|notice of violation|False|0.27884700894355774
+request|statu|False|0.8444122076034546
+custom query|plan review meet|False|0.8629851341247559
+customer portal user account|support documentation|False|0.3481939136981964
+planning study|gis property management|False|0.7626575827598572
+development permit|ordinance|False|0.29736775159835815
+statu|development permit|False|0.8348090648651123
+custom query|approve proffer|True|0.9021981954574585
+bond|plan review meet|True|0.9730872511863708
+planning study|affidavit|False|0.22908000648021698
+requirement|appeal|True|0.9746915102005005
+bond|approve proffer|True|0.9664698839187622
+each condo unit|service|False|0.42480790615081787
+plan reviewer workload|fee|False|0.5170268416404724
+completion of required plan review|custom query|False|0.44893714785575867
+inspection|completion of required plan review|True|0.9272729158401489
+notice of violation|affidavit|False|0.41466131806373596
+requirement|inspector workload|False|0.8986113667488098
+code modification|when|True|0.935222864151001
+approve proffer|plan review meet|False|0.7554340362548828
+hear date|approve proffer|False|0.7219812870025635
+requirement|building development project|True|0.951488733291626
+draft proffer|gis property management|False|0.8782421350479126
+hold|development permit|False|0.8614916205406189
+citation|fee|True|0.9550328254699707
+preapplication assistance|gis property management|True|0.9249119758605957
+fine|planning study|False|0.8747707009315491
+meet|statu|False|0.8368397355079651
+planning study|citation|True|0.9447401165962219
+building development project|affidavit|False|0.22287477552890778
+fine|draft proffer|False|0.6320988535881042
+formal response|inspection|True|0.9822863936424255
+staff report|consistency|False|0.6565508246421814
+preapplication assistance|affidavit|False|0.5346022844314575
+plan amendment|building development project|False|0.8651118874549866
+appeal|plan reviewer workload|False|0.8489089012145996
+planning report|statu|False|0.3321540951728821
+consistency|affidavit|False|0.4870480000972748
+hear date|requirement|False|0.4355471730232239
+each condo unit|preapplication assistance|False|0.2236933708190918
+staff review|formal response|False|0.8883391618728638
+support documentation|gis property management|True|0.9381065964698792
+fine|staff report|False|0.747041642665863
+when|code modification|True|0.9565183520317078
+staff report|staff review|False|0.5567980408668518
+outcome|each condo unit|False|0.5196591019630432
+support documentation|affidavit|False|0.5670639872550964
+hear decision|fine|True|0.9121310114860535
+draft proffer|citation|True|0.9097647070884705
+preapplication assistance|citation|True|0.9863038063049316
+statu|gis property management|False|0.88182532787323
+formal response|plan amendment|True|0.9543256163597107
+affidavit|property information|True|0.9378478527069092
+consistency|citation|True|0.9794573187828064
+appeal|bond|True|0.9777328968048096
+statu|affidavit|False|0.3525555431842804
+citation|hear requirement|False|0.7184820771217346
+requirement|plan|True|0.9937330484390259
+requirement|hear calendar|False|0.8896621465682983
+plan review meet|plan reviewer workload|False|0.7618928551673889
+formal response|fine|True|0.985896110534668
+support documentation|citation|True|0.9942834973335266
+hear execution|support documentation|True|0.9300248026847839
+inspection|consistency|True|0.9818959832191467
+plan amendment|plan|False|0.8314459919929504
+plan amendment|hear calendar|False|0.5901904106140137
+completenes review|request|False|0.8050560355186462
+hold|affidavit|False|0.676328182220459
+statu|citation|True|0.916383683681488
+hear requirement|outcome|True|0.9859960675239563
+each condo unit|fee|False|0.35047563910484314
+requirement|internal note|True|0.9802178144454956
+affidavit|completenes review|False|0.6972569227218628
+inspection|staff review|False|0.6441560983657837
+planning study|customer portal user account|False|0.4123924970626831
+plan review meet|formal response|True|0.9302796125411987
+plan review meet|bond|False|0.8727424144744873
+affidavit|planning report|False|0.6184430122375488
+when|inspector workload|False|0.816387414932251
+hear decision|completion of required plan review|False|0.8754921555519104
+notice of violation|customer portal user account|False|0.537115752696991
+appeal|hear execution|False|0.7930104732513428
+hear calendar|completion of required plan review|False|0.6242702007293701
+hear execution|information|False|0.8887349963188171
+hear date|application|False|0.6855413913726807
+building development project|customer portal user account|False|0.19474810361862183
+information|plan reviewer workload|True|0.9457577466964722
+preapplication assistance|customer portal user account|False|0.6012625694274902
+planning study|request|False|0.7903785109519958
+each condo unit|hear requirement|False|0.34319159388542175
+citation|formal response|True|0.9914766550064087
+fee|support documentation|False|0.8106659650802612
+consistency|customer portal user account|False|0.5841007232666016
+notice of violation|request|False|0.8159669637680054
+code modification|statu|True|0.9592533707618713
+request|hear decision|True|0.9662772417068481
+request|plan reviewer workload|False|0.8063088655471802
+ordinance|service|False|0.8776412606239319
+requirement|plan review meet|True|0.9823077321052551
+hear calendar|planning study|False|0.4109245240688324
+application|completion of required plan review|True|0.9858974814414978
+gis property management|code modification|False|0.8352729082107544
+support documentation|customer portal user account|False|0.42889198660850525
+requirement|approve proffer|True|0.9860773682594299
+completion of required plan review|when|False|0.6806605458259583
+plan amendment|hold|False|0.8537750244140625
+zoning permit|plan reviewer workload|False|0.16380895674228668
+building development project|request|False|0.8197157979011536
+plan amendment|plan review meet|False|0.7298392653465271
+customer portal user account|property information|False|0.4426168203353882
+plan review meet|hear execution|False|0.4419495463371277
+hear calendar|staff report|False|0.4702311158180237
+information|bond|True|0.9969593286514282
+preapplication assistance|request|False|0.8945834040641785
+service|development permit|False|0.8837238550186157
+statu|customer portal user account|False|0.43745991587638855
+plan amendment|approve proffer|True|0.9178382754325867
+consistency|request|True|0.9259607791900635
+application|planning study|True|0.963451623916626
+application|draft proffer|False|0.8456186652183533
+custom query|outcome|True|0.9435155987739563
+request|bond|True|0.9775770902633667
+hear decision|consistency|True|0.9635929465293884
+meet|hear decision|True|0.9047092199325562
+support documentation|request|False|0.8595688939094543
+when|custom query|False|0.8478684425354004
+fee|information|True|0.933174192905426
+zoning permit|bond|False|0.39091527462005615
+zoning permit|formal response|False|0.4442855417728424
+planning report|hear decision|False|0.48689231276512146
+application|staff report|True|0.9604044556617737
+planning report|plan reviewer workload|False|0.6052013635635376
+hold|customer portal user account|False|0.5768840312957764
+staff report|notice of violation|False|0.1810646802186966
+hear calendar|consistency|False|0.27328556776046753
+service|zoning permit|False|0.6611199378967285
+hear decision|staff review|False|0.7982171773910522
+hear requirement|fee|False|0.8748685121536255
+customer portal user account|completenes review|False|0.3713904619216919
+outcome|planning study|True|0.9571614861488342
+outcome|draft proffer|False|0.887653648853302
+each condo unit|formal response|False|0.4593105912208557
+gis property management|appeal|False|0.7431167364120483
+inspector workload|inspection|False|0.6030924320220947
+bond|service|True|0.9894033074378967
+customer portal user account|planning report|False|0.30344653129577637
+hear calendar|staff review|False|0.41339653730392456
+gis property management|inspector workload|False|0.6696152091026306
+staff report|custom query|False|0.27296650409698486
+planning study|each condo unit|False|0.16201548278331757
+hear date|service|False|0.7861533761024475
+outcome|staff report|True|0.9695309996604919
+gis property management|building development project|False|0.6515337228775024
+application|consistency|True|0.994176983833313
+planning report|bond|False|0.41461703181266785
+approve proffer|service|True|0.9114346504211426
+hold|request|True|0.933911144733429
+information|hear execution|False|0.8863411545753479
+plan|development permit|False|0.8836001753807068
+ordinance|fee|False|0.8352369666099548
+service|affidavit|False|0.5487744212150574
+completenes review|fine|False|0.7852569222450256
+fine|notice of violation|False|0.2613878846168518
+service|meet|True|0.9309909343719482
+application|staff review|True|0.9422116279602051
+draft proffer|each condo unit|False|0.28375616669654846
+preapplication assistance|each condo unit|False|0.3018791675567627
+formal response|code modification|True|0.992813766002655
+zoning permit|hear execution|False|0.190190851688385
+fine|hold|False|0.8924741148948669
+hear date|preapplication assistance|False|0.7562817931175232
+inspector workload|fine|False|0.5226165056228638
+fine|plan review meet|False|0.8494114279747009
+plan|zoning permit|False|0.6349583864212036
+inspection|custom query|False|0.8926697969436646
+development permit|zoning permit|False|0.4156894087791443
+gis property management|plan|False|0.836330235004425
+gis property management|hear calendar|False|0.5959445834159851
+customer portal user account|gis property management|False|0.6137131452560425
+when|requirement|False|0.8635337352752686
+statu|each condo unit|False|0.35535353422164917
+planning report|hear execution|False|0.36857882142066956
+custom query|fee|False|0.8400494456291199
+completion of required plan review|statu|False|0.5824027061462402
+completenes review|completion of required plan review|False|0.8738197684288025
+bond|fee|True|0.9604135155677795
+gis property management|internal note|False|0.8557122349739075
+plan|affidavit|False|0.4977476894855499
+hear date|fee|False|0.7799083590507507
+plan|meet|True|0.9272637963294983
+code modification|plan reviewer workload|False|0.8817883133888245
+when|hear date|False|0.7516821622848511
+appeal|support documentation|True|0.9876794219017029
+approve proffer|fee|False|0.8885491490364075
+customer portal user account|citation|False|0.528658926486969
+formal response|inspector workload|True|0.9380732178688049
+fee|property information|True|0.948587954044342
+inspector workload|completion of required plan review|False|0.6410688161849976
+development permit|meet|False|0.6404110193252563
+code modification|bond|True|0.9822031855583191
+property information|inspection|True|0.9764900803565979
+plan reviewer workload|ordinance|False|0.4743442237377167
+hear requirement|hear decision|True|0.9858991503715515
+hear decision|notice of violation|False|0.4432111084461212
+internal note|inspection|False|0.8879052996635437
+hear date|hear requirement|False|0.35670194029808044
+plan review meet|support documentation|False|0.805269718170166
+plan amendment|outcome|True|0.9811314344406128
+gis property management|plan review meet|False|0.6832584738731384
+outcome|plan|True|0.99583500623703
+outcome|hear calendar|False|0.7591903209686279
+appeal|information|True|0.9945557713508606
+citation|ordinance|False|0.5978777408599854
+gis property management|approve proffer|False|0.7933548092842102
+fee|planning report|False|0.6980162858963013
+requirement|service|True|0.9939693808555603
+hear calendar|notice of violation|False|0.1391645222902298
+staff report|when|False|0.3212956190109253
+completenes review|consistency|True|0.9767200946807861
+hear decision|custom query|True|0.927347719669342
+property information|plan amendment|True|0.9739365577697754
+planning study|planning study|False|0.0
+service|request|True|0.9748958945274353
+when|application|True|0.9789584875106812
+planning study|draft proffer|False|0.5093657374382019
+hear calendar|hold|False|0.33921924233436584
+internal note|plan amendment|False|0.8904616236686707
+notice of violation|planning study|False|0.8883454203605652
+inspector workload|consistency|False|0.595543384552002
+notice of violation|draft proffer|False|0.6709811687469482
+completenes review|staff review|False|0.6662150025367737
+application|notice of violation|False|0.8254666924476624
+planning study|staff report|False|0.5318170189857483
+formal response|custom query|True|0.9198570251464844
+affidavit|plan amendment|False|0.5560872554779053
+code modification|hear execution|False|0.8681597709655762
+building development project|planning study|False|0.3853251338005066
+affidavit|each condo unit|False|0.18498998880386353
+notice of violation|staff report|False|0.8072003126144409
+plan review meet|information|False|0.8422632217407227
+building development project|draft proffer|False|0.4061223864555359
+application|hold|True|0.989713191986084
+preapplication assistance|planning study|False|0.8520024418830872
+inspector workload|staff review|False|0.3607439398765564
+preapplication assistance|draft proffer|False|0.7484970092773438
+consistency|planning study|False|0.7495822310447693
+plan|customer portal user account|False|0.5632765889167786
+consistency|draft proffer|False|0.4317024052143097
+information|support documentation|True|0.9910986423492432
+inspection|when|True|0.9051406383514404
+building development project|staff report|False|0.630370020866394
+hear date|formal response|True|0.928104043006897
+preapplication assistance|staff report|False|0.7328837513923645
+support documentation|planning study|True|0.9039915800094604
+consistency|staff report|False|0.714114248752594
+support documentation|draft proffer|False|0.6746752858161926
+draft proffer|code modification|False|0.8093147277832031
+outcome|hold|True|0.9973875284194946
+statu|planning study|False|0.8922176957130432
+zoning permit|support documentation|False|0.2682281732559204
+plan|request|True|0.9227012395858765
+outcome|plan review meet|True|0.9707719087600708
+statu|draft proffer|False|0.5818281769752502
+support documentation|staff report|False|0.6733164191246033
+fine|outcome|True|0.978898823261261
+building development project|consistency|True|0.9426602125167847
+development permit|request|False|0.45872265100479126
+requirement|fee|True|0.9904870390892029
+completion of required plan review|plan reviewer workload|False|0.8222808837890625
+statu|staff report|False|0.7020637392997742
+staff review|property information|True|0.9027727246284485
+hold|planning study|True|0.9520637392997742
+plan amendment|fee|True|0.913154661655426
+hold|draft proffer|False|0.7743617296218872
+planning report|support documentation|False|0.4628843069076538
+hold|staff report|False|0.897810697555542
+appeal|property information|True|0.9933065176010132
+formal response|requirement|True|0.9901849031448364
+completion of required plan review|bond|False|0.6763269901275635
+zoning permit|information|False|0.29071247577667236
+draft proffer|appeal|False|0.7199207544326782
+draft proffer|inspector workload|False|0.7617383003234863
+when|preapplication assistance|True|0.9104329943656921
+staff review|completenes review|False|0.31122520565986633
+draft proffer|building development project|False|0.6631906032562256
+staff report|statu|False|0.25466057658195496
+customer portal user account|each condo unit|False|0.18418940901756287
+staff review|planning report|False|0.5865014791488647
+formal response|hear date|False|0.8955172300338745
+hear decision|when|True|0.9485062956809998
+planning report|information|False|0.4552815556526184
+plan review meet|property information|True|0.9532066583633423
+service|fine|True|0.9517910480499268
+appeal|planning report|True|0.9384142756462097
+formal response|when|True|0.9907929301261902
+hear requirement|ordinance|False|0.7782696485519409
+completion of required plan review|hear execution|False|0.60654217004776
+fine|statu|False|0.7943488955497742
+draft proffer|plan|False|0.769834041595459
+inspection|statu|False|0.8512327671051025
+draft proffer|hear calendar|False|0.5029502511024475
+preapplication assistance|plan|False|0.872484028339386
+completenes review|custom query|False|0.7318606972694397
+hear execution|inspection|False|0.786889374256134
+property information|code modification|True|0.990298330783844
+plan review meet|completenes review|False|0.7117109894752502
+gis property management|service|False|0.7616175413131714
+internal note|code modification|True|0.9519408941268921
+inspector workload|custom query|False|0.74747234582901
+plan review meet|planning report|False|0.6314432621002197
+staff review|gis property management|False|0.7366032004356384
+formal response|application|True|0.9938648343086243
+draft proffer|internal note|False|0.7281195521354675
+code modification|support documentation|True|0.9658024311065674
+affidavit|code modification|False|0.8843170404434204
+hear execution|plan amendment|False|0.7673010230064392
+service|completion of required plan review|True|0.9694927930831909
+information|property information|True|0.9929797053337097
+planning study|notice of violation|False|0.202451691031456
+statu|plan|False|0.8221189975738525
+statu|hear calendar|False|0.6288252472877502
+when|hear requirement|False|0.8832806348800659
+citation|completenes review|True|0.9479818940162659
+plan reviewer workload|development permit|False|0.6184548139572144
+planning study|hold|False|0.7112507224082947
+development permit|fine|False|0.583945095539093
+planning study|plan review meet|False|0.694176197052002
+staff review|citation|False|0.8655543327331543
+service|planning study|True|0.9338229894638062
+notice of violation|hold|False|0.6916083693504333
+zoning permit|property information|False|0.4127321243286133
+citation|development permit|False|0.8258020877838135
+building development project|notice of violation|False|0.2634066343307495
+notice of violation|plan review meet|False|0.881202220916748
+property information|appeal|True|0.973406195640564
+preapplication assistance|notice of violation|False|0.5449562072753906
+fee|inspection|False|0.8363353610038757
+consistency|notice of violation|False|0.131688192486763
+internal note|appeal|False|0.8605848550796509
+plan reviewer workload|zoning permit|False|0.39844146370887756
+building development project|hold|False|0.7673134207725525
+property information|inspector workload|True|0.9528800845146179
+service|staff report|False|0.849743664264679
+custom query|ordinance|False|0.7759203910827637
+preapplication assistance|hold|False|0.849422812461853
+code modification|information|True|0.9676071405410767
+internal note|inspector workload|False|0.8083802461624146
+draft proffer|plan review meet|False|0.712409496307373
+consistency|hold|True|0.9313879609107971
+information|planning report|True|0.9628742933273315
+bond|ordinance|True|0.9119089841842651
+preapplication assistance|plan review meet|False|0.8951862454414368
+support documentation|notice of violation|False|0.3926970064640045
+plan review meet|gis property management|False|0.7675862312316895
+draft proffer|approve proffer|False|0.7000956535339355
+consistency|plan review meet|False|0.8747910261154175
+affidavit|appeal|False|0.47663792967796326
+hear date|ordinance|False|0.5429733991622925
+planning report|property information|False|0.6332358717918396
+fee|plan amendment|False|0.5519670844078064
+affidavit|inspector workload|False|0.5218515992164612
+approve proffer|ordinance|False|0.709200918674469
+zoning permit|completenes review|False|0.31560513377189636
+support documentation|hold|True|0.9084526896476746
+plan|completion of required plan review|True|0.9643954038619995
+statu|notice of violation|False|0.35944801568984985
+hear decision|statu|True|0.9060359597206116
+gis property management|fee|False|0.746870756149292
+affidavit|building development project|False|0.8102203011512756
+support documentation|plan review meet|False|0.8834211230278015
+meet|zoning permit|False|0.3548419773578644
+service|consistency|True|0.9943016171455383
+zoning permit|planning report|False|0.23639898002147675
+staff report|plan reviewer workload|False|0.4779127538204193
+development permit|completion of required plan review|False|0.46166449785232544
+when|formal response|True|0.9887177348136902
+request|meet|True|0.9642550945281982
+statu|hold|False|0.8207874894142151
+plan reviewer workload|affidavit|False|0.20576359331607819
+each condo unit|completenes review|False|0.3349238634109497
+hear calendar|statu|False|0.3477652072906494
+statu|plan review meet|False|0.8666886687278748
+citation|gis property management|True|0.9646127820014954
+plan review meet|citation|True|0.9690241813659668
+plan|planning study|True|0.9238186478614807
+service|staff review|False|0.7290385365486145
+hold|notice of violation|False|0.7480379939079285
+plan|draft proffer|False|0.794123113155365
+citation|affidavit|False|0.48415258526802063
+staff review|customer portal user account|False|0.2950429916381836
+hold|hold|False|0.0
+staff report|bond|False|0.4093828797340393
+plan|staff report|False|0.8118727207183838
+application|statu|True|0.9882645010948181
+hold|plan review meet|True|0.9259602427482605
+formal response|preapplication assistance|True|0.9858309030532837
+gis property management|hear requirement|False|0.6441068053245544
+fine|hear decision|False|0.8799769878387451
+completenes review|when|True|0.9049975872039795
+citation|citation|False|0.0
+affidavit|plan|False|0.7012444734573364
+affidavit|hear calendar|False|0.3286839723587036
+inspection|plan reviewer workload|False|0.7819430232048035
+property information|internal note|True|0.9801636934280396
+internal note|custom query|False|0.86398845911026
+inspector workload|when|False|0.5055349469184875
+plan|consistency|True|0.9816024303436279
+when|hear execution|False|0.8700656890869141
+zoning permit|gis property management|False|0.48850196599960327
+completion of required plan review|support documentation|False|0.7354841232299805
+development permit|consistency|False|0.7905619740486145
+affidavit|internal note|False|0.6442244052886963
+each condo unit|gis property management|False|0.5072135329246521
+plan|staff review|False|0.7426705360412598
+inspection|bond|True|0.928396463394165
+customer portal user account|appeal|False|0.5068107843399048
+development permit|staff review|False|0.4729323387145996
+staff report|hear execution|False|0.18991824984550476
+code modification|property information|True|0.9788246154785156
+inspector workload|application|False|0.5315932035446167
+customer portal user account|building development project|False|0.18163327872753143
+plan reviewer workload|customer portal user account|False|0.42325106263160706
+each condo unit|citation|False|0.282705157995224
+hear execution|code modification|False|0.8963084816932678
+completion of required plan review|information|False|0.8526754379272461
+citation|customer portal user account|False|0.6992579102516174
+requirement|ordinance|True|0.9674644470214844
+appeal|inspection|True|0.9099529385566711
+hear requirement|development permit|False|0.8214443922042847
+planning study|outcome|True|0.9227772951126099
+affidavit|approve proffer|False|0.6865913271903992
+property information|requirement|True|0.9890532493591309
+formal response|hear requirement|True|0.977799117565155
+plan amendment|ordinance|False|0.6362084150314331
+staff review|each condo unit|False|0.1266104131937027
+plan reviewer workload|request|False|0.6861785650253296
+internal note|requirement|False|0.6903374791145325
+inspection|hear execution|False|0.7644784450531006
+notice of violation|outcome|True|0.925233781337738
+code modification|planning report|True|0.9390100836753845
+customer portal user account|plan|False|0.5779283046722412
+customer portal user account|hear calendar|False|0.39543911814689636
+hear decision|plan reviewer workload|False|0.8011844754219055
+citation|request|False|0.8792825937271118
+appeal|plan amendment|False|0.8920239806175232
+affidavit|requirement|False|0.2442925125360489
+hear requirement|zoning permit|False|0.44026827812194824
+building development project|outcome|False|0.8861792683601379
+ordinance|development permit|False|0.6259246468544006
+service|notice of violation|False|0.5995437502861023
+property information|hear date|False|0.8383253812789917
+preapplication assistance|outcome|True|0.9549331665039062
+hear calendar|hear decision|False|0.5223183035850525
+hear calendar|plan reviewer workload|False|0.32022249698638916
+consistency|outcome|True|0.9640630483627319
+internal note|hear date|False|0.7353523969650269
+hear execution|appeal|False|0.39901629090309143
+customer portal user account|internal note|False|0.43539300560951233
+fee|code modification|False|0.8794801235198975
+completenes review|statu|False|0.8948318958282471
+hear execution|inspector workload|False|0.7990557551383972
+hear decision|bond|True|0.9495406150817871
+service|custom query|True|0.9564471244812012
+support documentation|outcome|True|0.9861450791358948
+draft proffer|service|False|0.7742775678634644
+affidavit|hear date|False|0.4410475492477417
+ordinance|zoning permit|False|0.22563070058822632
+application|hear decision|True|0.975190281867981
+application|plan reviewer workload|False|0.8557161688804626
+property information|when|True|0.9963507056236267
+each condo unit|customer portal user account|False|0.15734942257404327
+hear calendar|bond|False|0.28085431456565857
+statu|outcome|True|0.9230563044548035
+hear requirement|affidavit|False|0.5515611171722412
+internal note|when|False|0.8434250354766846
+plan review meet|plan amendment|False|0.4857625663280487
+hear requirement|meet|True|0.9235727190971375
+plan review meet|each condo unit|False|0.2610383927822113
+custom query|development permit|False|0.7197314500808716
+outcome|hear decision|True|0.9828221797943115
+hold|outcome|True|0.9933961629867554
+application|bond|True|0.995421290397644
+bond|development permit|True|0.9224601984024048
+plan|notice of violation|False|0.6729760766029358
+property information|application|True|0.9895985126495361
+ordinance|affidavit|False|0.4823882579803467
+customer portal user account|plan review meet|False|0.40620914101600647
+information|inspection|True|0.9611163139343262
+hear date|development permit|False|0.756503701210022
+fee|appeal|False|0.7052180171012878
+citation|each condo unit|False|0.1679077446460724
+internal note|application|True|0.9384554624557495
+development permit|notice of violation|False|0.06499236822128296
+customer portal user account|approve proffer|False|0.4547516703605652
+approve proffer|development permit|False|0.76502525806427
+notice of violation|statu|False|0.6476864814758301
+plan|hold|True|0.9307395815849304
+completion of required plan review|property information|False|0.8702306151390076
+fee|inspector workload|False|0.6139352321624756
+hear decision|hear execution|False|0.6771891117095947
+request|inspection|True|0.9308071732521057
+custom query|zoning permit|False|0.438976913690567
+when|support documentation|True|0.9744716286659241
+fee|building development project|False|0.7249785661697388
+affidavit|application|False|0.6932920813560486
+bond|zoning permit|False|0.6166855096817017
+hear execution|custom query|True|0.9131312966346741
+development permit|custom query|False|0.6001725792884827
+building development project|statu|False|0.7168891429901123
+information|plan amendment|True|0.9741824269294739
+formal response|hear execution|True|0.9462772607803345
+consistency|statu|True|0.9397217631340027
+approve proffer|zoning permit|False|0.5090832710266113
+draft proffer|fee|False|0.786497950553894
+request|plan amendment|True|0.9012718796730042
+staff report|support documentation|False|0.2760833501815796
+meet|inspection|False|0.8955638408660889
+support documentation|statu|True|0.9331437945365906
+zoning permit|plan amendment|False|0.29947876930236816
+custom query|affidavit|False|0.4840846359729767
+planning report|inspection|False|0.39440828561782837
+request|fine|True|0.9323957562446594
+zoning permit|each condo unit|False|0.12697617709636688
+completion of required plan review|planning report|False|0.7144268751144409
+custom query|meet|False|0.8615463972091675
+hear date|gis property management|False|0.8509024381637573
+bond|affidavit|False|0.7624724507331848
+when|information|True|0.9738538265228271
+staff review|draft proffer|False|0.35378292202949524
+hear date|affidavit|False|0.22693970799446106
+approve proffer|affidavit|False|0.6332416534423828
+meet|plan amendment|False|0.7797630429267883
+property information|service|True|0.9886926412582397
+planning report|plan amendment|False|0.48611634969711304
+hold|statu|False|0.8892184495925903
+internal note|service|False|0.8986186385154724
+meet|fine|True|0.9020840525627136
+fee|internal note|False|0.7641755938529968
+staff report|information|False|0.367605984210968
+hear date|citation|True|0.9397192597389221
+inspection|support documentation|True|0.9687482714653015
+gis property management|ordinance|False|0.5793730616569519
+ordinance|customer portal user account|False|0.6518387198448181
+hear requirement|request|True|0.9488860964775085
+completenes review|plan reviewer workload|False|0.659739077091217
+affidavit|service|False|0.6938157081604004
+appeal|code modification|True|0.9813516736030579
+hear execution|requirement|False|0.5654046535491943
+property information|preapplication assistance|True|0.9797451496124268
+inspector workload|plan reviewer workload|False|0.4038379192352295
+internal note|preapplication assistance|False|0.8803174495697021
+ordinance|request|False|0.8446465134620667
+completenes review|bond|True|0.9589158296585083
+affidavit|preapplication assistance|False|0.7018531560897827
+plan reviewer workload|planning study|False|0.5229318737983704
+requirement|development permit|True|0.9656100869178772
+hear execution|hear date|False|0.49027782678604126
+inspection|information|True|0.9815956950187683
+plan reviewer workload|draft proffer|False|0.5611145496368408
+meet|completion of required plan review|False|0.8786561489105225
+inspector workload|bond|False|0.537017285823822
+inspector workload|formal response|False|0.8778300881385803
+fee|approve proffer|False|0.7133491039276123
+planning study|hear decision|False|0.7735490202903748
+plan review meet|code modification|False|0.8322702646255493
+citation|planning study|True|0.9212408661842346
+plan amendment|development permit|False|0.711670458316803
+custom query|customer portal user account|False|0.5854537487030029
+citation|draft proffer|False|0.7155804634094238
+plan reviewer workload|staff report|False|0.43601667881011963
+staff review|building development project|False|0.7796675562858582
+notice of violation|hear decision|False|0.8457247614860535
+bond|customer portal user account|False|0.8809325695037842
+code modification|inspection|False|0.8867044448852539
+requirement|zoning permit|False|0.693034291267395
+hear execution|when|False|0.8310359716415405
+hear date|customer portal user account|False|0.4943062663078308
+development permit|when|False|0.5283550024032593
+citation|staff report|False|0.8167262077331543
+appeal|inspector workload|False|0.8124492764472961
+fee|requirement|False|0.3318682610988617
+approve proffer|customer portal user account|False|0.5920342206954956
+outcome|ordinance|True|0.9664656519889832
+building development project|hear decision|False|0.654832124710083
+building development project|plan reviewer workload|False|0.5706312656402588
+appeal|building development project|False|0.8930412530899048
+customer portal user account|outcome|False|0.658618152141571
+preapplication assistance|hear decision|True|0.9369637370109558
+plan amendment|zoning permit|False|0.4178217649459839
+when|property information|True|0.9774169921875
+custom query|request|False|0.8769586086273193
+consistency|hear decision|False|0.89229816198349
+plan reviewer workload|consistency|False|0.52972412109375
+affidavit|fee|False|0.5679351687431335
+completenes review|hear execution|False|0.7435497641563416
+hear decision|support documentation|True|0.9759489297866821
+code modification|plan amendment|True|0.982947826385498
+bond|request|True|0.9660463929176331
+hear date|request|False|0.8269479274749756
+support documentation|hear decision|True|0.9159374833106995
+fee|hear date|False|0.501382052898407
+hear execution|application|False|0.880402684211731
+plan reviewer workload|staff review|False|0.5709719657897949
+approve proffer|request|False|0.8968889117240906
+requirement|affidavit|False|0.8551689386367798
+plan review meet|appeal|False|0.6574150919914246
+staff review|plan|False|0.4263056814670563
+inspector workload|hear execution|False|0.47685015201568604
+staff review|hear calendar|False|0.23206911981105804
+building development project|bond|False|0.8890818357467651
+property information|hear requirement|True|0.9840115904808044
+staff report|property information|False|0.5390952229499817
+information|code modification|True|0.989524245262146
+formal response|support documentation|True|0.9903796315193176
+plan review meet|inspector workload|False|0.6776350140571594
+statu|hear decision|False|0.8473512530326843
+internal note|hear requirement|False|0.682265043258667
+plan amendment|affidavit|False|0.5951266288757324
+plan review meet|building development project|False|0.7113780379295349
+when|completenes review|True|0.9703918695449829
+each condo unit|planning study|False|0.2727597951889038
+each condo unit|draft proffer|False|0.1756153255701065
+plan amendment|meet|True|0.9427016377449036
+request|code modification|True|0.971768856048584
+service|statu|True|0.9403232932090759
+appeal|hear calendar|False|0.6135368347167969
+when|planning report|True|0.9219937324523926
+affidavit|hear requirement|False|0.40173470973968506
+meet|staff review|False|0.6758657693862915
+zoning permit|code modification|False|0.2862202823162079
+hear decision|information|True|0.9753031730651855
+each condo unit|staff report|False|0.202723428606987
+hold|hear decision|True|0.9710354208946228
+hear requirement|fine|True|0.9230236411094666
+hear calendar|information|False|0.31681016087532043
+appeal|internal note|False|0.8962123990058899
+staff report|planning report|False|0.3370651304721832
+inspection|property information|True|0.985124409198761
+fee|application|False|0.6857872605323792
+information|appeal|True|0.9660083651542664
+planning report|code modification|False|0.5111818909645081
+plan review meet|plan|False|0.5541849732398987
+plan review meet|hear calendar|False|0.39300060272216797
+fine|zoning permit|False|0.17293718457221985
+information|inspector workload|True|0.92897629737854
+application|information|True|0.9967870116233826
+property information|formal response|True|0.9982350468635559
+information|building development project|True|0.9123986959457397
+staff review|hold|False|0.4426218867301941
+internal note|formal response|True|0.9839056730270386
+staff review|plan review meet|False|0.47634923458099365
+request|inspector workload|False|0.851495623588562
+zoning permit|appeal|False|0.3031727373600006
+customer portal user account|fee|False|0.4185951352119446
+hear execution|service|False|0.8109330534934998
+plan|statu|False|0.8630205392837524
+staff review|approve proffer|False|0.7030659317970276
+when|gis property management|True|0.9372998476028442
+plan review meet|internal note|False|0.7202789783477783
+zoning permit|inspector workload|False|0.25557827949523926
+affidavit|formal response|True|0.9088613390922546
+development permit|statu|False|0.4052349925041199
+citation|plan|True|0.9201205968856812
+zoning permit|building development project|False|0.5775302648544312
+hear requirement|completion of required plan review|True|0.9435177445411682
+completion of required plan review|inspection|False|0.8507569432258606
+inspection|planning report|False|0.8772631883621216
+requirement|customer portal user account|True|0.9138436913490295
+appeal|approve proffer|True|0.9586344957351685
+fine|meet|True|0.9351842403411865
+planning report|appeal|False|0.3199348449707031
+hear execution|preapplication assistance|False|0.83095383644104
+when|citation|True|0.9918901324272156
+planning report|inspector workload|False|0.4296818673610687
+completion of required plan review|plan amendment|False|0.4770187735557556
+appeal|requirement|True|0.9654591083526611
+requirement|request|True|0.985637903213501
+gis property management|development permit|False|0.6893196105957031
+internal note|hear execution|False|0.789456307888031
+hear requirement|staff report|False|0.8451600670814514
+plan reviewer workload|notice of violation|False|0.20700344443321228
+fee|service|False|0.6435604691505432
+zoning permit|plan|False|0.38978853821754456
+plan amendment|request|True|0.9131523370742798
+zoning permit|hear calendar|False|0.16060402989387512
+information|internal note|True|0.9769587516784668
+plan review meet|approve proffer|False|0.7647992968559265
+ordinance|planning study|False|0.8000681400299072
+hear decision|property information|True|0.9860062003135681
+plan reviewer workload|hold|False|0.4697948694229126
+citation|notice of violation|False|0.49166712164878845
+ordinance|draft proffer|False|0.7417374849319458
+request|custom query|False|0.848473072052002
+appeal|hear date|False|0.7261207103729248
+draft proffer|ordinance|False|0.5551284551620483
+each condo unit|plan|False|0.3956587016582489
+each condo unit|hear calendar|False|0.19932660460472107
+completenes review|support documentation|True|0.9111709594726562
+citation|hold|True|0.9131503701210022
+hear requirement|consistency|True|0.9739581942558289
+ordinance|staff report|False|0.636743426322937
+zoning permit|internal note|False|0.3930792808532715
+plan review meet|requirement|False|0.6286645531654358
+citation|plan review meet|False|0.8892319202423096
+formal response|property information|True|0.9931020140647888
+service|hear decision|True|0.9702292084693909
+service|plan reviewer workload|False|0.8714307546615601
+fee|preapplication assistance|False|0.5942081212997437
+inspector workload|support documentation|False|0.735548734664917
+custom query|completion of required plan review|True|0.9217696785926819
+hear requirement|staff review|False|0.8154399394989014
+meet|custom query|True|0.906020998954773
+statu|ordinance|False|0.6167435646057129
+gis property management|affidavit|False|0.4152756631374359
+ordinance|consistency|True|0.9740092158317566
+hear decision|planning report|True|0.930426299571991
+planning report|internal note|False|0.3900088667869568
+service|bond|True|0.989188015460968
+custom query|planning study|False|0.8207910060882568
+information|approve proffer|True|0.9719110131263733
+custom query|draft proffer|False|0.6397945284843445
+hear execution|hear requirement|False|0.5795425772666931
+formal response|completenes review|True|0.9914049506187439
+completenes review|information|True|0.9636426568031311
+outcome|development permit|True|0.9519866108894348
+bond|planning study|True|0.9623445868492126
+bond|draft proffer|False|0.8679596781730652
+formal response|planning report|True|0.9596048593521118
+hear date|planning study|False|0.7608420252799988
+appeal|application|True|0.9611952304840088
+hear date|draft proffer|False|0.6284891963005066
+code modification|appeal|True|0.9731742143630981
+custom query|staff report|False|0.6976321935653687
+approve proffer|planning study|False|0.8818706274032593
+inspector workload|information|False|0.7033456563949585
+approve proffer|draft proffer|False|0.35082873702049255
+zoning permit|approve proffer|False|0.33782005310058594
+information|requirement|True|0.9807040095329285
+code modification|inspector workload|True|0.9077945351600647
+bond|staff report|True|0.9393742680549622
+each condo unit|hold|False|0.38934221863746643
+plan|hear decision|True|0.9460009932518005
+plan|plan reviewer workload|False|0.8957107663154602
+hear date|staff report|False|0.7926974296569824
+code modification|building development project|False|0.8824706077575684
+outcome|zoning permit|False|0.7769298553466797
+each condo unit|plan review meet|False|0.2595735192298889
+request|requirement|True|0.9356397390365601
+approve proffer|staff report|False|0.7644092440605164
+development permit|plan reviewer workload|False|0.3283376097679138
+custom query|consistency|True|0.9549828171730042
+application|meet|True|0.9906824827194214
+zoning permit|requirement|False|0.13387154042720795
+information|hear date|False|0.7837293148040771
+bond|consistency|True|0.9956868886947632
+staff review|outcome|False|0.8195425868034363
+service|hear execution|False|0.8640702366828918
+plan|bond|True|0.9600231647491455
+fee|hear requirement|False|0.5599209666252136
+request|hear date|False|0.8077540993690491
+custom query|staff review|False|0.619747519493103
+approve proffer|consistency|True|0.9670197367668152
+development permit|bond|False|0.6591246128082275
+hear execution|formal response|True|0.9777001142501831
+outcome|affidavit|False|0.8442719578742981
+meet|requirement|False|0.8857545256614685
+zoning permit|hear date|False|0.16391919553279877
+outcome|meet|True|0.994327962398529
+formal response|gis property management|True|0.982799232006073
+planning report|requirement|False|0.3194583058357239
+plan amendment|fine|True|0.9508243799209595
+request|when|True|0.947081446647644
+gis property management|customer portal user account|False|0.6408268213272095
+staff report|inspection|False|0.22802619636058807
+when|each condo unit|False|0.350383996963501
+meet|hear date|False|0.6121530532836914
+appeal|service|True|0.9556042551994324
+affidavit|ordinance|False|0.32465043663978577
+completion of required plan review|code modification|False|0.7244561314582825
+code modification|internal note|True|0.9423805475234985
+planning report|hear date|False|0.26043957471847534
+formal response|citation|True|0.9969941973686218
+information|application|True|0.9894478917121887
+staff report|plan amendment|False|0.36130523681640625
+hear requirement|notice of violation|False|0.28747135400772095
+gis property management|request|False|0.8107290863990784
+completenes review|property information|True|0.9889063835144043
+meet|when|True|0.9522051215171814
+request|application|True|0.95548015832901
+development permit|hear execution|False|0.3831709027290344
+fee|formal response|True|0.9448369741439819
+appeal|preapplication assistance|False|0.8832421898841858
+plan reviewer workload|outcome|False|0.5371405482292175
+fine|inspection|False|0.853717565536499
+planning report|when|False|0.4264528155326843
+inspector workload|property information|False|0.8243271112442017
+plan review meet|service|False|0.7566835284233093
+hear requirement|custom query|False|0.832231342792511
+inspection|inspection|False|0.0
+plan amendment|completion of required plan review|False|0.8476649522781372
+citation|outcome|True|0.980809211730957
+requirement|planning study|True|0.9747158288955688
+ordinance|notice of violation|False|0.2746303975582123
+requirement|draft proffer|True|0.9106197357177734
+completion of required plan review|appeal|False|0.6303397417068481
+staff review|fee|False|0.5514456033706665
+meet|application|True|0.9435732960700989
+ordinance|hold|False|0.8135691285133362
+code modification|approve proffer|True|0.9731441736221313
+plan amendment|planning study|False|0.8740847110748291
+completion of required plan review|inspector workload|False|0.7520285844802856
+inspection|plan amendment|False|0.8450363278388977
+requirement|staff report|True|0.9682503342628479
+planning report|application|False|0.4160029888153076
+completenes review|planning report|False|0.7984732389450073
+completion of required plan review|building development project|False|0.596013069152832
+inspector workload|completenes review|False|0.6355862021446228
+fine|fine|False|0.0
+appeal|fee|True|0.9771093726158142
+plan amendment|staff report|False|0.7358490824699402
+inspector workload|planning report|False|0.4697186350822449
+code modification|requirement|True|0.9578489661216736
+draft proffer|development permit|False|0.6047698259353638
+planning study|zoning permit|False|0.20735473930835724
+requirement|consistency|True|0.9913946986198425
+information|service|True|0.9900144338607788
+customer portal user account|ordinance|False|0.24682487547397614
+outcome|request|True|0.990070641040802
+notice of violation|zoning permit|False|0.26469963788986206
+custom query|notice of violation|False|0.5407910943031311
+plan amendment|consistency|True|0.9740917086601257
+bond|notice of violation|False|0.6606271862983704
+each condo unit|outcome|False|0.4771616458892822
+code modification|hear date|False|0.7437350153923035
+custom query|hold|False|0.8329873085021973
+hear date|notice of violation|False|0.4806787073612213
+draft proffer|zoning permit|False|0.2882322669029236
+zoning permit|service|False|0.3975990116596222
+plan review meet|fee|False|0.6936057806015015
+preapplication assistance|zoning permit|False|0.25388747453689575
+appeal|hear requirement|True|0.9622348546981812
+bond|hold|True|0.986641526222229
+approve proffer|notice of violation|False|0.12792204320430756
+plan reviewer workload|statu|False|0.4538799524307251
+consistency|zoning permit|False|0.34474673867225647
+plan amendment|staff review|False|0.7301827073097229
+hear date|hold|False|0.7590200304985046
+information|preapplication assistance|True|0.964009702205658
+fine|completion of required plan review|True|0.9423835277557373
+service|support documentation|True|0.9711955785751343
+planning study|meet|False|0.7837995290756226
+hear date|plan review meet|False|0.6136215329170227
+approve proffer|hold|False|0.8389185667037964
+hear decision|inspection|False|0.8939980268478394
+support documentation|zoning permit|False|0.4668482840061188
+request|preapplication assistance|True|0.9250403046607971
+completion of required plan review|internal note|False|0.6170697808265686
+notice of violation|meet|False|0.8394268155097961
+inspector workload|gis property management|False|0.6772843599319458
+hear calendar|inspection|False|0.31265637278556824
+planning report|service|False|0.5602378249168396
+zoning permit|preapplication assistance|False|0.3007931411266327
+statu|zoning permit|False|0.4654960036277771
+draft proffer|affidavit|False|0.3768514096736908
+building development project|meet|False|0.8040154576301575
+preapplication assistance|meet|True|0.9024191498756409
+hear decision|plan amendment|False|0.8751553297042847
+plan review meet|hear requirement|False|0.5741842985153198
+consistency|meet|True|0.9495710730552673
+internal note|property information|True|0.9785694479942322
+application|inspection|True|0.941396176815033
+meet|preapplication assistance|False|0.8300896883010864
+hear calendar|plan amendment|False|0.34531983733177185
+hold|zoning permit|False|0.5173529386520386
+code modification|application|True|0.9135599732398987
+information|fee|True|0.9944603443145752
+service|information|True|0.9852686524391174
+support documentation|meet|True|0.9332790970802307
+planning report|preapplication assistance|False|0.5750905275344849
+appeal|formal response|True|0.9954173564910889
+formal response|each condo unit|False|0.7265397310256958
+hear calendar|fine|False|0.3563670516014099
+statu|meet|False|0.875512421131134
+fine|consistency|True|0.9610336422920227
+staff report|code modification|False|0.32401835918426514
+completion of required plan review|approve proffer|False|0.818962574005127
+zoning permit|fee|False|0.3303682208061218
+application|plan amendment|True|0.9538996815681458
+development permit|support documentation|False|0.7670689821243286
+property information|completenes review|True|0.9949353933334351
+internal note|completenes review|True|0.9767442941665649
+property information|planning report|True|0.9681281447410583
+fine|staff review|False|0.7222667336463928
+internal note|planning report|False|0.8253166675567627
+application|fine|True|0.9734598994255066
+hold|meet|True|0.9634820222854614
+information|hear requirement|True|0.9714919328689575
+completion of required plan review|requirement|False|0.35991761088371277
+when|appeal|True|0.9287834763526917
+request|hear requirement|True|0.9295773506164551
+affidavit|development permit|False|0.5806834697723389
+when|building development project|False|0.8208668231964111
+plan|information|True|0.9668687582015991
+zoning permit|hear requirement|False|0.19434884190559387
+gis property management|planning study|False|0.6898651123046875
+outcome|fine|True|0.990156352519989
+ordinance|outcome|True|0.9716652035713196
+gis property management|draft proffer|False|0.6929856538772583
+inspection|code modification|True|0.9717136025428772
+development permit|information|False|0.5658135414123535
+completion of required plan review|hear date|False|0.5002179145812988
+staff report|appeal|False|0.2725314199924469
+requirement|notice of violation|False|0.6754781603813171
+draft proffer|customer portal user account|False|0.5563995838165283
+code modification|service|True|0.9596719145774841
+staff report|inspector workload|False|0.5429964065551758
+gis property management|staff report|False|0.7080996632575989
+requirement|hold|True|0.9944657683372498
+staff report|building development project|False|0.3652275800704956
+plan amendment|notice of violation|False|0.582710325717926
+property information|gis property management|True|0.9425644278526306
+plan reviewer workload|hear decision|False|0.6129956245422363
+planning report|hear requirement|False|0.23507584631443024
+internal note|gis property management|True|0.9442765116691589
+draft proffer|request|False|0.80698561668396
+plan amendment|custom query|False|0.8947277665138245
+when|plan|True|0.9642070531845093
+citation|hear decision|False|0.8983488082885742
+information|formal response|True|0.9980573058128357
+when|hear calendar|False|0.6063013672828674
+gis property management|consistency|False|0.8980697989463806
+code modification|preapplication assistance|True|0.9137423038482666
+affidavit|gis property management|False|0.7997928261756897
+request|formal response|True|0.9921136498451233
+outcome|completion of required plan review|True|0.9763393402099609
+inspection|appeal|False|0.8613273501396179
+meet|plan reviewer workload|False|0.6291282773017883
+property information|citation|True|0.9974871873855591
+plan reviewer workload|bond|False|0.605237603187561
+bond|outcome|True|0.9972542524337769
+inspection|inspector workload|False|0.843686044216156
+hear requirement|statu|False|0.8508058190345764
+internal note|citation|True|0.980671226978302
+when|internal note|True|0.9137778282165527
+completenes review|inspection|False|0.8303043842315674
+hear date|outcome|False|0.7806536555290222
+completion of required plan review|application|False|0.732465386390686
+inspection|building development project|False|0.8048502206802368
+approve proffer|outcome|True|0.950721263885498
+statu|request|False|0.861395001411438
+affidavit|citation|False|0.7274948954582214
+meet|bond|True|0.9562851190567017
+meet|formal response|True|0.9892631769180298
+customer portal user account|development permit|False|0.3125675916671753
+ordinance|statu|False|0.7177934646606445
+completenes review|plan amendment|False|0.821282684803009
+staff report|internal note|False|0.292040079832077
+code modification|fee|True|0.9642557501792908
+planning report|formal response|False|0.8158655762672424
+hear decision|code modification|True|0.9609320759773254
+each condo unit|hear decision|False|0.43467700481414795
+inspector workload|plan amendment|False|0.5015297532081604
+request|hear execution|False|0.8872456550598145
+hear calendar|code modification|False|0.3831062912940979
+inspector workload|each condo unit|False|0.18746961653232574
+planning study|inspection|False|0.7051202654838562
+inspection|hear calendar|False|0.6478513479232788
+customer portal user account|zoning permit|False|0.1300821453332901
+when|plan review meet|False|0.8789334297180176
+hear execution|property information|True|0.9485257863998413
+development permit|property information|False|0.4830988645553589
+outcome|consistency|True|0.9913144707679749
+notice of violation|inspection|False|0.8948922157287598
+when|approve proffer|True|0.9036033153533936
+fine|custom query|False|0.8609166741371155
+staff review|ordinance|False|0.2598613202571869
+property information|customer portal user account|False|0.7067931294441223
+application|code modification|True|0.9860257506370544
+code modification|hear requirement|True|0.9612496495246887
+internal note|customer portal user account|False|0.5166985988616943
+outcome|staff review|True|0.9353067874908447
+building development project|inspection|False|0.7176365256309509
+inspection|internal note|False|0.8982064723968506
+meet|hear execution|False|0.7225822806358337
+custom query|statu|False|0.7653941512107849
+preapplication assistance|inspection|False|0.814325213432312
+consistency|inspection|False|0.8525106310844421
+completion of required plan review|service|False|0.7239114046096802
+hear decision|appeal|False|0.6822614073753357
+notice of violation|plan amendment|False|0.7746885418891907
+staff report|approve proffer|False|0.3651558756828308
+appeal|ordinance|False|0.7621815800666809
+bond|statu|True|0.9771274328231812
+customer portal user account|affidavit|False|0.1402558833360672
+affidavit|customer portal user account|False|0.44200563430786133
+hear execution|completenes review|False|0.899665892124176
+planning study|fine|False|0.7018492221832275
+customer portal user account|meet|False|0.5651206970214844
+hear date|statu|False|0.6541395783424377
+hear decision|inspector workload|False|0.8002657294273376
+support documentation|inspection|False|0.826604425907135
+hear calendar|appeal|False|0.4094424843788147
+hear decision|building development project|True|0.9121708869934082
+approve proffer|statu|False|0.8472514748573303
+hear execution|planning report|False|0.8694170713424683
+development permit|planning report|False|0.37539777159690857
+building development project|plan amendment|False|0.5671193599700928
+notice of violation|fine|True|0.9131150841712952
+formal response|appeal|True|0.9709291458129883
+hear calendar|inspector workload|False|0.38640567660331726
+staff report|requirement|False|0.3377586007118225
+completion of required plan review|preapplication assistance|False|0.7774157524108887
+building development project|fine|False|0.7908301949501038
+affidavit|request|False|0.46775174140930176
+formal response|building development project|True|0.9751984477043152
+preapplication assistance|fine|False|0.8780035972595215
+consistency|fine|False|0.8820027112960815
+plan review meet|ordinance|False|0.45169174671173096
+application|inspector workload|False|0.8817861080169678
+inspection|approve proffer|False|0.8772613406181335
+hold|inspection|True|0.9238128066062927
+staff report|hear date|False|0.19870609045028687
+gis property management|notice of violation|False|0.3302974998950958
+requirement|outcome|True|0.9963136911392212
+code modification|formal response|True|0.9941117763519287
+support documentation|fine|True|0.9046114087104797
+hear requirement|plan reviewer workload|False|0.764162540435791
+planning study|completion of required plan review|False|0.736224353313446
+gis property management|hold|False|0.7467126250267029
+fee|completenes review|False|0.8535320162773132
+statu|fine|False|0.883388876914978
+notice of violation|completion of required plan review|True|0.9382895231246948
+inspection|requirement|False|0.7682385444641113
+hear execution|gis property management|False|0.8492147922515869
+completion of required plan review|fee|False|0.784587562084198
+formal response|plan|True|0.9894702434539795
+formal response|hear calendar|False|0.8863190412521362
+hear decision|internal note|False|0.8879833221435547
+building development project|completion of required plan review|False|0.6807206273078918
+property information|each condo unit|False|0.32320380210876465
+ordinance|hear decision|False|0.8959958553314209
+hear requirement|bond|True|0.9361029863357544
+preapplication assistance|completion of required plan review|True|0.9414671659469604
+hold|fine|True|0.9551758170127869
+hear calendar|custom query|False|0.3527267277240753
+internal note|each condo unit|False|0.2486707866191864
+consistency|completion of required plan review|False|0.8620269894599915
+inspection|hear date|False|0.6797874569892883
+formal response|internal note|True|0.9665677547454834
+hear execution|citation|True|0.9259312748908997
+support documentation|completion of required plan review|True|0.9733307361602783
+draft proffer|planning study|False|0.7512117028236389
+staff report|application|False|0.20704372227191925
+fine|when|True|0.9569153785705566
+application|custom query|True|0.9529076218605042
+ordinance|bond|True|0.9252727627754211
+completenes review|code modification|True|0.9145978689193726
+statu|completion of required plan review|True|0.9706098437309265
+zoning permit|ordinance|False|0.186224564909935
+completion of required plan review|hear requirement|False|0.4623444080352783
+draft proffer|staff report|False|0.6354973912239075
+outcome|notice of violation|True|0.9117944240570068
+planning study|consistency|True|0.918498158454895
+customer portal user account|request|False|0.5682320594787598
+request|support documentation|True|0.9607422351837158
+fee|gis property management|False|0.7726663947105408
+inspector workload|code modification|False|0.6215453147888184
+notice of violation|consistency|True|0.9575855731964111
+each condo unit|ordinance|False|0.16918782889842987
+custom query|hear decision|True|0.9343819618225098
+requirement|statu|True|0.995613694190979
+hear decision|approve proffer|False|0.8660153746604919
+custom query|plan reviewer workload|False|0.7848719358444214
+hold|completion of required plan review|True|0.961702287197113
+outcome|custom query|True|0.9655983448028564
+planning study|staff review|False|0.45283105969429016
+hear requirement|hear execution|True|0.9504359364509583
+bond|hear decision|True|0.9761301875114441
+fine|application|True|0.9570645093917847
+draft proffer|consistency|False|0.853032648563385
+notice of violation|staff review|False|0.832342267036438
+plan amendment|statu|True|0.9293876886367798
+hear date|hear decision|False|0.8336776494979858
+formal response|plan review meet|True|0.9660348296165466
+preapplication assistance|consistency|True|0.9614790081977844
+inspection|application|True|0.9440348148345947
+approve proffer|hear decision|False|0.8746401071548462
+formal response|approve proffer|True|0.9759265780448914
+hear decision|requirement|False|0.8594314455986023
+fee|citation|True|0.915223240852356
+meet|support documentation|True|0.9578877091407776
+when|service|True|0.9720933437347412
+building development project|staff review|False|0.54413902759552
+custom query|bond|True|0.9354445934295654
+completenes review|appeal|False|0.866921603679657
+preapplication assistance|staff review|False|0.6721677780151367
+support documentation|consistency|True|0.9885156154632568
+consistency|staff review|False|0.6556459069252014
+request|information|True|0.9799854159355164
+hear calendar|requirement|False|0.19771002233028412
+completenes review|inspector workload|False|0.780856728553772
+hear execution|customer portal user account|False|0.6566193103790283
+service|inspection|False|0.8828060626983643
+completenes review|building development project|False|0.8068960309028625
+completion of required plan review|formal response|True|0.9187257885932922
+inspector workload|appeal|False|0.5792686343193054
+statu|consistency|True|0.9802234768867493
+approve proffer|bond|True|0.9043702483177185
+hear decision|hear date|False|0.7335249781608582
+support documentation|staff review|False|0.7429790496826172
+staff report|service|False|0.31172916293144226
+building development project|code modification|False|0.6403486132621765
+inspector workload|building development project|False|0.5929515957832336
+application|requirement|True|0.9757444262504578
+hear calendar|hear date|False|0.5024688243865967
+statu|staff review|False|0.7245678901672363
+hold|consistency|True|0.9745044112205505
+service|plan amendment|True|0.9113364815711975
+meet|information|True|0.9569572806358337
+staff review|development permit|False|0.5158608555793762
+appeal|completenes review|True|0.9601166844367981
+staff report|preapplication assistance|False|0.3625747859477997
+application|hear date|False|0.8210451602935791
+hold|staff review|False|0.887742280960083
+hear calendar|when|False|0.3242819309234619
+property information|draft proffer|True|0.908568799495697
+appeal|development permit|False|0.7218879461288452
+inspection|service|False|0.8525834083557129
+fee|customer portal user account|False|0.3270130753517151
+internal note|draft proffer|False|0.709281325340271
+gis property management|outcome|True|0.9003045558929443
+staff review|zoning permit|False|0.28757956624031067
+plan|inspection|False|0.8686358332633972
+when|fee|True|0.9700495600700378
+inspector workload|plan|False|0.5193934440612793
+inspector workload|hear calendar|False|0.385829895734787
+affidavit|planning study|False|0.77170729637146
+hear decision|application|True|0.9606766104698181
+affidavit|draft proffer|False|0.42432722449302673
+development permit|inspection|False|0.33437708020210266
+application|when|True|0.9929695129394531
+completenes review|internal note|False|0.8538534045219421
+hear calendar|application|False|0.37864843010902405
+affidavit|staff report|False|0.4207858443260193
+plan|plan amendment|False|0.8684425950050354
+inspection|preapplication assistance|False|0.8187146186828613
+staff report|fee|False|0.335168719291687
+inspector workload|internal note|False|0.7082571983337402
+plan review meet|development permit|False|0.5340035557746887
+staff review|affidavit|False|0.12678326666355133
+development permit|plan amendment|False|0.5069570541381836
+staff review|meet|False|0.42732325196266174
+outcome|when|True|0.9958816170692444
+hear execution|each condo unit|False|0.30018535256385803
+plan|fine|True|0.9308250546455383
+requirement|hear decision|True|0.97866290807724
+application|application|False|0.0
+appeal|gis property management|True|0.9370709657669067
+request|property information|True|0.9846347570419312
+appeal|affidavit|False|0.5349541306495667
+planning study|custom query|False|0.7009337544441223
+plan amendment|hear decision|True|0.9432836771011353
+plan amendment|plan reviewer workload|False|0.7386084794998169
+draft proffer|notice of violation|False|0.3910525143146515
+notice of violation|custom query|False|0.768484890460968
+staff report|hear requirement|False|0.2062356024980545
+completenes review|approve proffer|False|0.8804653286933899
+information|completenes review|True|0.9938333630561829
+requirement|bond|True|0.9926109910011292
+hear requirement|support documentation|True|0.9666891098022461
+inspection|fee|False|0.8958947658538818
+draft proffer|hold|False|0.690666675567627
+appeal|citation|True|0.9956269264221191
+property information|building development project|True|0.9497764706611633
+building development project|custom query|False|0.4940570294857025
+meet|property information|True|0.9734835624694824
+customer portal user account|completion of required plan review|False|0.44644877314567566
+request|completenes review|True|0.9629319310188293
+preapplication assistance|custom query|False|0.8797922730445862
+internal note|building development project|False|0.8675771951675415
+formal response|outcome|True|0.9961047172546387
+information|development permit|True|0.9358451962471008
+plan amendment|bond|True|0.9557245969772339
+inspector workload|approve proffer|False|0.5835458040237427
+consistency|custom query|False|0.8105714917182922
+hear decision|service|True|0.9385512471199036
+gis property management|statu|False|0.8309311270713806
+citation|zoning permit|False|0.4150417447090149
+completenes review|requirement|False|0.7164555191993713
+plan review meet|affidavit|False|0.1639135181903839
+request|planning report|True|0.9389247894287109
+fee|each condo unit|False|0.13399522006511688
+hear calendar|service|False|0.49214881658554077
+support documentation|custom query|False|0.8163896799087524
+customer portal user account|planning study|False|0.2902194857597351
+customer portal user account|draft proffer|False|0.3779911398887634
+inspector workload|requirement|False|0.34324079751968384
+zoning permit|development permit|False|0.3880665600299835
+formal response|service|True|0.9876484274864197
+plan reviewer workload|meet|False|0.5042434334754944
+statu|custom query|False|0.7909994125366211
+inspection|hear requirement|False|0.763135552406311
+meet|completenes review|False|0.8802750110626221
+hear requirement|information|True|0.9812019467353821
+completenes review|hear date|False|0.5976345539093018
+customer portal user account|staff report|False|0.3247189521789551
+hear decision|preapplication assistance|False|0.8655556440353394
+each condo unit|development permit|False|0.4455265700817108
+planning report|completenes review|False|0.5511800050735474
+property information|plan|True|0.9911345839500427
+meet|planning report|False|0.8063240647315979
+property information|hear calendar|False|0.8660100102424622
+citation|meet|True|0.957033097743988
+internal note|plan|True|0.9007936716079712
+internal note|hear calendar|False|0.6861041188240051
+hear calendar|preapplication assistance|False|0.42094406485557556
+staff report|formal response|False|0.676639199256897
+inspector workload|hear date|False|0.4154598116874695
+hold|custom query|True|0.9421650171279907
+information|gis property management|True|0.9767978191375732
+plan amendment|hear execution|False|0.8538377285003662
+fine|plan reviewer workload|False|0.6020209193229675
+service|code modification|True|0.9838578104972839
+customer portal user account|consistency|False|0.592643678188324
+notice of violation|requirement|False|0.7601804137229919
+information|affidavit|False|0.849264919757843
+appeal|customer portal user account|False|0.6906831860542297
+each condo unit|zoning permit|False|0.21521152555942535
+request|gis property management|True|0.9332160949707031
+application|preapplication assistance|True|0.9356240630149841
+staff review|request|False|0.7031623125076294
+outcome|statu|True|0.9916349649429321
+building development project|requirement|False|0.8384063243865967
+customer portal user account|staff review|False|0.3180026113986969
+hear decision|fee|True|0.9244651198387146
+zoning permit|affidavit|False|0.07372136414051056
+fine|bond|True|0.9237356781959534
+information|citation|True|0.9963175058364868
+fine|formal response|True|0.9895932674407959
+notice of violation|hear date|False|0.6627676486968994
+appeal|request|False|0.8872392773628235
+completenes review|application|False|0.8938329219818115
+inspection|formal response|True|0.993661642074585
+request|citation|True|0.9873737692832947
+hear execution|draft proffer|False|0.6666854023933411
+each condo unit|affidavit|False|0.0892103984951973
+meet|gis property management|False|0.8586913347244263
+formal response|fee|True|0.987418532371521
+plan review meet|customer portal user account|False|0.3993218243122101
+building development project|hear date|False|0.3958204388618469
+each condo unit|meet|False|0.3880405128002167
+planning study|when|False|0.8052846193313599
+service|appeal|True|0.9023410677909851
+planning report|gis property management|False|0.5085199475288391
+zoning permit|citation|False|0.26740139722824097
+property information|hold|True|0.996576189994812
+custom query|information|True|0.9387860298156738
+property information|plan review meet|True|0.9815540313720703
+notice of violation|when|False|0.76835697889328
+service|inspector workload|False|0.8202817440032959
+plan|code modification|True|0.9637303352355957
+affidavit|notice of violation|False|0.1536758989095688
+internal note|plan review meet|True|0.946927011013031
+property information|approve proffer|True|0.9790071845054626
+hear decision|hear requirement|False|0.7177324295043945
+development permit|code modification|False|0.7839672565460205
+internal note|approve proffer|False|0.8825084567070007
+affidavit|hold|False|0.5018494129180908
+building development project|when|False|0.7204201221466064
+meet|citation|True|0.9846091270446777
+plan review meet|request|False|0.726872980594635
+affidavit|plan review meet|False|0.6198604702949524
+preapplication assistance|when|False|0.7930797338485718
+hear calendar|hear requirement|False|0.18468376994132996
+consistency|when|True|0.9589917659759521
+planning report|citation|False|0.8192421197891235
+fine|hear execution|False|0.7030183672904968
+code modification|completenes review|True|0.9619044065475464
+hear requirement|property information|True|0.9827537536621094
+gis property management|hear decision|False|0.8305091261863708
+notice of violation|application|False|0.8404750823974609
+support documentation|when|True|0.9541007280349731
+fee|planning study|False|0.8300517201423645
+code modification|development permit|False|0.8791087865829468
+fee|draft proffer|False|0.5724503397941589
+information|customer portal user account|False|0.7497960329055786
+application|hear requirement|True|0.970547080039978
+building development project|application|False|0.8532061576843262
+statu|when|True|0.9330852627754211
+draft proffer|outcome|False|0.8374667763710022
+appeal|each condo unit|False|0.3890628218650818
+fee|staff report|False|0.6214454174041748
+consistency|application|True|0.9202435612678528
+completenes review|service|False|0.8211565017700195
+plan|inspector workload|False|0.7880574464797974
+development permit|appeal|False|0.4501517713069916
+zoning permit|customer portal user account|False|0.08436020463705063
+development permit|inspector workload|False|0.42786943912506104
+support documentation|application|False|0.7947967648506165
+hear decision|formal response|True|0.9872690439224243
+inspector workload|service|False|0.49373361468315125
+hold|when|True|0.989515483379364
+hear execution|building development project|False|0.8506465554237366
+development permit|building development project|False|0.6605534553527832
+service|internal note|True|0.9590525031089783
+hear calendar|formal response|False|0.6134812831878662
+completenes review|preapplication assistance|False|0.8600597381591797
+zoning permit|request|False|0.31938740611076355
+code modification|gis property management|True|0.9710876941680908
+planning report|customer portal user account|False|0.32128122448921204
+customer portal user account|notice of violation|False|0.13934914767742157
+staff review|fine|False|0.5282604694366455
+code modification|affidavit|False|0.8387197256088257
+inspector workload|preapplication assistance|False|0.5844459533691406
+outcome|plan reviewer workload|True|0.9425562620162964
+hold|application|True|0.9855508804321289
+application|formal response|True|0.9986915588378906
+when|ordinance|False|0.8052389621734619
+each condo unit|request|False|0.31283998489379883
+customer portal user account|hold|False|0.5225826501846313
+plan amendment|support documentation|True|0.9569750428199768
+planning study|statu|False|0.7870469093322754
+ordinance|meet|False|0.8919039368629456
+hear execution|plan|False|0.8896101713180542
+hear execution|hear calendar|False|0.48150378465652466
+code modification|citation|True|0.9912286996841431
+plan|custom query|True|0.9337918162345886
+plan reviewer workload|inspection|False|0.6850177049636841
+outcome|bond|True|0.9973292946815491
+completenes review|fee|False|0.8882070779800415
+hear calendar|hear execution|False|0.29822155833244324
+draft proffer|statu|False|0.670894980430603
+hear date|zoning permit|False|0.26453927159309387
+preapplication assistance|statu|False|0.8535969853401184
+hear execution|internal note|False|0.8667564988136292
+development permit|internal note|False|0.6733823418617249
+notice of violation|preapplication assistance|False|0.895438551902771
+citation|inspection|True|0.9267981648445129
+information|each condo unit|False|0.35390526056289673
+inspector workload|fee|False|0.5217747688293457
+staff review|completion of required plan review|False|0.48168206214904785
+plan amendment|information|True|0.9688332080841064
+service|requirement|True|0.9568672180175781
+plan reviewer workload|plan amendment|False|0.3914690613746643
+request|each condo unit|False|0.2887636423110962
+completion of required plan review|completenes review|False|0.6424269080162048
+building development project|preapplication assistance|False|0.4690684378147125
+application|hear execution|True|0.9144808650016785
+property information|outcome|True|0.9962152242660522
+staff review|planning study|False|0.570705771446228
+plan reviewer workload|fine|False|0.5694974660873413
+bond|meet|True|0.9899299144744873
+fee|plan|False|0.7971479296684265
+completenes review|hear requirement|False|0.802784264087677
+fee|hear calendar|False|0.3925686776638031
+internal note|outcome|True|0.9863870739936829
+service|hear date|False|0.6163176894187927
+inspection|ordinance|False|0.4585230052471161
+hear date|meet|False|0.7637823820114136
+citation|fine|True|0.9419969320297241
+approve proffer|meet|True|0.9070320129394531
+staff review|staff report|False|0.519842803478241
+outcome|hear execution|True|0.9547656178474426
+meet|each condo unit|False|0.2733525037765503
+affidavit|outcome|False|0.8602218627929688
+appeal|planning study|True|0.9146592617034912
+inspector workload|hear requirement|False|0.5163632035255432
+hear execution|plan review meet|False|0.7193669080734253
+appeal|draft proffer|False|0.7258362174034119
+fine|support documentation|True|0.9555690288543701
+planning report|each condo unit|False|0.07303336262702942
+code modification|customer portal user account|False|0.5378422141075134
+hear execution|approve proffer|False|0.7036515474319458
+development permit|approve proffer|False|0.5221168398857117
+service|when|True|0.972249448299408
+appeal|staff report|False|0.8297877907752991
+plan|requirement|True|0.9558395743370056
+staff review|consistency|False|0.7497798204421997
+development permit|requirement|False|0.2882348597049713
+plan reviewer workload|completion of required plan review|False|0.7794812917709351
+completion of required plan review|gis property management|False|0.8037604093551636
+plan review meet|planning study|False|0.576073944568634
+plan review meet|draft proffer|False|0.3627416789531708
+citation|completion of required plan review|True|0.9687051177024841
+plan|hear date|False|0.7286695241928101
+fine|information|True|0.9689149260520935
+service|application|True|0.9756219983100891
+completenes review|formal response|True|0.9892280101776123
+fee|hold|False|0.7131015658378601
+plan review meet|staff report|False|0.7133284211158752
+development permit|hear date|False|0.2576829791069031
+building development project|hear requirement|False|0.7668096423149109
+each condo unit|fine|False|0.3441809415817261
+fee|plan review meet|False|0.7107607126235962
+planning study|plan reviewer workload|False|0.5971435904502869
+completion of required plan review|citation|True|0.9326119422912598
+plan|when|True|0.9307457804679871
+notice of violation|plan reviewer workload|False|0.8517709374427795
+property information|fee|True|0.9935987591743469
+internal note|fee|False|0.8696099519729614
+draft proffer|hear decision|False|0.804513156414032
+information|planning study|True|0.9644870758056641
+preapplication assistance|plan reviewer workload|False|0.7349966168403625
+planning study|bond|False|0.8975214958190918
+information|draft proffer|False|0.8623796105384827
+consistency|plan reviewer workload|False|0.6914340257644653
+formal response|ordinance|True|0.9230117201805115
+notice of violation|bond|False|0.7781335711479187
+notice of violation|formal response|True|0.9506437182426453
+plan|application|True|0.9519103765487671
+code modification|each condo unit|False|0.49816128611564636
+each condo unit|completion of required plan review|False|0.4552397131919861
+information|staff report|False|0.8820261359214783
+citation|consistency|True|0.9724465012550354
+support documentation|plan reviewer workload|False|0.6792453527450562
+hear calendar|support documentation|False|0.3951353132724762
+zoning permit|planning study|False|0.19620215892791748
+development permit|application|False|0.5256247520446777
+hear requirement|inspection|False|0.8650625348091125
+zoning permit|draft proffer|False|0.1785627156496048
+building development project|formal response|True|0.9307866096496582
+draft proffer|bond|False|0.7966744303703308
+requirement|meet|True|0.9936103820800781
+preapplication assistance|bond|True|0.9407030940055847
+statu|plan reviewer workload|False|0.8393632173538208
+consistency|bond|True|0.9603720903396606
+consistency|formal response|True|0.9877079129219055
+citation|staff review|False|0.8524844646453857
+zoning permit|staff report|False|0.33707985281944275
+appeal|plan|True|0.9775928854942322
+plan reviewer workload|code modification|False|0.46181967854499817
+application|support documentation|True|0.9898470044136047
+completion of required plan review|customer portal user account|False|0.45594921708106995
+support documentation|bond|True|0.98812335729599
+support documentation|formal response|True|0.9935388565063477
+hear requirement|plan amendment|False|0.8816601634025574
+when|development permit|False|0.7895533442497253
+ordinance|inspection|False|0.8248199820518494
+planning report|planning study|False|0.6489933133125305
+hold|plan reviewer workload|False|0.8215389847755432
+planning report|draft proffer|False|0.3971797525882721
+planning study|hear execution|False|0.6401858925819397
+statu|bond|True|0.920756995677948
+staff report|completenes review|False|0.39142337441444397
+notice of violation|hear execution|False|0.6517965197563171
+service|preapplication assistance|True|0.946804404258728
+fine|property information|True|0.9782764911651611
+outcome|support documentation|True|0.9951923489570618
+meet|code modification|True|0.9524067044258118
+ordinance|plan amendment|False|0.7429161071777344
+when|zoning permit|False|0.3752029836177826
+hear execution|outcome|False|0.8736352920532227
+building development project|hear execution|False|0.4046236276626587
+each condo unit|consistency|False|0.40516015887260437
+staff review|notice of violation|False|0.2843206226825714
+hold|bond|True|0.9776583909988403
+hold|formal response|True|0.9966333508491516
+preapplication assistance|hear execution|False|0.8330593705177307
+consistency|hear execution|False|0.6483560800552368
+customer portal user account|statu|False|0.3558247983455658
+request|appeal|True|0.9141837954521179
+ordinance|fine|False|0.84537273645401
+plan|service|True|0.9499245882034302
+each condo unit|staff review|False|0.2731541693210602
+staff review|custom query|False|0.369869589805603
+appeal|notice of violation|False|0.5228546261787415
+development permit|service|False|0.6405459046363831
+fine|completenes review|True|0.9266501069068909
+support documentation|hear execution|False|0.82266765832901
+custom query|inspection|False|0.8793424963951111
+plan reviewer workload|inspector workload|False|0.5320461988449097
+request|building development project|True|0.9322254061698914
+inspection|completenes review|True|0.9375320076942444
+bond|inspection|True|0.9346389770507812
+fine|planning report|False|0.8817130923271179
+appeal|hold|True|0.9585937857627869
+when|affidavit|False|0.6054730415344238
+statu|hear execution|False|0.6772328615188599
+hear date|inspection|False|0.7688274383544922
+outcome|information|True|0.9964202046394348
+appeal|plan review meet|True|0.9435009956359863
+approve proffer|inspection|False|0.8697218894958496
+inspection|development permit|False|0.5202229022979736
+meet|appeal|False|0.8727622628211975
+plan|preapplication assistance|True|0.906192421913147
+custom query|plan amendment|False|0.806925356388092
+meet|inspector workload|False|0.7327430248260498
+staff report|gis property management|False|0.5715306997299194
+development permit|preapplication assistance|False|0.4530005156993866
+bond|plan amendment|True|0.951831042766571
+fee|outcome|False|0.8969345092773438
+meet|building development project|False|0.7816413640975952
+affidavit|hear decision|False|0.7222645282745361
+hold|hear execution|False|0.8795385956764221
+information|plan|True|0.9883490800857544
+staff report|affidavit|False|0.08617503196001053
+information|hear calendar|False|0.765387773513794
+plan review meet|notice of violation|False|0.2389768362045288
+custom query|fine|False|0.8296594023704529
+ordinance|completion of required plan review|False|0.8442391157150269
+planning report|building development project|False|0.2572718858718872
+approve proffer|plan amendment|False|0.807426929473877
+completion of required plan review|each condo unit|False|0.28866347670555115
+request|plan|True|0.9728463888168335
+bond|fine|True|0.9762215614318848
+request|hear calendar|False|0.7055570483207703
+plan review meet|hold|False|0.5464897155761719
+service|hear requirement|True|0.9494209885597229
+code modification|planning study|True|0.9361266493797302
+hear date|fine|False|0.7576748728752136
+plan review meet|plan review meet|False|0.0
+code modification|draft proffer|False|0.8419339060783386
+staff report|citation|False|0.6131318211555481
+approve proffer|fine|False|0.8774732947349548
+fine|gis property management|False|0.8796772956848145
+inspector workload|ordinance|False|0.3831389844417572
+code modification|staff report|False|0.827041506767273
+gis property management|zoning permit|False|0.366987407207489
+plan reviewer workload|custom query|False|0.6666182279586792
+request|internal note|False|0.884003758430481
+inspection|gis property management|True|0.9230139255523682
+hear calendar|property information|False|0.42321640253067017
+hear execution|fee|False|0.791975200176239
+development permit|fee|False|0.5356504917144775
+meet|plan|False|0.8817278742790222
+meet|hear calendar|False|0.4156472384929657
+inspection|affidavit|False|0.5394430756568909
+citation|custom query|False|0.7676669359207153
+planning report|plan|False|0.42447179555892944
+planning report|hear calendar|False|0.33185815811157227
+hear decision|completenes review|True|0.9404046535491943
+bond|completion of required plan review|True|0.9818828105926514
+application|property information|True|0.9933708310127258
+information|hold|True|0.9973070621490479
+meet|internal note|True|0.9077274799346924
+inspection|citation|True|0.9913035035133362
+when|customer portal user account|False|0.6268302798271179
+hear date|completion of required plan review|False|0.8069976568222046
+plan|hear requirement|False|0.8575682044029236
+information|plan review meet|True|0.9807212352752686
+gis property management|meet|False|0.8049426078796387
+hear calendar|completenes review|False|0.4168917238712311
+approve proffer|completion of required plan review|False|0.8437215089797974
+hear decision|development permit|False|0.799149751663208
+service|formal response|True|0.9968457818031311
+zoning permit|notice of violation|False|0.04784458130598068
+development permit|hear requirement|False|0.3350454568862915
+hear requirement|code modification|True|0.9604353308677673
+hear calendar|planning report|False|0.4570852518081665
+request|plan review meet|True|0.9352396726608276
+planning study|support documentation|False|0.7563304901123047
+ordinance|staff review|False|0.5585466027259827
+zoning permit|hold|False|0.33071744441986084
+outcome|property information|True|0.9948986172676086
+request|approve proffer|True|0.9423848986625671
+each condo unit|notice of violation|False|0.03500872850418091
+customer portal user account|hear decision|False|0.5150132775306702
+customer portal user account|plan reviewer workload|False|0.38697782158851624
+zoning permit|plan review meet|False|0.1826578974723816
+staff report|customer portal user account|False|0.19997720420360565
+formal response|development permit|True|0.9632455706596375
+notice of violation|support documentation|True|0.9426701068878174
+when|request|True|0.9052752256393433
+application|completenes review|True|0.9913386702537537
+requirement|inspection|True|0.9597790241241455
+application|planning report|True|0.9713019728660583
+building development project|support documentation|False|0.7777569890022278
+ordinance|code modification|True|0.9238389134407043
+each condo unit|custom query|False|0.227779358625412
+preapplication assistance|support documentation|True|0.9166233539581299
+meet|plan review meet|False|0.6462928652763367
+consistency|support documentation|True|0.9523728489875793
+plan reviewer workload|requirement|False|0.1734628677368164
+planning report|hold|False|0.4500120282173157
+plan amendment|inspection|False|0.889684796333313
+formal response|zoning permit|False|0.7284730076789856
+customer portal user account|bond|False|0.6276708245277405
+meet|approve proffer|False|0.8466948866844177
+planning report|plan review meet|False|0.6099450588226318
+planning study|information|False|0.8373526930809021
+hear decision|gis property management|True|0.9366356730461121
+planning report|approve proffer|False|0.44288527965545654
+requirement|plan amendment|True|0.9824487566947937
+hear requirement|appeal|False|0.8925295472145081
+outcome|planning report|True|0.9762686491012573
+hear date|consistency|False|0.7935274243354797
+plan|formal response|True|0.9912816882133484
+hear decision|affidavit|False|0.5934580564498901
+notice of violation|information|False|0.8763124346733093
+hear requirement|inspector workload|False|0.8450422286987305
+inspection|customer portal user account|False|0.6054226160049438
+hear calendar|gis property management|False|0.5362715125083923
+plan reviewer workload|hear date|False|0.43897271156311035
+statu|support documentation|True|0.92146235704422
+development permit|formal response|False|0.8334299325942993
+plan amendment|plan amendment|False|0.0
+bond|staff review|True|0.9042317867279053
+requirement|fine|True|0.982628345489502
+completion of required plan review|planning study|False|0.6991229057312012
+appeal|outcome|True|0.9790437817573547
+completion of required plan review|draft proffer|False|0.37270399928092957
+property information|ordinance|True|0.9614207744598389
+hear date|staff review|False|0.7122126221656799
+code modification|plan|True|0.9613562822341919
+building development project|information|False|0.8527253866195679
+code modification|hear calendar|False|0.8835293650627136
+formal response|affidavit|False|0.8070331811904907
+preapplication assistance|information|True|0.9412487745285034
+internal note|ordinance|False|0.7280622124671936
+approve proffer|staff review|False|0.6830435991287231
+hear decision|citation|True|0.9856041669845581
+consistency|information|True|0.9660108089447021
+custom query|code modification|False|0.8365627527236938
+completion of required plan review|staff report|False|0.6787225008010864
+application|gis property management|True|0.979926586151123
+hold|support documentation|True|0.9837750196456909
+bond|code modification|True|0.9904429912567139
+inspection|request|False|0.8213145732879639
+plan reviewer workload|when|False|0.34868764877319336
+hear calendar|citation|False|0.40679436922073364
+support documentation|information|True|0.9569697976112366
+approve proffer|code modification|True|0.9187235236167908
+citation|when|True|0.9463983774185181
+plan review meet|outcome|False|0.8800484538078308
+statu|information|True|0.9420347213745117
+plan|hear execution|False|0.8353560566902161
+staff report|each condo unit|False|0.11633186787366867
+application|citation|True|0.9982372522354126
+requirement|completion of required plan review|True|0.9833675622940063
+plan reviewer workload|application|False|0.39761874079704285
+hold|information|True|0.9882820844650269
+hear requirement|internal note|False|0.8126029968261719
+staff review|statu|False|0.3825227618217468
+custom query|inspector workload|False|0.8359234929084778
+code modification|hold|True|0.9483647346496582
+code modification|plan review meet|True|0.958648681640625
+fee|hear decision|False|0.8463048338890076
+fine|plan amendment|False|0.8948039412498474
+hear decision|customer portal user account|False|0.7273728847503662
+fine|each condo unit|False|0.29957425594329834
+ordinance|custom query|False|0.8995851874351501
+planning study|property information|True|0.9185094237327576
+inspection|each condo unit|False|0.20963886380195618
+information|outcome|True|0.9957902431488037
+completenes review|development permit|False|0.7002533674240112
+hear calendar|customer portal user account|False|0.33101823925971985
+each condo unit|when|False|0.36174851655960083
+notice of violation|property information|False|0.8522054553031921
+formal response|customer portal user account|True|0.917165994644165
+inspector workload|development permit|False|0.6432702541351318
+zoning permit|outcome|False|0.49068978428840637
+building development project|property information|False|0.8881224393844604
+preapplication assistance|property information|True|0.9804286956787109
+consistency|property information|True|0.9733415246009827
+plan review meet|statu|False|0.703317403793335
+request|service|True|0.9149608612060547
+formal response|request|True|0.9668694138526917
+requirement|staff review|True|0.9576549530029297
+completion of required plan review|plan|False|0.5851563215255737
+notice of violation|completenes review|True|0.9014382362365723
+completion of required plan review|hear calendar|False|0.4673769176006317
+planning study|planning report|False|0.6668187975883484
+support documentation|property information|True|0.9816967844963074
+when|completion of required plan review|True|0.9545089602470398
+gis property management|inspection|False|0.7135344743728638
+hear requirement|requirement|False|0.8577584028244019
+notice of violation|planning report|False|0.8836689591407776
+planning report|outcome|False|0.5614914298057556
+bond|custom query|True|0.9650344252586365
+completenes review|gis property management|True|0.9173666834831238
+statu|property information|True|0.9551810622215271
+building development project|completenes review|False|0.7473844885826111
+hear date|custom query|False|0.6090788245201111
+citation|statu|True|0.9197563529014587
+completenes review|affidavit|False|0.4495149254798889
+consistency|completenes review|True|0.9346231818199158
+approve proffer|custom query|False|0.8401869535446167
+meet|service|False|0.8795873522758484
+building development project|planning report|False|0.4376707375049591
+when|planning study|False|0.8935402035713196
+when|draft proffer|False|0.7384527325630188
+plan reviewer workload|preapplication assistance|False|0.5258790850639343
+preapplication assistance|planning report|False|0.8829003572463989
+consistency|planning report|False|0.803257405757904
+plan amendment|code modification|True|0.9755992889404297
+gis property management|plan amendment|False|0.7122421264648438
+hear requirement|hear date|True|0.9344288110733032
+inspector workload|affidavit|False|0.15642611682415009
+ordinance|requirement|False|0.5725052952766418
+support documentation|completenes review|True|0.9400438666343689
+hold|property information|True|0.9858014583587646
+draft proffer|meet|False|0.7771733403205872
+when|staff report|False|0.8441919684410095
+completenes review|citation|True|0.9653574228286743
+support documentation|planning report|False|0.8602862358093262
+gis property management|fine|False|0.7495459914207458
+hear decision|each condo unit|False|0.412843257188797
+staff report|planning study|False|0.3152538537979126
+staff report|draft proffer|False|0.2844511568546295
+inspector workload|citation|False|0.8888002634048462
+statu|planning report|False|0.8689624667167664
+hear requirement|when|True|0.9348456263542175
+hear execution|ordinance|False|0.2876775860786438
+hear calendar|each condo unit|False|0.12100453674793243
+ordinance|hear date|False|0.6733431220054626
+zoning permit|statu|False|0.21506719291210175
+completion of required plan review|hold|False|0.5664179921150208
+notice of violation|gis property management|False|0.8653324842453003
+when|consistency|True|0.9719745516777039
+request|fee|False|0.88322514295578
+plan|support documentation|True|0.9536839127540588
+hold|completenes review|True|0.9675687551498413
+completion of required plan review|plan review meet|False|0.8046193718910217
+staff review|hear decision|False|0.7874442934989929
+staff review|plan reviewer workload|False|0.7399293780326843
+outcome|inspection|True|0.9832813143730164
+hold|planning report|True|0.9453296661376953
+each condo unit|statu|False|0.26753875613212585
+plan amendment|appeal|False|0.8711643218994141
+building development project|gis property management|False|0.8944681286811829
+application|each condo unit|False|0.43106624484062195
+when|staff review|False|0.8040609955787659
+custom query|requirement|False|0.5476163625717163
+ordinance|when|False|0.8918085694313049
+plan amendment|inspector workload|False|0.7864571213722229
+consistency|gis property management|False|0.81964111328125
+property information|development permit|True|0.9291421175003052
+hear requirement|application|True|0.9681103825569153
+bond|requirement|True|0.9829779267311096
+appeal|hear decision|False|0.8495219349861145
+inspection|planning study|False|0.8798645734786987
+notice of violation|citation|False|0.8453359007835388
+internal note|development permit|False|0.8422131538391113
+inspection|draft proffer|False|0.3599243760108948
+gis property management|completion of required plan review|False|0.7292723655700684
+meet|fee|False|0.8209996819496155
+customer portal user account|information|False|0.5071521401405334
+staff review|bond|False|0.6839373707771301
+approve proffer|requirement|False|0.7342503070831299
+outcome|plan amendment|True|0.9698727130889893
+planning report|fee|False|0.5272582769393921
+code modification|outcome|True|0.9929978847503662
+inspection|staff report|False|0.7813388109207153
+custom query|hear date|False|0.6972956657409668
+building development project|citation|True|0.9389746189117432
+completenes review|customer portal user account|False|0.5172783732414246
+plan reviewer workload|hear requirement|False|0.3143560290336609
+fee|ordinance|False|0.32338616251945496
+fine|code modification|True|0.9475851655006409
+property information|zoning permit|False|0.5243958830833435
+bond|hear date|False|0.8067159652709961
+ordinance|application|True|0.9228289127349854
+internal note|zoning permit|False|0.6749011278152466
+inspector workload|customer portal user account|False|0.378317654132843
+approve proffer|hear date|False|0.72408527135849
+plan review meet|hear decision|False|0.7426109910011292
+custom query|when|False|0.765982449054718
+affidavit|zoning permit|False|0.2748885452747345
+hold|gis property management|True|0.9326968193054199
+meet|hear requirement|False|0.8592133522033691
+bond|when|True|0.9936487078666687
+requirement|custom query|True|0.9400370717048645
+hear date|when|False|0.702601432800293
+property information|affidavit|False|0.8474416136741638
+inspector workload|request|False|0.7410391569137573
+approve proffer|when|True|0.9254457950592041
+staff review|hear execution|False|0.30600816011428833
+property information|meet|True|0.9919894337654114
+internal note|affidavit|False|0.4306100606918335
+citation|plan reviewer workload|False|0.8576263785362244
+internal note|meet|True|0.9064098596572876
+plan amendment|internal note|True|0.9238095879554749
+fine|appeal|False|0.842322826385498
+service|property information|True|0.9917912483215332
+hold|citation|True|0.9934625625610352
+hear requirement|service|True|0.9565988183021545
+custom query|application|False|0.7295231819152832
+fine|inspector workload|False|0.6686822772026062
+plan reviewer workload|formal response|False|0.8322350978851318
+affidavit|meet|False|0.7538592219352722
+bond|application|True|0.9918997287750244
+fine|building development project|False|0.8671963214874268
+gis property management|staff review|False|0.6516576409339905
+formal response|completion of required plan review|True|0.9766170978546143
+staff report|plan|False|0.27454543113708496
+hear decision|planning study|True|0.9057360887527466
+staff report|hear calendar|False|0.2237151563167572
+information|hear decision|True|0.977735161781311
+citation|bond|True|0.9408426880836487
+hear decision|draft proffer|False|0.747209370136261
+approve proffer|application|True|0.9361621737480164
+hear calendar|draft proffer|False|0.3392850160598755
+hear requirement|preapplication assistance|False|0.8844324350357056
+hear decision|staff report|False|0.8607339262962341
+service|completenes review|True|0.9701151251792908
+formal response|planning study|True|0.9691526889801025
+zoning permit|hear decision|False|0.3768431544303894
+formal response|draft proffer|False|0.8349728584289551
+service|planning report|True|0.9656444787979126
+completenes review|each condo unit|False|0.31305697560310364
+when|notice of violation|False|0.3013356029987335
+formal response|staff report|True|0.9178873896598816
+each condo unit|plan reviewer workload|False|0.1698484867811203
+fine|plan|True|0.9487834572792053
+fine|hear calendar|False|0.5775051116943359
+plan|property information|True|0.9828759431838989
+when|hold|False|0.8625865578651428
+ordinance|preapplication assistance|False|0.8132182955741882
+plan reviewer workload|hear execution|False|0.5041064620018005
+inspection|plan|True|0.9067858457565308
+completion of required plan review|outcome|False|0.7785220742225647
+plan amendment|requirement|False|0.8003183603286743
+citation|hear execution|False|0.7332324385643005
+fine|internal note|False|0.8441423177719116
+custom query|service|False|0.7824483513832092
+formal response|consistency|True|0.9954755306243896
+each condo unit|bond|False|0.4614015221595764
+requirement|hear date|False|0.8432264924049377
+staff report|hold|False|0.39650759100914
+draft proffer|inspection|False|0.733247697353363
+planning study|plan amendment|False|0.6101341843605042
+staff report|plan review meet|False|0.36506420373916626
+plan|completenes review|True|0.9658812284469604
+formal response|staff review|True|0.9236874580383301
+plan amendment|hear date|False|0.7297357320785522
+notice of violation|each condo unit|False|0.06901749223470688
+development permit|completenes review|False|0.5727439522743225
+plan|planning report|True|0.9414100646972656
+service|gis property management|True|0.9595062732696533
+property information|request|True|0.9822787642478943
+outcome|code modification|True|0.9954491853713989
+requirement|when|True|0.9923751950263977
+custom query|preapplication assistance|False|0.8221627473831177
+draft proffer|plan amendment|False|0.7698887586593628
+internal note|request|False|0.8531166911125183
+hear execution|development permit|False|0.6800341606140137
+preapplication assistance|plan amendment|False|0.8409580588340759
+building development project|each condo unit|False|0.21483919024467468
+bond|preapplication assistance|True|0.9567072987556458
+consistency|plan amendment|False|0.8481425642967224
+inspection|notice of violation|False|0.29730793833732605
+statu|inspection|False|0.8083490133285522
+hear calendar|building development project|False|0.5631816983222961
+plan amendment|when|True|0.9666885733604431
+consistency|each condo unit|False|0.3387671709060669
+draft proffer|fine|False|0.7970730066299438
+inspection|hold|False|0.8076337575912476
+approve proffer|preapplication assistance|False|0.8701891303062439
+application|appeal|True|0.9850908517837524
+service|citation|True|0.9929282069206238
+support documentation|plan amendment|False|0.8164843916893005
+fine|approve proffer|False|0.8560469746589661
+inspection|plan review meet|False|0.8695196509361267
+each condo unit|hear execution|False|0.2775757908821106
+support documentation|each condo unit|False|0.5448458790779114
+hear execution|zoning permit|False|0.16288027167320251
+requirement|application|True|0.9923209547996521
+application|building development project|True|0.9404395222663879
+statu|plan amendment|False|0.8101215362548828
+ordinance|hear requirement|False|0.7743620872497559
+hear decision|plan|True|0.9480340480804443
+hear decision|hear calendar|False|0.6365712285041809
+staff review|support documentation|False|0.635864794254303
+fine|requirement|False|0.7470884323120117
+plan amendment|application|True|0.9567220211029053
+outcome|appeal|True|0.9791327118873596
+plan|gis property management|True|0.950316309928894
+gis property management|custom query|False|0.7754287123680115
+outcome|inspector workload|True|0.9122911691665649
+hear calendar|plan|False|0.38725006580352783
+hold|plan amendment|True|0.9337301850318909
+development permit|gis property management|False|0.7166671752929688
+outcome|building development project|True|0.9341657161712646
+fee|development permit|False|0.4237191379070282
+code modification|hear decision|True|0.9826697707176208
+hold|each condo unit|False|0.3852628469467163
+hear execution|affidavit|False|0.11629736423492432
+development permit|affidavit|False|0.10850650072097778
+draft proffer|completion of required plan review|False|0.8203206062316895
+hear execution|meet|False|0.82370924949646
+ordinance|plan reviewer workload|False|0.610343337059021
+fine|hear date|False|0.6949719190597534
+hear requirement|formal response|True|0.9907605648040771
+completenes review|planning study|False|0.8299877047538757
+completenes review|draft proffer|False|0.2997184991836548
+application|plan|True|0.9929828643798828
+hear calendar|internal note|False|0.3332778811454773
+information|ordinance|True|0.9598036408424377
+application|hear calendar|False|0.7972965836524963
+plan|citation|True|0.9833301901817322
+fee|zoning permit|False|0.189531147480011
+inspector workload|planning study|False|0.4890173375606537
+staff review|information|False|0.6984726190567017
+development permit|citation|False|0.5229491591453552
+custom query|hear requirement|False|0.720032811164856
+completenes review|staff report|False|0.7432274222373962
+inspector workload|draft proffer|False|0.47164973616600037
+request|ordinance|False|0.769850492477417
+service|customer portal user account|False|0.7206202745437622
+bond|hear requirement|True|0.9627671837806702
+ordinance|formal response|True|0.9843267202377319
+application|internal note|True|0.9787865877151489
+inspector workload|staff report|False|0.4391477406024933
+approve proffer|hear requirement|False|0.7095369100570679
+hear decision|hold|False|0.8372453451156616
+affidavit|inspection|False|0.7568190097808838
+hear decision|plan review meet|False|0.7742999792098999
+plan reviewer workload|support documentation|False|0.5298030376434326
+formal response|notice of violation|True|0.9193596243858337
+fee|affidavit|False|0.18744651973247528
+when|outcome|True|0.9829587936401367
+meet|ordinance|False|0.5735650658607483
+plan amendment|service|True|0.9519062638282776
+fee|meet|False|0.8302568793296814
+bond|plan reviewer workload|True|0.9395449757575989
+hear calendar|plan review meet|False|0.37081822752952576
+outcome|internal note|True|0.9870347380638123
+citation|support documentation|True|0.9682489633560181
+formal response|hold|True|0.989989697933197
+planning report|ordinance|False|0.22559574246406555
+gis property management|requirement|False|0.7516340613365173
+property information|fine|True|0.9870888590812683
+hear calendar|approve proffer|False|0.3069157898426056
+hear date|plan reviewer workload|False|0.5844907164573669
+internal note|fine|False|0.851504921913147
+approve proffer|plan reviewer workload|False|0.6324775218963623
+requirement|preapplication assistance|True|0.9741862416267395
+planning study|code modification|False|0.7868158221244812
+staff report|outcome|False|0.40640580654144287
+draft proffer|staff review|False|0.6022515296936035
+custom query|formal response|True|0.9785240292549133
+application|plan review meet|True|0.9649267196655273
+ordinance|hear execution|False|0.7111316919326782
+affidavit|fine|False|0.7365255951881409
+plan amendment|preapplication assistance|True|0.9156453609466553
+notice of violation|code modification|True|0.9496985077857971
+bond|formal response|True|0.9980353116989136
+gis property management|hear date|False|0.5707481503486633
+application|approve proffer|True|0.9805068969726562
+development permit|customer portal user account|False|0.35716596245765686
+plan reviewer workload|information|False|0.5772470235824585
+hear date|bond|False|0.6226083040237427
+approve proffer|formal response|True|0.9695402383804321
+citation|information|True|0.9867637753486633
+preapplication assistance|code modification|False|0.8972876667976379
+consistency|code modification|False|0.839259684085846
+gis property management|when|False|0.8643641471862793
+outcome|approve proffer|True|0.976728618144989
+property information|completion of required plan review|True|0.9873285889625549
+hear execution|request|True|0.9292043447494507
+completion of required plan review|hear decision|False|0.7232545018196106
+internal note|completion of required plan review|True|0.9803571701049805
+each condo unit|support documentation|False|0.2631920874118805
+support documentation|code modification|False|0.8741487264633179
+inspection|outcome|True|0.9838243722915649
+service|each condo unit|False|0.3352491855621338
+planning study|appeal|False|0.7009492516517639
+custom query|hear execution|False|0.7820107340812683
+planning study|inspector workload|False|0.5928346514701843
+notice of violation|appeal|False|0.7804825901985168
+statu|code modification|True|0.9141113758087158
+affidavit|completion of required plan review|False|0.6145722270011902
+outcome|requirement|True|0.9857601523399353
+property information|planning study|True|0.9767022728919983
+fine|service|True|0.9029616117477417
+customer portal user account|inspection|False|0.40045052766799927
+completenes review|plan|True|0.9006457924842834
+when|statu|False|0.8832772970199585
+completenes review|hear calendar|False|0.5281943082809448
+planning study|building development project|False|0.5007262825965881
+bond|hear execution|False|0.8801625967025757
+internal note|planning study|False|0.8947516083717346
+notice of violation|inspector workload|False|0.8658895492553711
+hear date|hear execution|False|0.6140992641448975
+gis property management|application|False|0.832473635673523
+notice of violation|building development project|True|0.9146489500999451
+building development project|appeal|False|0.7870604991912842
+approve proffer|hear execution|False|0.7695320844650269
+property information|staff report|True|0.9502627849578857
+preapplication assistance|appeal|False|0.8883959054946899
+hold|code modification|True|0.9857973456382751
+consistency|appeal|False|0.8425747752189636
+requirement|hear requirement|True|0.9867554306983948
+internal note|staff report|False|0.5898376703262329
+building development project|inspector workload|False|0.6943497061729431
+outcome|hear date|False|0.8203372955322266
+code modification|ordinance|False|0.8946837186813354
+preapplication assistance|inspector workload|False|0.7617811560630798
+customer portal user account|plan amendment|False|0.37904858589172363
+consistency|inspector workload|False|0.6107009053230286
+appeal|zoning permit|False|0.2068832963705063
+each condo unit|information|False|0.25382065773010254
+preapplication assistance|building development project|False|0.7511744499206543
+fine|preapplication assistance|False|0.8484932780265808
+consistency|building development project|False|0.5864997506141663
+plan amendment|hear requirement|True|0.9363436698913574
+support documentation|appeal|False|0.8743587136268616
+fee|request|False|0.6814472675323486
+customer portal user account|fine|False|0.4928339123725891
+support documentation|inspector workload|False|0.8114157915115356
+property information|consistency|True|0.9972563982009888
+plan|each condo unit|False|0.30372121930122375
+support documentation|building development project|False|0.8399174809455872
+statu|appeal|False|0.7233091592788696
+internal note|consistency|True|0.9668418765068054
+planning study|hear calendar|False|0.44853895902633667
+planning study|plan|False|0.6675998568534851
+development permit|each condo unit|False|0.15044857561588287
+requirement|plan reviewer workload|True|0.9351307153701782
+statu|inspector workload|False|0.7826000452041626
+notice of violation|plan|False|0.7797476649284363
+notice of violation|hear calendar|False|0.5193378925323486
+completenes review|notice of violation|False|0.3039852976799011
+property information|staff review|True|0.9275091886520386
+statu|building development project|False|0.8658145070075989
+affidavit|consistency|True|0.9221864342689514
+plan reviewer workload|property information|False|0.8726460933685303
+internal note|staff review|False|0.6112214922904968
+plan review meet|zoning permit|False|0.3040432035923004
+appeal|meet|True|0.952491819858551
+completenes review|hold|False|0.7948001623153687
+hold|appeal|True|0.9520576000213623
+building development project|plan|False|0.7573326230049133
+inspector workload|notice of violation|False|0.16718792915344238
+planning study|internal note|False|0.8295527100563049
+building development project|hear calendar|False|0.19986940920352936
+completenes review|plan review meet|False|0.7840819358825684
+hear decision|outcome|True|0.9699243903160095
+preapplication assistance|hear calendar|False|0.6487636566162109
+hold|inspector workload|False|0.8081609010696411
+citation|property information|True|0.9682443737983704
+fine|fee|False|0.7708505988121033
+consistency|plan|True|0.9070621132850647
+affidavit|staff review|False|0.45727410912513733
+consistency|hear calendar|False|0.6586363315582275
+notice of violation|internal note|False|0.7848246097564697
+outcome|application|True|0.9955735802650452
+hold|building development project|False|0.8696944117546082
+inspector workload|hold|False|0.5060422420501709
+requirement|formal response|True|0.9980267882347107
+inspector workload|plan review meet|False|0.5569779276847839
+hear calendar|outcome|False|0.3480973243713379
+draft proffer|custom query|False|0.6656264066696167
+support documentation|plan|True|0.9345599412918091
+support documentation|hear calendar|False|0.8026157021522522
+building development project|internal note|False|0.737993061542511
+plan amendment|formal response|True|0.9910297393798828
+plan reviewer workload|completenes review|False|0.6596418023109436
+preapplication assistance|internal note|False|0.8953000903129578
+consistency|internal note|True|0.9056336879730225
+plan review meet|meet|False|0.42593351006507874
+request|development permit|False|0.7689743041992188
+plan reviewer workload|planning report|False|0.4972873032093048
+ordinance|support documentation|True|0.9324458241462708
+application|outcome|True|0.9970115423202515
+support documentation|internal note|True|0.9135482311248779
+hear execution|fine|False|0.8130089044570923
+gis property management|preapplication assistance|False|0.7271091341972351
+fine|hear requirement|False|0.753415584564209
+citation|planning report|False|0.8618936538696289
+information|zoning permit|False|0.6947571635246277
+service|draft proffer|False|0.7897292375564575
+planning study|approve proffer|False|0.7324705123901367
+hold|plan|True|0.9716355204582214
+hold|hear calendar|False|0.7492068409919739
+statu|internal note|False|0.866611659526825
+request|zoning permit|False|0.28770145773887634
+application|service|True|0.9844869375228882
+notice of violation|approve proffer|False|0.8672889471054077
+requirement|hear execution|True|0.9374170303344727
+each condo unit|property information|False|0.3043941557407379
+meet|development permit|False|0.7249260544776917
+when|hear decision|True|0.9595131874084473
+when|plan reviewer workload|False|0.7635533213615417
+building development project|plan review meet|False|0.5152897834777832
+planning report|development permit|False|0.19663672149181366
+planning study|requirement|False|0.5622615814208984
+building development project|approve proffer|False|0.7206013798713684
+hold|internal note|False|0.8913214206695557
+completion of required plan review|ordinance|False|0.572666585445404
+preapplication assistance|approve proffer|True|0.9203388094902039
+ordinance|information|True|0.9500713348388672
+consistency|approve proffer|False|0.8622803688049316
+outcome|service|True|0.9955095052719116
+information|meet|True|0.993350088596344
+custom query|support documentation|False|0.8965862989425659
+plan reviewer workload|gis property management|False|0.681402862071991
+bond|support documentation|True|0.9919910430908203
+request|affidavit|False|0.5581424832344055
+staff report|hear decision|False|0.43658775091171265
+hear execution|completion of required plan review|False|0.850567638874054
+when|bond|True|0.9648024439811707
+support documentation|approve proffer|True|0.9390600919723511
+fee|fine|False|0.7690204977989197
+draft proffer|requirement|False|0.4347901940345764
+planning study|hear date|False|0.5288175940513611
+planning report|zoning permit|False|0.12012078613042831
+hear date|support documentation|False|0.8609818816184998
+preapplication assistance|requirement|False|0.7142999172210693
+consistency|requirement|True|0.971951425075531
+approve proffer|support documentation|True|0.9344983696937561
+zoning permit|meet|False|0.4480665326118469
+formal response|statu|True|0.986263632774353
+each condo unit|planning report|False|0.26141557097435
+statu|approve proffer|False|0.8187007904052734
+hear calendar|fee|False|0.3980914056301117
+hear execution|planning study|False|0.7760654091835022
+development permit|planning study|False|0.3306206464767456
+property information|notice of violation|False|0.790387749671936
+outcome|preapplication assistance|True|0.9630057215690613
+development permit|draft proffer|False|0.20621074736118317
+support documentation|requirement|True|0.9446807503700256
+customer portal user account|code modification|False|0.3713362514972687
+internal note|notice of violation|False|0.5178750157356262
+plan reviewer workload|citation|False|0.7996636629104614
+draft proffer|hear date|False|0.6253606081008911
+meet|affidavit|False|0.41763392090797424
+preapplication assistance|hear date|False|0.7291991710662842
+consistency|hear date|False|0.6907860040664673
+hear execution|staff report|False|0.612985372543335
+statu|requirement|True|0.9119402766227722
+hold|approve proffer|True|0.931796133518219
+development permit|staff report|False|0.48696398735046387
+internal note|hold|False|0.8631812930107117
+planning report|affidavit|False|0.07315017282962799
+property information|custom query|True|0.9460719227790833
+application|fee|True|0.987725019454956
+bond|information|True|0.9919278621673584
+planning report|meet|False|0.605754554271698
+inspection|hear decision|False|0.8969123959541321
+service|building development project|False|0.8828110098838806
+hear date|information|False|0.7762167453765869
+support documentation|hear date|False|0.7410117387771606
+approve proffer|information|True|0.9456478953361511
+draft proffer|when|False|0.7212827205657959
+fee|completion of required plan review|False|0.7653043866157532
+hold|requirement|False|0.8565250039100647
+affidavit|custom query|False|0.6333351135253906
+statu|hear date|False|0.48975372314453125
+planning study|application|False|0.7725238800048828
+hear execution|consistency|True|0.961607813835144
+outcome|fee|True|0.9949342608451843
+gis property management|plan reviewer workload|False|0.5612336993217468
+completenes review|outcome|True|0.970874011516571
+hear execution|staff review|False|0.6779569983482361
+customer portal user account|inspector workload|False|0.44531938433647156
+hold|hear date|False|0.8393394351005554
+inspector workload|outcome|False|0.6234461069107056
+draft proffer|application|False|0.7208177447319031
+plan|appeal|True|0.9070557355880737
+service|plan|True|0.9776018261909485
+service|hear calendar|False|0.5095791816711426
+preapplication assistance|application|False|0.738534688949585
+request|customer portal user account|False|0.6473073363304138
+staff review|inspection|False|0.47095343470573425
+ordinance|property information|True|0.9748039841651917
+gis property management|bond|False|0.8477248549461365
+gis property management|formal response|True|0.9552925825119019
+plan|building development project|False|0.8951337933540344
+hear requirement|completenes review|True|0.9699224829673767
+code modification|zoning permit|False|0.6096483469009399
+outcome|hear requirement|True|0.988818883895874
+information|request|True|0.9788028597831726
+hear requirement|planning report|True|0.9332132339477539
+fee|consistency|True|0.9664698839187622
+staff review|plan amendment|False|0.5125433802604675
+statu|application|False|0.8661567568778992
+meet|customer portal user account|False|0.5311167240142822
+ordinance|completenes review|True|0.9310035705566406
+requirement|support documentation|True|0.9949416518211365
+fee|staff review|False|0.5032221078872681
+ordinance|planning report|False|0.7652708888053894
+planning study|service|False|0.770353376865387
+code modification|meet|True|0.9793272018432617
+custom query|property information|True|0.9463900327682495
+plan|plan|False|0.0
+plan|hear calendar|False|0.6478024125099182
+notice of violation|service|False|0.8148518204689026
+gis property management|hear execution|False|0.6823081374168396
+plan review meet|inspection|False|0.6523605585098267
+customer portal user account|custom query|False|0.49078771471977234
+meet|request|False|0.8480716943740845
+appeal|fine|True|0.9269589185714722
+formal response|hear decision|True|0.9770431518554688
+formal response|plan reviewer workload|True|0.9483152627944946
+development permit|plan|False|0.6394611597061157
+development permit|hear calendar|False|0.19083674252033234
+bond|property information|True|0.9844392538070679
+service|hold|True|0.9426233172416687
+hear date|property information|False|0.8297891020774841
+planning report|request|False|0.4415568709373474
+service|plan review meet|True|0.9176346659660339
+building development project|service|False|0.7962033748626709
+approve proffer|property information|True|0.9671017527580261
+service|approve proffer|True|0.94610196352005
+preapplication assistance|service|False|0.8251997828483582
+hear requirement|gis property management|True|0.9334036111831665
+staff report|ordinance|False|0.13433139026165009
+plan|internal note|True|0.9042760133743286
+outcome|formal response|True|0.9981183409690857
+planning study|preapplication assistance|False|0.6779653429985046
+consistency|service|False|0.8615494966506958
+inspector workload|statu|False|0.4393579959869385
+requirement|information|True|0.9957912564277649
+custom query|completenes review|False|0.8930079936981201
+formal response|bond|True|0.9944626688957214
+support documentation|service|False|0.7807218432426453
+bond|completenes review|True|0.9936308860778809
+custom query|planning report|False|0.7643043994903564
+affidavit|when|False|0.7641574740409851
+plan review meet|fine|False|0.7183011174201965
+hear date|completenes review|False|0.8608484268188477
+bond|planning report|True|0.9813306331634521
+draft proffer|preapplication assistance|False|0.6973820328712463
+ordinance|gis property management|False|0.8849717974662781
+plan reviewer workload|each condo unit|False|0.18411239981651306
+statu|service|False|0.7074176073074341
+approve proffer|completenes review|False|0.8601964712142944
+hear requirement|citation|True|0.9763847589492798
+consistency|preapplication assistance|False|0.7485272288322449
+hear date|planning report|False|0.7969767451286316
+appeal|completion of required plan review|True|0.9465245604515076
+citation|plan amendment|False|0.8075551986694336
+completion of required plan review|development permit|False|0.4722265601158142
+approve proffer|planning report|False|0.8870680928230286
+fine|ordinance|False|0.33442240953445435
+hear execution|notice of violation|False|0.1732984036207199
+support documentation|preapplication assistance|False|0.8263383507728577
+planning study|fee|False|0.7828649878501892
+plan|plan review meet|False|0.8878900408744812
+hold|service|True|0.9621317982673645
+hear execution|hold|False|0.6491281390190125
+development permit|hold|False|0.5371629595756531
+plan|approve proffer|True|0.908279538154602
+notice of violation|fee|False|0.8176583647727966
+ordinance|citation|True|0.9278823733329773
+zoning permit|inspection|False|0.28929322957992554
+development permit|plan review meet|False|0.33578574657440186
+statu|preapplication assistance|False|0.801656186580658
+completion of required plan review|zoning permit|False|0.3912523686885834
+customer portal user account|requirement|False|0.3215467035770416
+building development project|fee|False|0.8128550052642822
+each condo unit|inspection|False|0.3548291325569153
+plan review meet|completion of required plan review|False|0.682721734046936
+preapplication assistance|fee|False|0.8754608631134033
+information|fine|True|0.989133358001709
+custom query|gis property management|False|0.8549063801765442
+consistency|fee|True|0.9261456727981567
+hold|preapplication assistance|False|0.8863051533699036
+bond|gis property management|True|0.9525430202484131
+planning study|hear requirement|False|0.4810226857662201
+customer portal user account|hear date|False|0.3210827708244324
+code modification|request|True|0.9555839896202087
+support documentation|fee|True|0.9357467889785767
+notice of violation|hear requirement|False|0.8094534277915955
+approve proffer|gis property management|False|0.8906174898147583
+fee|notice of violation|False|0.17092153429985046
+zoning permit|fine|False|0.366928368806839
+each condo unit|plan amendment|False|0.271159291267395
+appeal|consistency|True|0.9682989716529846
+completion of required plan review|affidavit|False|0.2577824294567108
+hear requirement|customer portal user account|False|0.6971364617347717
+completion of required plan review|meet|False|0.7307615876197815
+statu|fee|False|0.7720065116882324
+custom query|citation|True|0.9589415788650513

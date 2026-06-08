@@ -1,0 +1,5924 @@
+[
+  {
+  "PID": "Sin01",
+  "Text": "As a user, I want to sign up for a new account so that I can access the platform.",
+  "Persona": [
+    "user"
+  ],
+  "Action": {
+    "Goal": [
+      "sign up"
+    ],
+    "Benefit": [
+      "access"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "new account"
+    ],
+    "Benefit": [
+      "platform"
+    ]
+  },
+  "Benefit": "I can access the platform",
+  "Triggers": [
+    [
+      "user",
+      "sign up"
+    ]
+  ],
+  "Targets": [
+    [
+      "sign up",
+      "new account"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a project manager, I want to establish a new project so that work can begin.",
+    "Persona": [
+      "project manager"
+    ],
+    "Action": {
+      "Goal": [
+        "establish"
+      ],
+      "Benefit": [
+        "begin"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new project"
+      ],
+      "Benefit": [
+        "work"
+      ]
+    },
+    "Benefit": "work can begin",
+    "Triggers": [
+      [
+        "project manager",
+        "establish"
+      ]
+    ],
+    "Targets": [
+      [
+        "establish",
+        "new project"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As an administrator, I want to provision a new user profile so that the employee can log in.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "provision"
+      ],
+      "Benefit": [
+        "log in"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new user profile"
+      ],
+      "Benefit": [
+        "employee"
+      ]
+    },
+    "Benefit": "the employee can log in",
+    "Triggers": [
+      [
+        "administrator",
+        "provision"
+      ]
+    ],
+    "Targets": [
+      [
+        "provision",
+        "new user profile"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+  "PID": "Sin01",
+  "Text": "As a customer, I want to file a support ticket so that my issue can be tracked.",
+  "Persona": [
+    "customer"
+  ],
+  "Action": {
+    "Goal": [
+      "file"
+    ],
+    "Benefit": [
+      "tracked"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "support ticket"
+    ],
+    "Benefit": [
+      "issue"
+    ]
+  },
+  "Benefit": "my issue can be tracked",
+  "Triggers": [
+    [
+      "customer",
+      "file"
+    ]
+  ],
+  "Targets": [
+    [
+      "file",
+      "support ticket"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to generate a report so that I can analyze my data.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "generate"
+      ],
+      "Benefit": [
+        "analyze"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "report"
+      ],
+      "Benefit": [
+        "data"
+      ]
+    },
+    "Benefit": "I can analyze my data",
+    "Triggers": [
+      [
+        "user",
+        "generate"
+      ]
+    ],
+    "Targets": [
+      [
+        "generate",
+        "report"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a editor, I want to compose a new article so that it can be published.",
+    "Persona": [
+      "editor"
+    ],
+    "Action": {
+      "Goal": [
+        "compose"
+      ],
+      "Benefit": [
+        "published"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new article"
+      ],
+      "Benefit": [
+        "article"
+      ]
+    },
+    "Benefit": "it can be published",
+    "Triggers": [
+      [
+        "editor",
+        "compose"
+      ]
+    ],
+    "Targets": [
+      [
+        "compose",
+        "new article"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a developer, I want to instantiate a new service so that the system can scale.",
+    "Persona": [
+      "developer"
+    ],
+    "Action": {
+      "Goal": [
+        "instantiate"
+      ],
+      "Benefit": [
+        "scale"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new service"
+      ],
+      "Benefit": [
+        "system"
+      ]
+    },
+    "Benefit": "the system can scale",
+    "Triggers": [
+      [
+        "developer",
+        "instantiate"
+      ]
+    ],
+    "Targets": [
+      [
+        "instantiate",
+        "new service"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a team leader, I want to form a new group so that members can collaborate.",
+    "Persona": [
+      "team leader"
+    ],
+    "Action": {
+      "Goal": [
+        "form"
+      ],
+      "Benefit": [
+        "collaborate"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new group"
+      ],
+      "Benefit": [
+        "members"
+      ]
+    },
+    "Benefit": "members can collaborate",
+    "Triggers": [
+      [
+        "team leader",
+        "form"
+      ]
+    ],
+    "Targets": [
+      [
+        "form",
+        "new group"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to register a account so that I can use the application.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "register"
+      ],
+      "Benefit": [
+        "use"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "account"
+      ],
+      "Benefit": [
+        "application"
+      ]
+    },
+    "Benefit": "I can use the application",
+    "Triggers": [
+      [
+        "user",
+        "register"
+      ]
+    ],
+    "Targets": [
+      [
+        "register",
+        "account"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a customer, I want to place a order so that I can purchase a product.",
+    "Persona": [
+      "customer"
+    ],
+    "Action": {
+      "Goal": [
+        "place"
+      ],
+      "Benefit": [
+        "purchase"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "order"
+      ],
+      "Benefit": [
+        "product"
+      ]
+    },
+    "Benefit": "I can purchase a product",
+    "Triggers": [
+      [
+        "customer",
+        "place"
+      ]
+    ],
+    "Targets": [
+      [
+        "place",
+        "order"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to issue a new access token so that the integration can authenticate.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "issue"
+      ],
+      "Benefit": [
+        "authenticate"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new access token"
+      ],
+      "Benefit": [
+        "integration"
+      ]
+    },
+    "Benefit": "the integration can authenticate",
+    "Triggers": [
+      [
+        "administrator",
+        "issue"
+      ]
+    ],
+    "Targets": [
+      [
+        "issue",
+        "new access token"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to add a new address so that I can receive deliveries.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "add"
+      ],
+      "Benefit": [
+        "receive"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new address"
+      ],
+      "Benefit": [
+        "deliveries"
+      ]
+    },
+    "Benefit": "I can receive deliveries",
+    "Triggers": [
+      [
+        "user",
+        "add"
+      ]
+    ],
+    "Targets": [
+      [
+        "add",
+        "new address"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+  "PID": "Sin01",
+  "Text": "As a moderator, I want to originate a new discussion thread so that users can talk about a topic.",
+  "Persona": [
+    "moderator"
+  ],
+  "Action": {
+    "Goal": [
+      "originate"
+    ],
+    "Benefit": [
+      "talk"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "new discussion thread"
+    ],
+    "Benefit": [
+      "topic"
+    ]
+  },
+  "Benefit": "users can talk about a topic",
+  "Triggers": [
+    [
+      "moderator",
+      "originate"
+    ]
+  ],
+  "Targets": [
+    [
+      "originate",
+      "new discussion thread"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a teacher, I want to set up a new course so that students can enroll.",
+    "Persona": [
+      "teacher"
+    ],
+    "Action": {
+      "Goal": [
+        "set up"
+      ],
+      "Benefit": [
+        "enroll"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new course"
+      ],
+      "Benefit": [
+        "students"
+      ]
+    },
+    "Benefit": "students can enroll",
+    "Triggers": [
+      [
+        "teacher",
+        "set up"
+      ]
+    ],
+    "Targets": [
+      [
+        "set up",
+        "new course"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to upload a file so that it is stored in the system.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "upload"
+      ],
+      "Benefit": [
+        "stored"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "file"
+      ],
+      "Benefit": [
+        "system"
+      ]
+    },
+    "Benefit": "it is stored in the system",
+    "Triggers": [
+      [
+        "user",
+        "upload"
+      ]
+    ],
+    "Targets": [
+      [
+        "upload",
+        "file"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a developer, I want to spawn a new instance so that the workload is distributed.",
+    "Persona": [
+      "developer"
+    ],
+    "Action": {
+      "Goal": [
+        "spawn"
+      ],
+      "Benefit": [
+        "distributed"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new instance"
+      ],
+      "Benefit": [
+        "workload"
+      ]
+    },
+    "Benefit": "the workload is distributed",
+    "Triggers": [
+      [
+        "developer",
+        "spawn"
+      ]
+    ],
+    "Targets": [
+      [
+        "spawn",
+        "new instance"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a manager, I want to launch a new campaign so that customers are informed.",
+    "Persona": [
+      "manager"
+    ],
+    "Action": {
+      "Goal": [
+        "launch"
+      ],
+      "Benefit": [
+        "informed"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new campaign"
+      ],
+      "Benefit": [
+        "customers"
+      ]
+    },
+    "Benefit": "customers are informed",
+    "Triggers": [
+      [
+        "manager",
+        "launch"
+      ]
+    ],
+    "Targets": [
+      [
+        "launch",
+        "new campaign"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to submit a form so that my request is recorded.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "submit"
+      ],
+      "Benefit": [
+        "recorded"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "form"
+      ],
+      "Benefit": [
+        "request"
+      ]
+    },
+    "Benefit": "my request is recorded",
+    "Triggers": [
+      [
+        "user",
+        "submit"
+      ]
+    ],
+    "Targets": [
+      [
+        "submit",
+        "form"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a system, I want to produce a daily summary so that users stay informed.",
+    "Persona": [
+      "system"
+    ],
+    "Action": {
+      "Goal": [
+        "produce"
+      ],
+      "Benefit": [
+        "informed"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "daily summary"
+      ],
+      "Benefit": [
+        "users"
+      ]
+    },
+    "Benefit": "users stay informed",
+    "Triggers": [
+      [
+        "system",
+        "produce"
+      ]
+    ],
+    "Targets": [
+      [
+        "produce",
+        "daily summary"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to allocate a new workspace so that a team can collaborate.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "allocate"
+      ],
+      "Benefit": [
+        "collaborate"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new workspace"
+      ],
+      "Benefit": [
+        "team"
+      ]
+    },
+    "Benefit": "a team can collaborate",
+    "Triggers": [
+      [
+        "administrator",
+        "allocate"
+      ]
+    ],
+    "Targets": [
+      [
+        "allocate",
+        "new workspace"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+  "PID": "Sin01",
+  "Text": "As a user, I want to book a calendar event so that I remember my appointment.",
+  "Persona": [
+    "user"
+  ],
+  "Action": {
+    "Goal": [
+      "book"
+    ],
+    "Benefit": [
+      "remember"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "calendar event"
+    ],
+    "Benefit": [
+      "appointment"
+    ]
+  },
+  "Benefit": "I remember my appointment",
+  "Triggers": [
+    [
+      "user",
+      "book"
+    ]
+  ],
+  "Targets": [
+    [
+      "book",
+      "calendar event"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a designer, I want to craft a new template so that others can reuse it.",
+    "Persona": [
+      "designer"
+    ],
+    "Action": {
+      "Goal": [
+        "craft"
+      ],
+      "Benefit": [
+        "reuse"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new template"
+      ],
+      "Benefit": [
+        "others"
+      ]
+    },
+    "Benefit": "others can reuse it",
+    "Triggers": [
+      [
+        "designer",
+        "craft"
+      ]
+    ],
+    "Targets": [
+      [
+        "craft",
+        "new template"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a developer, I want to initialize a database so that the application can store data.",
+    "Persona": [
+      "developer"
+    ],
+    "Action": {
+      "Goal": [
+        "initialize"
+      ],
+      "Benefit": [
+        "store"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "database"
+      ],
+      "Benefit": [
+        "data"
+      ]
+    },
+    "Benefit": "the application can store data",
+    "Triggers": [
+      [
+        "developer",
+        "initialize"
+      ]
+    ],
+    "Targets": [
+      [
+        "initialize",
+        "database"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to post a message so that others can see it.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "post"
+      ],
+      "Benefit": [
+        "see"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "message"
+      ],
+      "Benefit": [
+        "others"
+      ]
+    },
+    "Benefit": "others can see it",
+    "Triggers": [
+      [
+        "user",
+        "post"
+      ]
+    ],
+    "Targets": [
+      [
+        "post",
+        "message"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to enroll a new user so that they gain system access.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "enroll"
+      ],
+      "Benefit": [
+        "gain"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new user"
+      ],
+      "Benefit": [
+        "system access"
+      ]
+    },
+    "Benefit": "they gain system access",
+    "Triggers": [
+      [
+        "administrator",
+        "enroll"
+      ]
+    ],
+    "Targets": [
+      [
+        "enroll",
+        "new user"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to record a new expense so that my budget is accurate.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "record"
+      ],
+      "Benefit": [
+        "accurate"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new expense"
+      ],
+      "Benefit": [
+        "budget"
+      ]
+    },
+    "Benefit": "my budget is accurate",
+    "Triggers": [
+      [
+        "user",
+        "record"
+      ]
+    ],
+    "Targets": [
+      [
+        "record",
+        "new expense"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a project manager, I want to schedule a new task so that work is assigned.",
+    "Persona": [
+      "project manager"
+    ],
+    "Action": {
+      "Goal": [
+        "schedule"
+      ],
+      "Benefit": [
+        "assigned"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new task"
+      ],
+      "Benefit": [
+        "work"
+      ]
+    },
+    "Benefit": "work is assigned",
+    "Triggers": [
+      [
+        "project manager",
+        "schedule"
+      ]
+    ],
+    "Targets": [
+      [
+        "schedule",
+        "new task"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+  "PID": "Sin01",
+  "Text": "As a user, I want to curate a playlist so that I can organize my music.",
+  "Persona": [
+    "user"
+  ],
+  "Action": {
+    "Goal": [
+      "curate"
+    ],
+    "Benefit": [
+      "organize"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "playlist"
+    ],
+    "Benefit": [
+      "music"
+    ]
+  },
+  "Benefit": "I can organize my music",
+  "Triggers": [
+    [
+      "user",
+      "curate"
+    ]
+  ],
+  "Targets": [
+    [
+      "curate",
+      "playlist"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a system, I want to log a new event so that activity is tracked.",
+    "Persona": [
+      "system"
+    ],
+    "Action": {
+      "Goal": [
+        "log"
+      ],
+      "Benefit": [
+        "tracked"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new event"
+      ],
+      "Benefit": [
+        "activity"
+      ]
+    },
+    "Benefit": "activity is tracked",
+    "Triggers": [
+      [
+        "system",
+        "log"
+      ]
+    ],
+    "Targets": [
+      [
+        "log",
+        "new event"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to deploy a new environment so that testing can begin.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "deploy"
+      ],
+      "Benefit": [
+        "begin"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new environment"
+      ],
+      "Benefit": [
+        "testing"
+      ]
+    },
+    "Benefit": "testing can begin",
+    "Triggers": [
+      [
+        "administrator",
+        "deploy"
+      ]
+    ],
+    "Targets": [
+      [
+        "deploy",
+        "new environment"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to start a new conversation so that I can contact support.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "start"
+      ],
+      "Benefit": [
+        "contact"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new conversation"
+      ],
+      "Benefit": [
+        "support"
+      ]
+    },
+    "Benefit": "I can contact support",
+    "Triggers": [
+      [
+        "user",
+        "start"
+      ]
+    ],
+    "Targets": [
+      [
+        "start",
+        "new conversation"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a developer, I want to construct a new object so that the feature works correctly.",
+    "Persona": [
+      "developer"
+    ],
+    "Action": {
+      "Goal": [
+        "construct"
+      ],
+      "Benefit": [
+        "works"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new object"
+      ],
+      "Benefit": [
+        "feature"
+      ]
+    },
+    "Benefit": "the feature works correctly",
+    "Triggers": [
+      [
+        "developer",
+        "construct"
+      ]
+    ],
+    "Targets": [
+      [
+        "construct",
+        "new object"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to enter a new contact so that I can reach them later.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "enter"
+      ],
+      "Benefit": [
+        "reach"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new contact"
+      ],
+      "Benefit": [
+        "them"
+      ]
+    },
+    "Benefit": "I can reach them later",
+    "Triggers": [
+      [
+        "user",
+        "enter"
+      ]
+    ],
+    "Targets": [
+      [
+        "enter",
+        "new contact"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to assign a new role so that permissions are defined.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "assign"
+      ],
+      "Benefit": [
+        "defined"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new role"
+      ],
+      "Benefit": [
+        "permissions"
+      ]
+    },
+    "Benefit": "permissions are defined",
+    "Triggers": [
+      [
+        "administrator",
+        "assign"
+      ]
+    ],
+    "Targets": [
+      [
+        "assign",
+        "new role"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to draft a new message so that I can send it later.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "draft"
+      ],
+      "Benefit": [
+        "send"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new message"
+      ],
+      "Benefit": [
+        "it"
+      ]
+    },
+    "Benefit": "I can send it later",
+    "Triggers": [
+      [
+        "user",
+        "draft"
+      ]
+    ],
+    "Targets": [
+      [
+        "draft",
+        "new message"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a team leader, I want to organize a new meeting so that we can plan the sprint.",
+    "Persona": [
+      "team leader"
+    ],
+    "Action": {
+      "Goal": [
+        "organize"
+      ],
+      "Benefit": [
+        "plan"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new meeting"
+      ],
+      "Benefit": [
+        "sprint"
+      ]
+    },
+    "Benefit": "we can plan the sprint",
+    "Triggers": [
+      [
+        "team leader",
+        "organize"
+      ]
+    ],
+    "Targets": [
+      [
+        "organize",
+        "new meeting"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to create a bookmark so that I can return to the page quickly.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "create"
+      ],
+      "Benefit": [
+        "return"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "bookmark"
+      ],
+      "Benefit": [
+        "page"
+      ]
+    },
+    "Benefit": "I can return to the page quickly",
+    "Triggers": [
+      [
+        "user",
+        "create"
+      ]
+    ],
+    "Targets": [
+      [
+        "create",
+        "bookmark"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a developer, I want to compile a new build so that the software can be released.",
+    "Persona": [
+      "developer"
+    ],
+    "Action": {
+      "Goal": [
+        "compile"
+      ],
+      "Benefit": [
+        "released"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "new build"
+      ],
+      "Benefit": [
+        "software"
+      ]
+    },
+    "Benefit": "the software can be released",
+    "Triggers": [
+      [
+        "developer",
+        "compile"
+      ]
+    ],
+    "Targets": [
+      [
+        "compile",
+        "new build"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a customer, I want to initiate a return request so that I can send the product back.",
+    "Persona": [
+      "customer"
+    ],
+    "Action": {
+      "Goal": [
+        "initiate"
+      ],
+      "Benefit": [
+        "send"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "return request"
+      ],
+      "Benefit": [
+        "product"
+      ]
+    },
+    "Benefit": "I can send the product back",
+    "Triggers": [
+      [
+        "customer",
+        "initiate"
+      ]
+    ],
+    "Targets": [
+      [
+        "initiate",
+        "return request"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+  "PID": "Sin01",
+  "Text": "As an administrator, I want to enact a new policy so that rules are enforced.",
+  "Persona": [
+    "administrator"
+  ],
+  "Action": {
+    "Goal": [
+      "enact"
+    ],
+    "Benefit": [
+      "enforced"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "new policy"
+    ],
+    "Benefit": [
+      "rules"
+    ]
+  },
+  "Benefit": "rules are enforced",
+  "Triggers": [
+    [
+      "administrator",
+      "enact"
+    ]
+  ],
+  "Targets": [
+    [
+      "enact",
+      "new policy"
+    ]
+  ],
+  "Contains": []
+  },
+  	{
+  "PID": "Sin01",
+  "Text": "As a user, I want to peruse my profile so that I can check my personal information.",
+  "Persona": [
+    "user"
+  ],
+  "Action": {
+    "Goal": [
+      "peruse"
+    ],
+    "Benefit": [
+      "check"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "my profile"
+    ],
+    "Benefit": [
+      "personal information"
+    ]
+  },
+  "Benefit": "I can check my personal information",
+  "Triggers": [
+    [
+      "user",
+      "peruse"
+    ]
+  ],
+  "Targets": [
+    [
+      "peruse",
+      "my profile"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a customer, I want to see my order history so that I can track past purchases.",
+    "Persona": [
+      "customer"
+    ],
+    "Action": {
+      "Goal": [
+        "see"
+      ],
+      "Benefit": [
+        "track"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my order history"
+      ],
+      "Benefit": [
+        "past purchases"
+      ]
+    },
+    "Benefit": "I can track past purchases",
+    "Triggers": [
+      [
+        "customer",
+        "see"
+      ]
+    ],
+    "Targets": [
+      [
+        "see",
+        "my order history"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+  "PID": "Sin01",
+  "Text": "As an administrator, I want to scrutinize system logs so that I can detect issues.",
+  "Persona": [
+    "administrator"
+  ],
+  "Action": {
+    "Goal": [
+      "scrutinize"
+    ],
+    "Benefit": [
+      "detect"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "system logs"
+    ],
+    "Benefit": [
+      "issues"
+    ]
+  },
+  "Benefit": "I can detect issues",
+  "Triggers": [
+    [
+      "administrator",
+      "scrutinize"
+    ]
+  ],
+  "Targets": [
+    [
+      "scrutinize",
+      "system logs"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+  "PID": "Sin01",
+  "Text": "As a project manager, I want to survey the project timeline so that I know the current status.",
+  "Persona": [
+    "project manager"
+  ],
+  "Action": {
+    "Goal": [
+      "survey"
+    ],
+    "Benefit": [
+      "know"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "the project timeline"
+    ],
+    "Benefit": [
+      "current status"
+    ]
+  },
+  "Benefit": "I know the current status",
+  "Triggers": [
+    [
+      "project manager",
+      "survey"
+    ]
+  ],
+  "Targets": [
+    [
+      "survey",
+      "the project timeline"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+  "PID": "Sin01",
+  "Text": "As a user, I want to glance at my notifications so that I stay informed.",
+  "Persona": [
+    "user"
+  ],
+  "Action": {
+    "Goal": [
+      "glance at"
+    ],
+    "Benefit": [
+      "stay informed"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "my notifications"
+    ],
+    "Benefit": [
+      "status"
+    ]
+  },
+  "Benefit": "I stay informed",
+  "Triggers": [
+    [
+      "user",
+      "glance at"
+    ]
+  ],
+  "Targets": [
+    [
+      "glance at",
+      "my notifications"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+  "PID": "Sin01",
+  "Text": "As a support agent, I want to assess a ticket so that I understand the problem.",
+  "Persona": [
+    "support agent"
+  ],
+  "Action": {
+    "Goal": [
+      "assess"
+    ],
+    "Benefit": [
+      "understand"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "a ticket"
+    ],
+    "Benefit": [
+      "problem"
+    ]
+  },
+  "Benefit": "I understand the problem",
+  "Triggers": [
+    [
+      "support agent",
+      "assess"
+    ]
+  ],
+  "Targets": [
+    [
+      "assess",
+      "a ticket"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+  "PID": "Sin01",
+  "Text": "As a user, I want to look through messages so that I can stay in touch with others.",
+  "Persona": [
+    "user"
+  ],
+  "Action": {
+    "Goal": [
+      "look through"
+    ],
+    "Benefit": [
+      "stay in touch"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "messages"
+    ],
+    "Benefit": [
+      "others"
+    ]
+  },
+  "Benefit": "I can stay in touch with others",
+  "Triggers": [
+    [
+      "user",
+      "look through"
+    ]
+  ],
+  "Targets": [
+    [
+      "look through",
+      "messages"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a manager, I want to analyze performance reports so that I can make decisions.",
+    "Persona": [
+      "manager"
+    ],
+    "Action": {
+      "Goal": [
+        "analyze"
+      ],
+      "Benefit": [
+        "make"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "performance reports"
+      ],
+      "Benefit": [
+        "decisions"
+      ]
+    },
+    "Benefit": "I can make decisions",
+    "Triggers": [
+      [
+        "manager",
+        "analyze"
+      ]
+    ],
+    "Targets": [
+      [
+        "analyze",
+        "performance reports"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+  "PID": "Sin01",
+  "Text": "As a user, I want to check out available products so that I can choose what to buy.",
+  "Persona": [
+    "user"
+  ],
+  "Action": {
+    "Goal": [
+      "check out"
+    ],
+    "Benefit": [
+      "choose"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "available products"
+    ],
+    "Benefit": [
+      "what to buy"
+    ]
+  },
+  "Benefit": "I can choose what to buy",
+  "Triggers": [
+    [
+      "user",
+      "check out"
+    ]
+  ],
+  "Targets": [
+    [
+      "check out",
+      "available products"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+  "PID": "Sin01",
+  "Text": "As an administrator, I want to oversee user activities so that I can ensure compliance.",
+  "Persona": [
+    "administrator"
+  ],
+  "Action": {
+    "Goal": [
+      "oversee"
+    ],
+    "Benefit": [
+      "ensure"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "user activities"
+    ],
+    "Benefit": [
+      "compliance"
+    ]
+  },
+  "Benefit": "I can ensure compliance",
+  "Triggers": [
+    [
+      "administrator",
+      "oversee"
+    ]
+  ],
+  "Targets": [
+    [
+      "oversee",
+      "user activities"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+  "PID": "Sin01",
+  "Text": "As a user, I want to access a document so that I can read its content.",
+  "Persona": [
+    "user"
+  ],
+  "Action": {
+    "Goal": [
+      "access"
+    ],
+    "Benefit": [
+      "read"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "a document"
+    ],
+    "Benefit": [
+      "its content"
+    ]
+  },
+  "Benefit": "I can read its content",
+  "Triggers": [
+    [
+      "user",
+      "access"
+    ]
+  ],
+  "Targets": [
+    [
+      "access",
+      "a document"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a team member, I want to consult the project notes so that I understand the context.",
+    "Persona": [
+      "team member"
+    ],
+    "Action": {
+      "Goal": [
+        "consult"
+      ],
+      "Benefit": [
+        "understand"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "the project notes"
+      ],
+      "Benefit": [
+        "context"
+      ]
+    },
+    "Benefit": "I understand the context",
+    "Triggers": [
+      [
+        "team member",
+        "consult"
+      ]
+    ],
+    "Targets": [
+      [
+        "consult",
+        "the project notes"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to display my saved items so that I can access them quickly.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "display"
+      ],
+      "Benefit": [
+        "access"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my saved items"
+      ],
+      "Benefit": [
+        "them"
+      ]
+    },
+    "Benefit": "I can access them quickly",
+    "Triggers": [
+      [
+        "user",
+        "display"
+      ]
+    ],
+    "Targets": [
+      [
+        "display",
+        "my saved items"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a developer, I want to trace application logs so that I can diagnose errors.",
+    "Persona": [
+      "developer"
+    ],
+    "Action": {
+      "Goal": [
+        "trace"
+      ],
+      "Benefit": [
+        "diagnose"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "application logs"
+      ],
+      "Benefit": [
+        "errors"
+      ]
+    },
+    "Benefit": "I can diagnose errors",
+    "Triggers": [
+      [
+        "developer",
+        "trace"
+      ]
+    ],
+    "Targets": [
+      [
+        "trace",
+        "application logs"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to preview an image so that I know if it is the right one.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "preview"
+      ],
+      "Benefit": [
+        "know"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "an image"
+      ],
+      "Benefit": [
+        "if it is the right one"
+      ]
+    },
+    "Benefit": "I know if it is the right one",
+    "Triggers": [
+      [
+        "user",
+        "preview"
+      ]
+    ],
+    "Targets": [
+      [
+        "preview",
+        "an image"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+  "PID": "Sin01",
+  "Text": "As a moderator, I want to screen reported posts so that I can take action if needed.",
+  "Persona": [
+    "moderator"
+  ],
+  "Action": {
+    "Goal": [
+      "screen"
+    ],
+    "Benefit": [
+      "take"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "reported posts"
+    ],
+    "Benefit": [
+      "action"
+    ]
+  },
+  "Benefit": "I can take action if needed",
+  "Triggers": [
+    [
+      "moderator",
+      "screen"
+    ]
+  ],
+  "Targets": [
+    [
+      "screen",
+      "reported posts"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to look up a contact so that I can reach them.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "look up"
+      ],
+      "Benefit": [
+        "reach"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a contact"
+      ],
+      "Benefit": [
+        "them"
+      ]
+    },
+    "Benefit": "I can reach them",
+    "Triggers": [
+      [
+        "user",
+        "look up"
+      ]
+    ],
+    "Targets": [
+      [
+        "look up",
+        "a contact"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to monitor system status so that I can ensure uptime.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "monitor"
+      ],
+      "Benefit": [
+        "ensure"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "system status"
+      ],
+      "Benefit": [
+        "uptime"
+      ]
+    },
+    "Benefit": "I can ensure uptime",
+    "Triggers": [
+      [
+        "administrator",
+        "monitor"
+      ]
+    ],
+    "Targets": [
+      [
+        "monitor",
+        "system status"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a customer, I want to track my shipment so that I know when it will arrive.",
+    "Persona": [
+      "customer"
+    ],
+    "Action": {
+      "Goal": [
+        "track"
+      ],
+      "Benefit": [
+        "know"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my shipment"
+      ],
+      "Benefit": [
+        "arrival time"
+      ]
+    },
+    "Benefit": "I know when it will arrive",
+    "Triggers": [
+      [
+        "customer",
+        "track"
+      ]
+    ],
+    "Targets": [
+      [
+        "track",
+        "my shipment"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to explore categories so that I can discover new content.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "explore"
+      ],
+      "Benefit": [
+        "discover"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "categories"
+      ],
+      "Benefit": [
+        "new content"
+      ]
+    },
+    "Benefit": "I can discover new content",
+    "Triggers": [
+      [
+        "user",
+        "explore"
+      ]
+    ],
+    "Targets": [
+      [
+        "explore",
+        "categories"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a manager, I want to evaluate sales data so that I can adjust strategy.",
+    "Persona": [
+      "manager"
+    ],
+    "Action": {
+      "Goal": [
+        "evaluate"
+      ],
+      "Benefit": [
+        "adjust"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "sales data"
+      ],
+      "Benefit": [
+        "strategy"
+      ]
+    },
+    "Benefit": "I can adjust strategy",
+    "Triggers": [
+      [
+        "manager",
+        "evaluate"
+      ]
+    ],
+    "Targets": [
+      [
+        "evaluate",
+        "sales data"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+  "PID": "Sin01",
+  "Text": "As a user, I want to verify my account balance so that I know how much I have.",
+  "Persona": [
+    "user"
+  ],
+  "Action": {
+    "Goal": [
+      "verify"
+    ],
+    "Benefit": [
+      "know"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "my account balance"
+    ],
+    "Benefit": [
+      "amount"
+    ]
+  },
+  "Benefit": "I know how much I have",
+  "Triggers": [
+    [
+      "user",
+      "verify"
+    ]
+  ],
+  "Targets": [
+    [
+      "verify",
+      "my account balance"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a support agent, I want to read through a conversation history so that I understand the issue.",
+    "Persona": [
+      "support agent"
+    ],
+    "Action": {
+      "Goal": [
+        "read through"
+      ],
+      "Benefit": [
+        "understand"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a conversation history"
+      ],
+      "Benefit": [
+        "issue"
+      ]
+    },
+    "Benefit": "I understand the issue",
+    "Triggers": [
+      [
+        "support agent",
+        "read through"
+      ]
+    ],
+    "Targets": [
+      [
+        "read through",
+        "a conversation history"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+  "PID": "Sin01",
+  "Text": "As a user, I want to reference my calendar so that I can see upcoming events.",
+  "Persona": [
+    "user"
+  ],
+  "Action": {
+    "Goal": [
+      "reference"
+    ],
+    "Benefit": [
+      "see"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "my calendar"
+    ],
+    "Benefit": [
+      "upcoming events"
+    ]
+  },
+  "Benefit": "I can see upcoming events",
+  "Triggers": [
+    [
+      "user",
+      "reference"
+    ]
+  ],
+  "Targets": [
+    [
+      "reference",
+      "my calendar"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+  "PID": "Sin01",
+  "Text": "As an administrator, I want to check configuration settings against the security baseline so that I can confirm compliance.",
+  "Persona": [
+    "administrator"
+  ],
+  "Action": {
+    "Goal": [
+      "check"
+    ],
+    "Benefit": [
+      "confirm"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "configuration settings"
+    ],
+    "Benefit": [
+      "compliance"
+    ]
+  },
+  "Benefit": "I can confirm compliance",
+  "Triggers": [
+    [
+      "administrator",
+      "check"
+    ]
+  ],
+  "Targets": [
+    [
+      "check",
+      "configuration settings"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to browse through my photo gallery so that I can find a picture.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "browse through"
+      ],
+      "Benefit": [
+        "find"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my photo gallery"
+      ],
+      "Benefit": [
+        "a picture"
+      ]
+    },
+    "Benefit": "I can find a picture",
+    "Triggers": [
+      [
+        "user",
+        "browse through"
+      ]
+    ],
+    "Targets": [
+      [
+        "browse through",
+        "my photo gallery"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a developer, I want to observe system metrics so that I can detect anomalies.",
+    "Persona": [
+      "developer"
+    ],
+    "Action": {
+      "Goal": [
+        "observe"
+      ],
+      "Benefit": [
+        "detect"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "system metrics"
+      ],
+      "Benefit": [
+        "anomalies"
+      ]
+    },
+    "Benefit": "I can detect anomalies",
+    "Triggers": [
+      [
+        "developer",
+        "observe"
+      ]
+    ],
+    "Targets": [
+      [
+        "observe",
+        "system metrics"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to open my saved draft so that I can read it.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "open"
+      ],
+      "Benefit": [
+        "read"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my saved draft"
+      ],
+      "Benefit": [
+        "it"
+      ]
+    },
+    "Benefit": "I can read it",
+    "Triggers": [
+      [
+        "user",
+        "open"
+      ]
+    ],
+    "Targets": [
+      [
+        "open",
+        "my saved draft"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+  "PID": "Sin01",
+  "Text": "As a moderator, I want to probe flagged content so that I can better understand potential violations.",
+  "Persona": [
+    "moderator"
+  ],
+  "Action": {
+    "Goal": [
+      "probe"
+    ],
+    "Benefit": [
+      "understand"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "flagged content"
+    ],
+    "Benefit": [
+      "violations"
+    ]
+  },
+  "Benefit": "I can better understand potential violations",
+  "Triggers": [
+    [
+      "moderator",
+      "probe"
+    ]
+  ],
+  "Targets": [
+    [
+      "probe",
+      "flagged content"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+  "PID": "Sin01",
+  "Text": "As a technician, I want to ascertain the current system status so that I can perform the correct maintenance task.",
+  "Persona": [
+    "technician"
+  ],
+  "Action": {
+    "Goal": [
+      "ascertain"
+    ],
+    "Benefit": [
+      "perform"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "the current system status"
+    ],
+    "Benefit": [
+      "maintenance task"
+    ]
+  },
+  "Benefit": "I can perform the correct maintenance task",
+  "Triggers": [
+    [
+      "technician",
+      "ascertain"
+    ]
+  ],
+  "Targets": [
+    [
+      "ascertain",
+      "the current system status"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to examine access records so that I can verify activity.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "examine"
+      ],
+      "Benefit": [
+        "verify"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "access records"
+      ],
+      "Benefit": [
+        "activity"
+      ]
+    },
+    "Benefit": "I can verify activity",
+    "Triggers": [
+      [
+        "administrator",
+        "examine"
+      ]
+    ],
+    "Targets": [
+      [
+        "examine",
+        "access records"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to scan my inbox so that I can find important messages.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "scan"
+      ],
+      "Benefit": [
+        "find"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my inbox"
+      ],
+      "Benefit": [
+        "important messages"
+      ]
+    },
+    "Benefit": "I can find important messages",
+    "Triggers": [
+      [
+        "user",
+        "scan"
+      ]
+    ],
+    "Targets": [
+      [
+        "scan",
+        "my inbox"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a manager, I want to study team performance charts so that I can guide improvements.",
+    "Persona": [
+      "manager"
+    ],
+    "Action": {
+      "Goal": [
+        "study"
+      ],
+      "Benefit": [
+        "guide"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "team performance charts"
+      ],
+      "Benefit": [
+        "improvements"
+      ]
+    },
+    "Benefit": "I can guide improvements",
+    "Triggers": [
+      [
+        "manager",
+        "study"
+      ]
+    ],
+    "Targets": [
+      [
+        "study",
+        "team performance charts"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to look over my recent activity so that I stay aware.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "look over"
+      ],
+      "Benefit": [
+        "stay"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my recent activity"
+      ],
+      "Benefit": [
+        "aware"
+      ]
+    },
+    "Benefit": "I stay aware",
+    "Triggers": [
+      [
+        "user",
+        "look over"
+      ]
+    ],
+    "Targets": [
+      [
+        "look over",
+        "my recent activity"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a developer, I want to inspect API responses so that I can debug issues.",
+    "Persona": [
+      "developer"
+    ],
+    "Action": {
+      "Goal": [
+        "inspect"
+      ],
+      "Benefit": [
+        "debug"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "API responses"
+      ],
+      "Benefit": [
+        "issues"
+      ]
+    },
+    "Benefit": "I can debug issues",
+    "Triggers": [
+      [
+        "developer",
+        "inspect"
+      ]
+    ],
+    "Targets": [
+      [
+        "inspect",
+        "API responses"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to review my saved preferences so that I know my settings.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "review"
+      ],
+      "Benefit": [
+        "know"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my saved preferences"
+      ],
+      "Benefit": [
+        "settings"
+      ]
+    },
+    "Benefit": "I know my settings",
+    "Triggers": [
+      [
+        "user",
+        "review"
+      ]
+    ],
+    "Targets": [
+      [
+        "review",
+        "my saved preferences"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a support agent, I want to check a user profile so that I can assist them.",
+    "Persona": [
+      "support agent"
+    ],
+    "Action": {
+      "Goal": [
+        "check"
+      ],
+      "Benefit": [
+        "assist"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a user profile"
+      ],
+      "Benefit": [
+        "them"
+      ]
+    },
+    "Benefit": "I can assist them",
+    "Triggers": [
+      [
+        "support agent",
+        "check"
+      ]
+    ],
+    "Targets": [
+      [
+        "check",
+        "a user profile"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to view my loyalty points so that I know my rewards.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "view"
+      ],
+      "Benefit": [
+        "know"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my loyalty points"
+      ],
+      "Benefit": [
+        "rewards"
+      ]
+    },
+    "Benefit": "I know my rewards",
+    "Triggers": [
+      [
+        "user",
+        "view"
+      ]
+    ],
+    "Targets": [
+      [
+        "view",
+        "my loyalty points"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to audit permission assignments so that access stays controlled.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "audit"
+      ],
+      "Benefit": [
+        "control"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "permission assignments"
+      ],
+      "Benefit": [
+        "access"
+      ]
+    },
+    "Benefit": "access stays controlled",
+    "Triggers": [
+      [
+        "administrator",
+        "audit"
+      ]
+    ],
+    "Targets": [
+      [
+        "audit",
+        "permission assignments"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to read the terms of service so that I understand the rules.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "read"
+      ],
+      "Benefit": [
+        "understand"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "the terms of service"
+      ],
+      "Benefit": [
+        "rules"
+      ]
+    },
+    "Benefit": "I understand the rules",
+    "Triggers": [
+      [
+        "user",
+        "read"
+      ]
+    ],
+    "Targets": [
+      [
+        "read",
+        "the terms of service"
+      ]
+    ],
+    "Contains": []
+  },
+    {
+    "PID": "Sin01",
+    "Text": "As a user, I want to polish my profile information so that it stays accurate.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "polish"
+      ],
+      "Benefit": [
+        "stays"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my profile information"
+      ],
+      "Benefit": [
+        "accurate"
+      ]
+    },
+    "Benefit": "it stays accurate",
+    "Triggers": [
+      [
+        "user",
+        "polish"
+      ]
+    ],
+    "Targets": [
+      [
+        "polish",
+        "my profile information"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a customer, I want to alter my delivery address so that my order arrives at the correct place.",
+    "Persona": [
+      "customer"
+    ],
+    "Action": {
+      "Goal": [
+        "alter"
+      ],
+      "Benefit": [
+        "arrives"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my delivery address"
+      ],
+      "Benefit": [
+        "correct place"
+      ]
+    },
+    "Benefit": "my order arrives at the correct place",
+    "Triggers": [
+      [
+        "customer",
+        "alter"
+      ]
+    ],
+    "Targets": [
+      [
+        "alter",
+        "my delivery address"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to realign user permissions so that access rights are correct.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "realign"
+      ],
+      "Benefit": [
+        "are"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "user permissions"
+      ],
+      "Benefit": [
+        "correct"
+      ]
+    },
+    "Benefit": "access rights are correct",
+    "Triggers": [
+      [
+        "administrator",
+        "realign"
+      ]
+    ],
+    "Targets": [
+      [
+        "realign",
+        "user permissions"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a project manager, I want to reschedule the project deadline so that it reflects new priorities.",
+    "Persona": [
+      "project manager"
+    ],
+    "Action": {
+      "Goal": [
+        "reschedule"
+      ],
+      "Benefit": [
+        "reflects"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "the project deadline"
+      ],
+      "Benefit": [
+        "new priorities"
+      ]
+    },
+    "Benefit": "it reflects new priorities",
+    "Triggers": [
+      [
+        "project manager",
+        "reschedule"
+      ]
+    ],
+    "Targets": [
+      [
+        "reschedule",
+        "the project deadline"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to revamp my saved draft so that I can improve the message.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "revamp"
+      ],
+      "Benefit": [
+        "improve"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my saved draft"
+      ],
+      "Benefit": [
+        "message"
+      ]
+    },
+    "Benefit": "I can improve the message",
+    "Triggers": [
+      [
+        "user",
+        "revamp"
+      ]
+    ],
+    "Targets": [
+      [
+        "revamp",
+        "my saved draft"
+      ]
+    ],
+    "Contains": []
+  },
+
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to correct my phone number so that I can receive notifications.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "correct"
+      ],
+      "Benefit": [
+        "receive"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my phone number"
+      ],
+      "Benefit": [
+        "notifications"
+      ]
+    },
+    "Benefit": "I can receive notifications",
+    "Triggers": [
+      [
+        "user",
+        "correct"
+      ]
+    ],
+    "Targets": [
+      [
+        "correct",
+        "my phone number"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a manager, I want to reforecast the sales forecast so that it matches current data.",
+    "Persona": [
+      "manager"
+    ],
+    "Action": {
+      "Goal": [
+        "reforecast"
+      ],
+      "Benefit": [
+        "matches"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "the sales forecast"
+      ],
+      "Benefit": [
+        "current data"
+      ]
+    },
+    "Benefit": "it matches current data",
+    "Triggers": [
+      [
+        "manager",
+        "reforecast"
+      ]
+    ],
+    "Targets": [
+      [
+        "reforecast",
+        "the sales forecast"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to retitle a file so that it is easier to identify.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "retitle"
+      ],
+      "Benefit": [
+        "easier"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a file"
+      ],
+      "Benefit": [
+        "identify"
+      ]
+    },
+    "Benefit": "it is easier to identify",
+    "Triggers": [
+      [
+        "user",
+        "retitle"
+      ]
+    ],
+    "Targets": [
+      [
+        "retitle",
+        "a file"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to reconfigure system settings so that performance improves.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "reconfigure"
+      ],
+      "Benefit": [
+        "improves"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "system settings"
+      ],
+      "Benefit": [
+        "performance"
+      ]
+    },
+    "Benefit": "performance improves",
+    "Triggers": [
+      [
+        "administrator",
+        "reconfigure"
+      ]
+    ],
+    "Targets": [
+      [
+        "reconfigure",
+        "system settings"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to replace my profile picture so that it reflects my current look.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "replace"
+      ],
+      "Benefit": [
+        "reflects"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my profile picture"
+      ],
+      "Benefit": [
+        "current look"
+      ]
+    },
+    "Benefit": "it reflects my current look",
+    "Triggers": [
+      [
+        "user",
+        "replace"
+      ]
+    ],
+    "Targets": [
+      [
+        "replace",
+        "my profile picture"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a team member, I want to redefine task details so that expectations are clear.",
+    "Persona": [
+      "team member"
+    ],
+    "Action": {
+      "Goal": [
+        "redefine"
+      ],
+      "Benefit": [
+        "are"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "task details"
+      ],
+      "Benefit": [
+        "clear"
+      ]
+    },
+    "Benefit": "expectations are clear",
+    "Triggers": [
+      [
+        "team member",
+        "redefine"
+      ]
+    ],
+    "Targets": [
+      [
+        "redefine",
+        "task details"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to renew my password so that my account stays secure.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "renew"
+      ],
+      "Benefit": [
+        "stays"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my password"
+      ],
+      "Benefit": [
+        "secure"
+      ]
+    },
+    "Benefit": "my account stays secure",
+    "Triggers": [
+      [
+        "user",
+        "renew"
+      ]
+    ],
+    "Targets": [
+      [
+        "renew",
+        "my password"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a developer, I want to refactor a module so that the code is easier to maintain.",
+    "Persona": [
+      "developer"
+    ],
+    "Action": {
+      "Goal": [
+        "refactor"
+      ],
+      "Benefit": [
+        "easier"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a module"
+      ],
+      "Benefit": [
+        "maintain"
+      ]
+    },
+    "Benefit": "the code is easier to maintain",
+    "Triggers": [
+      [
+        "developer",
+        "refactor"
+      ]
+    ],
+    "Targets": [
+      [
+        "refactor",
+        "a module"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to toggle my notification preferences so that I only receive relevant alerts.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "toggle"
+      ],
+      "Benefit": [
+        "receive"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my notification preferences"
+      ],
+      "Benefit": [
+        "relevant alerts"
+      ]
+    },
+    "Benefit": "I only receive relevant alerts",
+    "Triggers": [
+      [
+        "user",
+        "toggle"
+      ]
+    ],
+    "Targets": [
+      [
+        "toggle",
+        "my notification preferences"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a moderator, I want to alter post visibility settings so that content follows guidelines.",
+    "Persona": [
+      "moderator"
+    ],
+    "Action": {
+      "Goal": [
+        "alter"
+      ],
+      "Benefit": [
+        "follows"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "post visibility settings"
+      ],
+      "Benefit": [
+        "guidelines"
+      ]
+    },
+    "Benefit": "content follows guidelines",
+    "Triggers": [
+      [
+        "moderator",
+        "alter"
+      ]
+    ],
+    "Targets": [
+      [
+        "alter",
+        "post visibility settings"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to rectify my contact information so that others can reach me.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "rectify"
+      ],
+      "Benefit": [
+        "reach"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my contact information"
+      ],
+      "Benefit": [
+        "me"
+      ]
+    },
+    "Benefit": "others can reach me",
+    "Triggers": [
+      [
+        "user",
+        "rectify"
+      ]
+    ],
+    "Targets": [
+      [
+        "rectify",
+        "my contact information"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to restructure role definitions so that permissions are clear.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "restructure"
+      ],
+      "Benefit": [
+        "are"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "role definitions"
+      ],
+      "Benefit": [
+        "clear"
+      ]
+    },
+    "Benefit": "permissions are clear",
+    "Triggers": [
+      [
+        "administrator",
+        "restructure"
+      ]
+    ],
+    "Targets": [
+      [
+        "restructure",
+        "role definitions"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a customer, I want to amend my order details so that they reflect my needs.",
+    "Persona": [
+      "customer"
+    ],
+    "Action": {
+      "Goal": [
+        "amend"
+      ],
+      "Benefit": [
+        "reflect"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my order details"
+      ],
+      "Benefit": [
+        "needs"
+      ]
+    },
+    "Benefit": "they reflect my needs",
+    "Triggers": [
+      [
+        "customer",
+        "amend"
+      ]
+    ],
+    "Targets": [
+      [
+        "amend",
+        "my order details"
+      ]
+    ],
+    "Contains": []
+  },
+  
+  {
+  "PID": "Sin01",
+  "Text": "As a support agent, I want to recalibrate ticket details so that the issue description accurately reflects the current situation.",
+  "Persona": [
+    "support agent"
+  ],
+  "Action": {
+    "Goal": [
+      "recalibrate"
+    ],
+    "Benefit": [
+      "reflects"
+    ]
+  },
+  "Entity": {
+    "Goal": [
+      "ticket details"
+    ],
+    "Benefit": [
+      "current situation"
+    ]
+  },
+  "Benefit": "the issue description accurately reflects the current situation",
+  "Triggers": [
+    [
+      "support agent",
+      "recalibrate"
+    ]
+  ],
+  "Targets": [
+    [
+      "recalibrate",
+      "ticket details"
+    ]
+  ],
+  "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to customize my dashboard layout so that it suits my workflow.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "customize"
+      ],
+      "Benefit": [
+        "suits"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my dashboard layout"
+      ],
+      "Benefit": [
+        "workflow"
+      ]
+    },
+    "Benefit": "it suits my workflow",
+    "Triggers": [
+      [
+        "user",
+        "customize"
+      ]
+    ],
+    "Targets": [
+      [
+        "customize",
+        "my dashboard layout"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a manager, I want to reframe team goals so that they reflect new targets.",
+    "Persona": [
+      "manager"
+    ],
+    "Action": {
+      "Goal": [
+        "reframe"
+      ],
+      "Benefit": [
+        "reflect"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "team goals"
+      ],
+      "Benefit": [
+        "new targets"
+      ]
+    },
+    "Benefit": "they reflect new targets",
+    "Triggers": [
+      [
+        "manager",
+        "reframe"
+      ]
+    ],
+    "Targets": [
+      [
+        "reframe",
+        "team goals"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to switch my subscription plan so that it matches my usage.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "switch"
+      ],
+      "Benefit": [
+        "matches"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my subscription plan"
+      ],
+      "Benefit": [
+        "usage"
+      ]
+    },
+    "Benefit": "it matches my usage",
+    "Triggers": [
+      [
+        "user",
+        "switch"
+      ]
+    ],
+    "Targets": [
+      [
+        "switch",
+        "my subscription plan"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a support agent, I want to reprioritize ticket priority so that urgent issues are handled first.",
+    "Persona": [
+      "support agent"
+    ],
+    "Action": {
+      "Goal": [
+        "reprioritize"
+      ],
+      "Benefit": [
+        "handled"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "ticket priority"
+      ],
+      "Benefit": [
+        "first"
+      ]
+    },
+    "Benefit": "urgent issues are handled first",
+    "Triggers": [
+      [
+        "support agent",
+        "reprioritize"
+      ]
+    ],
+    "Targets": [
+      [
+        "reprioritize",
+        "ticket priority"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to rearrange my calendar event so that the time is correct.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "rearrange"
+      ],
+      "Benefit": [
+        "is"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my calendar event"
+      ],
+      "Benefit": [
+        "correct"
+      ]
+    },
+    "Benefit": "the time is correct",
+    "Triggers": [
+      [
+        "user",
+        "rearrange"
+      ]
+    ],
+    "Targets": [
+      [
+        "rearrange",
+        "my calendar event"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to reassign a role so that responsibilities are accurate.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "reassign"
+      ],
+      "Benefit": [
+        "are"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a role"
+      ],
+      "Benefit": [
+        "accurate"
+      ]
+    },
+    "Benefit": "responsibilities are accurate",
+    "Triggers": [
+      [
+        "administrator",
+        "reassign"
+      ]
+    ],
+    "Targets": [
+      [
+        "reassign",
+        "a role"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to refine privacy settings so that my data is protected.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "refine"
+      ],
+      "Benefit": [
+        "protected"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "privacy settings"
+      ],
+      "Benefit": [
+        "data"
+      ]
+    },
+    "Benefit": "my data is protected",
+    "Triggers": [
+      [
+        "user",
+        "refine"
+      ]
+    ],
+    "Targets": [
+      [
+        "refine",
+        "privacy settings"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a developer, I want to optimize configuration parameters so that performance improves.",
+    "Persona": [
+      "developer"
+    ],
+    "Action": {
+      "Goal": [
+        "optimize"
+      ],
+      "Benefit": [
+        "improves"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "configuration parameters"
+      ],
+      "Benefit": [
+        "performance"
+      ]
+    },
+    "Benefit": "performance improves",
+    "Triggers": [
+      [
+        "developer",
+        "optimize"
+      ]
+    ],
+    "Targets": [
+      [
+        "optimize",
+        "configuration parameters"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to overhaul a saved template so that it contains updated content.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "overhaul"
+      ],
+      "Benefit": [
+        "contains"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a saved template"
+      ],
+      "Benefit": [
+        "updated content"
+      ]
+    },
+    "Benefit": "it contains updated content",
+    "Triggers": [
+      [
+        "user",
+        "overhaul"
+      ]
+    ],
+    "Targets": [
+      [
+        "overhaul",
+        "a saved template"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a moderator, I want to retouch a post title so that it is accurate.",
+    "Persona": [
+      "moderator"
+    ],
+    "Action": {
+      "Goal": [
+        "retouch"
+      ],
+      "Benefit": [
+        "is"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a post title"
+      ],
+      "Benefit": [
+        "accurate"
+      ]
+    },
+    "Benefit": "it is accurate",
+    "Triggers": [
+      [
+        "moderator",
+        "retouch"
+      ]
+    ],
+    "Targets": [
+      [
+        "retouch",
+        "a post title"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to refresh my payment details so that transactions can be processed successfully.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "refresh"
+      ],
+      "Benefit": [
+        "successfully"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my payment details"
+      ],
+      "Benefit": [
+        "transactions"
+      ]
+    },
+    "Benefit": "transactions can be processed successfully",
+    "Triggers": [
+      [
+        "user",
+        "refresh"
+      ]
+    ],
+    "Targets": [
+      [
+        "refresh",
+        "my payment details"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to modify system thresholds so that alerts trigger correctly.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "modify"
+      ],
+      "Benefit": [
+        "trigger"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "system thresholds"
+      ],
+      "Benefit": [
+        "correctly"
+      ]
+    },
+    "Benefit": "alerts trigger correctly",
+    "Triggers": [
+      [
+        "administrator",
+        "modify"
+      ]
+    ],
+    "Targets": [
+      [
+        "modify",
+        "system thresholds"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to rename a folder so that it is easier to find.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "rename"
+      ],
+      "Benefit": [
+        "easier"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a folder"
+      ],
+      "Benefit": [
+        "find"
+      ]
+    },
+    "Benefit": "it is easier to find",
+    "Triggers": [
+      [
+        "user",
+        "rename"
+      ]
+    ],
+    "Targets": [
+      [
+        "rename",
+        "a folder"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a manager, I want to reallocate budget allocations so that spending stays balanced.",
+    "Persona": [
+      "manager"
+    ],
+    "Action": {
+      "Goal": [
+        "reallocate"
+      ],
+      "Benefit": [
+        "stays"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "budget allocations"
+      ],
+      "Benefit": [
+        "balanced"
+      ]
+    },
+    "Benefit": "spending stays balanced",
+    "Triggers": [
+      [
+        "manager",
+        "reallocate"
+      ]
+    ],
+    "Targets": [
+      [
+        "reallocate",
+        "budget allocations"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to correct a typo in my message so that it reads properly.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "correct"
+      ],
+      "Benefit": [
+        "reads"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a typo in my message"
+      ],
+      "Benefit": [
+        "properly"
+      ]
+    },
+    "Benefit": "it reads properly",
+    "Triggers": [
+      [
+        "user",
+        "correct"
+      ]
+    ],
+    "Targets": [
+      [
+        "correct",
+        "a typo in my message"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a developer, I want to tune application settings so that response time improves.",
+    "Persona": [
+      "developer"
+    ],
+    "Action": {
+      "Goal": [
+        "tune"
+      ],
+      "Benefit": [
+        "improves"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "application settings"
+      ],
+      "Benefit": [
+        "response time"
+      ]
+    },
+    "Benefit": "response time improves",
+    "Triggers": [
+      [
+        "developer",
+        "tune"
+      ]
+    ],
+    "Targets": [
+      [
+        "tune",
+        "application settings"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to edit my saved address so that deliveries reach me.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "edit"
+      ],
+      "Benefit": [
+        "reach"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my saved address"
+      ],
+      "Benefit": [
+        "me"
+      ]
+    },
+    "Benefit": "deliveries reach me",
+    "Triggers": [
+      [
+        "user",
+        "edit"
+      ]
+    ],
+    "Targets": [
+      [
+        "edit",
+        "my saved address"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a support agent, I want to revise customer notes so that they stay accurate.",
+    "Persona": [
+      "support agent"
+    ],
+    "Action": {
+      "Goal": [
+        "revise"
+      ],
+      "Benefit": [
+        "stay"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "customer notes"
+      ],
+      "Benefit": [
+        "accurate"
+      ]
+    },
+    "Benefit": "they stay accurate",
+    "Triggers": [
+      [
+        "support agent",
+        "revise"
+      ]
+    ],
+    "Targets": [
+      [
+        "revise",
+        "customer notes"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to change my username so that it reflects my identity.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "change"
+      ],
+      "Benefit": [
+        "reflects"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my username"
+      ],
+      "Benefit": [
+        "identity"
+      ]
+    },
+    "Benefit": "it reflects my identity",
+    "Triggers": [
+      [
+        "user",
+        "change"
+      ]
+    ],
+    "Targets": [
+      [
+        "change",
+        "my username"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to update security policies so that the system stays protected.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "update"
+      ],
+      "Benefit": [
+        "stays"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "security policies"
+      ],
+      "Benefit": [
+        "protected"
+      ]
+    },
+    "Benefit": "the system stays protected",
+    "Triggers": [
+      [
+        "administrator",
+        "update"
+      ]
+    ],
+    "Targets": [
+      [
+        "update",
+        "security policies"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to adjust reminder times so that they fit my schedule.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "adjust"
+      ],
+      "Benefit": [
+        "fit"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "reminder times"
+      ],
+      "Benefit": [
+        "schedule"
+      ]
+    },
+    "Benefit": "they fit my schedule",
+    "Triggers": [
+      [
+        "user",
+        "adjust"
+      ]
+    ],
+    "Targets": [
+      [
+        "adjust",
+        "reminder times"
+      ]
+    ],
+    "Contains": []
+  },
+    {
+    "PID": "Sin01",
+    "Text": "As an administrator, I want to expunge a user account permanently so that former employees no longer have access.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "expunge"
+      ],
+      "Benefit": [
+        "have"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a user account permanently"
+      ],
+      "Benefit": [
+        "access"
+      ]
+    },
+    "Benefit": "former employees no longer have access",
+    "Triggers": [
+      [
+        "administrator",
+        "expunge"
+      ]
+    ],
+    "Targets": [
+      [
+        "expunge",
+        "a user account permanently"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to close my account so that my data is no longer stored.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "close"
+      ],
+      "Benefit": [
+        "stored"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "my account"
+      ],
+      "Benefit": [
+        "data"
+      ]
+    },
+    "Benefit": "my data is no longer stored",
+    "Triggers": [
+      [
+        "user",
+        "close"
+      ]
+    ],
+    "Targets": [
+      [
+        "close",
+        "my account"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a moderator, I want to remove an inappropriate comment so that discussions stay respectful.",
+    "Persona": [
+      "moderator"
+    ],
+    "Action": {
+      "Goal": [
+        "remove"
+      ],
+      "Benefit": [
+        "stay"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "an inappropriate comment"
+      ],
+      "Benefit": [
+        "respectful"
+      ]
+    },
+    "Benefit": "discussions stay respectful",
+    "Triggers": [
+      [
+        "moderator",
+        "remove"
+      ]
+    ],
+    "Targets": [
+      [
+        "remove",
+        "an inappropriate comment"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a project manager, I want to decommission an unused project so that the workspace remains organized.",
+    "Persona": [
+      "project manager"
+    ],
+    "Action": {
+      "Goal": [
+        "decommission"
+      ],
+      "Benefit": [
+        "remains"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "an unused project"
+      ],
+      "Benefit": [
+        "organized"
+      ]
+    },
+    "Benefit": "the workspace remains organized",
+    "Triggers": [
+      [
+        "project manager",
+        "decommission"
+      ]
+    ],
+    "Targets": [
+      [
+        "decommission",
+        "an unused project"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a support agent, I want to nullify a duplicate ticket so that confusion is avoided.",
+    "Persona": [
+      "support agent"
+    ],
+    "Action": {
+      "Goal": [
+        "nullify"
+      ],
+      "Benefit": [
+        "avoided"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a duplicate ticket"
+      ],
+      "Benefit": [
+        "confusion"
+      ]
+    },
+    "Benefit": "confusion is avoided",
+    "Triggers": [
+      [
+        "support agent",
+        "nullify"
+      ]
+    ],
+    "Targets": [
+      [
+        "nullify",
+        "a duplicate ticket"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a team leader, I want to oust an inactive member so that only active users remain.",
+    "Persona": [
+      "team leader"
+    ],
+    "Action": {
+      "Goal": [
+        "oust"
+      ],
+      "Benefit": [
+        "remain"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "an inactive member"
+      ],
+      "Benefit": [
+        "active users"
+      ]
+    },
+    "Benefit": "only active users remain",
+    "Triggers": [
+      [
+        "team leader",
+        "oust"
+      ]
+    ],
+    "Targets": [
+      [
+        "oust",
+        "an inactive member"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to invalidate an expired API key so that it can no longer be used.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "invalidate"
+      ],
+      "Benefit": [
+        "used"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "an expired API key"
+      ],
+      "Benefit": [
+        "anymore"
+      ]
+    },
+    "Benefit": "it can no longer be used",
+    "Triggers": [
+      [
+        "administrator",
+        "invalidate"
+      ]
+    ],
+    "Targets": [
+      [
+        "invalidate",
+        "an expired API key"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to eradicate a saved payment method so that it is not available anymore.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "eradicate"
+      ],
+      "Benefit": [
+        "available"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a saved payment method"
+      ],
+      "Benefit": [
+        "anymore"
+      ]
+    },
+    "Benefit": "it is not available anymore",
+    "Triggers": [
+      [
+        "user",
+        "eradicate"
+      ]
+    ],
+    "Targets": [
+      [
+        "eradicate",
+        "a saved payment method"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a editor, I want to retract an incorrect article so that it is no longer visible.",
+    "Persona": [
+      "editor"
+    ],
+    "Action": {
+      "Goal": [
+        "retract"
+      ],
+      "Benefit": [
+        "visible"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "an incorrect article"
+      ],
+      "Benefit": [
+        "anymore"
+      ]
+    },
+    "Benefit": "it is no longer visible",
+    "Triggers": [
+      [
+        "editor",
+        "retract"
+      ]
+    ],
+    "Targets": [
+      [
+        "retract",
+        "an incorrect article"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to truncate old logs so that storage is freed.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "truncate"
+      ],
+      "Benefit": [
+        "freed"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "old logs"
+      ],
+      "Benefit": [
+        "storage"
+      ]
+    },
+    "Benefit": "storage is freed",
+    "Triggers": [
+      [
+        "administrator",
+        "truncate"
+      ]
+    ],
+    "Targets": [
+      [
+        "truncate",
+        "old logs"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to obliterate an uploaded file so that it is no longer present.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "obliterate"
+      ],
+      "Benefit": [
+        "present"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "an uploaded file"
+      ],
+      "Benefit": [
+        "anymore"
+      ]
+    },
+    "Benefit": "it is no longer present",
+    "Triggers": [
+      [
+        "user",
+        "obliterate"
+      ]
+    ],
+    "Targets": [
+      [
+        "obliterate",
+        "an uploaded file"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to cull unconfirmed registrations so that the database stays clean.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "cull"
+      ],
+      "Benefit": [
+        "stays"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "unconfirmed registrations"
+      ],
+      "Benefit": [
+        "clean"
+      ]
+    },
+    "Benefit": "the database stays clean",
+    "Triggers": [
+      [
+        "administrator",
+        "cull"
+      ]
+    ],
+    "Targets": [
+      [
+        "cull",
+        "unconfirmed registrations"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a moderator, I want to take down a reported post so that platform guidelines are enforced.",
+    "Persona": [
+      "moderator"
+    ],
+    "Action": {
+      "Goal": [
+        "take down"
+      ],
+      "Benefit": [
+        "enforced"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a reported post"
+      ],
+      "Benefit": [
+        "guidelines"
+      ]
+    },
+    "Benefit": "platform guidelines are enforced",
+    "Triggers": [
+      [
+        "moderator",
+        "take down"
+      ]
+    ],
+    "Targets": [
+      [
+        "take down",
+        "a reported post"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a project member, I want to scrap an outdated task so that only relevant work remains.",
+    "Persona": [
+      "project member"
+    ],
+    "Action": {
+      "Goal": [
+        "scrap"
+      ],
+      "Benefit": [
+        "remains"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "an outdated task"
+      ],
+      "Benefit": [
+        "relevant work"
+      ]
+    },
+    "Benefit": "only relevant work remains",
+    "Triggers": [
+      [
+        "project member",
+        "scrap"
+      ]
+    ],
+    "Targets": [
+      [
+        "scrap",
+        "an outdated task"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to delete permanently a saved draft so that it cannot be found anymore.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "delete permanently"
+      ],
+      "Benefit": [
+        "found"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a saved draft"
+      ],
+      "Benefit": [
+        "anymore"
+      ]
+    },
+    "Benefit": "it cannot be found anymore",
+    "Triggers": [
+      [
+        "user",
+        "delete permanently"
+      ]
+    ],
+    "Targets": [
+      [
+        "delete permanently",
+        "a saved draft"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to wipe a deactivated account so that it cannot be restored.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "wipe"
+      ],
+      "Benefit": [
+        "restored"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a deactivated account"
+      ],
+      "Benefit": [
+        "anymore"
+      ]
+    },
+    "Benefit": "it cannot be restored",
+    "Triggers": [
+      [
+        "administrator",
+        "wipe"
+      ]
+    ],
+    "Targets": [
+      [
+        "wipe",
+        "a deactivated account"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a team leader, I want to exclude a former member so that they are no longer listed.",
+    "Persona": [
+      "team leader"
+    ],
+    "Action": {
+      "Goal": [
+        "exclude"
+      ],
+      "Benefit": [
+        "listed"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a former member"
+      ],
+      "Benefit": [
+        "anymore"
+      ]
+    },
+    "Benefit": "they are no longer listed",
+    "Triggers": [
+      [
+        "team leader",
+        "exclude"
+      ]
+    ],
+    "Targets": [
+      [
+        "exclude",
+        "a former member"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to delete a saved address so that it is not used accidentally.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "delete"
+      ],
+      "Benefit": [
+        "used"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a saved address"
+      ],
+      "Benefit": [
+        "accidentally"
+      ]
+    },
+    "Benefit": "it is not used accidentally",
+    "Triggers": [
+      [
+        "user",
+        "delete"
+      ]
+    ],
+    "Targets": [
+      [
+        "delete",
+        "a saved address"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As an administrator, I want to deprecate obsolete configurations so that only valid ones remain.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "deprecate"
+      ],
+      "Benefit": [
+        "remain"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "obsolete configurations"
+      ],
+      "Benefit": [
+        "valid ones"
+      ]
+    },
+    "Benefit": "only valid ones remain",
+    "Triggers": [
+      [
+        "administrator",
+        "deprecate"
+      ]
+    ],
+    "Targets": [
+      [
+        "deprecate",
+        "obsolete configurations"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a moderator, I want to exterminate spam messages so that users are not disturbed.",
+    "Persona": [
+      "moderator"
+    ],
+    "Action": {
+      "Goal": [
+        "exterminate"
+      ],
+      "Benefit": [
+        "disturbed"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "spam messages"
+      ],
+      "Benefit": [
+        "users"
+      ]
+    },
+    "Benefit": "users are not disturbed",
+    "Triggers": [
+      [
+        "moderator",
+        "exterminate"
+      ]
+    ],
+    "Targets": [
+      [
+        "exterminate",
+        "spam messages"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to exterminate a bookmarked item so that my list stays relevant.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "exterminate"
+      ],
+      "Benefit": [
+        "stays"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a bookmarked item"
+      ],
+      "Benefit": [
+        "relevant"
+      ]
+    },
+    "Benefit": "my list stays relevant",
+    "Triggers": [
+      [
+        "user",
+        "exterminate"
+      ]
+    ],
+    "Targets": [
+      [
+        "exterminate",
+        "a bookmarked item"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As an administrator, I want to dismantle unused roles so that the permission structure stays simple.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "dismantle"
+      ],
+      "Benefit": [
+        "stays"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "unused roles"
+      ],
+      "Benefit": [
+        "simple"
+      ]
+    },
+    "Benefit": "the permission structure stays simple",
+    "Triggers": [
+      [
+        "administrator",
+        "dismantle"
+      ]
+    ],
+    "Targets": [
+      [
+        "dismantle",
+        "unused roles"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a support agent, I want to discard resolved tickets so that the queue stays manageable.",
+    "Persona": [
+      "support agent"
+    ],
+    "Action": {
+      "Goal": [
+        "discard"
+      ],
+      "Benefit": [
+        "stays"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "resolved tickets"
+      ],
+      "Benefit": [
+        "manageable"
+      ]
+    },
+    "Benefit": "the queue stays manageable",
+    "Triggers": [
+      [
+        "support agent",
+        "discard"
+      ]
+    ],
+    "Targets": [
+      [
+        "discard",
+        "resolved tickets"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to disconnect a linked device so that it no longer has access.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "disconnect"
+      ],
+      "Benefit": [
+        "has"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a linked device"
+      ],
+      "Benefit": [
+        "access"
+      ]
+    },
+    "Benefit": "it no longer has access",
+    "Triggers": [
+      [
+        "user",
+        "disconnect"
+      ]
+    ],
+    "Targets": [
+      [
+        "disconnect",
+        "a linked device"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a moderator, I want to strip offensive usernames so that community standards are maintained.",
+    "Persona": [
+      "moderator"
+    ],
+    "Action": {
+      "Goal": [
+        "strip"
+      ],
+      "Benefit": [
+        "maintained"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "offensive usernames"
+      ],
+      "Benefit": [
+        "standards"
+      ]
+    },
+    "Benefit": "community standards are maintained",
+    "Triggers": [
+      [
+        "moderator",
+        "strip"
+      ]
+    ],
+    "Targets": [
+      [
+        "strip",
+        "offensive usernames"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to terminate expired sessions so that security risks are minimized.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "terminate"
+      ],
+      "Benefit": [
+        "minimized"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "expired sessions"
+      ],
+      "Benefit": [
+        "risks"
+      ]
+    },
+    "Benefit": "security risks are minimized",
+    "Triggers": [
+      [
+        "administrator",
+        "terminate"
+      ]
+    ],
+    "Targets": [
+      [
+        "terminate",
+        "expired sessions"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to dismiss a notification so that my inbox stays tidy.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "dismiss"
+      ],
+      "Benefit": [
+        "stays"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a notification"
+      ],
+      "Benefit": [
+        "tidy"
+      ]
+    },
+    "Benefit": "my inbox stays tidy",
+    "Triggers": [
+      [
+        "user",
+        "dismiss"
+      ]
+    ],
+    "Targets": [
+      [
+        "dismiss",
+        "a notification"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a project manager, I want to extirpate an archived milestone so that only active ones are shown.",
+    "Persona": [
+      "project manager"
+    ],
+    "Action": {
+      "Goal": [
+        "extirpate"
+      ],
+      "Benefit": [
+        "shown"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "an archived milestone"
+      ],
+      "Benefit": [
+        "active ones"
+      ]
+    },
+    "Benefit": "only active ones are shown",
+    "Triggers": [
+      [
+        "project manager",
+        "extirpate"
+      ]
+    ],
+    "Targets": [
+      [
+        "extirpate",
+        "an archived milestone"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As an administrator, I want to excise invalid data entries so that reports stay accurate.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "excise"
+      ],
+      "Benefit": [
+        "stay"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "invalid data entries"
+      ],
+      "Benefit": [
+        "accurate"
+      ]
+    },
+    "Benefit": "reports stay accurate",
+    "Triggers": [
+      [
+        "administrator",
+        "excise"
+      ]
+    ],
+    "Targets": [
+      [
+        "excise",
+        "invalid data entries"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to revoke a shared link so that others can no longer access the content.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "revoke"
+      ],
+      "Benefit": [
+        "access"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a shared link"
+      ],
+      "Benefit": [
+        "content"
+      ]
+    },
+    "Benefit": "others can no longer access the content",
+    "Triggers": [
+      [
+        "user",
+        "revoke"
+      ]
+    ],
+    "Targets": [
+      [
+        "revoke",
+        "a shared link"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a moderator, I want to purge permanently duplicate posts so that discussions remain clear.",
+    "Persona": [
+      "moderator"
+    ],
+    "Action": {
+      "Goal": [
+        "purge permanently"
+      ],
+      "Benefit": [
+        "remain"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "duplicate posts"
+      ],
+      "Benefit": [
+        "clear"
+      ]
+    },
+    "Benefit": "discussions remain clear",
+    "Triggers": [
+      [
+        "moderator",
+        "purge permanently"
+      ]
+    ],
+    "Targets": [
+      [
+        "purge permanently",
+        "duplicate posts"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a team leader, I want to dissolve an empty group so that the structure stays clean.",
+    "Persona": [
+      "team leader"
+    ],
+    "Action": {
+      "Goal": [
+        "dissolve"
+      ],
+      "Benefit": [
+        "stays"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "an empty group"
+      ],
+      "Benefit": [
+        "clean"
+      ]
+    },
+    "Benefit": "the structure stays clean",
+    "Triggers": [
+      [
+        "team leader",
+        "dissolve"
+      ]
+    ],
+    "Targets": [
+      [
+        "dissolve",
+        "an empty group"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to clear a saved search so that my list only contains useful ones.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "clear"
+      ],
+      "Benefit": [
+        "contains"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a saved search"
+      ],
+      "Benefit": [
+        "useful ones"
+      ]
+    },
+    "Benefit": "my list only contains useful ones",
+    "Triggers": [
+      [
+        "user",
+        "clear"
+      ]
+    ],
+    "Targets": [
+      [
+        "clear",
+        "a saved search"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to retire outdated templates so that only current ones are available.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "retire"
+      ],
+      "Benefit": [
+        "available"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "outdated templates"
+      ],
+      "Benefit": [
+        "current ones"
+      ]
+    },
+    "Benefit": "only current ones are available",
+    "Triggers": [
+      [
+        "administrator",
+        "retire"
+      ]
+    ],
+    "Targets": [
+      [
+        "retire",
+        "outdated templates"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to erase a profile picture so that it is no longer displayed.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "erase"
+      ],
+      "Benefit": [
+        "displayed"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a profile picture"
+      ],
+      "Benefit": [
+        "anymore"
+      ]
+    },
+    "Benefit": "it is no longer displayed",
+    "Triggers": [
+      [
+        "user",
+        "erase"
+      ]
+    ],
+    "Targets": [
+      [
+        "erase",
+        "a profile picture"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a moderator, I want to withdraw policy-violating content so that the platform stays safe.",
+    "Persona": [
+      "moderator"
+    ],
+    "Action": {
+      "Goal": [
+        "withdraw"
+      ],
+      "Benefit": [
+        "stays"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "policy-violating content"
+      ],
+      "Benefit": [
+        "safe"
+      ]
+    },
+    "Benefit": "the platform stays safe",
+    "Triggers": [
+      [
+        "moderator",
+        "withdraw"
+      ]
+    ],
+    "Targets": [
+      [
+        "withdraw",
+        "policy-violating content"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to purge orphaned records so that the database remains consistent.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "purge"
+      ],
+      "Benefit": [
+        "remains"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "orphaned records"
+      ],
+      "Benefit": [
+        "consistent"
+      ]
+    },
+    "Benefit": "the database remains consistent",
+    "Triggers": [
+      [
+        "administrator",
+        "purge"
+      ]
+    ],
+    "Targets": [
+      [
+        "purge",
+        "orphaned records"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a user, I want to unlink a connected social account so that it is no longer linked.",
+    "Persona": [
+      "user"
+    ],
+    "Action": {
+      "Goal": [
+        "unlink"
+      ],
+      "Benefit": [
+        "linked"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "a connected social account"
+      ],
+      "Benefit": [
+        "anymore"
+      ]
+    },
+    "Benefit": "it is no longer linked",
+    "Triggers": [
+      [
+        "user",
+        "unlink"
+      ]
+    ],
+    "Targets": [
+      [
+        "unlink",
+        "a connected social account"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a support agent, I want to eliminate test tickets so that real issues are easier to find.",
+    "Persona": [
+      "support agent"
+    ],
+    "Action": {
+      "Goal": [
+        "eliminate"
+      ],
+      "Benefit": [
+        "easier"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "test tickets"
+      ],
+      "Benefit": [
+        "to find"
+      ]
+    },
+    "Benefit": "real issues are easier to find",
+    "Triggers": [
+      [
+        "support agent",
+        "eliminate"
+      ]
+    ],
+    "Targets": [
+      [
+        "eliminate",
+        "test tickets"
+      ]
+    ],
+    "Contains": []
+  },
+  {
+    "PID": "Sin01",
+    "Text": "As a administrator, I want to abolish obsolete user groups so that the structure stays maintainable.",
+    "Persona": [
+      "administrator"
+    ],
+    "Action": {
+      "Goal": [
+        "abolish"
+      ],
+      "Benefit": [
+        "stays"
+      ]
+    },
+    "Entity": {
+      "Goal": [
+        "obsolete user groups"
+      ],
+      "Benefit": [
+        "maintainable"
+      ]
+    },
+    "Benefit": "the structure stays maintainable",
+    "Triggers": [
+      [
+        "administrator",
+        "abolish"
+      ]
+    ],
+    "Targets": [
+      [
+        "abolish",
+        "obsolete user groups"
+      ]
+    ],
+    "Contains": []
+  }
+]

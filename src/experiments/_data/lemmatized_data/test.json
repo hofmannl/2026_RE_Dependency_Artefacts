@@ -1,0 +1,134 @@
+[
+    {
+        "PID": "#G03#",
+        "Text": "#G03# As a Public User, I want to Search for details, so that I can obtain publicly available information concerning properties, County services, processes and other general information.",
+        "Persona": [
+            "public user"
+        ],
+        "Action": {
+            "Goal": [
+                "search"
+            ],
+            "Benefit": [
+                "obtain"
+            ]
+        },
+        "Entity": {
+            "Goal": [
+                "details"
+            ],
+            "Benefit": [
+                "property",
+                "process",
+                "publicly available information",
+                "county service",
+                "oth general information"
+            ]
+        },
+        "Benefit": "I can obtain publicly available information concerning properties, County services, processes and other general information",
+        "Triggers": [
+            [
+                "public user",
+                "search"
+            ]
+        ],
+        "Targets": [
+            [
+                "search",
+                "details"
+            ],
+            [
+                "obtain",
+                "publicly available information"
+            ]
+        ],
+        "Contains": [
+            [
+                "publicly available information",
+                "property"
+            ],
+            [
+                "publicly available information",
+                "county service"
+            ],
+            [
+                "publicly available information",
+                "process"
+            ],
+            [
+                "publicly available information",
+                "oth general information"
+            ],
+            [
+                "information",
+                "publicly available information"
+            ]
+        ]
+    },
+    {
+    "PID": "#G03#",
+    "Text": "#G03# As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County services, processes and other general information.",
+    "Persona": [
+        "user"
+    ],
+    "Action": {
+        "Goal": [
+            "search"
+        ],
+        "Benefit": [
+            "obtain"
+        ]
+    },
+    "Entity": {
+        "Goal": [
+            "information"
+        ],
+        "Benefit": [
+            "property",
+            "process",
+            "publicly available information",
+            "county service",
+            "oth general information"
+        ]
+    },
+    "Benefit": "I can obtain publicly available information concerning properties, County services, processes and other general information",
+    "Triggers": [
+        [
+            "public user",
+            "search"
+        ]
+    ],
+    "Targets": [
+        [
+            "search",
+            "information"
+        ],
+        [
+            "obtain",
+            "publicly available information"
+        ]
+    ],
+    "Contains": [
+        [
+            "publicly available information",
+            "property"
+        ],
+        [
+            "publicly available information",
+            "county service"
+        ],
+        [
+            "publicly available information",
+            "process"
+        ],
+        [
+            "publicly available information",
+            "oth general information"
+        ],
+        [
+            "information",
+            "publicly available information"
+        ]
+    ]
+}
+]
